@@ -1,0 +1,1289 @@
+
+e_farnham = {
+	color={ 97 209 141 }
+	color2={ 255 255 255 }
+
+	capital = 22 # Brightwells
+	dignity = 70
+	
+	culture = townie
+	
+	k_farnham = {
+		color={ 42 146 83 }
+		color2={ 255 255 255 }
+		
+		capital = 22 # Brightwells
+		dignity = 35
+		
+		culture = townie
+		
+		d_farnham_bypass = {
+			color={ 50 100 20 }
+			color2={ 255 255 255 }
+			
+			capital = 93 # Coxbridge
+			dignity = 12
+			
+			c_babbsmead = {
+				color={ 82 164 33 }
+				color2={ 255 255 255 }
+				
+				b_babbsmead = {}
+				b_cemetery = {}
+				b_westweir = {}
+				b_cemetery_chapel = {}
+				b_crosby = {}
+				b_elateral = {}
+				b_farnham_memorial_hall = {}
+			}
+			c_bishops_meadow = {
+				color={ 18 36 7 }
+				color2={ 50 100 20  }
+				
+				b_bishops_manor = {}
+				b_climbingtree = {}
+				b_eastweir = {}
+				b_pengilly = {}
+				b_weydon_mill = {}
+				b_whitlet = {}
+				b_meadowbank = {}
+			}
+			c_coxbridge = {
+				color={ 68 121 36 }
+				color2={ 255 255 255 }
+				
+				b_coxbridge = {}
+				b_coxbridge_farm = {}
+				b_bourne_wood_manor = {}
+				b_allotment = {}
+				b_mcfarlane ={}
+				b_stedman = {}
+				b_alex_garage = {}
+			}
+		}
+		
+		d_town = {
+			color={ 42 146 83 }
+			color2={ 255 255 255 }
+			
+			capital = 22 # Brightwells
+			dignity = 15
+			
+			c_maltings = {
+				color={ 53 186 106}
+				color2={ 255 255 255 }
+				
+				b_maltings = {}
+				b_redlion = {}
+				b_the_wey_church = {}
+				b_trafalgar = {}
+				b_fairhurst = {}
+				b_stopgap = {}
+				b_demeric_school_of_dance = {}
+			}
+			c_gostrey = {
+				color={ 25 87 49 }
+				color2={ 255 255 255 }
+				
+				b_gostrey = {}
+				b_william_cobbett = {}
+				b_emmanuel_church = {}
+				b_the_lamb = {}
+				b_saxon_croft = {}
+				b_providence_place = {}
+				b_farnham_bathroom = {}
+			}
+			c_brightwells = {
+				color={ 42 146 83 }
+				color2={ 255 255 255 }
+				
+				b_counciloffices = {}
+				b_brightwell_house = {}
+				b_farnham_methodist_church = {}
+				b_sainsburys = {}
+				b_liberal_club = {}
+				b_slug_and_lettuce = {}
+				b_dominos = {}
+			}
+			c_victoria = {
+				color={ 112 214 152 }
+				color2={ 255 255 255 }
+				
+				b_victoria = {}
+				b_centralcarpark = {}
+				b_vineyard_church = {}
+				b_the_spire = {}
+				b_robert_dyas = {}
+				b_natwest = {}
+				b_mercurebush = {}
+			}
+			c_st_andrews = {
+				color={ 36 126 72 }
+				color2={ 255 255 255 }
+				
+				b_st_andrews = {}
+				b_new_ashgate = {}
+				b_st_andrews_infant_school = {}
+				b_elphicks = {}
+				b_the_wheatsheaf = {}
+				b_waggon_yard = {}
+				b_middlechurch = {}
+			}
+		}
+		
+		d_castle = {
+			color={ 130 194 156 }
+			color2={ 255 255 255 }
+			
+			capital = 24 # Castle
+			dignity = 15
+			
+			c_castle = {
+				color={ 130 194 156 }
+				color2={ 255 255 255 }
+				
+				b_farnham_castle = {}
+				b_cricket_club = {}
+				b_golf_course = {}
+				b_pavillion = {}
+				b_castlehill = {}
+				b_blindbishop = {}
+				b_castle_gardens = {}
+			}
+			c_farnham_park = {
+				color={ 81 166 116 }
+				color2={ 255 255 255 }
+				
+				b_rangers_lodge = {}
+				b_the_avenue = {}
+				b_st_james = {}
+				b_whitebottom = {}
+				b_swallow_hole = {}
+				b_college_copse = {}
+				b_yo_yo = {}
+			}
+			c_folly_hill = {
+				color={ 181 219 197 }
+				color2={ 255 255 255 }
+				
+				b_folly_lodge = {}
+				b_knowle_farm = {}
+				b_drovers = {}
+				b_blenheim = {}
+				b_hampton = {}
+				b_upper_old_park = {}
+				b_woodstock = {}
+			}
+			c_park_row = {
+				color={ 60 136 84 }
+				color2={ 255 255 255 }
+				
+				b_park_row = {}
+				b_nelson_arms = {}
+				b_christian_science_church = {}
+				b_subway = {}
+				b_giggling_squid = {}
+				b_lloyds = {}
+				b_zizzi = {}
+			}
+		}
+		
+		d_crondall_vale = {
+			color={ 69 137 77 }
+			color2={ 255 255 255 }
+			
+			capital = 30 # Pondwood
+			dignity = 10
+			
+			c_woodside = {
+				color={ 69 137 77 }
+				color2={ 255 255 255 }
+				
+				b_woodside_cottages = {}
+				b_stables = {}
+				b_the_riding_centre = {}
+				b_westdrain = {}
+				b_old_park_lodge = {}
+				b_longtrack = {}
+				b_cobbett_way = {}
+			}
+			c_claypit_wood = {
+				color={ 87 170 97 }
+				color2={ 69 137 77 }
+				
+				b_claypit = {}
+				b_poppystop = {}
+				b_castle_farm = {}
+				b_brough = {}
+				b_potswood = {}
+				b_leftpath = {}
+				b_nadder_west = {}
+			}
+			c_pondwood = {
+				color={ 52 103 58 }
+				color2={ 255 255 255 }
+				
+				b_paddock_cottage = {}
+				b_pondwood = {}
+				b_keepers = {}
+				b_middle_old_park = {}
+				b_footbridge = {}
+				b_pondcopse = {}
+				b_delaware_house = {}
+			}
+			c_windamoor = {
+				color={ 107 182 81 }
+				color2={ 255 255 255 }
+				
+				b_windamoor = {}
+				b_ivyfarm = {}
+				b_yew_tree_house = {}
+				b_whitehorse = {}
+				b_whitehorse = {}
+				b_ewshott_house = {}
+				b_wallwood = {}
+			}
+		}
+		
+		d_the_hart = {
+			color={ 109 134 118 }
+			color2={ 255 255 255 }
+			
+			capital = 21 # Borough
+			dignity = 10
+			
+			c_crondall = {
+				color={ 86 106 93 }
+				color2={ 255 255 255 }
+				
+				b_crondall = {}
+				b_larkfield = {}
+				b_st_francis = {}
+				b_beavers_hill = {}
+				b_three_stiles = {}
+				b_keepsake = {}
+				b_cascadia = {}
+			}
+			c_potters_gate = {
+				color={ 136 158 144 }
+				color2={ 69 137 77 }
+				
+				b_potters_gate = {}
+				b_potters_gate_school = {}
+				b_beaverchurch = {}
+				b_the_plough = {}
+				b_beerhouse = {}
+				b_holtkiln = {}
+				b_school_boundary = {}
+			}
+			c_falkner = {
+				color={ 109 134 118 }
+				color2={ 255 255 255 }
+				
+				b_uca = {}
+				b_falkner = {}
+				b_farnham_baptist_church = {}
+				b_cobgates = {}
+				b_upper_hart = {}
+				b_mountbatten = {}
+				b_longarden = {}
+			}
+			c_borough = {
+				color={ 119 175 139 }
+				color2={ 255 255 255 }
+				
+				b_lion_and_lamb = {}
+				b_queens_head = {}
+				b_foxyard = {}
+				b_poundland = {}
+				b_piccolo = {}
+				b_goldsmiths = {}
+				b_costa = {}
+			}
+			c_old_park = {
+				color={ 105 136 116 }
+				color2={ 255 255 255 }
+				
+				b_old_park_farm = {}
+				b_palewatch = {}
+				b_bishops_square = {}
+				b_grange = {}
+				b_orchad_house = {}
+				b_the_cockhouse = {}
+				b_castlefield = {}
+			}
+		}
+		
+		d_st_rhadegund = {
+			color={ 43 162 118 }
+			color2={ 255 255 255 }
+			
+			capital = 32 # St Rhadegund
+			dignity = 10
+			
+			c_burles = {
+				color={ 32 122 89 }
+				color2={ 69 137 77 }
+				
+				b_burles_lodge = {}
+				b_burles_farm = {}
+				b_woadlands = {}
+				b_maplelodge = {}
+				b_freshpark = {}
+				b_wonmoor = {}
+				b_seymours = {}
+			}
+			c_st_rhadegund = {
+				color={ 43 162 118 }
+				color2={ 255 255 255 }
+				
+				b_halfway_house = {}
+				b_halfway_cottage = {}
+				b_st_rhadegund = {}
+				b_doras_green_cottage = {}
+				b_meads = {}
+				b_torybrough = {}
+				b_berryflower = {}
+			}
+			c_losehill = {
+				color={ 54 202 147 }
+				color2={ 255 255 255 }
+				
+				b_losehill_house = {}
+				b_longhouse = {}
+				b_greenpole = {}
+				b_loosewood = {}
+				b_astrondal = {}
+				b_hilshed = {}
+				b_eightbridge = {}
+			}
+		}
+		
+		d_dippenhall = {
+			color={ 43 162 58 }
+			color2={ 255 255 255 }
+			
+			capital = 33 # Dippenhall
+			dignity = 12
+			
+			c_wimble = {
+				color={ 32 122 44 }
+				color2={ 69 137 77 }
+				
+				b_wimble_hill = {}
+				b_clare_park = {}
+				b_clare_park = {}
+				b_dippenpit = {}
+				b_oakdis = {}
+				b_southcopse = {}
+				b_wimbledome = {}
+			}
+			c_dippenhall = {
+				color={ 43 162 58 }
+				color2={ 69 137 77 }
+				
+				b_dippenhall = {}
+				b_dippenhall_house = {}
+				b_the_factory = {}
+				b_stable_cottage = {}
+				b_coach_house = {}
+				b_compass_yacht = {}
+				b_rover_and_jaguar = {}
+			}
+			c_runwick = {
+				color={ 54 202 73}
+				color2={ 255 255 255 }
+				
+				b_runwick = {}
+				b_grovers_farm = {}
+				b_st_swithuns = {}
+				b_northbrook_estate = {}
+				b_old_searchlights = {}
+				b_vendcord = {}
+				b_northlands = {}
+			}
+			c_wells_copse = {
+				color={ 115 207 119 }
+				color2={ 255 255 255 }
+				
+				b_farnham_house = {}
+				b_northbrook = {}
+				b_woodheart = {}
+				b_ridgway_house = {}
+				b_willey_park_house = {}
+				b_ridgway_lodge = {}
+				b_chamberlane = {}
+			}
+		}
+		
+		d_alton_road = {
+			color={ 68 124 35 }
+			color2={ 255 255 255 }
+			
+			capital = 38 # Endeavour
+			dignity = 12
+			
+			c_willey = {
+				color={ 57 104 29 }
+				color2={ 69 137 77 }
+				
+				b_willey = {}
+				b_the_gardners_cottage = {}
+				b_collsinks = {}
+				b_willey_park_farm = {}
+				b_horse_india = {}
+				b_willey_farm = {}
+				b_fellerfield = {}
+			}
+			c_endeavour = {
+				color={ 68 124 35 }
+				color2={ 255 255 255 }
+				
+				b_runwick_house = {}
+				b_travis_perkins = {}
+				b_rudridge = {}
+				b_walnuttreehouse = {}
+				b_leonardo = {}
+				b_protean = {}
+				b_carlin = {}
+			}
+			c_westland = {
+				color={ 79 144 41 }
+				color2={ 69 137 77 }
+				
+				b_westlodge = {}
+				b_northbrook_mews = {}
+				b_porta_romana = {}
+				b_caspian = {}
+				b_northbrook_farm = {}
+				b_fishpond = {}
+				b_sinktrack = {}
+			}
+		}
+		
+		d_west_farnham = {
+			color={ 188 236 207 }
+			color2={ 255 255 255 }
+			
+			capital = 13 # The Chantrys
+			dignity = 12
+			
+			
+			c_chantrys = {
+				color={ 188 236 207 }
+				color2={ 255 255 255 }
+				
+				b_103_the_chantrys = {}
+				b_mt_pleasant = {}
+				b_waynflete = {}
+				b_end_grove = {}
+				b_marston = {}
+				b_hillview = {}
+				b_dove_house = {}
+			}
+			c_bushyreeds = {
+				color={ 148 225 179 }
+				color2={ 255 255 255 }
+				
+				b_bushyreed = {}
+				b_potts_farm = {}
+				b_old_tiles = {}
+				b_cupsmiths = {}
+				b_runwick_hill_house = {}
+				b_the_oaks = {}
+				b_bushy_cottage = {}
+			}
+			c_clarkshill = {
+				color={ 228 247 235 }
+				color2={ 255 255 255 }
+				
+				b_old_cottage = {}
+				b_lower_farm = {}
+				b_dippenhall_grange = {}
+				b_deansknowe = {}
+				b_welsutton = {}
+				b_barn_cottage = {}
+				b_millans_cottage = {}
+			}
+			c_randall = {
+				color={ 139 239 175 }
+				color2={ 255 255 255 }
+				
+				b_randalls_cottage = {}
+				b_bushycoppice = {}
+				b_st_austells = {}
+				b_southpath = {}
+				b_randall_farm = {}
+				b_underbridge = {}
+				b_farstream = {}
+			}
+		}
+	}
+	
+	k_hale = {
+		color={ 29 46 92 }
+		color2={ 255 255 255 }
+		
+		capital = 2 # Upper Hale
+		dignity = 35
+		
+		culture = haleian
+		
+		d_north_park = {
+			color={ 37 113 133 }
+			color2={ 255 255 255 }
+			
+			capital = 44 # Oast
+			dignity = 10
+			
+			c_phoebes_copse = {
+				color={ 37 113 133 }
+				color2={ 255 255 255 }
+				
+				b_phoebe_lodge = {}
+				b_bishops_paddock = {}
+				b_chorleywood = {}
+				b_nadder = {}
+				b_deerpond = {}
+				b_aubreys = {}
+				b_caron = {}
+			}
+			c_oast = {
+				color={ 48 147 173 }
+				color2={ 255 255 255 }
+				
+				b_park_cemetery = {}
+				b_belveden = {}
+				b_fernspring = {}
+				b_mulberry = {}
+				b_brookside_farm = {}
+				b_oast_house = {}
+				b_oldstable = {}
+			}
+		}
+		
+		d_upper_hale = {
+			color={ 98 135 233 }
+			color2={ 255 255 255 }
+			
+			capital = 2 # Upper Hale
+			dignity = 15
+			
+			c_hoghatch = {
+				color={ 53 101 227 }
+				color2={ 255 255 255 }
+				
+				b_hoghatch = {}
+				b_derwent = {}
+				b_coniston = {}
+				b_folly_hill_infant_school = {}
+				b_neptune = {}
+				b_ullswater = {}
+				b_ambleside = {}
+			}
+			c_trinity = {
+				color={ 143 169 239 }
+				color2={ 255 255 255 }
+				
+				b_trinity_hill = {}
+				b_hillbrook = {}
+				b_windermere = {}
+				b_trinityfields = {}
+				b_grasmere = {}
+				b_shady_nook = {}
+				b_alfred_free_house = {}
+			}
+			c_upper_hale = {
+				color={ 98 135 233 }
+				color2={ 255 255 255 }
+				
+				b_hale_village_hall = {}
+				b_fernhill = {}
+				b_the_vine = {}
+				b_the_green = {}
+				b_ball_and_wicket = {}
+				b_greenways = {}
+				b_nutshell = {}
+			}
+			c_brookside = {
+				color={ 120 162 236 }
+				color2={ 255 255 255 }
+				
+				b_brookside = {}
+				b_costcutter = {}
+				b_the_rectory = {}
+				b_parkside = {}
+				b_westglen = {}
+				b_north_park = {}
+				b_willoway = {}
+			}
+		}
+		
+		d_farmlands = {
+			color={ 103 116 177 }
+			color2={ 255 255 255 }
+			
+			capital = 47 # Lawday
+			dignity = 10
+			
+			c_heathyfields = {
+				color={ 137 147 194 }
+				color2={ 255 255 255 }
+				
+				b_heathyfields = {}
+				b_pachner = {}
+				b_the_heights = {}
+				b_the_heights = {}
+				b_the_heights = {}
+				b_the_heights = {}
+				b_the_heights = {}
+			}
+			
+			c_heath_hill = {
+				color={ 78 91 151 }
+				color2={ 255 255 255 }
+				
+				b_heathhill = {}
+				b_pottinger = {}
+				b_robin_house = {}
+				b_farnham_coaches = {}
+				b_heathypark = {}
+				b_folly_hill_house = {}
+				b_easthantsfield = {}
+			}
+			
+			c_beah = {
+				color={ 60 80 169 }
+				color2={ 255 255 255 }
+				
+				b_beah = {}
+				b_tudor_cottage = {}
+				b_mast = {}
+				b_northpond = {}
+				b_ewshott_cottage = {}
+				b_rangeholm = {}
+				b_court_lodge = {}
+			}
+			
+			c_seedyfields = {
+				color={ 85 96 195 }
+				color2={ 255 255 255 }
+				
+				b_seedyfields = {}
+				b_the_nutshack = {}
+				b_carpenters_lodge = {}
+				b_eastfield = {}
+				b_crossgrove = {}
+				b_hedgend = {}
+				b_cropping = {}
+			}
+			
+			c_lawday = {
+				color={ 103 116 177 }
+				color2={ 255 255 255 }
+				
+				b_lawday_house_farm = {}
+				b_shell = {}
+				b_tech_recycle = {}
+				b_halcyon = {}
+				b_landfall = {}
+				b_yew_tree_lodge = {}
+				b_housegate = {}
+			}
+		}
+		
+		d_sandy_hill = {
+			color={ 36 74 101 }
+			color2={ 255 255 255 }
+			
+			capital = 53 # Sandy Hill
+			dignity = 15
+			
+			c_sandy_hill = {
+				color={ 36 74 101 }
+				color2={ 255 255 255 }
+				
+				b_toplady = {}
+				b_alwin = {}
+				b_st_marks = {}
+				b_swift = {}
+				b_perry = {}
+				b_trimmers = {}
+				b_ryan = {}
+			}
+			
+			c_blackheath = {
+				color={ 29 60 82 }
+				color2={ 255 255 255 }
+				
+				b_blackheath = {}
+				b_eton_place = {}
+				b_brougham = {}
+				b_jascapes = {}
+				b_barrie = {}
+				b_spring = {}
+				b_westsand = {}
+			}
+			
+			c_longbottom = {
+				color={ 56 115 157 }
+				color2={ 255 255 255 }
+				
+				b_longbottom = {}
+				b_lyall_place = {}
+				b_macdonald = {}
+				b_campbell = {}
+				b_sandford = {}
+				b_sturt = {}
+				b_centrepark = {}
+			}
+			
+			c_hale_school = {
+				color={ 100 147 179 }
+				color2={ 255 255 255 }
+				
+				b_hale_school = {}
+				b_the_bungalow = {}
+				b_gravelscythe = {}
+				b_surestart = {}
+				b_bishopsroad = {}
+				b_upper_alma = {}
+				b_tesco_express = {}
+			}
+		}
+		
+		d_manorsedge = {
+			color={ 108 130 190 }
+			color2={ 255 255 255 }
+			
+			capital = 56 # Caesars Camp
+			dignity = 15
+			
+			c_beaconhill = {
+				color={ 143 160 206 }
+				color2={ 255 255 255 }
+				
+				b_beaconhill = {}
+				b_bricksbury_hill = {}
+				b_woolworth = {}
+				b_longpath = {}
+				b_conifern = {}
+				b_bourleigh = {}
+				b_caesarea_australis = {}
+			}
+			
+			c_caesars_camp = {
+				color={ 108 130 190 }
+				color2={ 255 255 255 }
+				
+				b_caesars_camp_fort = {}
+				b_caesars_camp = {}
+				b_the_chapel = {}
+				b_claycart = {}
+				b_rushmore = {}
+				b_babbenburgh = {}
+				b_anteromanum = {}
+			}
+			
+			c_bishops_bank = {
+				color={ 90 115 182 }
+				color2={ 255 255 255 }
+				
+				b_bourley = {}
+				b_hillbrow = {}
+				b_kestrel = {}
+				b_foxway = {}
+				b_nuthatch = {}
+				b_badgerway = {}
+				b_beaconhill_copse = {}
+			}
+			
+			c_odiham_road = {
+				color={ 52 70 118 }
+				color2={ 255 255 255 }
+				
+				b_odiham_road = {}
+				b_farnham_minibuses = {}
+				b_beacon = {}
+				b_pitcourt = {}
+				b_heath = {}
+				b_wimpey = {}
+				b_taylor = {}
+			}
+		}
+	}
+	
+	k_heath_end = {
+		color={ 216 181 25 }
+		color2={ 255 255 255 }
+		
+		capital = 3 # Heath End
+		dignity = 35
+		
+		culture = haleian
+		
+		d_heath_end = {
+			color={ 238 211 92 }
+			color2={ 255 255 255 }
+			
+			capital = 3 # Heath End
+			dignity = 15
+			
+			c_heath_end = {
+				color={ 238 211 92 }
+				color2={ 255 255 255 }
+				
+				b_nelson = {}
+				b_hillside = {}
+				b_the_crescent = {}
+				b_charlotte = {}
+				b_laundromat = {}
+				b_post_office = {}
+				b_cooperative = {}
+			}
+			c_horsewood = {
+				color={ 233 199 46 }
+				color2={ 255 255 255 }
+				
+				b_horsewood = {}
+				b_crownfield = {}
+				b_pondchurch = {}
+				b_woodland_lodge = {}
+				b_timstrack = {}
+				b_nordwood = {}
+				b_recreatia = {}
+			}
+			c_bricksbury = {
+				color={ 243 223 138 }
+				color2={ 255 255 255 }
+				
+				b_bricksbury = {}
+				b_willow_house = {}
+				b_the_ferns = {}
+				b_gorselands = {}
+				b_mr_scan = {}
+				b_christian_trust = {}
+				b_shiphouse = {}
+			}
+			c_alma = {
+				color={ 238 211 92 }
+				color2={ 255 255 255 }
+				
+				b_the_alma = {}
+				b_the_alma_pub = {}
+				b_church_of_the_holy_family = {}
+				b_the_dell = {}
+				b_intrenchments = {}
+				b_beamhollow = {}
+				b_trodden = {}
+			}
+			c_hungry_hill = {
+				color={ 230 192 24 }
+				color2={ 255 255 255 }
+				
+				b_hungry_hill = {}
+				b_the_forts = {}
+				b_the_forts = {}
+				b_redoubt = {}
+				b_crowndaisy = {}
+				b_charlone = {}
+				b_sunny_hill = {}
+			}
+		}
+		
+		d_chennels = { # or d_old_vicarage
+			color={ 244 179 1 }
+			color2={ 255 255 255 }
+			
+			capital = 65 # Vicarage
+			dignity = 15
+			
+			c_vicarage = {
+				color={ 244 179 1 }
+				color2={ 255 255 255 }
+				
+				b_the_old_vicarage = {}
+				b_yolland = {}
+				b_cloxby = {}
+				b_old_heath = {}
+				b_wood = {}
+				b_winterbourne = {}
+				b_newchapel = {}
+			}
+			c_bethel = {
+				color={ 168 123 1 }
+				color2={ 255 255 255 }
+				
+				b_bethel = {}
+				b_rushden = {}
+				b_bethel_baptist_church = {}
+				b_poplar = {}
+				b_battlax = {}
+				b_elmway = {}
+				b_knowlestail = {}
+			}
+			c_highlands = {
+				color={ 219 160 1 }
+				color2={ 255 255 255 }
+				
+				b_highlands = {}
+				b_chennels = {}
+				b_elmgrove = {}
+				b_beamdown = {}
+				b_willoughby = {}
+				b_mosaic = {}
+				b_thomasborough = {}
+			}
+		}
+		
+		d_orlando = { # or d_radford
+			color={ 201 226 58 }
+			color2={ 255 255 255 }
+			
+			capital = 62 # Whitmore
+			dignity = 15
+			
+			c_st_johns = {
+				color={ 179 153 34 }
+				color2={ 255 255 255 }
+				
+				b_st_johns = {}
+				b_radford = {}
+				b_st_johns_church = {}
+				b_hale_place = {}
+				b_upperbell = {}
+				b_southale = {}
+				b_taize = {}
+			}
+			c_whitmore = {
+				color={ 201 226 58 }
+				color2={ 255 255 255 }
+				
+				b_whitmore = {}
+				b_oaktree = {}
+				b_fairview = {}
+				b_white_cottage = {}
+				b_haling = {}
+				b_southreeds = {}
+				b_blueline = {}
+			}
+			c_oast_crescent = {
+				color={ 177 203 30 }
+				color2={ 255 255 255 }
+				
+				b_oast_crescent = {}
+				b_cmk = {}
+				b_the_parish = {}
+				b_oastwood = {}
+				b_enbankment = {}
+				b_farwater = {}
+				b_eightdrive = {}
+			}
+			c_the_avenues = {
+				color={ 207 229 80 }
+				color2={ 255 255 255 }
+				
+				b_northarch = {}
+				b_eastside = {}
+				b_weston = {}
+				b_southknit = {}
+				b_orlando = {}
+				b_barbers = {}
+				b_harrington = {}
+			}
+			c_hale_reeds = {
+				color={ 195 223 36 }
+				color2={ 255 255 255 }
+				
+				b_hallreed = {}
+				b_stream_cottage = {}
+				b_knightsdale = {}
+				b_brookland = {}
+				b_tadpot_cottages = {}
+				b_middlegreen = {}
+				b_surrey_auto_salvage = {}
+			}
+		}
+		
+		d_farnborough_road = {
+			color={ 195 190 130 }
+			color2={ 255 255 255 }
+			
+			capital = 75 # Wellington
+			dignity = 15
+			
+			c_wellington = {
+				color={ 195 190 130 }
+				color2={ 255 255 255 }
+				
+				b_wellington = {}
+				b_texaco = {}
+				b_whitethorns = {}
+				b_rojula = {}
+				b_brangwyns = {}
+				b_fairway = {}
+				b_caterpillars = {}
+			}
+			c_the_glade = {
+				color={ 187 175 113 }
+				color2={ 255 255 255 }
+				
+				b_the_glade = {}
+				b_whitehouse = {}
+				b_queen_annes = {}
+				b_almaway = {}
+				b_raindance = {}
+				b_ranataxi = {}
+				b_elmerth = {}
+			}
+			c_brooklands = {
+				color={ 203 199 147 }
+				color2={ 255 255 255 }
+				
+				b_brookhall = {}
+				b_oak_cottage = {}
+				b_spokehome = {}
+				b_oakaveturn = {}
+				b_pinkglade = {}
+				b_oak_cottage = {}
+				b_stickston = {}
+			}
+			c_elm_crescent = {
+				color={ 178 172 96 }
+				color2={ 255 255 255 }
+				
+				b_elmtree = {}
+				b_whitcairn = {}
+				b_redrun = {}
+				b_endturn = {}
+				b_nook = {}
+				b_tonning = {}
+				b_deldale = {}
+			}
+		}
+		
+		d_rowhills = {
+			color={ 179 125 24 }
+			color2={ 255 255 255 }
+			
+			capital = 77 # Rowhills
+			dignity = 15
+			
+			c_rowhills = {
+				color={ 179 125 24 }
+				color2={ 255 255 255 }
+				
+				b_the_royal_arms = {}
+				b_rowhill = {}
+				b_carter = {}
+				b_hillcrest = {}
+				b_acornkeep = {}
+				b_tga_living = {}
+				b_nelson_east = {}
+			}
+			c_oakland = {
+				color={ 224 156 30 }
+				color2={ 255 255 255 }
+				
+				b_oakland = {}
+				b_the_warren = {}
+				b_trevose = {}
+				b_westview = {}
+				b_lowercopse = {}
+				b_falcrest = {}
+				b_heathwood = {}
+			}
+			c_cranmore = {
+				color={ 157 109 21 }
+				color2={ 255 255 255 }
+				
+				b_cranmore = {}
+				b_hallimore = {}
+				b_highheath = {}
+				b_daisycrown = {}
+				b_airshow = {}
+				b_ideal = {}
+				b_rowhill_reserve = {}
+			}
+		}
+	}
+	
+	k_weybourne = {
+		color={ 98 217 208 }
+		color2={ 255 255 255 }
+		
+		capital = 86 # Wentworth
+		dignity = 35
+		
+		culture = haleian
+		
+		d_upper_weybourne = {
+			color={ 46 187 176 }
+			color2={ 255 255 255 }
+			
+			capital = 80 # Upper Weybourne
+			dignity = 15
+			
+			c_upper_weybourne = {
+				color={ 46 187 176 }
+				color2={ 255 255 255 }
+				
+				b_laburnum = {}
+				b_treeside = {}
+				b_shortbark = {}
+				b_woodside = {}
+				b_wisegrove = {}
+				b_tadpole_cottage = {}
+				b_crompton = {}
+			}
+			c_coppice_close = {
+				color={ 	74, 210, 200 }
+				color2={ 255 255 255 }
+				
+				b_the_coppice = {}
+				b_mill_stream = {}
+				b_newcome = {}
+				b_courtenay = {}
+				b_geckostead = {}
+				b_pinkbeech = {}
+				b_stonepark = {}
+			}
+			c_weywood = {
+				color={ 36, 146, 137 }
+				color2={ 255 255 255 }
+				
+				b_weywood = {}
+				b_newcomer = {}
+				b_st_davids = {}
+				b_premier = {}
+				b_stanley = {}
+				b_workwise = {}
+				b_alpha = {}
+			}
+		}
+		
+		d_six_bells = {
+			color={ 31 126 118 }
+			color2={ 255 255 255 }
+			
+			capital = 84 # Heath End School
+			dignity = 12
+			
+			c_heath_end_school = {
+				color={ 31 126 118 }
+				color2={ 255 255 255 }
+				
+				b_heath_end_school = {}
+				b_the_tower = {}
+				b_hawthorne_house = {}
+				b_baynes = {}
+				b_morris = {}
+				b_wilkinson = {}
+				b_high_view = {}
+			}
+			c_william_cobbett = {
+				color={ 65 182 172 }
+				color2={ 255 255 255 }
+				
+				b_william_cobbett_school = {}
+				b_elmtree_school = {}
+				b_weybourne_community_church = {}
+				b_north_school = {}
+				b_willowbrook = {}
+				b_roundfield = {}
+				b_row_gardens = {}
+			}
+			c_six_bells = {
+				color={ 21 85 80 }
+				color2={ 255 255 255 }
+				
+				b_six_bells = {}
+				b_six_bells_pub = {}
+				b_bindon_house = {}
+				b_weybourne_allotments = {}
+				b_tootsies = {}
+				b_hockey_club = {}
+				b_bullers = {}
+			}
+		}
+		
+		d_nuffield = {
+			color={ 49 121 133 }
+			color2={ 255 255 255 }
+			
+			capital = 86 # Wentworth
+			dignity = 15
+			
+			c_wentworth = {
+				color={ 49 121 133 }
+				color2={ 255 255 255 }
+				
+				b_weybourne_village_hall = {}
+				b_wentworth = {}
+				b_fairways = {}
+				b_wey_post_office = {}
+				b_vanilla_sprinkle = {}
+				b_presceli = {}
+				b_karelie = {}
+			}
+			c_all_hallows = {
+				color={ 49 121 133 }
+				color2={ 255 255 255 }
+				
+				b_all_hallows = {}
+				b_the_running_stream = {}
+				b_hallowed_chapel = {}
+				b_bankside = {}
+				b_phoenix = {}
+				b_chez_noze = {}
+				b_la_foile = {}
+			}
+			c_woodlands = {
+				color={ 49 121 133 }
+				color2={ 255 255 255 }
+				
+				b_woodlands = {}
+			}
+			c_blackwood = {
+				color={ 49 121 133 }
+				color2={ 255 255 255 }
+				
+				b_blackwater_lodge = {}
+			}
+			c_monkton_farm = {
+				color={ 49 121 133 }
+				color2={ 255 255 255 }
+				
+				b_monkton_farm = {}
+			}
+		}
+		
+		d_blackbrook = {
+			color={ 106 203 219 }
+			color2={ 255 255 255 }
+			
+			capital = 86 # Wentworth
+			dignity = 15
+			
+			c_nutbourne = {
+				color={ 106 203 219 }
+				color2={ 255 255 255 }
+				
+				b_nutbourne = {}
+			}
+			c_copse = {
+				color={ 106 203 219 }
+				color2={ 255 255 255 }
+				
+				b_copse = {}
+				b_woodbourne = {}
+			}
+			c_stovold = {
+				color={ 106 203 219 }
+				color2={ 255 255 255 }
+				
+				b_stovold = {}
+			}
+		}
+	}
+}
