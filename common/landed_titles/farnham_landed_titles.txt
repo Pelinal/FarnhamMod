@@ -1227,7 +1227,7 @@ e_farnham = {
 				b_karelie = {}
 			}
 			c_all_hallows = {
-				color={ 49 121 133 }
+				color={ 98 131 137 }
 				color2={ 255 255 255 }
 				
 				b_all_hallows = {}
@@ -1239,22 +1239,40 @@ e_farnham = {
 				b_la_foile = {}
 			}
 			c_woodlands = {
-				color={ 49 121 133 }
+				color={ 56 138 152 }
 				color2={ 255 255 255 }
 				
 				b_woodlands = {}
+				b_patchedroad = {}
+				b_bentley = {}
+				b_oaken_house = {}
+				b_oldcar = {}
+				b_churcher = {}
+				b_blue_and_yellow = {}
 			}
 			c_blackwood = {
-				color={ 49 121 133 }
+				color={ 35 87 96 }
 				color2={ 255 255 255 }
 				
 				b_blackwater_lodge = {}
+				b_blackwood = {}
+				b_lea = {}
+				b_stockwood = {}
+				b_brook = {}
+				b_old_lane = {}
+				b_applecar = {}
 			}
 			c_monkton_farm = {
-				color={ 49 121 133 }
+				color={	21 53 59}
 				color2={ 255 255 255 }
 				
 				b_monkton_farm = {}
+				b_green_lane_farm = {}
+				b_century_cottage = {}
+				b_monksway = {}
+				b_flockerton = {}
+				b_brock = {}
+				b_woodhouse = {}
 			}
 		}
 		
@@ -1270,6 +1288,12 @@ e_farnham = {
 				color2={ 255 255 255 }
 				
 				b_nutbourne = {}
+				b_tropichouse = {}
+				b_lampost = {}
+				b_greyscythe = {}
+				b_willowbranch = {}
+				b_the_corner = {}
+				b_crooked_nook = {}
 			}
 			c_copse = {
 				color={ 106 203 219 }
@@ -1277,12 +1301,23 @@ e_farnham = {
 				
 				b_copse = {}
 				b_woodbourne = {}
+				b_bluecircle = {}
+				b_tigerhouse = {}
+				b_eggar = {}
+				b_closecopse = {}
+				b_laneford = {}
 			}
 			c_stovold = {
 				color={ 106 203 219 }
 				color2={ 255 255 255 }
 				
 				b_stovold = {}
+				b_rowhill_nature_reserve = {}
+				b_st_peters = {}
+				b_innisfail = {}
+				b_ambereley = {}
+				b_paul = {}
+				b_luke = {}
 			}
 		}
 	}
