@@ -1,0 +1,17 @@
+#13 - The Chantrys
+
+#County title
+title = c_chantrys
+
+#Settlements
+max_settlements = 3
+b_bruh = castle
+b_bruh2 = city
+b_bruh3 = temple
+
+#Misc
+culture = townie
+religion = lollard
+terrain = plains
+
+# History

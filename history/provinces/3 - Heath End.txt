@@ -1,0 +1,16 @@
+#3 - Heath End
+#County title
+title = c_heath_end
+
+#Settlements
+max_settlements = 3
+b_bruh = castle
+b_bruh2 = city
+b_bruh3 = temple
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History
