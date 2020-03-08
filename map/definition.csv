@@ -92,25 +92,25 @@ province;red;green;blue;x;x
 91;42;60;173;Six Bells;x 
 92;84;63;46;Monkton Farm;x
 93;126;66;174;Coxbridge;x ######## ADDED TO K_FARNHAM
-94;168;69;47;Monkton;x ### k_badshot_lea # b_farnham_RUFC b_wilkinson b_david_lloyd b_century_cottage b_amida b_brighthorizons
+94;168;69;47;Monkton;x ### k_badshot_lea
 95;0;72;175;Sewageworks;x
-96;42;75;48;Big Sainsburys;x # w/ b_explore_learning b_starbucks b_kebab_van b_sainsburys_petrol_station b_carwash
+96;42;75;48;Big Sainsburys;x
 97;84;78;176;Alligator;x
 98;126;81;49;Monkton Park;x
 99;168;84;177;Hurlands;x
 100;0;87;50;The Crown;x
 101;42;90;178;Green Lane;x
 102;84;93;51;Badshot Park;x
-103;126;96;179;Glorneymead;x # b_glorneymead
+103;126;96;179;Glorneymead;x
 104;168;99;52;Crossroads;x
-105;0;102;180;St Georges;x # b_st_georges b_badshot_infants b_the_anders b_springholm
+105;0;102;180;St Georges;x    
 106;42;105;53;Fernlea;x
 107;84;108;181;Sandown;x
 108;126;111;54;Selbourne;x
 109;168;114;182;Tices Meadow;x
 110;0;117;55;The Kiln;x
-111;42;120;183;The Green;x # w/ b_beech_tree
-112;84;123;56;Antiques;x # b_badshot_farm b_badshot_stables b_kilnhouse b_purkiss b_antiques_warehouse
+111;42;120;183;The Green;x
+112;84;123;56;Antiques;x
 113;126;126;184;Squires;x
 114;168;129;57;Field End;x
 115;0;132;185;North Runfold;x
