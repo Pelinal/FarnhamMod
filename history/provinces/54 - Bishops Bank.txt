@@ -1,0 +1,21 @@
+#54 - Bishop's Bank
+
+#County title
+title = c_bishops_bank
+
+#Settlements
+max_settlements = 7
+b_bourley = city
+b_hillbrow = castle
+#b_kestrel = {}
+#b_foxway = {}
+#b_nuthatch = {}
+#b_badgerway = {}
+#b_beaconhill_copse = {}
+
+#Misc
+culture = farmer
+religion = lollard
+terrain = plains
+
+# History

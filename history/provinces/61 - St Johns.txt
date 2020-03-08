@@ -1,0 +1,21 @@
+#61 - St Johns
+
+#County title
+title = c_st_johns
+
+#Settlements
+max_settlements = 7
+b_st_johns = castle
+b_radford = city
+b_st_johns_church = temple
+b_hale_place = city
+#b_upperbell = {}
+#b_southale = {}
+#b_taize = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

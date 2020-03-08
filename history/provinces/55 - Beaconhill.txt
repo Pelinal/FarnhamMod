@@ -1,0 +1,21 @@
+#55 - Beaconhill
+
+#County title
+title = c_beaconhill
+
+#Settlements
+max_settlements = 7
+b_beaconhill = castle
+b_bricksbury_hill = castle
+b_woolworth = temple
+#b_longpath = {}
+#b_conifern = {}
+#b_bourleigh = {}
+#b_caesarea_australis = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

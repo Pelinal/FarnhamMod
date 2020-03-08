@@ -1,0 +1,21 @@
+#36 - Well's Copse
+
+#County title
+title = c_wells_copse
+
+#Settlements
+max_settlements =7
+b_farnham_house = castle
+b_northbrook = city
+b_woodheart = temple
+#b_ridgway_house = city
+#b_willey_park_house
+#b_ridgway_lodge
+#b_chamberlane
+
+#Misc
+culture = farmer
+religion = lollard
+terrain = farmlands
+
+# History

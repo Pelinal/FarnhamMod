@@ -1,0 +1,21 @@
+#75 - Wellington
+
+#County title
+title = c_wellington
+
+#Settlements
+max_settlements = 7
+b_wellington = city
+b_texaco = city
+b_whitethorns = castle
+b_rojula = temple
+#b_brangwyns = {}
+#b_fairway = {}
+#b_caterpillars = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = hills
+
+# History

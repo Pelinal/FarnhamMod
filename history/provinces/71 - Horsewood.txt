@@ -1,0 +1,21 @@
+#71 - Horsewood
+
+#County title
+title = c_horsewood
+
+#Settlements
+max_settlements = 7
+b_horsewood = city
+b_crownfield = castle
+#b_pondchurch = {}
+#b_woodland_lodge = {}
+#b_timstrack = {}
+#b_nordwood = {}
+#b_recreatia = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

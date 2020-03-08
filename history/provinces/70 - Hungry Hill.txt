@@ -1,0 +1,21 @@
+#70 - Hungry Hill
+
+#County title
+title = c_the_glade
+
+#Settlements
+max_settlements = 7
+b_hungry_hill = castle
+b_the_forts = castle
+b_hungrychurch = temple
+#b_redoubt = {}
+#b_crowndaisy = {}
+#b_charlone = {}
+#b_sunny_hill = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = hills
+
+# History

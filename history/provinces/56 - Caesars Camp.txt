@@ -1,0 +1,21 @@
+#56 - Caesar's Camp
+
+#County title
+title = c_caesars_camp
+
+#Settlements
+max_settlements = 7
+b_caesars_camp_fort = castle
+b_caesars_camp = city
+b_the_chapel = temple
+b_claycart = city
+b_rushmore = castle
+#b_babbenburgh = {}
+#b_anteromanum = {}
+
+#Misc
+culture = roman
+religion = lollard
+terrain = forest
+
+# History

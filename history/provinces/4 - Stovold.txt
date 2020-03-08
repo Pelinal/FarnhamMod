@@ -1,0 +1,21 @@
+#4 - Stovold
+
+#County title
+title = c_stovold
+
+#Settlements
+max_settlements = 7
+b_stovold = city
+b_rowhill_nature_reserve = temple
+#b_st_peters = {}
+#b_innisfail = {}
+#b_ambereley = {}
+#b_paul = {}
+#b_luke = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = hills
+
+# History

@@ -1,0 +1,21 @@
+#89 - Nutbourne
+
+#County title
+title = c_nutbourne
+
+#Settlements
+max_settlements = 7
+b_nutbourne = city
+b_tropichouse = city
+b_lampost = temple
+#b_greyscythe = {}
+#b_willowbranch = {}
+#b_the_corner = {}
+#b_crooked_nook = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

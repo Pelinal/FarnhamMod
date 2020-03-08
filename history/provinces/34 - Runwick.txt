@@ -3,10 +3,14 @@
 title = c_runwick
 
 #Settlements
-max_settlements = 3
-b_bruh = castle
-b_bruh2 = city
-b_bruh3 = temple
+max_settlements = 7
+b_runwick = city
+b_grovers_farm = castle
+#b_st_swithuns = {}
+#b_northbrook_estate = {}
+#b_old_searchlights = {}
+#b_vendcord = {}
+#b_northlands = {}
 
 #Misc
 culture = farmer

@@ -3,10 +3,14 @@
 title = c_willey
 
 #Settlements
-max_settlements = 3
-b_bruh = castle
-b_bruh2 = city
-b_bruh3 = temple
+max_settlements = 7
+b_willey = city
+b_the_gardners_cottage = temple
+b_collsinks = city
+#b_willey_park_farm
+#b_horse_india
+#b_willey_farm
+#b_fellerfield
 
 #Misc
 culture = farmer

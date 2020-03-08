@@ -1,0 +1,21 @@
+#46 - Heathyfields
+
+#County title
+title = c_lawday
+
+#Settlements
+max_settlements = 7
+b_heathyfields = city
+b_pachner = temple
+b_the_heights = castle
+#b_high_heath = {}
+#b_nethergrove = {}
+#b_crossvale = {}
+#b_westdell = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

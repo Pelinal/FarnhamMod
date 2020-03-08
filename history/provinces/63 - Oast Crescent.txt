@@ -1,0 +1,21 @@
+#63 - Oast Crescent
+
+#County title
+title = c_oast_crescent
+
+#Settlements
+max_settlements = 7
+b_oast_crescent = city
+b_cmk = castle
+b_the_parish = temple
+#b_oastwood = {}
+#b_enbankment = {}
+#b_farwater = {}
+#b_eightdrive = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

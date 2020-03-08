@@ -1,0 +1,21 @@
+#57 - Hale School
+
+#County title
+title = c_hale_school
+
+#Settlements
+max_settlements = 7
+b_hale_school = city
+b_the_bungalow = city
+b_gravelscythe = temple
+#b_surestart = {}
+#b_bishopsroad = {}
+#b_upper_alma = {}
+#b_tesco_express = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

@@ -1,0 +1,21 @@
+#78 - Oakland
+
+#County title
+title = c_oakland
+
+#Settlements
+max_settlements = 7
+b_oakland = city
+b_the_warren = temple
+b_trevose = city
+#b_westview = {}
+#b_lowercopse = {}
+#b_falcrest = {}
+#b_heathwood = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = hills
+
+# History

@@ -4,10 +4,14 @@
 title = c_westland
 
 #Settlements
-max_settlements = 3
-b_bruh = castle
-b_bruh2 = city
-b_bruh3 = temple
+max_settlements = 7
+b_westlodge = city
+b_northbrook_mews = city
+b_porta_romana = temple
+#b_caspian = {}
+#b_northbrook_farm = {}
+#b_fishpond = {}
+#b_sinktrack = {}
 
 #Misc
 culture = farmer

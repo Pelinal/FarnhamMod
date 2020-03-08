@@ -1,0 +1,21 @@
+#60 - Brookside
+
+#County title
+title = c_brookside
+
+#Settlements
+max_settlements = 7
+b_brookside = castle
+b_costcutter = city
+b_the_rectory = city
+#b_parkside = {}
+#b_westglen = {}
+#b_north_park = {}
+#b_willoway = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

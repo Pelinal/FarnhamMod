@@ -4,10 +4,14 @@
 title = c_burles
 
 #Settlements
-max_settlements = 3
-b_bruh = castle
-b_bruh2 = city
-b_bruh3 = temple
+max_settlements = 7
+b_burles_lodge = castle
+b_burles_farm = temple
+b_woadlands = city
+#b_maplelodge = {}
+#b_freshpark = {}
+#b_wonmoor = {}
+#b_seymours = {}
 
 #Misc
 culture = townie

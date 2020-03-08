@@ -4,10 +4,14 @@
 title = c_maltings
 
 #Settlements
-max_settlements = 3
-b_bruh = castle
-b_bruh2 = city
-b_bruh3 = temple
+max_settlements = 7
+b_maltings = city
+b_redlion = castle
+b_the_wey_church = temple
+#b_trafalgar = {}
+#b_fairhurst = {}
+#b_stopgap = {}
+#b_demeric_school_of_dance = {}
 
 #Misc
 culture = townie

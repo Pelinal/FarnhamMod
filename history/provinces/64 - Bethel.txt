@@ -1,0 +1,21 @@
+#64 - Bethel
+
+#County title
+title = c_bethel
+
+#Settlements
+max_settlements = 7
+b_bethel = city
+b_rushden = city
+b_bethel_baptist_church = temple
+#b_poplar = {}
+#b_battlax = {}
+#b_elmway = {}
+#b_knowlestail = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

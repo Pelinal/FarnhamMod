@@ -1,0 +1,21 @@
+#49 - Beah
+
+#County title
+title = c_beah
+
+#Settlements
+max_settlements = 7
+b_beah = castle
+b_tudor_cottage = city
+#b_mast = {}
+#b_northpond = {}
+#b_ewshott_cottage = {}
+#b_rangeholm = {}
+#b_court_lodge = {}
+
+#Misc
+culture = farmer
+religion = lollard
+terrain = farmlands
+
+# History

@@ -1,0 +1,21 @@
+#47 - Lawday
+
+#County title
+title = c_lawday
+
+#Settlements
+max_settlements = 7
+b_lawday_house_farm = city
+b_shell = castle
+b_tech_recycle = temple
+#b_halcyon = {}
+#b_landfall = {}
+#b_yew_tree_lodge = {}
+#b_housegate = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

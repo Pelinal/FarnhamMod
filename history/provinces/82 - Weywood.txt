@@ -1,0 +1,21 @@
+#82 - Weywood
+
+#County title
+title = c_weywood
+
+#Settlements
+max_settlements = 7
+b_weywood = city
+b_newcomer = castle
+b_st_davids = temple
+#b_premier = {}
+#b_stanley = {}
+#b_workwise = {}
+#b_alpha = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

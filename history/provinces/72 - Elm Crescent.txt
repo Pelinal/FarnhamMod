@@ -1,0 +1,21 @@
+#72 - Elm Crescent
+
+#County title
+title = c_elm_crescent
+
+#Settlements
+max_settlements = 7
+b_elmtree = castle
+b_whitcairn = city
+#b_redrun = {}
+#b_endturn = {}
+#b_nook = {}
+#b_tonning = {}
+#b_deldale = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

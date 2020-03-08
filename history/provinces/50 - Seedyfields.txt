@@ -1,0 +1,21 @@
+#50 - Seedyfields
+
+#County title
+title = c_seedyfields
+
+#Settlements
+max_settlements = 7
+b_seedyfields = city
+b_the_nutshack = temple
+b_carpenters_lodge = castle
+#b_eastfield = {}
+#b_crossgrove = {}
+#b_hedgend = {}
+#b_cropping = {}
+
+#Misc
+culture = farmer
+religion = lollard
+terrain = farmlands
+
+# History

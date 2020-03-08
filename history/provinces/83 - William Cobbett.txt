@@ -1,0 +1,21 @@
+#83 - William Cobbett
+
+#County title
+title = c_william_cobbett
+
+#Settlements
+max_settlements = 7
+b_william_cobbett_school = city
+b_weybourne_community_church = temple
+b_elmtree_school = city
+#b_north_school = {}
+#b_willowbrook = {}
+#b_roundfield = {}
+#b_row_gardens = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

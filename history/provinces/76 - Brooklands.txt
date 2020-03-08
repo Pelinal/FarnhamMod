@@ -1,0 +1,21 @@
+#76 - Brooklands
+
+#County title
+title = c_brooklands
+
+#Settlements
+max_settlements = 7
+b_brookhall = city
+b_oak_cottage = city
+b_spokehome = castle
+#b_violetta = {}
+#b_oakaveturn = {}
+#b_pinkglade = {}
+#b_stickston = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = hills
+
+# History

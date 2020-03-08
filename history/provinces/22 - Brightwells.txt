@@ -1,0 +1,21 @@
+#22 - Brightwells
+
+#County title
+title = c_brightwells
+
+#Settlements
+max_settlements = 7
+b_counciloffices = castle
+b_brightwell_house = city
+b_farnham_methodist_church = temple
+b_sainsburys = city
+b_liberal_club = castle
+#b_slug_and_lettuce = {}
+#b_dominos = {}
+
+#Misc
+culture = farmer
+religion = lollard
+terrain = farmlands
+
+# History

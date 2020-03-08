@@ -1,0 +1,21 @@
+#69 - Alma
+
+#County title
+title = c_alma
+
+#Settlements
+max_settlements = 7
+b_the_alma = castle
+b_the_alma_pub = city
+b_church_of_the_holy_family = temple
+#b_the_dell = {}
+#b_intrenchments = {}
+#b_beamhollow = {}
+#b_trodden = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

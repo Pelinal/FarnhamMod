@@ -1,0 +1,21 @@
+#66 - The Avenues
+
+#County title
+title = c_the_avenues
+
+#Settlements
+max_settlements = 7
+b_northarch = castle
+b_eastside = city
+b_weston = castle
+#b_southknit = {}
+#b_orlando = {}
+#b_barbers = {}
+#b_harrington = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

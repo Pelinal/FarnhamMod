@@ -1,0 +1,21 @@
+#27 - Woodside
+
+#County title
+title = c_woodside
+
+#Settlements
+max_settlements = 7
+b_woodside_cottages = city
+b_stables = temple
+#b_the_riding_centre = {}
+#b_westdrain = {}
+#b_old_park_lodge = {}
+#b_longtrack = {}
+#b_cobbett_way = {}
+
+#Misc
+culture = farmer
+religion = lollard
+terrain = farmlands
+
+# History

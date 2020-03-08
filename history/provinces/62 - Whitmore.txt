@@ -1,0 +1,21 @@
+#62 - Whitmore
+
+#County title
+title = c_whitmore
+
+#Settlements
+max_settlements = 7
+b_whitmore = city
+b_oaktree = city
+b_fairview = temple
+b_white_cottage = castle
+#b_haling = {}
+#b_southreeds = {}
+#b_blueline = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

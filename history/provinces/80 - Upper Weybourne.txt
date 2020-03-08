@@ -1,0 +1,21 @@
+#80 - Upper Weybourne
+
+#County title
+title = c_upper_weybourne
+
+#Settlements
+max_settlements = 7
+b_laburnum = city
+b_treeside = castle
+b_shortbark = city
+b_woodside = temple
+#b_wisegrove = {}
+#b_tadpole_cottage = {}
+#b_crompton = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = hills
+
+# History

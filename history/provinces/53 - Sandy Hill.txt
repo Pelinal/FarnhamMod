@@ -1,0 +1,21 @@
+#53 - Sandy Hill
+
+#County title
+title = c_sandy_hill
+
+#Settlements
+max_settlements = 7
+b_toplady = city
+b_alwin = city
+b_st_marks = temple
+b_swift = castle
+#b_perry = {}
+#b_trimmers = {}
+#b_ryan = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

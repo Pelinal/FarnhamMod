@@ -1,0 +1,21 @@
+#52 - Odiham Road
+
+#County title
+title = c_odiham_road
+
+#Settlements
+max_settlements = 7
+b_odiham_road = castle
+b_farnham_minibuses = city
+b_beacon = temple
+#b_pitcourt = {}
+#b_heath = {}
+#b_wimpey = {}
+#b_taylor = {}
+
+#Misc
+culture = farmer
+religion = lollard
+terrain = plains
+
+# History

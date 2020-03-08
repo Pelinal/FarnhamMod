@@ -1,0 +1,21 @@
+#68 - Highlands
+
+#County title
+title = c_highlands
+
+#Settlements
+max_settlements = 7
+b_highlands = castle
+b_chennels = city
+b_elmgrove = city
+#b_beamdown = {}
+#b_willoughby = {}
+#b_mosaic = {}
+#b_thomasborough = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

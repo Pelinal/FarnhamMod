@@ -1,0 +1,21 @@
+#91 - Six Bells
+
+#County title
+title = c_six_bells
+
+#Settlements
+max_settlements = 7
+b_six_bells = castle
+b_six_bells_pub = city
+#b_bindon_house = {}
+#b_weybourne_allotments = {}
+#b_tootsies = {}
+#b_hockey_club = {}
+#b_bullers = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

@@ -1,0 +1,21 @@
+#40 - Clark's Hill
+
+#County title
+title = c_clarkshill
+
+#Settlements
+max_settlements = 7
+b_old_cottage = city
+b_lower_farm = temple
+b_dippenhall_grange = city
+#b_deansknowe = {}
+#b_welsutton = {}
+#b_barn_cottage = {}
+#b_millans_cottage = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = hills
+
+# History

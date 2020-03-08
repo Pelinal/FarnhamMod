@@ -1,0 +1,21 @@
+#119 - Park Row
+
+#County title
+title = c_park_row
+
+#Settlements
+max_settlements = 7
+b_park_row = castle
+b_nelson_arms = city
+b_christian_science_church = temple
+b_subway = city
+b_giggling_squid = city
+#b_lloyds = {}
+#b_zizzi = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = hills
+
+# History

@@ -1,0 +1,21 @@
+#81 - Coppice Close
+
+#County title
+title = c_coppice_close
+
+#Settlements
+max_settlements = 7
+b_the_coppice = castle
+b_mill_stream = city
+#b_newcome = {}
+#b_courtenay = {}
+#b_geckostead = {}
+#b_pinkbeech = {}
+#b_stonepark = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

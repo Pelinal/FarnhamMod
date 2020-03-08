@@ -1,0 +1,21 @@
+#51 - Trinity
+
+#County title
+title = c_trinity
+
+#Settlements
+max_settlements = 7
+b_trinity_hill = castle
+b_hillbrook = city
+b_windermere = temple
+#b_trinityfields = {}
+#b_grasmere = {}
+#b_shady_nook = {}
+#b_alfred_free_house = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

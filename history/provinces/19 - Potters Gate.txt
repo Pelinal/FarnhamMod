@@ -1,0 +1,21 @@
+#19 - Potters Gate
+
+#County title
+title = c_potters_gate
+
+#Settlements
+max_settlements = 7
+b_potters_gate = castle
+b_potters_gate_school = city
+b_beaverchurch = temple
+#b_the_plough = {}
+#b_beerhouse = {}
+#b_holtkiln = {}
+#b_school_boundary = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = plains
+
+# History

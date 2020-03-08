@@ -1,0 +1,21 @@
+#15 - Bishop's Meadow
+
+#County title
+title = c_bishops_meadow
+
+#Settlements
+max_settlements = 7
+b_bishops_manor = city
+b_climbingtree = castle
+#b_eastweir = {}
+#b_pengilly = {}
+#b_weydon_mill = {}
+#b_whitlet = {}
+#b_meadowbank = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = plains
+
+# History

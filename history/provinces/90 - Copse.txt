@@ -1,0 +1,21 @@
+#90 - Copse
+
+#County title
+title = c_copse
+
+#Settlements
+max_settlements = 7
+b_copse = city
+b_woodbourne = castle
+#b_bluecircle = {}
+#b_tigerhouse = {}
+#b_eggar = {}
+#b_closecopse = {}
+#b_laneford = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = hills
+
+# History

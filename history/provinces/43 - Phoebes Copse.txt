@@ -1,0 +1,21 @@
+#43 - Phoebe's Copse
+
+#County title
+title = c_phoebes_copse
+
+#Settlements
+max_settlements = 7
+b_phoebe_lodge = tribal
+#b_bishops_paddock = temple
+#b_chorleywood = castle
+#b_nadder = city
+#b_deerpond = {}
+#b_aubreys = {}
+#b_caron = {}
+
+#Misc
+culture = huntsman
+religion = lollard
+terrain = plains
+
+# History

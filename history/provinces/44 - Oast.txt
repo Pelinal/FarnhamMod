@@ -1,0 +1,21 @@
+#44 - Oast/Park Cemetery
+
+#County title
+title = c_oast
+
+#Settlements
+max_settlements = 7
+b_park_cemetery = temple
+b_belveden = city
+b_fernspring = castle
+#b_mulberry = {}
+#b_brookside_farm = {}
+#b_oast_house = {}
+#b_oldstable = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

@@ -1,0 +1,21 @@
+#28 - Claypit Wood
+
+#County title
+title = c_claypit_wood
+
+#Settlements
+max_settlements = 7
+b_claypit = city
+b_poppystop = castle
+b_castle_farm = city
+#b_brough = {}
+#b_potswood = {}
+#b_leftpath = {}
+#b_nadder_west = {}
+
+#Misc
+culture = farmer
+religion = lollard
+terrain = farmlands
+
+# History

@@ -1,0 +1,21 @@
+#74 - Hale Reeds
+
+#County title
+title = c_hale_reeds
+
+#Settlements
+max_settlements = 7
+b_hallreed = city
+b_stream_cottage = temple
+b_knightsdale = castle
+#b_brookland = {}
+#b_tadpot_cottages = {}
+#b_middlegreen = {}
+#b_surrey_auto_salvage = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

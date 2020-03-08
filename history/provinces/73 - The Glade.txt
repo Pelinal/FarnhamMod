@@ -1,0 +1,21 @@
+#73 - The Glade
+
+#County title
+title = c_the_glade
+
+#Settlements
+max_settlements = 7
+b_the_glade = city
+b_whitehouse = castle
+b_queen_annes = temple
+#b_almaway = {}
+#b_raindance = {}
+#b_ranataxi = {}
+#b_elmerth = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

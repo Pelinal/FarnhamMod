@@ -1,0 +1,21 @@
+#38 - Endeavour Place
+
+#County title
+title = c_endeavour
+
+#Settlements
+max_settlements = 7
+b_runwick_house = city
+b_travis_perkins = castle
+b_rudridge = temple
+b_walnuttreehouse = city
+#b_leonardo = {}
+#b_protean = {}
+#b_carlin = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = plains
+
+# History

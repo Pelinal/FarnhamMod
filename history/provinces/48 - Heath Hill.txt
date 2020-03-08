@@ -1,0 +1,21 @@
+#48 - Heath Hill
+
+#County title
+title = c_heath_hill
+
+#Settlements
+max_settlements = 7
+b_heathhill = castle
+b_pottinger = castle
+b_robin_house = temple
+#b_farnham_coaches = {}
+#b_heathypark = {}
+#b_folly_hill_house = {}
+#b_easthantsfield = {}
+
+#Misc
+culture = farmer
+religion = lollard
+terrain = hills
+
+# History

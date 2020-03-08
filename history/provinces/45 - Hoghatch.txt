@@ -1,0 +1,21 @@
+#45 - Hoghatch
+
+#County title
+title = c_hoghatch
+
+#Settlements
+max_settlements = 7
+b_hoghatch = city
+b_derwent = temple
+b_coniston = castle
+#b_folly_hill_infant_school = {}
+#b_neptune = {}
+#b_ullswater = {}
+#b_ambleside = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

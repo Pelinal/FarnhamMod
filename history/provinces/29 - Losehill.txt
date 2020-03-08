@@ -4,10 +4,14 @@
 title = c_losehill
 
 #Settlements
-max_settlements = 3
-b_bruh = castle
-b_bruh2 = city
-b_bruh3 = temple
+max_settlements = 7
+b_losehill_house = city
+b_longhouse = castle
+b_greenpole = city
+#b_loosewood = {}
+#b_astrondal = {}
+#b_hilshed = {}
+#b_eightbridge = {}
 
 #Misc
 culture = townie

@@ -1,0 +1,21 @@
+#79 - cranmore
+
+#County title
+title = c_cranmore
+
+#Settlements
+max_settlements = 7
+b_cranmore = city
+b_hallimore = castle
+b_highheath = castle
+#b_daisycrown = {}
+#b_airshow = {}
+#b_ideal = {}
+#b_rowhill_reserve = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = hills
+
+# History

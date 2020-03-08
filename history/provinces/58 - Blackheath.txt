@@ -1,0 +1,21 @@
+#58 - Blackheath
+
+#County title
+title = c_blackheath
+
+#Settlements
+max_settlements = 7
+b_blackheath = city
+b_eton_place = castle
+b_brougham = city
+b_jascapes = temple
+#b_barrie = {}
+#b_spring = {}
+#b_westsand = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

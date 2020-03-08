@@ -1,0 +1,21 @@
+#59 - Longbottom
+
+#County title
+title = c_longbottom
+
+#Settlements
+max_settlements = 7
+b_longbottom = city
+b_lyall_place = castle
+b_macdonald = city
+#b_campbell = {}
+#b_sandford = {}
+#b_sturt = {}
+#b_centrepark = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

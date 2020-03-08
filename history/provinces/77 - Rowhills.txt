@@ -1,0 +1,21 @@
+#77 - Rowhills
+
+#County title
+title = c_rowhills
+
+#Settlements
+max_settlements = 7
+b_the_royal_arms = castle
+b_rowhill = city
+b_carter = temple
+#b_hillcrest = {}
+#b_acornkeep = {}
+#b_tga_living = {}
+#b_nelson_east = {}
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = hills
+
+# History
