@@ -179,7 +179,7 @@ c_longbottom;Longbottom;;;;;;;;;;;;x
 c_longbottom_adj;Longbottom;;;;;;;;;;;;x
 PROV60;Brookside;;;;;;;;;;;;x
 c_brookside;Brookside;;;;;;;;;;;;x
-c_brookside_adj;Brookside;;;;;;;;;;;;x
+c_brookside_adj;Brooksider;;;;;;;;;;;;x
 #### Heath End
 PROV61;St Johns;;;;;;;;;;;;x
 c_st_johns;St Johns;;;;;;;;;;;;x
@@ -214,7 +214,7 @@ c_hungry_hill_adj;Hungry Hill;;;;;;;;;;;;x
 PROV71;Horsewood;;;;;;;;;;;;x
 c_horsewood;Horsewood;;;;;;;;;;;;x
 c_horsewood_adj;Horsewood;;;;;;;;;;;;x
-PROV72;nameofprov;;;;;;;;;;;;x
+PROV72;Elm Crescent;;;;;;;;;;;;x
 c_elm_crescent;Elm Crescent;;;;;;;;;;;;x
 c_elm_crescent_adj;Elmen;;;;;;;;;;;;x
 PROV73;The Glade;;;;;;;;;;;;x

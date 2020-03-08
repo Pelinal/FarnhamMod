@@ -1045,7 +1045,7 @@ e_farnham = {
 				b_spokehome = {}
 				b_oakaveturn = {}
 				b_pinkglade = {}
-				b_oak_cottage = {}
+				b_violetta = {}
 				b_stickston = {}
 			}
 			c_elm_crescent = {
@@ -1137,7 +1137,7 @@ e_farnham = {
 				b_crompton = {}
 			}
 			c_coppice_close = {
-				color={ 	74, 210, 200 }
+				color={ 74 210 200 }
 				color2={ 255 255 255 }
 				
 				b_the_coppice = {}
@@ -1149,7 +1149,7 @@ e_farnham = {
 				b_stonepark = {}
 			}
 			c_weywood = {
-				color={ 36, 146, 137 }
+				color={ 36 146 137 }
 				color2={ 255 255 255 }
 				
 				b_weywood = {}
@@ -1354,13 +1354,13 @@ e_farnham = {
 				color={ 205 28 7 }
 				color2={ 255 255 255 }
 				
-				b_explore_learning = {}
+				b_big_sainsburys = {}
 				b_starbucks = {}
 				b_sainsburys_petrol_station = { short_name = yes }
 				b_kebab_van = {}
 				b_carwash = {}
 				b_sainsburys_pharmacy = { short_name = yes }
-				b_water_lane_carpark = {}
+				b_explore_learning = {}
 			}
 			c_alligator = {
 				color={ 249 84 65 }
