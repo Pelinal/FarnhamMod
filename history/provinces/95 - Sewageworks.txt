@@ -1,0 +1,21 @@
+# 95 - Sewageworks
+
+#County title
+title = c_sewageworks
+
+#Settlements
+max_settlements = 5
+b_sewage_treatment_plant = castle
+b_overseers_office = temple
+b_the_vats = castle
+#b_filtration_facility = temple
+#b_footfield = castle
+#b_southflume = castle
+#b_boileroom = temple
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = farmlands
+
+# History

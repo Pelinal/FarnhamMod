@@ -1,0 +1,21 @@
+# 106 - Fernlea
+
+#County title
+title = c_fernlea
+
+#Settlements
+max_settlements = 5
+b_fernlea = castle
+b_preymead = city
+b_mayfield = temple
+#b_preymead_farm = castle
+#b_orchard = castle
+#b_arcus = castle
+#b_crystal = castle
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = plains
+
+# History

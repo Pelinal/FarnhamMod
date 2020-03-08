@@ -1,0 +1,21 @@
+# 118 - Ticehurst
+
+#County title
+title = c_ticehurst
+
+#Settlements
+max_settlements = 4
+b_ticehurst = castle
+b_ticehurst_care_home = temple
+#b_stockbridge = castle
+#b_whitchurch = castle
+#b_blackriver = castle
+#b_glouster_mill = castle
+#b_peters_copse = castle
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = plains
+
+# History

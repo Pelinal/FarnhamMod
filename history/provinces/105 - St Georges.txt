@@ -1,0 +1,21 @@
+# 105 - St Georges
+
+#County title
+title = c_st_georges
+
+#Settlements
+max_settlements = 5
+b_st_georges = castle
+b_badshot_infants = city
+b_the_anders = temple
+#b_springholm = castle
+#b_reokace = castle
+#b_working_mens_club = castle
+#b_tasilk = castle
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = plains
+
+# History

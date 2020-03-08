@@ -1,0 +1,21 @@
+# 117 - Field End
+
+#County title
+title = c_field_end
+
+#Settlements
+max_settlements = 4
+b_fieldend = castle
+b_hurland_lodge = city
+#b_long_barrow = temple
+#b_clarks_range = castle
+#b_longmast = castle
+#b_pastpass = castle
+#b_crofts = castle
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = farmlands
+
+# History

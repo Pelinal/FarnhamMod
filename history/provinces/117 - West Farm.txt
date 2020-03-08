@@ -1,0 +1,21 @@
+# 117 - West Farm
+
+#County title
+title = c_west_farm
+
+#Settlements
+max_settlements = 5
+b_west_farm = castle
+b_southpit = city
+b_ticespond = temple
+#b_sluicefield = castle
+#b_community_farm = castle
+#b_bridge_farm_stables = castle
+#b_tonghalming = castle
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = plains
+
+# History

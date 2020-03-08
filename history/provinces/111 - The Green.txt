@@ -1,0 +1,21 @@
+# 111 - The Green
+
+#County title
+title = c_the_green
+
+#Settlements
+max_settlements = 4
+b_greenhouse = castle
+b_beech_tree = city
+#b_chapelshack = city
+#b_playpark = castle
+#b_badshot_lea_tennis_club = castle
+#b_farnlane = castle
+#b_green_farm = castle
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = plains
+
+# History

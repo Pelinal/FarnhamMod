@@ -1,0 +1,21 @@
+# 104 - Crossroads
+
+#County title
+title = c_crossroads
+
+#Settlements
+max_settlements = 5
+b_crossroads = castle
+b_the_cricketers = city
+b_militaria = castle
+#b_leaway = castle
+#b_brogans = castle
+#b_meraki = castle
+#b_badshot_chinese_kitchen = castle
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = plains
+
+# History

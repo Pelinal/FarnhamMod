@@ -1,0 +1,21 @@
+# 108 - Selbourne
+
+#County title
+title = c_selbourne
+
+#Settlements
+max_settlements = 5
+b_selbourne = castle
+#b_cadnam = city
+b_romsey = temple
+#b_overton = castle
+#b_short_dale = castle
+#b_lyndhurst = castle
+#b_basing = castle
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = plains
+
+# History

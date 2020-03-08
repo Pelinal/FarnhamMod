@@ -1,0 +1,21 @@
+# 100 - The Crown
+
+#County title
+title = c_the_crown
+
+#Settlements
+max_settlements = 6
+b_the_crown = castle
+b_the_crown_pub = city
+b_pineview = temple
+#b_orchard_cottage = castle
+#b_jennyfields = castle
+#b_abtrailers = castle
+#b_muthouse = castle
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = plains
+
+# History

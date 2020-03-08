@@ -1,0 +1,21 @@
+# 112 - Antiques
+
+#County title
+title = c_antiques
+
+#Settlements
+max_settlements = 4
+b_antiques = castle
+b_antiques_warehouse = temple
+#b_badshot_farm = city
+#b_kilnhouse = castle
+#b_badshot_stables = castle
+#b_purkiss = castle
+#b_equestria = castle
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = plains
+
+# History

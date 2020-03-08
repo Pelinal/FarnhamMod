@@ -1,0 +1,21 @@
+# 97 - Alligator
+
+#County title
+title = c_alligator
+
+#Settlements
+max_settlements = 6
+b_alligator_self_storage = city
+b_kinetrol = castle
+b_jewson = temple
+#b_home_of_legends = castle
+#b_plascoat = castle
+#b_howden = castle
+#b_polypipe = castle
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = plains
+
+# History

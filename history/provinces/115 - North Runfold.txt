@@ -1,0 +1,21 @@
+# 115 - North Runfold
+
+#County title
+title = c_north_runfold
+
+#Settlements
+max_settlements = 4
+b_north_runfold = castle
+#b_valiant = city
+b_runfold_st_george = temple
+#b_1minus1 = castle
+#b_bridge_farm = castle
+#b_runfold_bakery = castle
+#b_hawthorpe = castle
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = plains
+
+# History

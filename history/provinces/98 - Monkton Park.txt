@@ -1,0 +1,21 @@
+# 98 - Monkton Park
+
+#County title
+title = c_monkton_park
+
+#Settlements
+max_settlements = 6
+b_uvex = city
+b_kwik_fit = castle
+b_villecrest = temple
+#b_mitsubushi = castle
+#b_axalta = castle
+#b_novum = castle
+#b_challenge = castle
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = plains
+
+# History

@@ -1,0 +1,21 @@
+# 94 - Monkton
+
+#County title
+title = c_monkton
+
+#Settlements
+max_settlements = 6
+b_monkton = castle
+b_farnham_RUFC = city
+b_wilkinson = temple
+#b_david_lloyd = castle
+#b_century_cottage = castle
+#b_amida = castle
+#b_brighthorizons = castle
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = plains
+
+# History

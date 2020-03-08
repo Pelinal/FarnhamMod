@@ -1,0 +1,21 @@
+# 96 - Big Sainsburys
+
+#County title
+title = c_big_sainsburys
+
+#Settlements
+max_settlements = 7
+b_big_sainsburys = city
+b_starbucks = castle
+b_sainsburys_petrol_station = city
+#b_kebab_van = temple
+#b_carwash = castle
+#b_sainsburys_pharmacy = castle
+b_explore_learning = temple
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = plains
+
+# History

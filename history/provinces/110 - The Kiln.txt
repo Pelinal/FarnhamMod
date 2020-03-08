@@ -1,0 +1,21 @@
+# 110 - The Kiln
+
+#County title
+title = c_the_kiln
+
+#Settlements
+max_settlements = 7
+b_badshot_lea_village_hall = castle
+b_the_kiln = city
+b_littleacre = temple
+b_skylark = castle
+#b_badshot_racetrack = castle
+#b_leapfrog = castle
+#b_kiln_workshops = castle
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = plains
+
+# History

@@ -1,0 +1,21 @@
+# 107 - Sandown
+
+#County title
+title = c_sandown
+
+#Settlements
+max_settlements = 5
+b_sandown = castle
+b_oh_my_cod = city
+b_morland = temple
+#b_litte_boxalls = castle
+#b_pondsedge = castle
+#b_blackwater = castle
+#b_andover_way = castle
+
+#Misc
+culture = hampshire_hog
+religion = lollard
+terrain = plains
+
+# History

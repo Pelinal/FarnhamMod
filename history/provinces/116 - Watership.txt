@@ -1,0 +1,21 @@
+# 116 - Watership
+
+#County title
+title = c_watership
+
+#Settlements
+max_settlements = 5
+b_watership_cottage = castle
+b_watership = city
+b_fordbend = temple
+#b_suez = castle
+#b_cleanfields = castle
+#b_box_wood = castle
+#b_old_mill = castle
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = plains
+
+# History

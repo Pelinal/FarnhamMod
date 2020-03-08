@@ -1,0 +1,21 @@
+# 102 - Badshot Park
+
+#County title
+title = c_badshot_park
+
+#Settlements
+max_settlements = 4
+b_badshot_park = castle
+b_park_farm = city
+#b_hartley = temple
+#b_shotpond = castle
+#b_hebe = castle
+#b_rankine = castle
+#b_doggsos = castle
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = plains
+
+# History

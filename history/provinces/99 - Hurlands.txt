@@ -1,0 +1,21 @@
+# 99 - Hurlands
+
+#County title
+title = c_hurlands
+
+#Settlements
+max_settlements = 5
+b_hurlands = castle
+b_town_end = city
+b_penfold = temple
+#b_field_end = castle
+#b_odyssey = castle
+#b_pierhouse = castle
+#b_rochoir = castle
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = plains
+
+# History

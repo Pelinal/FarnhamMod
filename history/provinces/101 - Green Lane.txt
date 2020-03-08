@@ -1,0 +1,21 @@
+# 101 - Green Lane
+
+#County title
+title = c_badshot_park
+
+#Settlements
+max_settlements = 5
+b_green_lane = castle
+b_deglazing = city
+#b_atcain_tax = temple
+#b_willsfarm = castle
+#b_sse_aldershot_depot = castle
+#b_watchfield = castle
+#b_greenwood_estate = castle
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = farmlands
+
+# History

@@ -1,0 +1,21 @@
+# 109 - Tices Meadow
+
+#County title
+title = c_tices_meadow
+
+#Settlements
+max_settlements = 4
+b_the_meadow = castle
+b_peabridge = city
+#b_dragonfly = castle
+#b_rays_gap = castle
+#b_lisas_wood = castle
+#b_horton = castle
+#b_wheatear = castle
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = woods
+
+# History

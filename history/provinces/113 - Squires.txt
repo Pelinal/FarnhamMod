@@ -1,0 +1,21 @@
+# 113 - Squires
+
+#County title
+title = c_squires
+
+#Settlements
+max_settlements = 6
+b_squires_garden_centre = castle
+b_broadley = city
+b_wellis = city
+#b_hyrpoole = castle
+#b_potteries = castle
+#b_calor = castle
+#b_spamonster = castle
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = plains
+
+# History
