@@ -1,0 +1,301 @@
+1000 = {
+	name = "Josh"
+	dynasty = 1000
+	culture = "townie"
+	religion = "pupalitarian"
+	
+	diplomacy = 3
+	martial = 4
+	stewardship = 12
+	intrigue = 1
+	learning = 8
+	
+	random_traits = no
+	
+	add_trait = "fortune_builder"
+	add_trait = "organizer"
+	add_trait = "quick"
+	add_trait = "administrator"
+	add_trait = "diligent"
+	add_trait = "wroth"
+	add_trait = "zealous"
+	add_trait = "scholar"
+	add_trait = "twin"
+	
+	dna="0c0fb0cbdd0"
+	properties="ch0c0k000000000000"
+	
+	752.8.15 = {
+		birth = yes 
+	}
+	1452.1.1 = {
+		death = yes
+	}
+}
+
+1001 = {
+	name = "Caroline"
+	dynasty = 1000
+	culture = "haleian"
+	religion = "wiccan"
+	female = yes
+	
+	random_traits = no
+	
+	add_trait = elusive_shadow
+	add_trait = depressed
+	add_trait = is_fat
+	add_trait = groomed
+	add_trait = hedonist
+	add_trait = chaste
+	add_trait = patient
+	add_trait = gluttonous
+	add_trait = greedy
+	add_trait = slothful
+	add_trait = content
+	add_trait = cynical
+
+	752.1.1 = {
+		birth = yes 
+	}
+	1452.1.1 = {
+		death = yes
+	}
+}
+
+1002 = {
+	name = "Mullac"
+	dynasty = 1001
+	culture = "townie"
+	religion = "pupalitarian"
+	
+	diplomacy = 2
+	martial = 2
+	stewardship = 5
+	intrigue = 0
+	learning = 14
+	
+	random_traits = no
+	
+	add_trait = "mastermind_theologian"
+	add_trait = "aggressive_leader"
+	add_trait = "genius"
+	add_trait = "shrewd"
+	add_trait = "humble"
+	add_trait = "kind"
+	add_trait = "gregarious"
+	add_trait = "scholar"
+	add_trait = "erudite"
+	
+	dna="cdhba0dc0a0"
+	properties="cn0h0k000000000000"
+	
+	752.1.1 = {
+		birth = yes 
+	}
+	1452.1.1 = {
+		death = yes 
+	}
+}
+
+
+1003 = {
+	name = "Callum"
+	dynasty = 1002
+	culture = "townie"
+	religion = "pupalitarian"
+	
+	random_traits = no
+	
+	add_trait = underhanded_rogue
+	add_trait = feeble
+	add_trait = envious
+	add_trait = arbitrary
+	add_trait = flanker
+	add_trait = uncouth
+	
+
+	752.1.1 = {
+		birth = yes 
+	}
+	1452.1.1 = {
+		death = yes
+	}
+}
+
+1004 = {
+	name = "Byron"
+	dynasty = 1003
+	culture = "haleian"
+	religion = "weydonian"
+	
+	add_trait = scholarly_theologian
+	add_trait = groomed
+	add_trait = temperate
+	add_trait = wroth
+	add_trait = proud
+	add_trait = paranoid
+	add_trait = zealous
+	add_trait = trickster
+
+	752.1.1 = {
+		birth = yes 
+	}
+	1452.1.1 = {
+		death = yes
+	}
+}
+
+1005 = {
+	name = "Max"
+	dynasty = 1004
+	culture = "townie"
+	religion = "pupalitarian"
+	
+	random_traits = no
+	
+	add_trait = tough_soldier
+	add_trait = duelist
+	add_trait = wroth
+	add_trait = proud
+	add_trait = ambitious
+	add_trait = trusting
+	add_trait = honest
+	add_trait = paranoid
+	add_trait = aggressive_leader
+	add_trait = berserker
+	
+	752.1.1 = {
+		birth = yes 
+	}
+	1452.1.1 = {
+		death = yes
+	}
+}
+
+1006 = {
+	name = "Kial"
+	dynasty = 1005
+	culture = "haleian"
+	religion = "lollard"
+	
+	random_traits = no
+	add_trait = grey_eminence
+	add_trait = groomed
+	add_trait = socializer
+	add_trait = lustful
+	add_trait = gluttonous
+	add_trait = slothful
+	add_trait = envious
+	add_trait = proud
+	add_trait = arbitrary
+	add_trait = craven
+	add_trait = gregarious
+	add_trait = stubborn
+	add_trait = homosexual
+	add_trait = trickster
+
+	752.1.1 = {
+		birth = yes 
+	}
+	1452.1.1 = {
+		death = yes
+	}
+}
+
+1007 = {
+	name = "Stuart"
+	dynasty = 1005
+	culture = "haleian"
+	religion = "lollard"
+
+	752.1.1 = {
+		birth = yes 
+	}
+	1452.1.1 = {
+		death = yes
+	}
+}
+
+1008 = {
+	name = "Ben"
+	dynasty = 1001
+	culture = "haleian"
+	religion = "lollard"
+	
+	random_traits = no
+	
+	add_trait = thrifty_clerk
+	add_trait = sturdy
+	add_trait = gamer
+	add_trait = diligent
+	add_trait = kind
+	add_trait = gluttonous
+	add_trait = content
+	add_trait = honest
+	add_trait = stubborn
+	add_trait = siege_leader
+	
+
+	752.1.1 = {
+		birth = yes 
+	}
+	1452.1.1 = {
+		death = yes
+	}
+}
+	
+1009 = {
+	name = "Tom"
+	dynasty = 1006
+	culture = "rowlegian"
+	religion = "scat"
+	
+	random_traits = no
+	add_trait = flamboyant_schemer
+	add_trait = lunatic
+	add_trait = scarred_mid
+	add_trait = dull
+	add_trait = hunter
+	add_trait = greedy
+	add_trait = wroth
+	add_trait = arbitrary
+	add_trait = cruel
+	add_trait = paranoid
+	add_trait = craven
+	add_trait = aggressive_leader
+	add_trait = dynastic_kinslayer	
+
+	752.1.1 = {
+		birth = yes 
+	}
+	1452.1.1 = {
+		death = yes
+	}
+}
+
+1010 = {
+	name = "Gillan"
+	dynasty = 1007
+	culture = "townie"
+	religion = "pupalitarian"
+	
+	random_traits = no
+	add_trait = skilled_tactician
+	add_trait = scarred
+	add_trait = brawny
+	add_trait = impaler
+	add_trait = lustful
+	add_trait = greedy
+	add_trait = cruel
+	add_trait = deceitful
+	add_trait = unyielding_leader
+
+
+	752.1.1 = {
+		birth = yes 
+	}
+	1452.1.1 = {
+		death = yes
+	}
+}
