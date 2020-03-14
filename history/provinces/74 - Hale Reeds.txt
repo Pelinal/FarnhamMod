@@ -4,10 +4,10 @@
 title = c_hale_reeds
 
 #Settlements
-max_settlements = 7
-b_hallreed = city
-b_stream_cottage = temple
-b_knightsdale = castle
+max_settlements = 6
+b_hallreed = castle
+b_stream_cottage = city
+b_knightsdale = city
 #b_brookland = {}
 #b_tadpot_cottages = {}
 #b_middlegreen = {}

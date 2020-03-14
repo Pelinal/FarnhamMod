@@ -4,9 +4,9 @@
 title = c_st_johns
 
 #Settlements
-max_settlements = 7
+max_settlements = 6
 b_st_johns = castle
-b_radford = city
+b_radford = temple
 b_st_johns_church = temple
 b_hale_place = city
 #b_upperbell = {}

@@ -5,13 +5,13 @@ title = c_vicarage
 
 #Settlements
 max_settlements = 7
-b_the_old_vicarage = castle
-b_yolland = city
-b_cloxby = temple
+b_the_old_vicarage = temple
+b_yolland = castle
+b_cloxby = city
 #b_old_heath = {}
 #b_wood = {}
 #b_winterbourne = {}
-#b_newchapel = {}
+b_newchapel = temple
 
 #Misc
 culture = haleian

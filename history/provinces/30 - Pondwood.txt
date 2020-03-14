@@ -4,11 +4,11 @@
 title = c_pondwood
 
 #Settlements
-max_settlements = 7
-b_paddock_cottage = city
-b_pondwood = castle
+max_settlements = 4
+b_paddock_cottage = castle
+#b_pondwood = city
 b_keepers = temple
-b_middle_old_park = city
+#b_middle_old_park = city
 #b_footbridge = {}
 #b_pondcopse = {}
 #b_delaware_house = {}
@@ -16,6 +16,6 @@ b_middle_old_park = city
 #Misc
 culture = farmer
 religion = lollard
-terrain = farmlands
+terrain = woods
 
 # History

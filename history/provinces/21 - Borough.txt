@@ -5,9 +5,9 @@ title = c_borough
 
 #Settlements
 max_settlements = 7
-b_lion_and_lamb = city
+b_lion_and_lamb = castle
 b_queens_head = city
-b_foxyard = castle
+b_foxyard = temple
 b_poundland = city
 #b_piccolo = {}
 #b_goldsmiths = {}

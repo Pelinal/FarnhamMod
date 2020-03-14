@@ -5,8 +5,8 @@ title = c_brightwells
 
 #Settlements
 max_settlements = 7
-b_counciloffices = castle
-b_brightwell_house = city
+b_counciloffices = city
+b_brightwell_house = castle
 b_farnham_methodist_church = temple
 b_sainsburys = city
 b_liberal_club = castle
@@ -14,7 +14,7 @@ b_liberal_club = castle
 #b_dominos = {}
 
 #Misc
-culture = farmer
+culture = townie
 religion = lollard
 terrain = farmlands
 

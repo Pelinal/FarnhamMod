@@ -1,0 +1,21 @@
+# 86 - Wentworth
+
+#County title
+title = c_wentworth
+
+#Settlements
+max_settlements = 7
+b_weybourne_village_hall = castle
+b_wentworth = city
+b_fairways = temple
+b_wey_post_office = castle
+#b_vanilla_sprinkle = castle
+#b_presceli = castle
+#b_karelie = castle
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = woods
+
+# History

@@ -4,7 +4,7 @@
 title = c_coppice_close
 
 #Settlements
-max_settlements = 7
+max_settlements = 4
 b_the_coppice = castle
 b_mill_stream = city
 #b_newcome = {}

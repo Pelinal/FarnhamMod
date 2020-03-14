@@ -4,11 +4,11 @@
 title = c_hoghatch
 
 #Settlements
-max_settlements = 7
-b_hoghatch = city
+max_settlements = 6
+b_hoghatch = castle
 b_derwent = temple
 b_coniston = castle
-#b_folly_hill_infant_school = {}
+#b_folly_hill_infant_school = city
 #b_neptune = {}
 #b_ullswater = {}
 #b_ambleside = {}

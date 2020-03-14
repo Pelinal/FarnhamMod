@@ -4,8 +4,8 @@
 title = c_oakland
 
 #Settlements
-max_settlements = 7
-b_oakland = city
+max_settlements = 5
+b_oakland = castle
 b_the_warren = temple
 b_trevose = city
 #b_westview = {}

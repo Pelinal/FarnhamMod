@@ -4,7 +4,7 @@
 title = c_bishops_meadow
 
 #Settlements
-max_settlements = 7
+max_settlements = 4
 b_bishops_manor = city
 b_climbingtree = castle
 #b_eastweir = {}

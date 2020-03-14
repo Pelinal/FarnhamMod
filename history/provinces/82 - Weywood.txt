@@ -4,11 +4,11 @@
 title = c_weywood
 
 #Settlements
-max_settlements = 7
-b_weywood = city
-b_newcomer = castle
+max_settlements = 6
+b_weywood = castle
+b_newcomer = city
 b_st_davids = temple
-#b_premier = {}
+b_premier = city
 #b_stanley = {}
 #b_workwise = {}
 #b_alpha = {}

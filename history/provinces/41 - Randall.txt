@@ -4,11 +4,11 @@
 title = c_randall
 
 #Settlements
-max_settlements = 7
-b_randalls_cottage = city
+max_settlements = 5
+b_randalls_cottage = castle
 b_bushycoppice = city
 b_st_austells = temple
-b_southpath = castle
+#b_southpath = castle
 #b_randall_farm = {}
 #b_underbridge = {}
 #b_farstream = {}

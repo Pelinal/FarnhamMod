@@ -1,0 +1,21 @@
+# 127 - Stoke Hills
+
+#County title
+title = c_stoke_hills
+
+#Settlements
+max_settlements = 5
+b_stoke_hills = castle
+b_sunmer = city
+b_st_james_terrace = temple
+#b_heavens_kitchen = {}
+#b_adamspark = {}
+#b_winton = {}
+#b_stokecircle = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = hills
+
+# History

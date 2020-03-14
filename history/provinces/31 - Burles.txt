@@ -4,18 +4,18 @@
 title = c_burles
 
 #Settlements
-max_settlements = 7
+max_settlements = 5
 b_burles_lodge = castle
-b_burles_farm = temple
-b_woadlands = city
+b_burles_farm = city
+#b_woadlands = city
 #b_maplelodge = {}
 #b_freshpark = {}
-#b_wonmoor = {}
+b_wonmoor = temple
 #b_seymours = {}
 
 #Misc
 culture = townie
 religion = lollard
-terrain = plains
+terrain = farmlands
 
 # History

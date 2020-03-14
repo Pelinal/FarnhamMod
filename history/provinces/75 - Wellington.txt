@@ -4,8 +4,8 @@
 title = c_wellington
 
 #Settlements
-max_settlements = 7
-b_wellington = city
+max_settlements = 6
+b_wellington = castle
 b_texaco = city
 b_whitethorns = castle
 b_rojula = temple

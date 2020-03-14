@@ -4,8 +4,8 @@
 title = c_st_rhadegund
 
 #Settlements
-max_settlements = 7
-b_halfway_house = city
+max_settlements = 6
+b_halfway_house = castle
 b_halfway_cottage = city
 b_st_rhadegund = temple
 #b_doras_green_cottage = {}
@@ -16,6 +16,6 @@ b_st_rhadegund = temple
 #Misc
 culture = townie
 religion = lollard
-terrain = plains
+terrain = farmlands
 
 # History

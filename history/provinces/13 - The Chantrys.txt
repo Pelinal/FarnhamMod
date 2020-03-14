@@ -4,9 +4,9 @@
 title = c_chantrys
 
 #Settlements
-max_settlements = 7
+max_settlements = 5
+b_103_the_chantrys = castle
 b_mt_pleasant = city
-b_103_the_chantrys = temple
 b_waynflete = city
 #b_end_grove = {}
 #b_marston = {}
@@ -16,6 +16,6 @@ b_waynflete = city
 #Misc
 culture = townie
 religion = lollard
-terrain = plains
+terrain = hills
 
 # History

@@ -4,11 +4,11 @@
 title = c_potters_gate
 
 #Settlements
-max_settlements = 7
+max_settlements = 6
 b_potters_gate = castle
 b_potters_gate_school = city
 b_beaverchurch = temple
-#b_the_plough = {}
+b_the_plough = city
 #b_beerhouse = {}
 #b_holtkiln = {}
 #b_school_boundary = {}

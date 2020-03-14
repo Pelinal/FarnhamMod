@@ -3,9 +3,9 @@
 title = c_wimble
 
 #Settlements
-max_settlements = 7
-b_wimble_hill = city
-b_clare_park = castle
+max_settlements = 5
+b_wimble_hill = castle
+b_clare_park = city
 b_dippenpit = temple
 #b_spire = {}
 #b_oakdis = {}
@@ -15,6 +15,6 @@ b_dippenpit = temple
 #Misc
 culture = farmer
 religion = lollard
-terrain = farmland
+terrain = farmlands
 
 # History

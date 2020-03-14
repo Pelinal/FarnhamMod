@@ -1,0 +1,1778 @@
+99900 = {
+	name = "Enfield"
+	culture = townie
+	religion = waitrosian
+	used_for_random = no
+}
+###############################
+#British dyns: 601-1050
+###############################
+	
+# townie Dynasties
+601 = {
+	name = "Brown"
+	culture = "townie"
+}
+602 = {
+	name = "Hall"
+	culture = "townie"
+}
+603 = {
+	name = "Palmer"
+	culture = "townie"
+}
+604 = {
+	name = "Green"
+	culture = "townie"
+}
+605 = {
+	name = "Clark"
+	culture = "townie"
+}
+606 = {
+	name = "Quinn"
+	culture = "townie"
+}
+607 = {
+	name = "Harper"
+	culture = "townie"
+}
+608 = {
+	name = "Johnson"
+	culture = "townie"
+}
+609 = {
+	name = "Owen"
+	culture = "townie"
+}
+610 = {
+	name = "Ross"
+	culture = "townie"
+}
+611 = {
+	name = "Carr"
+	culture = "townie"
+}
+612 = {
+	name = "Allen"
+	culture = "townie"
+}
+613 = {
+	name = "Hunter"
+	culture = "townie"
+}
+614 = {
+	name = "Wilson"
+	culture = "townie"
+}
+615 = {
+	name = "Davis"
+	culture = "townie"
+}
+616 = {
+	name = "Rogers"
+	culture = "townie"
+}
+617 = {
+	name = "Anderson"
+	culture = "townie"
+}
+618 = {
+	name = "Jennings"
+	culture = "townie"
+}
+619 = {
+	name = "Day"
+	culture = "townie"
+}
+620 = {
+	name = "Jackson"
+	culture = "townie"
+}
+621 = {
+	name = "Hewitt"
+	culture = "townie"
+}
+622 = {
+	name = "Morgan"
+	culture = "townie"
+}
+623 = {
+	name = "Kelly"
+	culture = "townie"
+}
+624 = {
+	name = "Rowe"
+	culture = "townie"
+}
+625 = {
+	name = "Reynolds"
+	culture = "townie"
+}
+626 = {
+	name = "Austin"
+	culture = "townie"
+}
+627 = {
+	name = "Harding"
+	culture = "townie"
+}
+628 = {
+	name = "Hammond"
+	culture = "townie"
+}
+629 = {
+	name = "Buckley"
+	culture = "townie"
+}
+630 = {
+	name = "Burgess"
+	culture = "townie"
+}
+631 = {
+	name = "Glover"
+	culture = "townie"
+}
+632 = {
+	name = "Riley"
+	culture = "townie"
+}
+633 = {
+	name = "Willis"
+	culture = "townie"
+}
+634 = {
+	name = "Richardson"
+	culture = "townie"
+}
+635 = {
+	name = "Hawkins"
+	culture = "townie"
+}
+636 = {
+	name = "Doyle"
+	culture = "townie"
+}
+637 = {
+	name = "Wells"
+	culture = "townie"
+}
+638 = {
+	name = "Perry"
+	culture = "townie"
+}
+639 = {
+	name = "Heath"
+	culture = "townie"
+}
+640 = {
+	name = "Bates"
+	culture = "townie"
+}
+641 = {
+	name = "Steele"
+	culture = "townie"
+}
+642 = {
+	name = "Johnston"
+	culture = "townie"
+}
+643 = {
+	name = "Holland"
+	culture = "townie"
+}
+644 = {
+	name = "Barnett"
+	culture = "townie"
+}
+645 = {
+	name = "Jones"
+	culture = "townie"
+}
+646 = {
+	name = "Spencer"
+	culture = "townie"
+}
+647 = {
+	name = "Barry"
+	culture = "townie"
+}
+648 = {
+	name = "Hayes"
+	culture = "townie"
+}
+649 = {
+	name = "Grant"
+	culture = "townie"
+}
+650 = {
+	name = "Gardner"
+	culture = "townie"
+}
+651 = {
+	name = "Goodwin"
+	culture = "townie"
+}
+652 = {
+	name = "Cox"
+	culture = "townie"
+}
+653 = {
+	name = "Chambers"
+	culture = "townie"
+}
+654 = {
+	name = "Barrett"
+	culture = "townie"
+}
+655 = {
+	name = "Warren"
+	culture = "townie"
+}
+656 = {
+	name = "Little"
+	culture = "townie"
+}
+657 = {
+	name = "Coates"
+	culture = "townie"
+}
+658 = {
+	name = "Archer"
+	culture = "townie"
+}
+659 = {
+	name = "Mann"
+	culture = "townie"
+}
+660 = {
+	name = "Howell"
+	culture = "townie"
+}
+661 = {
+	name = "Dale"
+	culture = "townie"
+}
+662 = {
+	name = "Oliver"
+	culture = "townie"
+}
+663 = {
+	name = "Wheeler"
+	culture = "townie"
+}
+664 = {
+	name = "Andrews"
+	culture = "townie"
+}
+665 = {
+	name = "Waters"
+	culture = "townie"
+}
+666 = {
+	name = "Moss"
+	culture = "townie"
+}
+667 = {
+	name = "Briggs"
+	culture = "townie"
+}
+668 = {
+	name = "West"
+	culture = "townie"
+}
+669 = {
+	name = "Blake"
+	culture = "townie"
+}
+670 = {
+	name = "Patterson"
+	culture = "townie"
+}
+671 = {
+	name = "Higgins"
+	culture = "townie"
+}
+672 = {
+	name = "Francis"
+	culture = "townie"
+}
+673 = {
+	name = "Barber"
+	culture = "townie"
+}
+674 = {
+	name = "Frost"
+	culture = "townie"
+}
+675 = {
+	name = "Griffin"
+	culture = "townie"
+}
+676 = {
+	name = "Middleton"
+	culture = "townie"
+}
+677 = {
+	name = "Murphy"
+	culture = "townie"
+}
+678 = {
+	name = "Lambert"
+	culture = "townie"
+}
+679 = {
+	name = "Kent"
+	culture = "townie"
+}
+680 = {
+	name = "George"
+	culture = "townie"
+}
+681 = {
+	name = "Marsh"
+	culture = "townie"
+}
+682 = {
+	name = "Reed"
+	culture = "townie"
+}
+683 = {
+	name = "Page"
+	culture = "townie"
+}
+684 = {
+	name = "Stone"
+	culture = "townie"
+}
+685 = {
+	name = "Dean"
+	culture = "townie"
+}
+686 = {
+	name = "Booth"
+	culture = "townie"
+}
+687 = {
+	name = "Roberts"
+	culture = "townie"
+}
+688 = {
+	name = "Elliott"
+	culture = "townie"
+}
+689 = {
+	name = "Bailey"
+	culture = "townie"
+}
+690 = {
+	name = "Harris"
+	culture = "townie"
+}
+691 = {
+	name = "Bolton"
+	culture = "townie"
+}
+692 = {
+	name = "Morton"
+	culture = "townie"
+}
+693 = {
+	name = "Sanders"
+	culture = "townie"
+}
+694 = {
+	name = "Joyce"
+	culture = "townie"
+}
+695 = {
+	name = "James"
+	culture = "townie"
+}
+696 = {
+	name = "Smith"
+	culture = "townie"
+}
+697 = {
+	name = "Hill"
+	culture = "townie"
+}
+698 = {
+	name = "Douglas"
+	culture = "townie"
+}
+699 = {
+	name = "Thomson"
+	culture = "townie"
+}
+700 = {
+	name = "Murray"
+	culture = "townie"
+}
+701 = {
+	name = "Smith"
+	culture = "townie"
+}
+702 = {
+	name = "Johnson"
+	culture = "townie"
+}
+703 = {
+	name = "Williams"
+	culture = "townie"
+}
+704 = {
+	name = "Jones"
+	culture = "townie"
+}
+705 = {
+	name = "Brown"
+	culture = "townie"
+}
+706 = {
+	name = "Davis"
+	culture = "townie"
+}
+707 = {
+	name = "Miller"
+	culture = "townie"
+}
+708 = {
+	name = "Wilson"
+	culture = "townie"
+}
+709 = {
+	name = "Moore"
+	culture = "townie"
+}
+710 = {
+	name = "Taylor"
+	culture = "townie"
+}
+
+# haleian Dynasties
+711 = {
+	name = "Anderson"
+	culture = "haleian"
+}
+712 = {
+	name = "Thomas"
+	culture = "haleian"
+}
+713 = {
+	name = "Jackson"
+	culture = "haleian"
+}
+714 = {
+	name = "White"
+	culture = "haleian"
+}
+715 = {
+	name = "Harris"
+	culture = "haleian"
+}
+716 = {
+	name = "Martin"
+	culture = "haleian"
+}
+717 = {
+	name = "Thompson"
+	culture = "haleian"
+}
+718 = {
+	name = "Garcia"
+	culture = "haleian"
+}
+719 = {
+	name = "Martinez"
+	culture = "haleian"
+}
+720 = {
+	name = "Robinson"
+	culture = "haleian"
+}
+721 = {
+	name = "Clark"
+	culture = "haleian"
+}
+722 = {
+	name = "Rodriguez"
+	culture = "haleian"
+}
+723 = {
+	name = "Lewis"
+	culture = "haleian"
+}
+724 = {
+	name = "Lee"
+	culture = "haleian"
+}
+725 = {
+	name = "Walker"
+	culture = "haleian"
+}
+726 = {
+	name = "Hall"
+	culture = "haleian"
+}
+727 = {
+	name = "Allen"
+	culture = "haleian"
+}
+728 = {
+	name = "Young"
+	culture = "haleian"
+}
+729 = {
+	name = "Hernandez"
+	culture = "haleian"
+}
+730 = {
+	name = "King"
+	culture = "haleian"
+}
+731 = {
+	name = "Wright"
+	culture = "haleian"
+}
+732 = {
+	name = "Lopez"
+	culture = "haleian"
+}
+733 = {
+	name = "Hill"
+	culture = "haleian"
+}
+734 = {
+	name = "Scott"
+	culture = "haleian"
+}
+735 = {
+	name = "Green"
+	culture = "haleian"
+}
+736 = {
+	name = "Adams"
+	culture = "haleian"
+}
+737 = {
+	name = "Baker"
+	culture = "haleian"
+}
+738 = {
+	name = "Gonzalez"
+	culture = "haleian"
+}
+739 = {
+	name = "Nelson"
+	culture = "haleian"
+}
+740 = {
+	name = "Carter"
+	culture = "haleian"
+}
+741 = {
+	name = "Mitchell"
+	culture = "haleian"
+}
+742 = {
+	name = "Perez"
+	culture = "haleian"
+}
+743 = {
+	name = "Roberts"
+	culture = "haleian"
+}
+744 = {
+	name = "Turner"
+	culture = "haleian"
+}
+745 = {
+	name = "Phillips"
+	culture = "haleian"
+}
+746 = {
+	name = "Campbell"
+	culture = "haleian"
+}
+747 = {
+	name = "Parker"
+	culture = "haleian"
+}
+748 = {
+	name = "Evans"
+	culture = "haleian"
+}
+749 = {
+	name = "Edwards"
+	culture = "haleian"
+}
+750 = {
+	name = "Collins"
+	culture = "haleian"
+}
+751 = {
+	name = "Stewart"
+	culture = "haleian"
+}
+752 = {
+	name = "Sanchez"
+	culture = "haleian"
+}
+753 = {
+	name = "Morris"
+	culture = "haleian"
+}
+754 = {
+	name = "Rogers"
+	culture = "haleian"
+}
+755 = {
+	name = "Reed"
+	culture = "haleian"
+}
+756 = {
+	name = "Cook"
+	culture = "haleian"
+}
+757 = {
+	name = "Morgan"
+	culture = "haleian"
+}
+758 = {
+	name = "Bell"
+	culture = "haleian"
+}
+759 = {
+	name = "Murphy"
+	culture = "haleian"
+}
+760 = {
+	name = "Bailey"
+	culture = "haleian"
+}
+761 = {
+	name = "Rivera"
+	culture = "haleian"
+}
+762 = {
+	name = "Cooper"
+	culture = "haleian"
+}
+763 = {
+	name = "Richardson"
+	culture = "haleian"
+}
+764 = {
+	name = "Cox"
+	culture = "haleian"
+}
+765 = {
+	name = "Howard"
+	culture = "haleian"
+}
+766 = {
+	name = "Ward"
+	culture = "haleian"
+}
+767 = {
+	name = "Torres"
+	culture = "haleian"
+}
+768 = {
+	name = "Peterson"
+	culture = "haleian"
+}
+769 = {
+	name = "Gray"
+	culture = "haleian"
+}
+770 = {
+	name = "Ramirez"
+	culture = "haleian"
+}
+771 = {
+	name = "James"
+	culture = "haleian"
+}
+772 = {
+	name = "Watson"
+	culture = "haleian"
+}
+773 = {
+	name = "Brooks"
+	culture = "haleian"
+}
+774 = {
+	name = "Kelly"
+	culture = "haleian"
+}
+775 = {
+	name = "Sanders"
+	culture = "haleian"
+}
+776 = {
+	name = "Price"
+	culture = "haleian"
+}
+777 = {
+	name = "Bennett"
+	culture = "haleian"
+}
+778 = {
+	name = "Wood"
+	culture = "haleian"
+}
+779 = {
+	name = "Barnes"
+	culture = "haleian"
+}
+780 = {
+	name = "Ross"
+	culture = "haleian"
+}
+781 = {
+	name = "Henderson"
+	culture = "haleian"
+}
+782 = {
+	name = "Coleman"
+	culture = "haleian"
+}
+783 = {
+	name = "Jenkins"
+	culture = "haleian"
+}
+784 = {
+	name = "Perry"
+	culture = "haleian"
+}
+785 = {
+	name = "Powell"
+	culture = "haleian"
+}
+786 = {
+	name = "Long"
+	culture = "haleian"
+}
+787 = {
+	name = "Patterson"
+	culture = "haleian"
+}
+788 = {
+	name = "Hughes"
+	culture = "haleian"
+}
+789 = {
+	name = "Flores"
+	culture = "haleian"
+}
+790 = {
+	name = "Washington"
+	culture = "haleian"
+}
+791 = {
+	name = "Butler"
+	culture = "haleian"
+}
+792 = {
+	name = "Simmons"
+	culture = "haleian"
+}
+793 = {
+	name = "Foster"
+	culture = "haleian"
+}
+794 = {
+	name = "Gonzales"
+	culture = "haleian"
+}
+795 = {
+	name = "Bryant"
+	culture = "haleian"
+}
+796 = {
+	name = "Alexander"
+	culture = "haleian"
+}
+797 = {
+	name = "Russell"
+	culture = "haleian"
+}
+798 = {
+	name = "Griffin"
+	culture = "haleian"
+}
+799 = {
+	name = "Diaz"
+	culture = "haleian"
+}
+800 = {
+	name = "Hayes"
+	culture = "haleian"
+}
+801 = {
+	name = "Lee"
+	culture = "haleian"
+}
+802 = {
+	name = "Smith"
+	culture = "haleian"
+}
+803 = {
+	name = "Gill"
+	culture = "haleian"
+}
+804 = {
+	name = "Brown"
+	culture = "haleian"
+}
+805 = {
+	name = "Johnson"
+	culture = "haleian"
+}
+806 = {
+	name = "Wilson"
+	culture = "haleian"
+}
+807 = {
+	name = "Anderson"
+	culture = "haleian"
+}
+808 = {
+	name = "Jones"
+	culture = "haleian"
+}
+809 = {
+	name = "Taylor"
+	culture = "haleian"
+}
+810 = {
+	name = "Williams"
+	culture = "haleian"
+}
+811 = {
+	name = "Howard"
+	culture = "haleian"
+}
+812 = {
+	name = "Campbell"
+	culture = "haleian"
+}
+813 = {
+	name = "Macdonald"
+	culture = "haleian"
+}
+814 = {
+	name = "Miller"
+	culture = "haleian"
+}
+815 = {
+	name = "Martin"
+	culture = "haleian"
+}
+816 = {
+	name = "Young"
+	culture = "haleian"
+}
+817 = {
+	name = "Thompson"
+	culture = "haleian"
+}
+818 = {
+	name = "Scott"
+	culture = "haleian"
+}
+819 = {
+	name = "Stewart"
+	culture = "haleian"
+}
+820 = {
+	name = "White"
+	culture = "haleian"
+}
+
+# leeman Dynasties
+821 = {
+	name = "Park"
+	culture = "leeman"
+}
+822 = {
+	name = "Jones"
+	culture = "leeman"
+}
+823 = {
+	name = "Williams"
+	culture = "leeman"
+}
+824 = {
+	name = "Davies"
+	culture = "leeman"
+}
+825 = {
+	name = "Evans"
+	culture = "leeman"
+}
+826 = {
+	name = "Thomas"
+	culture = "leeman"
+}
+827 = {
+	name = "Roberts"
+	culture = "leeman"
+}
+828 = {
+	name = "Hughes"
+	culture = "leeman"
+}
+829 = {
+	name = "Lewis"
+	culture = "leeman"
+}
+830 = {
+	name = "Morgan"
+	culture = "leeman"
+}
+831 = {
+	name = "Griffiths"
+	culture = "leeman"
+}
+832 = {
+	name = "Edwards"
+	culture = "leeman"
+}
+833 = {
+	name = "Owen"
+	culture = "leeman"
+}
+834 = {
+	name = "James"
+	culture = "leeman"
+}
+835 = {
+	name = "Morris"
+	culture = "leeman"
+}
+836 = {
+	name = "Price"
+	culture = "leeman"
+}
+837 = {
+	name = "Rees"
+	culture = "leeman"
+}
+838 = {
+	name = "Phillips"
+	culture = "leeman"
+}
+839 = {
+	name = "Jenkins"
+	culture = "leeman"
+}
+840 = {
+	name = "Harris"
+	culture = "leeman"
+}
+
+# Welsh Dynasties
+841 = {
+	name = "Lloyd"
+	culture = "wreccleshese"
+}
+842 = {
+	name = "Smith"
+	culture = "wreccleshese"
+}
+843 = {
+	name = "Marshall"
+	culture = "wreccleshese"
+}
+844 = {
+	name = "Brown"
+	culture = "wreccleshese"
+}
+845 = {
+	name = "Stevenson"
+	culture = "wreccleshese"
+}
+846 = {
+	name = "Wilson"
+	culture = "wreccleshese"
+}
+847 = {
+	name = "Wood"
+	culture = "wreccleshese"
+}
+848 = {
+	name = "Thomson"
+	culture = "wreccleshese"
+}
+849 = {
+	name = "Sutherland"
+	culture = "wreccleshese"
+}
+850 = {
+	name = "Robertson"
+	culture = "wreccleshese"
+}
+851 = {
+	name = "Craig"
+	culture = "wreccleshese"
+}
+852 = {
+	name = "Campbell"
+	culture = "wreccleshese"
+}
+853 = {
+	name = "Wright"
+	culture = "wreccleshese"
+}
+854 = {
+	name = "Stewart"
+	culture = "wreccleshese"
+}
+855 = {
+	name = "Mckenzie"
+	culture = "wreccleshese"
+}
+856 = {
+	name = "Anderson"
+	culture = "wreccleshese"
+}
+857 = {
+	name = "Kennedy"
+	culture = "wreccleshese"
+}
+858 = {
+	name = "Macdonald"
+	culture = "wreccleshese"
+}
+859 = {
+	name = "Jones"
+	culture = "wreccleshese"
+}
+860 = {
+	name = "Scott"
+	culture = "wreccleshese"
+}
+
+# Scottish Dynasties
+861 = {
+	name = "Burns"
+	culture = "comptonic"
+}
+862 = {
+	name = "Reid"
+	culture = "comptonic"
+}
+863 = {
+	name = "White"
+	culture = "comptonic"
+}
+864 = {
+	name = "Murray"
+	culture = "comptonic"
+}
+865 = {
+	name = "Muir"
+	culture = "comptonic"
+}
+866 = {
+	name = "Taylor"
+	culture = "comptonic"
+}
+867 = {
+	name = "Murphy"
+	culture = "comptonic"
+}
+868 = {
+	name = "Clark"
+	culture = "comptonic"
+}
+869 = {
+	name = "Johnstone"
+	culture = "comptonic"
+}
+870 = {
+	name = "Mitchell"
+	culture = "comptonic"
+}
+871 = {
+	name = "Hughes"
+	culture = "comptonic"
+}
+872 = {
+	name = "Ross"
+	culture = "comptonic"
+}
+873 = {
+	name = "Watt"
+	culture = "comptonic"
+}
+874 = {
+	name = "Walker"
+	culture = "comptonic"
+}
+875 = {
+	name = "Mcmillan"
+	culture = "comptonic"
+}
+876 = {
+	name = "Paterson"
+	culture = "comptonic"
+}
+877 = {
+	name = "Mcintosh"
+	culture = "comptonic"
+}
+878 = {
+	name = "Young"
+	culture = "comptonic"
+}
+879 = {
+	name = "Milne"
+	culture = "comptonic"
+}
+880 = {
+	name = "Watson"
+	culture = "comptonic"
+}
+881 = {
+	name = "Mcclean"
+	culture = "comptonic"
+}
+882 = {
+	name = "Allen"
+	culture = "comptonic"
+}
+883 = {
+	name = "Anderson"
+	culture = "comptonic"
+}
+884 = {
+	name = "Bailey"
+	culture = "comptonic"
+}
+885 = {
+	name = "Brown"
+	culture = "comptonic"
+}
+886 = {
+	name = "Campbell"
+	culture = "comptonic"
+}
+887 = {
+	name = "Clarke"
+	culture = "comptonic"
+}
+888 = {
+	name = "Davis"
+	culture = "comptonic"
+}
+889 = {
+	name = "Dixon"
+	culture = "comptonic"
+}
+890 = {
+	name = "Francis"
+	culture = "comptonic"
+}
+891 = {
+	name = "Gordon"
+	culture = "comptonic"
+}
+892 = {
+	name = "Graham"
+	culture = "comptonic"
+}
+893 = {
+	name = "Grant"
+	culture = "comptonic"
+}
+894 = {
+	name = "Powell"
+	culture = "comptonic"
+}
+895 = {
+	name = "Green"
+	culture = "comptonic"
+}
+896 = {
+	name = "Grey"
+	culture = "comptonic"
+}
+897 = {
+	name = "Henry"
+	culture = "comptonic"
+}
+898 = {
+	name = "Higgins"
+	culture = "comptonic"
+}
+899 = {
+	name = "Jones"
+	culture = "comptonic"
+}
+900 = {
+	name = "Lawrence"
+	culture = "comptonic"
+}
+
+# hampshire_hog Dynasties
+901 = {
+	name = "Lewis"
+	culture = "hampshire_hog"
+}
+902 = {
+	name = "Jones"
+	culture = "hampshire_hog"
+}
+903 = {
+	name = "Smith"
+	culture = "hampshire_hog"
+}
+904 = {
+	name = "Taylor"
+	culture = "hampshire_hog"
+}
+905 = {
+	name = "Wilson"
+	culture = "hampshire_hog"
+}
+906 = {
+	name = "Reid"
+	culture = "hampshire_hog"
+}
+907 = {
+	name = "Thompson"
+	culture = "hampshire_hog"
+}
+908 = {
+	name = "King"
+	culture = "hampshire_hog"
+}
+909 = {
+	name = "Brown"
+	culture = "hampshire_hog"
+}
+910 = {
+	name = "Edwards"
+	culture = "hampshire_hog"
+}
+911 = {
+	name = "Anderson"
+	culture = "hampshire_hog"
+}
+912 = {
+	name = "Patel"
+	culture = "hampshire_hog"
+}
+913 = {
+	name = "Mills"
+	culture = "hampshire_hog"
+}
+914 = {
+	name = "Clark"
+	culture = "hampshire_hog"
+}
+915 = {
+	name = "Murray"
+	culture = "hampshire_hog"
+}
+916 = {
+	name = "Phillips"
+	culture = "hampshire_hog"
+}
+917 = {
+	name = "Walker"
+	culture = "hampshire_hog"
+}
+918 = {
+	name = "Shepherd"
+	culture = "hampshire_hog"
+}
+919 = {
+	name = "Johnson"
+	culture = "hampshire_hog"
+}
+920 = {
+	name = "Stewart"
+	culture = "hampshire_hog"
+}
+
+# farmer Dynasties
+921 = {
+	name = "Martin"
+	culture = "farmer"
+}
+922 = {
+	name = "Thomas"
+	culture = "farmer"
+}
+923 = {
+	name = "Armstrong"
+	culture = "farmer"
+}
+924 = {
+	name = "Scott"
+	culture = "farmer"
+}
+925 = {
+	name = "Harris"
+	culture = "farmer"
+}
+926 = {
+	name = "Hall"
+	culture = "farmer"
+}
+927 = {
+	name = "Bennett"
+	culture = "farmer"
+}
+928 = {
+	name = "Campbell"
+	culture = "farmer"
+}
+929 = {
+	name = "Carter"
+	culture = "farmer"
+}
+930 = {
+	name = "Shaw"
+	culture = "farmer"
+}
+931 = {
+	name = "Donovan"
+	culture = "farmer"
+}
+932 = {
+	name = "Greenwood"
+	culture = "farmer"
+}
+933 = {
+	name = "Hodgson"
+	culture = "farmer"
+}
+934 = {
+	name = "Hogan"
+	culture = "farmer"
+}
+935 = {
+	name = "Collins"
+	culture = "farmer"
+}
+936 = {
+	name = "Ward"
+	culture = "farmer"
+}
+937 = {
+	name = "Richardson"
+	culture = "farmer"
+}
+938 = {
+	name = "Rutherford"
+	culture = "farmer"
+}
+939 = {
+	name = "Cooper"
+	culture = "farmer"
+}
+940 = {
+	name = "Cox"
+	culture = "farmer"
+}
+941 = {
+	name = "Boone"
+	culture = "farmer"
+}
+942 = {
+	name = "Smith"
+	culture = "farmer"
+}
+943 = {
+	name = "Jones"
+	culture = "farmer"
+}
+944 = {
+	name = "Brown"
+	culture = "farmer"
+}
+945 = {
+	name = "Williams"
+	culture = "farmer"
+}
+946 = {
+	name = "Johnson"
+	culture = "farmer"
+}
+947 = {
+	name = "White"
+	culture = "farmer"
+}
+948 = {
+	name = "Wilson"
+	culture = "farmer"
+}
+949 = {
+	name = "Lee"
+	culture = "farmer"
+}
+950 = {
+	name = "Taylor"
+	culture = "farmer"
+}
+951 = {
+	name = "Green"
+	culture = "farmer"
+}
+952 = {
+	name = "Thomas"
+	culture = "farmer"
+}
+953 = {
+	name = "Thompson"
+	culture = "farmer"
+}
+954 = {
+	name = "Jackson"
+	culture = "farmer"
+}
+955 = {
+	name = "Anderson"
+	culture = "farmer"
+}
+956 = {
+	name = "Roberts"
+	culture = "farmer"
+}
+957 = {
+	name = "Harris"
+	culture = "farmer"
+}
+958 = {
+	name = "Davis"
+	culture = "farmer"
+}
+959 = {
+	name = "James"
+	culture = "farmer"
+}
+960 = {
+	name = "Martin"
+	culture = "farmer"
+}
+
+### basegame
+1022189=
+{
+	name="Verinus"
+	culture="roman"
+	religion="miaphysite"
+	forced_coa_religiongroup="christian"
+}
+1022190=
+{
+	name="Marcianus"
+	culture="roman"
+	religion="orthodox"
+	forced_coa_religiongroup="christian"
+}
+1022191=
+{
+	name="Theodosius"
+	culture="roman"
+	religion="orthodox"
+	forced_coa_religiongroup="christian"
+}
+1022192=
+{
+	name="Constantius"
+	culture="roman"
+	religion="catholic"
+	forced_coa_religiongroup="christian"
+}
+1022193=
+{
+	name="Valentinianus"
+	culture="roman"
+	religion="catholic"
+	forced_coa_religiongroup="christian"
+}
+1022194=
+{
+	name="Iovianus"
+	culture="roman"
+	religion="catholic"
+	forced_coa_religiongroup="christian"
+}
+1022195=
+{
+	name="Constantinus"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022196=
+{
+	name="Licinianus"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022197=
+{
+	name="Daia"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022198=
+{
+	name="Armentarius"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022199=
+{
+	name="Diocletianus"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022200=
+{
+	name="Carus"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022201=
+{
+	name="Dalmatius"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022202=
+{
+	name="Tacitus"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022203=
+{
+	name="Crinitus"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022204=
+{
+	name="Domitius"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022205=
+{
+	name="Gothicus"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022206=
+{
+	name="Valerianus"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022207=
+{
+	name="Aemilius"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022208=
+{
+	name="Trebonianus"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022209=
+{
+	name="Messius"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022210=
+{
+	name="Arabs"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022211=
+{
+	name="Africanus"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022212=
+{
+	name="Calvinus"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022213=
+{
+	name="Maximus"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022214=
+{
+	name="Thrax"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022215=
+{
+	name="Severus"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022216=
+{
+	name="Antoninus"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022217=
+{
+	name="Opellius"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022218=
+{
+	name="Severus"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022219=
+{
+	name="Didius"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022220=
+{
+	name="Helvius"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022221=
+{
+	name="Aurelius"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022222=
+{
+	name="Verus"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022223=
+{
+	name="Pius"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022224=
+{
+	name="Hadrianus"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022225=
+{
+	name="Traianus"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022226=
+{
+	name="Cocceius"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022227=
+{
+	name="Flavius"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022228=
+{
+	name="Vitellius"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022229=
+{
+	name="Salvius"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022230=
+{
+	name="Sulpicius"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022231=
+{
+	name="Pompeius"
+	culture="roman"
+	religion="miaphysite"
+	forced_coa_religiongroup="christian"
+}
+1022232=
+{
+	name="Claudius"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022233=
+{
+	name="Maximianus"
+	culture="roman"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}

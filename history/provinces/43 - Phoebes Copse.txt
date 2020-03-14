@@ -4,7 +4,7 @@
 title = c_phoebes_copse
 
 #Settlements
-max_settlements = 7
+max_settlements = 2
 b_phoebe_lodge = tribal
 #b_bishops_paddock = temple
 #b_chorleywood = castle

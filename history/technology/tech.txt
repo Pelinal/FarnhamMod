@@ -1,0 +1,68 @@
+
+technology = {
+	titles = {
+		d_guildford_road
+		d_ticehurst
+		d_lower_hale
+		d_rowhills
+		d_orlando
+		d_dippenhall
+		d_st_rhadegund
+		d_the_triangle
+		d_shepherd_and_flock
+	}
+	
+	2018 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+	
+}
+
+technology = {
+	titles = {
+		d_preymead
+		d_north_park
+		d_blackbrook
+		d_manorsedge
+		d_farmlands
+		d_alton_road
+		d_crondall_vale
+	}
+	
+	2018 = {
+		military = 0.5
+		economy = 0.5
+		culture = 0.5
+	}	
+}
+
+technology = {
+	titles = {
+		d_town
+		d_farnham_bypass
+		d_the_hart
+		d_castle
+		d_west_farnham
+		d_upper_hale
+		d_sandy_hill
+		d_heath_end
+		d_chennels
+		d_farnborough_road
+		d_upper_weybourne
+		d_water_lane
+		d_badshot_lea
+		d_lower_weybourne
+		d_nuffield
+		d_southview
+		d_weybank
+		d_borelli
+	}
+
+	2018 = {
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
+	}
+}

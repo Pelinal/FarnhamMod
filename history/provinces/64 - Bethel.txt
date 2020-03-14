@@ -4,11 +4,11 @@
 title = c_bethel
 
 #Settlements
-max_settlements = 7
-b_bethel = city
+max_settlements = 6
+b_bethel = castle
 b_rushden = city
 b_bethel_baptist_church = temple
-#b_poplar = {}
+b_poplar = castle
 #b_battlax = {}
 #b_elmway = {}
 #b_knowlestail = {}

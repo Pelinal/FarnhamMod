@@ -15,7 +15,7 @@ b_rushmore = castle
 
 #Misc
 culture = roman
-religion = lollard
+religion = hellenic_pagan
 terrain = forest
 
 # History

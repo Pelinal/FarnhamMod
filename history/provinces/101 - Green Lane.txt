@@ -1,7 +1,7 @@
 # 101 - Green Lane
 
 #County title
-title = c_badshot_park
+title = c_green_lane
 
 #Settlements
 max_settlements = 5

@@ -4,7 +4,7 @@
 title = c_endeavour
 
 #Settlements
-max_settlements = 7
+max_settlements = 6
 b_runwick_house = city
 b_travis_perkins = castle
 b_rudridge = temple

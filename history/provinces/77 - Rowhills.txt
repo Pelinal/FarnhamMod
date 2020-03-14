@@ -4,10 +4,10 @@
 title = c_rowhills
 
 #Settlements
-max_settlements = 7
+max_settlements = 4
 b_the_royal_arms = castle
 b_rowhill = city
-b_carter = temple
+#b_carter = temple
 #b_hillcrest = {}
 #b_acornkeep = {}
 #b_tga_living = {}

@@ -1,0 +1,22 @@
+### Temp Chars ###
+
+111000 = {
+	name = "Augustus"
+	dynasty = 8648 # Octavianus
+	religion = hellenic_pagan
+	culture = roman
+	
+	add_trait = genius
+	add_trait = strong
+	add_trait = brilliant_strategist
+	add_trait = inspiring_leader
+	add_trait = strategist
+	
+	2000.1.1 = {
+		birth = yes
+	}
+	
+	2080.1.1 = {
+		death = yes
+	}
+}

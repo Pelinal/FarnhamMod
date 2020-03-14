@@ -4,10 +4,10 @@
 title = c_bushyreeds
 
 #Settlements
-max_settlements = 7
+max_settlements = 4
 b_bushyreed = castle
 b_potts_farm = city
-b_old_tiles = city
+#b_old_tiles = city
 #b_cupsmiths = {}
 #b_runwick_hill_house = {}
 #b_the_oaks = {}

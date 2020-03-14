@@ -1,0 +1,21 @@
+# 135 - Trading Estate
+
+#County title
+title = c_trading_estate
+
+#Settlements
+max_settlements = 7
+b_reserve_barracks = castle
+b_homebase = city
+b_halfords = city
+b_beefeater = city
+b_pets_at_home = city
+#b_community_recycling_centre =
+#b_premier_inn = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = plains
+
+# History

@@ -4,8 +4,8 @@
 title = c_hale_school
 
 #Settlements
-max_settlements = 7
-b_hale_school = city
+max_settlements = 5
+b_hale_school = castle
 b_the_bungalow = city
 b_gravelscythe = temple
 #b_surestart = {}

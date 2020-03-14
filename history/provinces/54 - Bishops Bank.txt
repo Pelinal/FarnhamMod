@@ -4,9 +4,9 @@
 title = c_bishops_bank
 
 #Settlements
-max_settlements = 7
-b_bourley = city
-b_hillbrow = castle
+max_settlements = 3
+b_bourley = castle
+b_hillbrow = temple
 #b_kestrel = {}
 #b_foxway = {}
 #b_nuthatch = {}

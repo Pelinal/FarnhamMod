@@ -4,8 +4,8 @@
 title = c_woodside
 
 #Settlements
-max_settlements = 7
-b_woodside_cottages = city
+max_settlements = 4
+b_woodside_cottages = castle
 b_stables = temple
 #b_the_riding_centre = {}
 #b_westdrain = {}

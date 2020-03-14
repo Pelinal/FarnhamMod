@@ -1,0 +1,21 @@
+# 129 - Hatch Mill
+
+#County title
+title = c_hatch_mill
+
+#Settlements
+max_settlements = 3
+#b_hatch_mill_house = {}
+b_hatch_mill = castle
+b_weychurch = temple
+#b_meander = {}
+#b_roadwoods = {}
+#b_oldhome = {}
+#b_bypass_way = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = woods
+
+# History

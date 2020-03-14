@@ -4,9 +4,9 @@
 title = c_beaconhill
 
 #Settlements
-max_settlements = 7
+max_settlements = 4
 b_beaconhill = castle
-b_bricksbury_hill = castle
+#b_bricksbury_hill = castle
 b_woolworth = temple
 #b_longpath = {}
 #b_conifern = {}
@@ -16,6 +16,6 @@ b_woolworth = temple
 #Misc
 culture = haleian
 religion = lollard
-terrain = plains
+terrain = woods
 
 # History

@@ -4,10 +4,10 @@
 title = c_westland
 
 #Settlements
-max_settlements = 7
-b_westlodge = city
+max_settlements = 4
+b_westlodge = castle
 b_northbrook_mews = city
-b_porta_romana = temple
+#b_porta_romana = temple
 #b_caspian = {}
 #b_northbrook_farm = {}
 #b_fishpond = {}
@@ -16,6 +16,6 @@ b_porta_romana = temple
 #Misc
 culture = farmer
 religion = lollard
-terrain = farmland
+terrain = farmlands
 
 # History

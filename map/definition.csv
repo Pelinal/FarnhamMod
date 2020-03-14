@@ -4,12 +4,12 @@ province;red;green;blue;x;x
 3;50;14;248;Heath End;x
 4;168;12;2;Stovold;x
 5;0;15;130;Wimble;x
-6;168;45;177;Moor Park;x # FOR: K_MOOR_PARK
-7;84;21;131;Firgrove;x # FOR: K_FIRGROVE
-8;126;24;4;Bourne;x # FOR: K_BOURNE
-9;168;27;132;Shortheath and Boundstone;x # FOR: K_SHORTHEATH_AND_BOUNDSTONE
-10;0;30;5;Wrecclesham;x # FOR: K_WRECCLESHAM
-11;42;33;133;Rowledge;x # FOR: K_ROWLEDGE
+6;168;45;177;Monkswell;x
+7;84;21;131;;x # FOR: K_FIRGROVE
+8;126;24;4;;x # FOR: K_BOURNE
+9;168;27;132;;x # FOR: K_SHORTHEATH_AND_BOUNDSTONE
+10;0;30;5;;x # FOR: K_WRECCLESHAM
+11;42;33;133;;x # FOR: K_ROWLEDGE
 12;84;36;6;Babbsmead;x ### k_farnham
 13;126;39;134;The Chantrys;x
 14;168;42;7;Crondall;x
@@ -118,74 +118,74 @@ province;red;green;blue;x;x
 117;84;138;186;West Farm;x
 118;126;141;59;Ticehurst;x
 119;168;144;187;Park Row;x ######## ADDED TO K_FARNHAM
-120;0;147;60;;x
-121;42;150;188;;x
-122;84;153;61;;x
-123;126;156;189;;x
-124;168;159;62;;x
-125;0;162;190;;x
-126;42;165;63;;x
-127;84;168;191;;x
-128;126;171;64;;x
-129;168;174;192;;x
-130;0;177;65;;x
-131;42;180;193;;x
-132;84;183;66;;x
-133;126;186;194;;x
-134;168;189;67;;x
-135;0;192;195;;x
-136;42;195;68;;x
-137;84;198;196;;x
-138;126;201;69;;x
-139;168;204;197;;x
-140;0;207;70;;x
-141;42;210;198;;x
-142;84;0;71;;x
-143;126;3;199;;x
-144;168;6;72;;x
-145;0;9;200;;x
-146;42;12;73;;x
-147;84;15;201;;x
-148;126;18;74;;x
-149;168;21;202;;x
-150;0;24;75;;x
-151;42;27;203;;x
-152;84;30;76;;x
-153;126;33;204;;x
-154;168;36;77;;x
-155;0;39;205;;x
-156;42;42;78;;x
-157;84;45;206;;x
-158;126;48;79;;x
-159;168;51;207;;x
-160;0;54;80;;x
-161;42;57;208;;x
-162;84;60;81;;x
-163;126;63;209;;x
-164;168;66;82;;x
-165;0;69;210;;x
-166;42;72;83;;x
-167;84;75;211;;x
-168;126;78;84;;x
-169;168;81;212;;x
-170;0;84;85;;x
-171;42;87;213;;x
-172;84;90;86;;x
-173;126;93;214;;x
-174;168;96;87;;x
-175;0;99;215;;x
-176;42;102;88;;x
-177;84;105;216;;x
-178;126;108;89;;x
-179;168;111;217;;x
-180;0;114;90;;x
-181;42;117;218;;x
-182;84;120;91;;x
-183;126;123;219;;x
-184;168;126;92;;x
-185;0;129;220;;x
-186;42;132;93;;x
-187;84;135;221;;x
+120;0;147;60;Borelli;x ### k_moor_park
+121;42;150;188;G9 HQ;x
+122;84;153;61;Weybank;x
+123;126;156;189;Leisure Centre;x
+124;168;159;62;Dogflud;x
+125;0;162;190;Woolmead;x
+126;42;165;63;Beaufort;x
+127;84;168;191;Stoke Hills;x
+128;126;171;64;Riverside;x
+129;168;174;192;Hatch Mill;x
+130;0;177;65;Fire Station;x
+131;42;180;193;Stephendale;x
+132;84;183;66;Haven;x
+133;126;186;194;Roman Way;x
+134;168;189;67;Farnham Hospital;x
+135;0;192;195;Trading Estate;x
+136;42;195;68;Shepherd and Flock;x ### k_moor_park below the bypass
+137;84;198;196;Snailslynch;x
+138;126;201;69;High Mill;x # b_high_mill_house
+139;168;204;197;Kilnside;x # b_kilnside farm b_rock_house
+140;0;207;70;Moor Park Farm;x
+141;42;210;198;Swifts;x
+142;84;0;71;Broomfleaf;x
+143;126;3;199;Lynch;x
+144;168;6;72;Waverley Grange;x
+145;0;9;200;Tuckwell;x
+146;42;12;73;South Farnham;x
+147;84;15;201;Abbey School;x
+148;126;18;74;Stoneyfields;x
+149;168;21;202;Abbotts End;x
+150;0;24;75;Old Compton;x # b_upplands
+151;42;27;203;Culverlands;x
+152;84;30;76;Compton;x
+153;126;33;204;Compton Wood;x
+154;168;36;77;Moor Park;x
+155;0;39;205;Princess;x # b_princess_royal_cottages
+156;42;42;78;Barfield;x # b_the_lodge
+157;84;45;206;Barfield School;x # b_barfield_lodge
+158;126;48;79;Bridgeview;x
+159;168;51;207;The Willows;x
+160;0;54;80;Old Stoneyard;x
+161;42;57;208;Downshill;x # b_caravan_at_the_pumphouse
+162;84;60;81;Runfold Manor;x
+163;126;63;209;Tongham Vale;x
+164;168;66;82;Workings;x
+165;0;69;210;Runfold;x # b_westgarth
+166;42;72;83;Briardene;x
+167;84;75;211;Whiteways;x
+168;126;78;84;Dene Way;x
+169;168;81;212;Quernsmuir;x
+170;0;84;85;Oldcoach;x # b_old_coach_house
+171;42;87;213;Homefield;x
+172;84;90;86;North Downs;x
+173;126;93;214;Southmoor;x # b_moor_park_house
+174;168;96;87;Wallgarden;x # b_the_walled_garden
+175;0;99;215;Delarden;x
+176;42;102;88;Winding Wood;x
+177;84;105;216;;x # Moor Park Fields # WASTELAND!!
+178;126;108;89;Waverley Lane;x
+179;168;111;217;Northbranch;x
+180;0;114;90;The Cedars;x
+181;42;117;218;Greenacres;x
+182;84;120;91;Rosemont;x
+183;126;123;219;Botany;x
+184;168;126;92;Sandyacres;x
+185;0;129;220;Grove;x
+186;42;132;93;Thurlestone;x
+187;84;135;221;;x # k_firgrove
 188;126;138;94;;x
 189;168;141;222;;x
 190;0;144;95;;x

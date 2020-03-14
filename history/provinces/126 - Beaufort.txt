@@ -1,0 +1,21 @@
+# 126 - Beaufort
+
+#County title
+title = c_beaufort
+
+#Settlements
+max_settlements = 4
+b_beaufort = castle
+b_wykeham = city
+b_st_cross = temple
+#b_thorold = {}
+#b_shrine_museum = {}
+#b_toyota = {}
+#b_upper_southview = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = plains
+
+# History

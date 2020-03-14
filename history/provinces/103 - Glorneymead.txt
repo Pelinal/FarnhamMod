@@ -1,0 +1,21 @@
+# 103 - Glorneymead
+
+#County title
+title = c_glorneymead
+
+#Settlements
+max_settlements = 5
+b_swiftshore = castle
+b_glorneymead = city
+b_christpond = temple
+#b_farnham_angling_society = castle
+#b_egret = castle
+#b_bittern = castle
+#b_glebe = castle
+
+#Misc
+culture = leeman
+religion = lollard
+terrain = woods
+
+# History

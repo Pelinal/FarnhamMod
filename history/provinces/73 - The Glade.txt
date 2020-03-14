@@ -4,9 +4,9 @@
 title = c_the_glade
 
 #Settlements
-max_settlements = 7
-b_the_glade = city
-b_whitehouse = castle
+max_settlements = 5
+b_the_glade = castle
+b_whitehouse = city
 b_queen_annes = temple
 #b_almaway = {}
 #b_raindance = {}

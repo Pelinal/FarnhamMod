@@ -4,11 +4,11 @@
 title = c_lawday
 
 #Settlements
-max_settlements = 7
-b_lawday_house_farm = city
-b_shell = castle
-b_tech_recycle = temple
-#b_halcyon = {}
+max_settlements = 6
+b_lawday_house_farm = castle
+b_shell = city
+b_tech_recycle = city
+b_halcyon = temple
 #b_landfall = {}
 #b_yew_tree_lodge = {}
 #b_housegate = {}

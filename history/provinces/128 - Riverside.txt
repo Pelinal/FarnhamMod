@@ -1,0 +1,21 @@
+# 128 - Riverside
+
+#County title
+title = c_riverside
+
+#Settlements
+max_settlements = 7
+b_riverside = castle
+b_wolseley = city
+b_riverside_st_james = temple
+b_papa_johns = city
+#b_lotusland = {}
+#b_carpetright = {}
+#b_merrowtyre = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = plains
+
+# History

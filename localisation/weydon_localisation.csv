@@ -1,0 +1,171 @@
+god_emperor;CEO;;;;;;;;;;;;;x
+e_weydon;Weydon;;;;;;;;;;;;;x
+e_weydon_adj;Weydonian;;;;;;;;;;;;;x
+EVTDESC_weydon_01;You are God Emperor Winter, CEO of the 'Weydon Academy Trust' and true emperor of all mankind! These are your legions, thousands of former Weydonians at your command, brainwashed through years of torment in the dungeons of Big V, these Student Leaders now serve as a means to an end.\n\nMay your empire conquer all who oppose your might!;;;;;;;;;;;;;x
+EVTNAME_weydon_01;Of Tyranny & Torture;;;;;;;;;;;;;x
+EVTOPTA_weydon_01;The world shall burn.;;;;;;;;;;;;;x
+EVTDESC_weydon_02;You are immortal! Therefore you shouldn't suffer the effects of old age or harm. Any blow that doesn't kill you, only makes you stronger.;;;;;;;;;;;;;x
+EVTOPTA_weydon_02;Ah that's better.;;;;;;;;;;;;;x
+nick_big_v;Big V;;;;;;;;;;;;;x
+nick_adolf_vinter;Mr. Vinter;;;;;;;;;;;;;x
+nick_freebie_jeebies;Freebie Jeebies;;;;;;;;;;;;;x
+weydonian;Weydonian;;;;;;;;;;;;;x
+weydonian_DESC;The Weydonian church is the political, social and religious philosophy that is forced upon the 'students' who attend Weydon School. It invloves the complete loss of identity and requires followers to become drones who serve only at the Lord Winter's command. Human sacrifice and torture are common practices among the prefectures and higher ranking members of the clergy.\n;;;;;;;;;;;;;x
+pupalitarian;Pupalitarian;;;;;;;;;;;;;x
+pupalitarian_DESC;Pupalitarianism is a direct response to the dictatorial power and ruthless methods used by the Weydonian church. They believe in freedom of speech and are strongly opposed to the rule of the Lord Winter and thus refuse to acknowledge his godhood.\n;;;;;;;;;;;;;x
+CONFISCATION;Confiscation War;;;;;;;;;;;;;x
+THE_WEYDONIAN;The Weydonian;;;;;;;;;;;;;x
+PREFECT;Student Leader;;;;;;;;;;;;;x
+THE_QUEUE;Canteen Queue War;;;;;;;;;;;;;x
+nick_sharmanator;the Sharmanator;;;;;;;;;;;;x
+NEW_WEYDONIA;New Weydon;;;;;;;;;;;;x
+d_weydonian;The Weydonian Church;;;;;;;;;;;;x
+d_pupalitarian;The Pupalitarian Church;;;;;;;;;;;;x
+
+STAT_PIETY_LUNCH_PASSES;Lunch Passes;;;;;;;;;;;;x
+STAT_PIETY_CHILDRENS_SOULS;Children's Souls;;;;;;;;;;;;x
+STAT_MENU_PIETY_LUNCH_PASSES;Lunch Passes;;;;;;;;;;;;x
+STAT_MENU_PIETY_CHILDRENS_SOULS;Children's Souls;;;;;;;;;;;;x
+STAT_PIETY_MENU_LUNCH_PASSES;Lunch Passes;;;;;;;;;;;;x
+STAT_PIETY_MENU_CHILDRENS_SOULS;Children's Souls;;;;;;;;;;;;x
+
+a_new_weydon;Form a New Weydon;;;;;;;;;;;;x
+a_new_weydon_desc;Those poor students who still live under the cruel yoke of Lord Winter and the Weydonians must be liberated! We will create a new utopia for those cursed souls.;;;;;;;;;;;;x
+buy_school_uniform;Go to Brenda's;;;;;;;;;;;;x
+buy_school_uniform_desc;Despite the ludicrously high prices, you are required to purchase a set of the Weydon School Uniform. Brenda's is the most convenient supplier of these uniforms.;;;;;;;;;;;;x
+pupalitarian_donate_to_freebs;Send a Donation;;;;;;;;;;;;x
+pupalitarian_donate_to_freebs_desc;Send a donation to the Pupalitarian Church and earn more lunch passes and potentially gain the favour of [Root.GetTitledFirstName] himself!;;;;;;;;;;;;x
+use_the_ipad;Use the iPad;;;;;;;;;;;;x
+use_the_ipad_desc;The iPads of Weydon are advanced technological devices that house most of the data from history... and the future. Using your ability as a scholar, you may be able to unlock its secrets!;;;;;;;;;;;;x
+pupalitarian_drone_freebs;Request a Drone;;;;;;;;;;;;x
+pupalitarian_drone_freebs_desc;By requesting a drone from [Root.GetTitledFirstName], we can discover the whereabouts of the enemy and survive longer in their territory with knowledge of their movements.;;;;;;;;;;;;x
+buy_an_ipad;Buy an iPad;;;;;;;;;;;;x
+buy_an_ipad_desc;Buy an iPad at exorbitant prices at the hopes of discovering the deeper knowledge found on the 'internet'.;;;;;;;;;;;;x
+
+blessing_of_freebs;Blessing of Freebs;;;;;;;;;;;;x
+curse_of_freebs;Curse of Freebs;;;;;;;;;;;;x
+ipad_knowledge;iPad granted knowledge;;;;;;;;;;;;x
+ipad_no_knowledge;Failed to understand the iPad's teachings.;;;;;;;;;;;;x
+drones_away;Using drones for reconaissance;;;;;;;;;;;;x
+refused_drones;Weren't allowed to use the drones.;;;;;;;;;;;;x
+claims_on_britain_tt;You will gain claims on all of Wales, England and Scotland.;;;;;;;;;;;;x
+
+EVTNAME_weydon_04;The Pupalitarian Uprising;;;;;;;;;;;;x
+EVTDESC_weydon_04;May it be known! The great [Root.GetTitledFirstName] of the Weydon Empire has been unmatched in their conquests of Britain and the surrounding area... however a new rival approaches.\n\nThe once dormant Pupalitarian faith has risen under the command of [pupalitarian_leader.GetFirstName] with the aim of destroying Weydon and their dictatorial regime!\n\nWill these zealots prevail? Or will [Root.GetFirstName]'s reign of terror continue for centuries more?;;;;;;;;;;;;x
+EVTOPTA_weydon_04;Weydonian Hegemony is at an end!;;;;;;;;;;;;x
+EVTNAME_weydon_05;A New Weydon;;;;;;;;;;;;x
+EVTDESC_weydon_05;Freedom at last! The people of the Weydon Empire now rejoyce as thanks to the efforts of [FromFrom.GetBestName] they are now free of the tyrannical Mr. Winter!\n\nA New CEO has been chosen and they are sure to bring about a new age of prosperity and peace in the Weydon Empire. This victory is not just one for democracy, but also one for all the Pupalitarians out there that wished to see Winter overthrown.\n\Hallelujah! We are finally free!;;;;;;;;;;;;x
+EVTOPTA_weydon_05;A new age begins today!;;;;;;;;;;;;x
+EVTDESC_weydon_06;You have arrived at Brenda's and are presented with a collection of foul-smelling 'new' school clothes.\n\nAfter an awkward attempt of trying on the new attire, you have finally decided to buy...;;;;;;;;;;;;x
+EVTOPTA_weydon_06;A jumper.;;;;;;;;;;;;x
+EVTOPTB_weydon_06;A tie.;;;;;;;;;;;;x
+EVTOPTC_weydon_06;Nothing, these prices are extortionate!;;;;;;;;;;;;x
+EVTDESC_weydon_07;You, [Root.GetBestName], are one of the students who fled the Weydon Empire after Lord Winter's consolidation of power and the rise of his tyrannical regime. It is therefore your duty to rid the world of this threat and end his rule once and for all! It will not be easy, and most people in Europe are unaware of the rising threat, so you must save them all.;;;;;;;;;;;;x
+EVTOPTA_weydon_07;By the grace of [Root.Religion.GetRandomGodName], we shall prevail!;;;;;;;;;;;;x
+EVTDESC_weydon_09_good;Dear [Root.GetTitledFirstName],\nI have just recieved the donation you sent to me and the Pupalitarian church. I appriciate your offering and have decided to grant to you a small fraction of my power... a mere 0.00001% perhaps? It shall serve as a fitting reward for a loyal pupil.\n\nSigned,\n[From.GetTitledFirstName];;;;;;;;;;;;;x
+EVTDESC_weydon_09_bad;Dear [Root.GetTitledFirstName],\nI have just recieved the donation you sent to me and the Pupalitarian church. Quite frankly, I am disgusted that you'd think the church and myself can be swayed so easily! This outrage will not stand and I shall curse you for the time being, may it serve as punishment for this insult.\n\nSigned,\n[From.GetTitledFirstName];;;;;;;;;;;;;x
+EVTOPTA_weydon_09;I am just a object of your will.;;;;;;;;;;;;x
+EVTOPTB_weydon_09;My apologies, I thought it would please you.;;;;;;;;;;;;x
+EVTDESC_weydon_10;You have decided to tap into the vast database of knowledge that is held within the iPad Air.\n\nThough your efforts may be futile, the rewards are too great to ignore... which field of study would be best?;;;;;;;;;;;;x
+EVTOPTA_weydon_10;Martial, I seek strength.;;;;;;;;;;;;x
+EVTOPTB_weydon_10;Diplomacy, people will adore me.;;;;;;;;;;;;x
+EVTOPTC_weydon_10;Stewardship, I want more money.;;;;;;;;;;;;x
+EVTOPTD_weydon_10;Intrigue, there are people I'd see dead.;;;;;;;;;;;;x
+EVTDESC_weydon_11_good;Ah ha! It seems your studies using the iPad have bourne fruit!\n\nYour knowledge of the chosen subject has increased and you are motivated by your discoveries here today.;;;;;;;;;;;;x
+EVTDESC_weydon_11_bad;Oh no! It seems your studies using the iPad have ended in disaster...\n\nYour knowledge of the chosen subject has not improved and you are shook by your failure to understand the archives found on the device.;;;;;;;;;;;;x
+EVTOPTA_weydon_11;I must use this 'Google' more often...;;;;;;;;;;;;x
+EVTOPTB_weydon_11;All I could find were memes!;;;;;;;;;;;;x
+EVTDESC_weydon_14_good;Dear [Root.GetTitledFirstName],\nAfter some deliberation, myself and the other members of the Pupalitarian Church have decided to grant your request and will have the drones ready for use immediately. I hope you will use them to benefit all of us in the fight against Winter!\n\nSigned,\n[From.GetTitledFirstName];;;;;;;;;;;;;x
+EVTDESC_weydon_14_bad;Dear [Root.GetTitledFirstName],\nAfter some deliberation, myself and the other members of the Pupalitarian Church have decided to decline your request and the drones will remain here for the time being. I hope you will understand, but we can't just throw away one of our greatest assets.\n\I hope you understand,\n[From.GetTitledFirstName];;;;;;;;;;;;;x
+EVTOPTA_weydon_14;Oh boi imma get me some drones.;;;;;;;;;;;;x
+EVTOPTB_weydon_14;Why you gotta be so cruel!;;;;;;;;;;;;x
+
+weydon_jumper;Weydon Jumper;;;;;;;;;;;;x
+weydon_jumper_desc;One of the jumpers worn by the students of Weydon School. Wearing it is a mandatory part of both the Pupalitarian and Weydonian religions.;;;;;;;;;;;;x
+prefect_jumper;Prefect Jumper;;;;;;;;;;;;x
+prefect_jumper_desc;One of the jumpers worn by the Student Leaders of Weydon School. As it is typically a Weydonian thing to wear, as a symbol of Mr. Winter's power, the Pupalitarians tend to dislike those who wear them.;;;;;;;;;;;;x
+castle_tie;Castle Tie;;;;;;;;;;;;x
+castle_tie_desc;The purple and black ties worn by those of House Castle at Weydon School.;;;;;;;;;;;;x
+river_tie;River Tie;;;;;;;;;;;;x
+river_tie_desc;The green and white ties worn by those of House River at Weydon School.;;;;;;;;;;;;x
+ipad;iPad Air;;;;;;;;;;;;x
+ipad_desc;One of the iPads used by the students at Weydon School, these devices are known to store vast amounts of information that may be accessed with relative ease... if you know how.;;;;;;;;;;;;x
+
+weydonian_opinion;Weydonian Opinion;;;;;;;;;;;;x
+pupalitarian_opinion;Pupalitarian Opinion;;;;;;;;;;;;x
+
+tooltip_cleanse_weydon;chance [Root.GetFirstName] is cured.;;;;;;;;;;;;x
+tooltip_cleanse_weydon_fail;chance [Root.GetFirstName] dies in the attempt.;;;;;;;;;;;;x
+tooltip_assimilate_child;[Root.GetFirstName] might become a mindless drone in service to Lord Winter.;;;;;;;;;;;;x
+EVTDESC_weydon_03;You are surely blessed! The great [FromFrom.GetTitledFirstName] has requested that you join the Weydon hivemind.\nThis will benefit only Lord Winter and remove any illusion of independence you once had;;;;;;;;;;;;x
+EVTOPTA_weydon_03;I am just another body for the Weydon army.;;;;;;;;;;;;x
+EVTOPTB_weydon_03;You won't brainwash me without a fight!;;;;;;;;;;;;x
+
+pupalitarian_cleanse;Cleanse Drone;;;;;;;;;;;;x
+pupalitarian_cleanse_desc;Use your power as a ruler of the Pupalitarian faith, and remove the brainwashing curse from [Root.GetBestName], for no longer will they serve evil!;;;;;;;;;;;;x
+weydonian_assimilate;Assimilate;;;;;;;;;;;;x
+weydonian_assimilate;Use your power as a ruler of the Weydonian faith, and remove the annoying independent mind of [Root.GetBestName], they shall serve the Weydon hivemind!;;;;;;;;;;;;x
+
+assimilated;Assimilated;;;;;;;;;;;;x
+assimilated_desc;This character is an assimilated drone, serving under the command of Lord Winter and the Weydonian church.;;;;;;;;;;;;x
+weydon_hivemind;Hivemind;;;;;;;;;;;;x
+weydon_hivemind_desc;The Hiveminds of the Weydonian church are those with the ability to assimilate others into the fold, they thus hold sway over a blindly loyal force of former Weydon Students.;;;;;;;;;;;;x
+
+weydon_group;Surreyan;;;;;;;;;;;;x
+
+CHILDRENS_SOULS;Childrens' Souls;;;;;;;;;;;;x
+LUNCH_PASSES;Lunch Passes;;;;;;;;;;;;x
+GOD_WINTER;Mr. Winter;;;;;;;;;;;;x
+GOD_VENTON;Mr. Venton;;;;;;;;;;;;x
+GOD_SHAMAN;Mr. Sharman;;;;;;;;;;;;x
+COAD;The Coads;;;;;;;;;;;;x
+GOD_MCGUINESS;Mr. McGuiness;;;;;;;;;;;;x
+FREEBOROUGH;Mr. Freeborough;;;;;;;;;;;;x
+WISH;Mr. Wish;;;;;;;;;;;;x
+DUNCALFE;Mr. Duncalfe;;;;;;;;;;;;x
+weydonian_key;The queues at Weydon school are ludicrously long!!;;;;;;;;;;;;x
+
+#Emperor
+emperor_weydon_group;Chief Executive;;;;;;;;;;;;;x
+emperor_female_weydon_group;Chief Executive;;;;;;;;;;;;;x
+empire_of_weydon_group;Academy of;;;;;;;;;;;;;x
+
+#King
+king_weydon_group;Headteacher;;;;;;;;;;;;x
+king_female_weydon_group;Headteacher;;;;;;;;;;;;x
+kingdom_of_weydon_group;School of;;;;;;;;;;;;x
+
+#Duke
+duke_weydon_group;PAL;;;;;;;;;;;;;x
+duke_female_weydon_group;PAL;;;;;;;;;;;;;x
+duchy_of_weydon_group;Yeargroup of;;;;;;;;;;;;;x
+
+city_duchy_of_weydon_group;Big Office of;;;;;;;;;;;;;x
+city_duke_weydon_group;Head Technician;;;;;;;;;;;;;x
+city_duke_female_weydon_group;Head Technician;;;;;;;;;;;;;x
+
+#Count
+temple_county_weydon_group;Librarian;;;;;;;;;;;;x
+temple_county_female_weydon_group;Librarian;;;;;;;;;;;;x
+temple_county_of_weydon_group;LRC of;;;;;;;;;;;;x
+
+city_county_of_weydon_group;Office of;;;;;;;;;;;;;x
+city_count_weydon_group;Technician;;;;;;;;;;;;;x
+city_count_female_weydon_group;Technician;;;;;;;;;;;;;x
+
+count_weydon_group;Teacher;;;;;;;;;;;;;x
+count_female_weydon_group;Teacher;;;;;;;;;;;;;x
+county_of_weydon_group;Classroom of;;;;;;;;;;;;;x
+
+#Baron
+temple_baron_weydon_group;Student Leader;;;;;;;;;;;;x
+temple_baron_female_weydon_group;Student Leader;;;;;;;;;;;;x
+temple_barony_of_weydon_group;Duty of;;;;;;;;;;;;x
+
+city_baron_weydon_group;Technician;;;;;;;;;;;;x
+city_baron_female_weydon_group;Technician;;;;;;;;;;;;x
+city_barony_of_weydon_group;Small Office of;;;;;;;;;;;;x
+
+baron_weydon_group;Student;;;;;;;;;;;;;x
+baron_female_weydon_group;Student;;;;;;;;;;;;;x
+barony_of_weydon_group;Desk of;;;;;;;;;;;;;x

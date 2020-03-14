@@ -1,0 +1,21 @@
+# 134 - Farnham Hospital
+
+#County title
+title = c_farnham_hospital
+
+#Settlements
+max_settlements = 6
+b_river_wey_practice = temple
+b_rowlands = city
+b_antsey = castle
+b_farnham_supermarket = city
+#b_allington = {}
+#b_cowden = {}
+#b_westbury = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = plains
+
+# History

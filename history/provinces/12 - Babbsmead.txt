@@ -4,10 +4,10 @@
 title = c_babbsmead
 
 #Settlements
-max_settlements = 7
+max_settlements = 5
 b_babbsmead = city
 b_cemetery = temple
-b_westweir = castle
+#b_westweir = castle
 b_cemetery_chapel = temple
 #b_crosby = {}
 #b_elateral = {}

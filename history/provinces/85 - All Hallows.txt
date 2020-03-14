@@ -1,0 +1,21 @@
+# 85 - All Hallows
+
+#County title
+title = c_all_hallows
+
+#Settlements
+max_settlements = 7
+b_all_hallows = temple
+b_the_running_stream = city
+b_hallowed_chapel = temple
+#b_bankside = castle
+#b_phoenix = castle
+#b_chez_noze = castle
+#b_la_foile = castle
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = plains
+
+# History

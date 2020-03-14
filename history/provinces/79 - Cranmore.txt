@@ -4,10 +4,10 @@
 title = c_cranmore
 
 #Settlements
-max_settlements = 7
-b_cranmore = city
-b_hallimore = castle
-b_highheath = castle
+max_settlements = 4
+b_cranmore = castle
+b_hallimore = temple
+#b_highheath = castle
 #b_daisycrown = {}
 #b_airshow = {}
 #b_ideal = {}
@@ -16,6 +16,6 @@ b_highheath = castle
 #Misc
 culture = haleian
 religion = lollard
-terrain = hills
+terrain = woods
 
 # History

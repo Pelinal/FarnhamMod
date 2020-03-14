@@ -1,0 +1,21 @@
+# 88 - Blackwood
+
+#County title
+title = c_blackwood
+
+#Settlements
+max_settlements = 4
+b_blackwater_lodge = temple
+b_blackwood = city
+#b_lea = temple
+#b_stockwood = castle
+#b_brook = castle
+#b_old_lane = castle
+#b_applecar = castle
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = woods
+
+# History

@@ -4,7 +4,7 @@
 title = c_trinity
 
 #Settlements
-max_settlements = 7
+max_settlements = 5
 b_trinity_hill = castle
 b_hillbrook = city
 b_windermere = temple
@@ -16,6 +16,6 @@ b_windermere = temple
 #Misc
 culture = haleian
 religion = lollard
-terrain = plains
+terrain = hills
 
 # History

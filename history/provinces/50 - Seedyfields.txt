@@ -4,10 +4,10 @@
 title = c_seedyfields
 
 #Settlements
-max_settlements = 7
-b_seedyfields = city
-b_the_nutshack = temple
-b_carpenters_lodge = castle
+max_settlements = 2
+b_seedyfields = castle
+#b_the_nutshack = temple
+#b_carpenters_lodge = castle
 #b_eastfield = {}
 #b_crossgrove = {}
 #b_hedgend = {}

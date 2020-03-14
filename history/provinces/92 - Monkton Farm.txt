@@ -1,0 +1,21 @@
+# 92 - Monkton Farm
+
+#County title
+title = c_monkton_farm
+
+#Settlements
+max_settlements = 5
+b_monkton_farm = temple
+b_green_lane_farm = city
+b_monksway = temple
+#b_century_cottage = castle
+#b_flockerton = castle
+#b_brock = castle
+#b_woodhouse = castle
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = farmlands
+
+# History

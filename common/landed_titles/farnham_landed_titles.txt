@@ -16,9 +16,14 @@ e_farnham = {
 		dignity = 35
 		
 		culture = townie
+		haleian = "Town"
+		leeman = "Town"
+		rowlegian = "Town"
+		wrecclese = "North Wrecclesham"
+		roman = "Castranum"
 		
 		d_farnham_bypass = {
-			color={ 50 100 20 }
+			color={ 82 164 33 }
 			color2={ 255 255 255 }
 			
 			capital = 93 # Coxbridge
@@ -753,7 +758,7 @@ e_farnham = {
 		}
 		
 		d_manorsedge = {
-			color={ 108 130 190 }
+			color={ 52 70 118 }
 			color2={ 255 255 255 }
 			
 			capital = 56 # Caesars Camp
@@ -829,7 +834,7 @@ e_farnham = {
 			capital = 3 # Heath End
 			dignity = 15
 			
-			c_heath_end = {
+			c_heath_end = { # Bryon Gerhardt
 				color={ 238 211 92 }
 				color2={ 255 255 255 }
 				
@@ -892,14 +897,14 @@ e_farnham = {
 		}
 		
 		d_chennels = { # or d_old_vicarage
-			color={ 244 179 1 }
+			color={ 214 177 75 }
 			color2={ 255 255 255 }
 			
 			capital = 65 # Vicarage
 			dignity = 15
 			
 			c_vicarage = {
-				color={ 244 179 1 }
+				color={ 214 177 75 }
 				color2={ 255 255 255 }
 				
 				b_the_old_vicarage = {}
@@ -911,7 +916,7 @@ e_farnham = {
 				b_newchapel = {}
 			}
 			c_bethel = {
-				color={ 168 123 1 }
+				color={ 173 138 39 }
 				color2={ 255 255 255 }
 				
 				b_bethel = {}
@@ -923,7 +928,7 @@ e_farnham = {
 				b_knowlestail = {}
 			}
 			c_highlands = {
-				color={ 219 160 1 }
+				color={ 223 195 117 }
 				color2={ 255 255 255 }
 				
 				b_highlands = {}
@@ -1136,7 +1141,7 @@ e_farnham = {
 				b_tadpole_cottage = {}
 				b_crompton = {}
 			}
-			c_coppice_close = {
+			c_coppice_close = { # Caroline 'Cunningham' Tabner
 				color={ 74 210 200 }
 				color2={ 255 255 255 }
 				
@@ -1162,12 +1167,14 @@ e_farnham = {
 			}
 		}
 		
-		d_six_bells = {
+		d_lower_hale = {
 			color={ 31 126 118 }
 			color2={ 255 255 255 }
 			
 			capital = 84 # Heath End School
 			dignity = 12
+			
+			haleian = "Six Bells"
 			
 			c_heath_end_school = {
 				color={ 31 126 118 }
@@ -1178,7 +1185,7 @@ e_farnham = {
 				b_hawthorne_house = {}
 				b_baynes = {}
 				b_morris = {}
-				b_wilkinson = {}
+				b_embellished = {}
 				b_high_view = {}
 			}
 			c_william_cobbett = {
@@ -1263,7 +1270,7 @@ e_farnham = {
 				b_applecar = {}
 			}
 			c_monkton_farm = {
-				color={	21 53 59}
+				color={	21 53 59 }
 				color2={ 255 255 255 }
 				
 				b_monkton_farm = {}
@@ -1280,7 +1287,7 @@ e_farnham = {
 			color={ 106 203 219 }
 			color2={ 255 255 255 }
 			
-			capital = 86 # Wentworth
+			capital = 89 # Nutbourne
 			dignity = 15
 			
 			c_nutbourne = {
@@ -1296,7 +1303,7 @@ e_farnham = {
 				b_crooked_nook = {}
 			}
 			c_copse = {
-				color={ 106 203 219 }
+				color={ 112 226 207 }
 				color2={ 255 255 255 }
 				
 				b_copse = {}
@@ -1308,7 +1315,7 @@ e_farnham = {
 				b_laneford = {}
 			}
 			c_stovold = {
-				color={ 106 203 219 }
+				color={ 76 145 133 }
 				color2={ 255 255 255 }
 				
 				b_stovold = {}
@@ -1330,6 +1337,7 @@ e_farnham = {
 		dignity = 35
 		
 		culture = leeman
+		leeman = "Baggy Lee"
 		
 		d_water_lane = {
 			color={ 247 40 15 }
@@ -1401,7 +1409,7 @@ e_farnham = {
 		}
 		
 		d_lower_weybourne = {
-			color={ 223 30 8 }
+			color={ 198 27 7 }
 			color2={ 255 255 255 }
 			
 			capital = 100 # The Crown
@@ -1415,7 +1423,7 @@ e_farnham = {
 				b_farnham_RUFC = {}
 				b_wilkinson = {}
 				b_david_lloyd = {}
-				b_century_cottage = {}
+				b_complete_office = {}
 				b_amida = {}
 				b_brighthorizons = {}
 			}
@@ -1569,6 +1577,19 @@ e_farnham = {
 				b_blackwater = {}
 				b_andover_way = {}
 			}
+			
+			c_glorneymead = {
+				color={ 138 40 46 }
+				color2={ 255 255 255 }
+				
+				b_glorneymead = {}
+				b_swiftshore = {}
+				b_christpond = {}
+				b_farnham_angling_society = { short_name = yes }
+				b_egret = {}
+				b_bittern = {}
+				b_glebe = {}
+			}
 		}
 		
 		d_guildford_road = {
@@ -1671,6 +1692,279 @@ e_farnham = {
 				b_short_dale = {}
 				b_lyndhurst = {}
 				b_basing = {}
+			}
+		}
+	}
+	
+	k_moor_park = {
+		color={ 174 61 133 }
+		color2={ 255 255 255 }
+		
+		capital = 22 # Yet to add... will be Moor House Park
+		dignity = 35
+		
+		culture = comptonic
+		
+		d_weybank = {
+			color={ 182 107 155 }
+			color2={ 255 255 255 }
+			
+			capital = 122 # Weybank
+			dignity = 17
+			
+			culture = townie
+			
+			c_weybank = { # Josh Tabner
+				color={ 182 107 155 }
+				color2={ 255 255 255 }
+				
+				b_35_weybank_close = {}
+				b_weybank = {}
+				b_hawthorn = {}
+				b_wey_valley_house = {}
+				b_brightwell = {}
+				b_riverside_park = {}
+				b_harrison = {}
+			}
+			c_leisure_centre = {
+				color={ 159 79 130 }
+				color2={ 255 255 255 }
+				
+				b_leisure_centre = {}
+				b_leisure_centre_gym = {}
+				b_40_degreez = {}
+				b_kravmaga = {}
+				b_nam = {}
+				b_goodlaw = {}
+				b_huxley = {}
+			}
+			c_dogflud = {
+				color={ 190 124 167 }
+				color2={ 255 255 255 }
+				
+				b_dogflud = {}
+				b_lidl = {}
+				b_patronus = {}
+				b_motest = {}
+				b_durham_house = {}
+				b_hogroast = {}
+				b_vale = {}
+			}
+			c_riverside = {
+				color={ 174 90 143 }
+				color2={ 255 255 255 }
+				
+				b_riverside = {}
+				b_wolseley = {}
+				b_riverside_st_james = {}
+				b_papa_johns = {}
+				b_lotusland = {}
+				b_carpetright = {}
+				b_merrowtyre = {}
+			}
+			c_fire_station = {
+				color={ 199 141 178 }
+				color2={ 255 255 255 }
+				
+				b_fire_station = {}
+				b_enchanted_wood = {}
+				b_dollis = {}
+				b_kimber = {}
+				b_in2training = {}
+				b_post19 = {}
+				b_bioventix = {}
+			}
+			
+		}
+		
+		d_borelli = {
+			color={ 235 72 176 }
+			color2={ 255 255 255 }
+			
+			capital = 120 # Borelli
+			dignity = 12
+			
+			culture = townie
+			
+			roadman = "The G9"
+			
+			c_borelli = {
+				color={ 235 72 176 }
+				color2={ 255 255 255 }
+				
+				b_borelli = {}
+				b_borelli_house = {}
+				b_threebanks = {}
+				b_falconbridge = {}
+				b_bypass = {}
+				b_westhatch = {}
+				b_anglerhill = {}
+			}
+			c_g9hq = {
+				color={ 230 26 157 }
+				color2={ 255 255 255 }
+				
+				b_g9hq = {}
+				b_drug_den = { short_name = yes }
+				b_scatshrine = {}
+				b_syringe_bin = { short_name = yes }
+				b_dingy_squat = {}
+				b_the_hotbox = {}
+				b_scrapsign = {}
+			}
+			c_hatch_mill = {
+				color={ 238 95 186 }
+				color2={ 255 255 255 }
+				
+				b_hatch_mill_house = {}
+				b_hatch_mill = {}
+				b_weychurch = {}
+				b_meander = {}
+				b_roadwoods = {}
+				b_oldhome = {}
+				b_bypass_way = {}
+			}
+		}
+		
+		d_southview = {
+			color={ 182 76 143 }
+			color2={ 255 255 255 }
+			
+			capital = 125 # Woolmead
+			dignity = 15
+			
+			culture = townie
+			
+			c_woolmead = {
+				color={ 182 76 143 }
+				color2={ 255 255 255 }
+				
+				b_woolmead = {}
+				b_high_park = {}
+				b_the_gorge = {}
+				b_bearlane = {}
+				b_cherrytree = {}
+				b_farnham_bowling_club = { short_name = yes }
+				b_lower_southview = {}
+			}
+			c_beaufort = {
+				color={ 197 112 166 }
+				color2={ 255 255 255 }
+				
+				b_beaufort = {}
+				b_wykeham = {}
+				b_st_cross = {}
+				b_thorold = {}
+				b_shrine_museum = { short_name = yes }
+				b_toyota = {}
+				b_upper_southview = {}
+			}
+			c_stoke_hills = { # Max Collings
+				color={ 204 130 177 }
+				color2={ 255 255 255 }
+				
+				b_stoke_hills = {}
+				b_sunmer = {}
+				b_st_james_terrace = {}
+				b_heavens_kitchen = {}
+				b_adamspark = {}
+				b_winton = {}
+				b_stokecircle = {}
+			}
+			c_stephendale = {
+				color={ 185 121 162 }
+				color2={ 255 255 255 }
+				
+				b_stephendale = {}
+				b_elkymay = {}
+				b_badger = {}
+				b_osborn = {}
+				b_farnham_yoga = {}
+				b_parkroad = {}
+				b_painters = {}
+			}
+		}
+		
+		d_the_triangle = {
+			color={ 208 79 144 }
+			color2={ 255 255 255 }
+			
+			capital = 134 # Farnham Hospital
+			dignity = 15
+			
+			culture = townie
+			
+			c_haven = {
+				color={ 203 59 131 }
+				color2={ 255 255 255 }
+				
+				b_haven = {}
+				b_bells_piece = {}
+				b_cathcart = {}
+				b_scholarway = {}
+				b_broomclose = {}
+				b_regency = {}
+				b_havenfield = {}
+			}
+			c_roman_way = {
+				color={ 186 50 119 }
+				color2={ 255 255 255 }
+				
+				b_the_lodge = {}
+				b_hadrians = {}
+				b_roman_way = {}
+				b_farnham_mill = {}
+				b_bourne_buildings = {}
+				b_londis = {}
+				b_BP_garage = {}
+			}
+			c_farnham_hospital = {
+				color={ 208 79 144 }
+				color2={ 255 255 255 }
+				
+				b_river_wey_practice = {}
+				b_rowlands = {}
+				b_antsey = {}
+				b_farnham_supermarket = {}
+				b_allington = {}
+				b_cowden = {}
+				b_westbury = {}
+			}
+			c_trading_estate = { # owned by d_territorial_army
+				color={ 219 119 169 }
+				color2={ 255 255 255 }
+				
+				b_reserve_barracks = { short_name = yes }
+				b_homebase = {}
+				b_halfords = {}
+				b_beefeater = {}
+				b_pets_at_home = {}
+				b_community_recycling_centre = { short_name = yes }
+				b_premier_inn = {}
+			}
+			
+		}
+		
+		d_shepard_and_flock = {
+			color={ 190 50 103 }
+			color2={ 255 255 255 }
+			
+			capital = 136 # Farnham Hospital
+			dignity = 12
+			
+			culture = townie
+			
+			c_shepherdandflock = {
+				color={ 160 40 80 }
+				color2={ 255 255 255 }
+				
+				b_shepard_and_flock = {}
+				b_shepard_and_flock_pub = {}
+				b_high_way = {}
+				b_sheepfield = {}
+				b_flockhouses = {}
+				b_yellowbrick = {}
+				b_freehouse = {}
 			}
 		}
 	}

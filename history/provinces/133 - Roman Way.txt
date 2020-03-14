@@ -1,0 +1,21 @@
+# 133 - Roman Way
+
+#County title
+title = c_roman_way
+
+#Settlements
+max_settlements = 5
+b_the_lodge = castle
+b_hadrians = city
+b_roman_way = temple
+#b_farnham_mill = {}
+#b_bourne_buildings = {}
+#b_londis = {}
+#b_BP_garage = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = plains
+
+# History

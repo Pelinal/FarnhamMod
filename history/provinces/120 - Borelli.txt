@@ -1,0 +1,21 @@
+# 120 - Borelli
+
+#County title
+title = c_borelli
+
+#Settlements
+max_settlements = 2
+b_borelli = castle
+#b_borelli_house = {}
+#b_threebanks = {}
+#b_falconbridge = {}
+#b_bypass = {}
+#b_westhatch = {}
+#b_anglerhill = {}
+
+#Misc
+culture = roadman
+religion = lollard
+terrain = woods
+
+# History

@@ -1,0 +1,21 @@
+# 131 - Stephendale
+
+#County title
+title = c_stephendale
+
+#Settlements
+max_settlements = 5
+b_stephendale = castle
+b_elkymay = city
+b_badger = temple
+#b_osborn = city
+#b_farnham_yoga = city
+#b_parkroad = {}
+#b_painters = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = hills
+
+# History

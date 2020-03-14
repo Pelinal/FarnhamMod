@@ -1,0 +1,21 @@
+# 87 - Woodlands
+
+#County title
+title = c_woodlands
+
+#Settlements
+max_settlements = 5
+b_woodlands = temple
+b_patchedroad = city
+b_bentley = temple
+#b_oaken_house = castle
+#b_oldcar = castle
+#b_churcher = castle
+#b_blue_and_yellow = castle
+
+#Misc
+culture = haleian
+religion = lollard
+terrain = woods
+
+# History

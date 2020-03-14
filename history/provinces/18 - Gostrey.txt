@@ -1,0 +1,21 @@
+# 18 - Gostrey
+
+#County title
+title = c_gostrey
+
+#Settlements
+max_settlements = 5
+b_gostrey = castle
+b_william_cobbett = city
+b_emmanuel_church = temple
+#b_the_lamb = temple
+#b_saxon_croft = {}
+#b_providence_place = {}
+#b_farnham_bathroom = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = plains
+
+# History

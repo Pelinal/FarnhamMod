@@ -4,10 +4,10 @@
 title = c_brookside
 
 #Settlements
-max_settlements = 7
+max_settlements = 5
 b_brookside = castle
 b_costcutter = city
-b_the_rectory = city
+b_the_rectory = temple
 #b_parkside = {}
 #b_westglen = {}
 #b_north_park = {}

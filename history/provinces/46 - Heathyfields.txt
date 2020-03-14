@@ -1,13 +1,13 @@
 #46 - Heathyfields
 
 #County title
-title = c_lawday
+title = c_heathyfields
 
 #Settlements
-max_settlements = 7
-b_heathyfields = city
+max_settlements = 5
+b_heathyfields = castle
 b_pachner = temple
-b_the_heights = castle
+b_the_heights = city
 #b_high_heath = {}
 #b_nethergrove = {}
 #b_crossvale = {}

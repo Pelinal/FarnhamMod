@@ -1,0 +1,21 @@
+# 125 - Woolmead
+
+#County title
+title = c_woolmead
+
+#Settlements
+max_settlements = 5
+b_woolmead = castle
+#b_high_park = {}
+b_the_gorge = city
+#b_bearlane = {}
+#b_cherrytree = {}
+#b_farnham_bowling_club = {}
+#b_lower_southview = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = plains
+
+# History

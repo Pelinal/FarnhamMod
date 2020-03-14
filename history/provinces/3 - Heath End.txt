@@ -4,10 +4,10 @@ title = c_heath_end
 
 #Settlements
 max_settlements = 7
-b_nelson = city
-b_hillside = castle
-b_the_crescent = city
-b_charlotte = castle
+b_nelson = castle
+b_hillside = city
+b_the_crescent = castle
+b_charlotte = temple
 b_laundromat = temple
 #b_post_office = {}
 #b_cooperative = {}

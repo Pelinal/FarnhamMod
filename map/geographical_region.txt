@@ -1,0 +1,102 @@
+surrey_waverley_farnham_north = {
+	duchies = {
+		# Farnham 
+		d_farnham_bypass d_town d_castle d_crondall_vale d_the_hart d_st_rhadegund d_dippenhall d_alton_road d_west_farnham
+		# Hale 
+		d_north_park d_upper_hale d_farmlands d_sandy_hill d_manorsedge
+		# Heath End
+		d_heath_end d_chennels d_rowhills d_orlando d_farnborough_road
+		# Weybourne
+		d_upper_weybourne d_lower_hale d_nuffield d_blackbrook
+		# Badshot Lea
+		d_water_lane d_lower_weybourne d_badshot_lea d_preymead d_guildford_road d_ticehurst 
+	}
+}
+
+surrey_waverley_farnham_town = {
+	duchies = {
+		d_town
+		d_farnham_bypass
+	}
+	counties = {
+		c_park_row
+		c_borough
+		c_falkner
+		c_potters_gate
+		c_crondall
+		c_chantrys
+	}
+}
+
+surrey_waverley_farnham_hale = {
+	duchies = {
+		d_upper_hale
+		d_sandy_hill
+		d_chennels
+		d_lower_hale
+		d_orlando
+		d_north_park
+	}
+}
+
+surrey_waverley_farnham_hale_upper_hale = {
+	duchies = {
+		d_upper_hale
+		d_sandy_hill
+		d_chennels
+	}
+}
+
+surrey_waverley_farnham_hale_lower_hale = {
+	duchies = {
+		d_lower_hale
+		d_orlando
+		d_north_park
+	}
+}
+
+surrey_waverley_farnham_heath_end = {
+	duchies = {
+		d_heath_end
+		d_rowhills
+		d_farnborough_road
+	}
+}
+
+surrey_waverley_farnham_weybourne = {
+	duchies = {
+		d_upper_weybourne
+		d_blackbrook
+		d_lower_weybourne
+		d_nuffield
+	}
+}
+
+surrey_waverley_farnham_weybourne_upper_weybourne = {
+	duchies = {
+		d_upper_weybourne
+		d_blackbrook
+	}
+}
+
+surrey_waverley_farnham_weybourne_lower_weybourne = {
+	duchies = {
+		d_lower_weybourne
+		d_nuffield
+	}
+}
+
+surrey_waverley_farnham_badshot_lea = {
+	duchies = {
+		d_preymead
+		d_badshot_lea
+		d_guildford_road
+		d_ticehurst
+	}
+}
+
+surrey_waverley_farnham_runfold = {
+	duchies = {
+		d_guildford_road
+	}
+}

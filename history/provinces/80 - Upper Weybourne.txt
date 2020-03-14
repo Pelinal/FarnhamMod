@@ -5,7 +5,7 @@ title = c_upper_weybourne
 
 #Settlements
 max_settlements = 7
-b_laburnum = city
+b_laburnum = castle
 b_treeside = castle
 b_shortbark = city
 b_woodside = temple

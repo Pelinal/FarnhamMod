@@ -4,10 +4,10 @@
 title = c_stovold
 
 #Settlements
-max_settlements = 7
-b_stovold = city
-b_rowhill_nature_reserve = temple
-#b_st_peters = {}
+max_settlements = 3
+b_stovold = castle
+#b_rowhill_nature_reserve = city
+b_st_peters = temple
 #b_innisfail = {}
 #b_ambereley = {}
 #b_paul = {}
@@ -16,6 +16,6 @@ b_rowhill_nature_reserve = temple
 #Misc
 culture = haleian
 religion = lollard
-terrain = hills
+terrain = forest
 
 # History

@@ -4,9 +4,9 @@
 title = c_old_park
 
 #Settlements
-max_settlements = 7
-b_old_park_farm = city
-b_palewatch = castle
+max_settlements = 5
+b_old_park_farm = castle
+b_palewatch = city
 b_bishops_square = temple
 #b_grange = {}
 #b_orchad_house = {}

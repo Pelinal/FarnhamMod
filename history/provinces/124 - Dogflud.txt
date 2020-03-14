@@ -1,0 +1,21 @@
+# 124 - Dogflud
+
+#County title
+title = c_dogflud
+
+#Settlements
+max_settlements = 5
+b_dogflud = castle
+b_lidl = city
+b_patronus = temple
+#b_motest = city
+#b_durham_house = city
+#b_hogroast = {}
+#b_vale = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = plains
+
+# History

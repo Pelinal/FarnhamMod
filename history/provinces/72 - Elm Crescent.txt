@@ -4,7 +4,7 @@
 title = c_elm_crescent
 
 #Settlements
-max_settlements = 7
+max_settlements = 4
 b_elmtree = castle
 b_whitcairn = city
 #b_redrun = {}

@@ -3,9 +3,9 @@
 title = c_runwick
 
 #Settlements
-max_settlements = 7
-b_runwick = city
-b_grovers_farm = castle
+max_settlements = 4
+b_runwick = castle
+b_grovers_farm = city
 #b_st_swithuns = {}
 #b_northbrook_estate = {}
 #b_old_searchlights = {}
@@ -15,6 +15,6 @@ b_grovers_farm = castle
 #Misc
 culture = farmer
 religion = lollard
-terrain = farmland
+terrain = farmlands
 
 # History

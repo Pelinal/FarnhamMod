@@ -4,10 +4,10 @@
 title = c_claypit_wood
 
 #Settlements
-max_settlements = 7
-b_claypit = city
-b_poppystop = castle
-b_castle_farm = city
+max_settlements = 4
+b_claypit = castle
+b_poppystop = city
+#b_castle_farm = city
 #b_brough = {}
 #b_potswood = {}
 #b_leftpath = {}
@@ -16,6 +16,6 @@ b_castle_farm = city
 #Misc
 culture = farmer
 religion = lollard
-terrain = farmlands
+terrain = woods
 
 # History

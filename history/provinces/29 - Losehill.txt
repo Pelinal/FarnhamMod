@@ -4,10 +4,10 @@
 title = c_losehill
 
 #Settlements
-max_settlements = 7
-b_losehill_house = city
-b_longhouse = castle
-b_greenpole = city
+max_settlements = 5
+b_losehill_house = castle
+b_longhouse = city
+b_greenpole = temple
 #b_loosewood = {}
 #b_astrondal = {}
 #b_hilshed = {}

@@ -4,11 +4,11 @@
 title = c_crondall
 
 #Settlements
-max_settlements = 7
-b_crondall = city
-b_larkfield = city
+max_settlements = 4
+b_crondall = castle
+#b_larkfield = city
 b_st_francis = temple
-b_beavers_hill = castle
+#b_beavers_hill = castle
 #b_three_stiles = {}
 #b_keepsake = {}
 #b_cascadia = {}

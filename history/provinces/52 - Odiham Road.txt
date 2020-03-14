@@ -4,9 +4,9 @@
 title = c_odiham_road
 
 #Settlements
-max_settlements = 7
+max_settlements = 4
 b_odiham_road = castle
-b_farnham_minibuses = city
+#b_farnham_minibuses = city
 b_beacon = temple
 #b_pitcourt = {}
 #b_heath = {}
@@ -16,6 +16,6 @@ b_beacon = temple
 #Misc
 culture = farmer
 religion = lollard
-terrain = plains
+terrain = woods
 
 # History

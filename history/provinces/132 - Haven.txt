@@ -1,0 +1,21 @@
+# 132 - Haven
+
+#County title
+title = c_haven
+
+#Settlements
+max_settlements = 4
+b_haven = castle
+b_bells_piece = city
+#b_cathcart = temple
+#b_scholarway = {}
+#b_broomclose = {}
+#b_regency = {}
+#b_havenfield = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = plains
+
+# History

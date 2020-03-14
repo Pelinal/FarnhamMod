@@ -1,0 +1,7 @@
+bm_gcses2018 = { 
+	name = "BM_GCSES2018"
+    desc = "BM_GCSES2018_DESC"
+    date = 2018.5.14
+    era = yes ## Will be shown on Era screen.
+    picture = GFX_pick_era_image_1
+}

@@ -1,13 +1,13 @@
-#40 - Clark's Hill
+#40 - Clarkshill
 
 #County title
 title = c_clarkshill
 
 #Settlements
-max_settlements = 7
-b_old_cottage = city
-b_lower_farm = temple
-b_dippenhall_grange = city
+max_settlements = 4
+b_old_cottage = castle
+b_lower_farm = city
+#b_dippenhall_grange = city
 #b_deansknowe = {}
 #b_welsutton = {}
 #b_barn_cottage = {}

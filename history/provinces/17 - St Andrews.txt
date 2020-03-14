@@ -5,9 +5,9 @@ title = c_st_andrews
 
 #Settlements
 max_settlements = 7
-b_st_andrews = city
-b_new_ashgate = castle
-b_st_andrews_infant_school = city
+b_st_andrews = castle
+b_new_ashgate = city
+b_st_andrews_infant_school = temple
 b_elphicks = temple
 #b_the_wheatsheaf = {}
 #b_waggon_yard = {}

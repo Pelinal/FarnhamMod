@@ -4,10 +4,10 @@
 title = c_windamoor
 
 #Settlements
-max_settlements = 7
-b_windamoor = city
-b_ivyfarm = castle
-b_yew_tree_house = castle
+max_settlements = 4
+b_windamoor = castle
+b_ivyfarm = city
+#b_yew_tree_house = castle
 #b_whitehorse = {}
 #b_parkland = {}
 #b_ewshott_house = {}

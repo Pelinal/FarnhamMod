@@ -4,10 +4,10 @@
 title = c_brooklands
 
 #Settlements
-max_settlements = 7
-b_brookhall = city
+max_settlements = 5
+b_brookhall = castle
 b_oak_cottage = city
-b_spokehome = castle
+b_spokehome = temple
 #b_violetta = {}
 #b_oakaveturn = {}
 #b_pinkglade = {}

@@ -3,8 +3,8 @@
 title = c_willey
 
 #Settlements
-max_settlements = 7
-b_willey = city
+max_settlements = 5
+b_willey = castle
 b_the_gardners_cottage = temple
 b_collsinks = city
 #b_willey_park_farm

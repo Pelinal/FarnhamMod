@@ -1,0 +1,500 @@
+###########################################
+###			England Cultures  			###
+###########################################
+
+## Farnhamese
+# Farmer
+# Townie
+# Haleian
+# Leeman
+# Huntsman
+# Comptonic
+# Wreccleshese
+
+## Outsider
+# Hampshire Hog
+# Roman
+
+## Chav
+# Roadman
+
+farnhamese = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { englishgfx }
+	
+	farmer = {
+		graphical_cultures = { englishgfx westerngfx }
+		
+		color = { 105 174 88 }
+
+		male_names = {
+			Jenson Lewis Oliver George Harry Noah Jack Leo Arthur Oscar Charlie Jacob Thomas Tom Henry William Will Alfie Archie Joshua Josh Freddie Theo Isaac James Alexander
+			Logan Edward Ethan Lucas Joseph Sebastian Theodore Finley Max Samuel Sam Sammy Harrison Benjamin Ben Daniel Dan Adam Teddy Mason Elijah Reuben Dylan 
+			Hunter Reggie Jason Rory Louie David Tommy Luca Albie Hugo Zachary Zack Albert Jude Toby Riley Ezra Carter Gabriel Gabe Roman Frankie Frank Harley
+			Frederick Fred Freddy Ronnie Jake Elliot Louis Jenson Stanley Bobby Michael Mike Jesse Finn Jayden Harvey Caleb Jackson Charles Matthew Matt Grayson Blake Liam 
+			Elliott Ellis Ralph Jasper Rowan Alex Ryan Felix Luke Dexter Ollie Leon Tobias Dominic John Jonny Johnny Seb Dave Joe Joey Christopher Chris Andrew Andy
+			Robert Rob Robbie Robb
+			
+			# Later Additions
+			Adrian Alan Anthony Augustus Bernard Dennis Eric Steven Eugene Francis Gerald Gregory Bill Jimmy Jerome Julius Julian Laurence Lewis Lukas Mark Marcus Morris 
+			Nicholas Patrick Peter Stephen Theophilus Theobald Terry Timothy Ives 
+		}
+		female_names = {
+			Olivia Liv Amelia Ava Isla Emily Mia Isabella Sophia Ella Grace Poppy Charlotte Lily Lillie Ivy Florence Evie Sophie Freya Evelyn Willow Phoebe Elsie Sienna Alice 
+			Jessica Jess Rosie Harper Daisy Sofia Isabelle Matilda Ruby Eva Emilia Scarlett Chloe Maya Esme Eliza Millie Imogen Aria Luna Layla Harriet Maisie Elizabeth 
+			Penelope Mila Erin Eleanor Lola Violet Bella Rose Emma Holly Molly Thea Ellie Lucy Hannah Lottie Nancy Ada Maria Lilly Zara Aurora Amber Georgia Robyn 
+			Robin Gracie Summer Jasmine Annabelle Bella Abigail Darcie Hallie Amelie Bonnie Iris Maryam Mariam Beatrice Anna Heidi Orla Arabella Clara Delilah Edith
+			Aisha Francesca Martha Ayla Zoe Zoey Lyla Sara Sarah Margot Felicity Margaret Angel
+			
+			# Later Additions
+			Adelaide Adela Adriana Agatha Agnes Amy Alexandria Alex Anastasia Andrea Ann Anne Audrey Bridget Cecilia Christine Claudia Dominica Dorothy 
+			Elisa Frances Fredericka Helen Ellen Henrietta Inez Isabel Joan Jean Jane Janine Juliet Latitia Laura Madeline Maggie Monica Naomi Susan 
+			Suzanne Sylvia Theresa Valentina Valerie Veronica Victoria Virginia
+		}
+		
+		from_dynasty_prefix = "of "
+
+		feminist = yes
+		dukes_called_kings = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+	
+	townie = {
+		graphical_cultures = { englishgfx westerngfx }
+		
+		color = { 88 141 174 }
+
+		male_names = {
+			Jenson Lewis Oliver George Harry Noah Jack Leo Arthur Oscar Charlie Jacob Thomas Tom Henry William Will Alfie Archie Joshua Josh Freddie Theo Isaac James Alexander
+			Logan Edward Ethan Lucas Joseph Sebastian Theodore Finley Max Samuel Sam Sammy Harrison Benjamin Ben Daniel Dan Adam Teddy Mason Elijah Reuben Dylan 
+			Hunter Reggie Jason Rory Louie David Tommy Luca Albie Hugo Zachary Zack Albert Jude Toby Riley Ezra Carter Gabriel Gabe Roman Frankie Frank Harley
+			Frederick Fred Freddy Ronnie Jake Elliot Louis Jenson Stanley Bobby Michael Mike Jesse Finn Jayden Harvey Caleb Jackson Charles Matthew Matt Grayson Blake Liam 
+			Elliott Ellis Ralph Jasper Rowan Alex Ryan Felix Luke Dexter Ollie Leon Tobias Dominic John Jonny Johnny Seb Dave Joe Joey Christopher Chris Andrew Andy
+			Robert Rob Robbie Robb
+			
+			# Later Additions
+			Adrian Alan Anthony Augustus Bernard Dennis Eric Steven Eugene Francis Gerald Gregory Bill Jimmy Jerome Julius Julian Laurence Lewis Lukas Mark Marcus Morris 
+			Nicholas Patrick Peter Stephen Theophilus Theobald Terry Timothy Ives 
+		}
+		female_names = {
+			Olivia Liv Amelia Ava Isla Emily Mia Isabella Sophia Ella Grace Poppy Charlotte Lily Lillie Ivy Florence Evie Sophie Freya Evelyn Willow Phoebe Elsie Sienna Alice 
+			Jessica Jess Rosie Harper Daisy Sofia Isabelle Matilda Ruby Eva Emilia Scarlett Chloe Maya Esme Eliza Millie Imogen Aria Luna Layla Harriet Maisie Elizabeth 
+			Penelope Mila Erin Eleanor Lola Violet Bella Rose Emma Holly Molly Thea Ellie Lucy Hannah Lottie Nancy Ada Maria Lilly Zara Aurora Amber Georgia Robyn 
+			Robin Gracie Summer Jasmine Annabelle Bella Abigail Darcie Hallie Amelie Bonnie Iris Maryam Mariam Beatrice Anna Heidi Orla Arabella Clara Delilah Edith
+			Aisha Francesca Martha Ayla Zoe Zoey Lyla Sara Sarah Margot Felicity Margaret Angel
+			
+			# Later Additions
+			Adelaide Adela Adriana Agatha Agnes Amy Alexandria Alex Anastasia Andrea Ann Anne Audrey Bridget Cecilia Christine Claudia Dominica Dorothy 
+			Elisa Frances Fredericka Helen Ellen Henrietta Inez Isabel Joan Jean Jane Janine Juliet Latitia Laura Madeline Maggie Monica Naomi Susan 
+			Suzanne Sylvia Theresa Valentina Valerie Veronica Victoria Virginia
+		}
+		
+		from_dynasty_prefix = "of "
+
+		feminist = yes
+		dukes_called_kings = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+	
+	haleian = {
+		graphical_cultures = { englishgfx westerngfx }
+		
+		color = { 174 170 88 }
+
+		male_names = {
+			Jenson Lewis Oliver George Harry Noah Jack Leo Arthur Oscar Charlie Jacob Thomas Tom Henry William Will Alfie Archie Joshua Josh Freddie Theo Isaac James Alexander
+			Logan Edward Ethan Lucas Joseph Sebastian Theodore Finley Max Samuel Sam Sammy Harrison Benjamin Ben Daniel Dan Adam Teddy Mason Elijah Reuben Dylan 
+			Hunter Reggie Jason Rory Louie David Tommy Luca Albie Hugo Zachary Zack Albert Jude Toby Riley Ezra Carter Gabriel Gabe Roman Frankie Frank Harley
+			Frederick Fred Freddy Ronnie Jake Elliot Louis Jenson Stanley Bobby Michael Mike Jesse Finn Jayden Harvey Caleb Jackson Charles Matthew Matt Grayson Blake Liam 
+			Elliott Ellis Ralph Jasper Rowan Alex Ryan Felix Luke Dexter Ollie Leon Tobias Dominic John Jonny Johnny Seb Dave Joe Joey Christopher Chris Andrew Andy
+			Robert Rob Robbie Robb
+			
+			# Later Additions
+			Adrian Alan Anthony Augustus Bernard Dennis Eric Steven Eugene Francis Gerald Gregory Bill Jimmy Jerome Julius Julian Laurence Lewis Lukas Mark Marcus Morris 
+			Nicholas Patrick Peter Stephen Theophilus Theobald Terry Timothy Ives 
+		}
+		female_names = {
+			Olivia Liv Amelia Ava Isla Emily Mia Isabella Sophia Ella Grace Poppy Charlotte Lily Lillie Ivy Florence Evie Sophie Freya Evelyn Willow Phoebe Elsie Sienna Alice 
+			Jessica Jess Rosie Harper Daisy Sofia Isabelle Matilda Ruby Eva Emilia Scarlett Chloe Maya Esme Eliza Millie Imogen Aria Luna Layla Harriet Maisie Elizabeth 
+			Penelope Mila Erin Eleanor Lola Violet Bella Rose Emma Holly Molly Thea Ellie Lucy Hannah Lottie Nancy Ada Maria Lilly Zara Aurora Amber Georgia Robyn 
+			Robin Gracie Summer Jasmine Annabelle Bella Abigail Darcie Hallie Amelie Bonnie Iris Maryam Mariam Beatrice Anna Heidi Orla Arabella Clara Delilah Edith
+			Aisha Francesca Martha Ayla Zoe Zoey Lyla Sara Sarah Margot Felicity Margaret Angel
+			
+			# Later Additions
+			Adelaide Adela Adriana Agatha Agnes Amy Alexandria Alex Anastasia Andrea Ann Anne Audrey Bridget Cecilia Christine Claudia Dominica Dorothy 
+			Elisa Frances Fredericka Helen Ellen Henrietta Inez Isabel Joan Jean Jane Janine Juliet Latitia Laura Madeline Maggie Monica Naomi Susan 
+			Suzanne Sylvia Theresa Valentina Valerie Veronica Victoria Virginia
+		}
+		
+		from_dynasty_prefix = "of "
+
+		feminist = yes
+		dukes_called_kings = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+	
+	leeman = {
+		graphical_cultures = { englishgfx westerngfx }
+		
+		color = { 88 174 125 }
+
+		male_names = {
+			Jenson Lewis Oliver George Harry Noah Jack Leo Arthur Oscar Charlie Jacob Thomas Tom Henry William Will Alfie Archie Joshua Josh Freddie Theo Isaac James Alexander
+			Logan Edward Ethan Lucas Joseph Sebastian Theodore Finley Max Samuel Sam Sammy Harrison Benjamin Ben Daniel Dan Adam Teddy Mason Elijah Reuben Dylan 
+			Hunter Reggie Jason Rory Louie David Tommy Luca Albie Hugo Zachary Zack Albert Jude Toby Riley Ezra Carter Gabriel Gabe Roman Frankie Frank Harley
+			Frederick Fred Freddy Ronnie Jake Elliot Louis Jenson Stanley Bobby Michael Mike Jesse Finn Jayden Harvey Caleb Jackson Charles Matthew Matt Grayson Blake Liam 
+			Elliott Ellis Ralph Jasper Rowan Alex Ryan Felix Luke Dexter Ollie Leon Tobias Dominic John Jonny Johnny Seb Dave Joe Joey Christopher Chris Andrew Andy
+			Robert Rob Robbie Robb
+			
+			# Later Additions
+			Adrian Alan Anthony Augustus Bernard Dennis Eric Steven Eugene Francis Gerald Gregory Bill Jimmy Jerome Julius Julian Laurence Lewis Lukas Mark Marcus Morris 
+			Nicholas Patrick Peter Stephen Theophilus Theobald Terry Timothy Ives 
+		}
+		female_names = {
+			Olivia Liv Amelia Ava Isla Emily Mia Isabella Sophia Ella Grace Poppy Charlotte Lily Lillie Ivy Florence Evie Sophie Freya Evelyn Willow Phoebe Elsie Sienna Alice 
+			Jessica Jess Rosie Harper Daisy Sofia Isabelle Matilda Ruby Eva Emilia Scarlett Chloe Maya Esme Eliza Millie Imogen Aria Luna Layla Harriet Maisie Elizabeth 
+			Penelope Mila Erin Eleanor Lola Violet Bella Rose Emma Holly Molly Thea Ellie Lucy Hannah Lottie Nancy Ada Maria Lilly Zara Aurora Amber Georgia Robyn 
+			Robin Gracie Summer Jasmine Annabelle Bella Abigail Darcie Hallie Amelie Bonnie Iris Maryam Mariam Beatrice Anna Heidi Orla Arabella Clara Delilah Edith
+			Aisha Francesca Martha Ayla Zoe Zoey Lyla Sara Sarah Margot Felicity Margaret Angel
+			
+			# Later Additions
+			Adelaide Adela Adriana Agatha Agnes Amy Alexandria Alex Anastasia Andrea Ann Anne Audrey Bridget Cecilia Christine Claudia Dominica Dorothy 
+			Elisa Frances Fredericka Helen Ellen Henrietta Inez Isabel Joan Jean Jane Janine Juliet Latitia Laura Madeline Maggie Monica Naomi Susan 
+			Suzanne Sylvia Theresa Valentina Valerie Veronica Victoria Virginia
+		}
+		
+		from_dynasty_prefix = "of "
+
+		feminist = yes
+		dukes_called_kings = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+	
+	huntsman = {
+		graphical_cultures = { englishgfx westerngfx }
+		
+		color = { 174 125 88 }
+
+		male_names = {
+			Mads Glads Chads Brads Lads Rads Cabs
+			Robs Lobs Nobs Mobs Obs Cobs Kobs
+			Jaks Maks Niks Zaks Miks
+			Les
+		}
+		female_names = {
+			Livs Mivs Nivs Wivs Cecivs
+			Jils Lils Els Sofs Ayls Sars
+			Mams Sams Clauds
+			Ashlees Stacees Courtnees Valerees Maggees Sylvees Britnees Lilees Maddees Naomees Dorothees Andrees Adelees
+		}
+		
+		from_dynasty_prefix = "of "
+
+		dukes_called_kings = yes
+		allow_looting = yes
+		horde = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 5
+		mat_grf_name_chance = 5
+		father_name_chance = 90
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 5
+		mat_grm_name_chance = 5
+		mother_name_chance = 90
+
+		modifier = default_culture_modifier
+	}
+	
+	comptonic = {
+		graphical_cultures = { englishgfx westerngfx }
+		
+		color = { 168 168 168 }
+
+		male_names = {
+			Jenson Lewis Oliver George Harry Noah Jack Leo Arthur Oscar Charlie Jacob Thomas Tom Henry William Will Alfie Archie Joshua Josh Freddie Theo Isaac James Alexander
+			Logan Edward Ethan Lucas Joseph Sebastian Theodore Finley Max Samuel Sam Sammy Harrison Benjamin Ben Daniel Dan Adam Teddy Mason Elijah Reuben Dylan 
+			Hunter Reggie Jason Rory Louie David Tommy Luca Albie Hugo Zachary Zack Albert Jude Toby Riley Ezra Carter Gabriel Gabe Roman Frankie Frank Harley
+			Frederick Fred Freddy Ronnie Jake Elliot Louis Jenson Stanley Bobby Michael Mike Jesse Finn Jayden Harvey Caleb Jackson Charles Matthew Matt Grayson Blake Liam 
+			Elliott Ellis Ralph Jasper Rowan Alex Ryan Felix Luke Dexter Ollie Leon Tobias Dominic John Jonny Johnny Seb Dave Joe Joey Christopher Chris Andrew Andy
+			Robert Rob Robbie Robb
+			
+			# Later Additions
+			Adrian Alan Anthony Augustus Bernard Dennis Eric Steven Eugene Francis Gerald Gregory Bill Jimmy Jerome Julius Julian Laurence Lewis Lukas Mark Marcus Morris 
+			Nicholas Patrick Peter Stephen Theophilus Theobald Terry Timothy Ives 
+		}
+		female_names = {
+			Olivia Liv Amelia Ava Isla Emily Mia Isabella Sophia Ella Grace Poppy Charlotte Lily Lillie Ivy Florence Evie Sophie Freya Evelyn Willow Phoebe Elsie Sienna Alice 
+			Jessica Jess Rosie Harper Daisy Sofia Isabelle Matilda Ruby Eva Emilia Scarlett Chloe Maya Esme Eliza Millie Imogen Aria Luna Layla Harriet Maisie Elizabeth 
+			Penelope Mila Erin Eleanor Lola Violet Bella Rose Emma Holly Molly Thea Ellie Lucy Hannah Lottie Nancy Ada Maria Lilly Zara Aurora Amber Georgia Robyn 
+			Robin Gracie Summer Jasmine Annabelle Bella Abigail Darcie Hallie Amelie Bonnie Iris Maryam Mariam Beatrice Anna Heidi Orla Arabella Clara Delilah Edith
+			Aisha Francesca Martha Ayla Zoe Zoey Lyla Sara Sarah Margot Felicity Margaret Angel
+			
+			# Later Additions
+			Adelaide Adela Adriana Agatha Agnes Amy Alexandria Alex Anastasia Andrea Ann Anne Audrey Bridget Cecilia Christine Claudia Dominica Dorothy 
+			Elisa Frances Fredericka Helen Ellen Henrietta Inez Isabel Joan Jean Jane Janine Juliet Latitia Laura Madeline Maggie Monica Naomi Susan 
+			Suzanne Sylvia Theresa Valentina Valerie Veronica Victoria Virginia
+		}
+		
+		from_dynasty_prefix = "of "
+
+		feminist = yes
+		dukes_called_kings = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+	
+	wreccleshese = {
+		graphical_cultures = { englishgfx westerngfx }
+		
+		color = { 100 88 174 }
+
+		male_names = {
+			Jenson Lewis Oliver George Harry Noah Jack Leo Arthur Oscar Charlie Jacob Thomas Tom Henry William Will Alfie Archie Joshua Josh Freddie Theo Isaac James Alexander
+			Logan Edward Ethan Lucas Joseph Sebastian Theodore Finley Max Samuel Sam Sammy Harrison Benjamin Ben Daniel Dan Adam Teddy Mason Elijah Reuben Dylan 
+			Hunter Reggie Jason Rory Louie David Tommy Luca Albie Hugo Zachary Zack Albert Jude Toby Riley Ezra Carter Gabriel Gabe Roman Frankie Frank Harley
+			Frederick Fred Freddy Ronnie Jake Elliot Louis Jenson Stanley Bobby Michael Mike Jesse Finn Jayden Harvey Caleb Jackson Charles Matthew Matt Grayson Blake Liam 
+			Elliott Ellis Ralph Jasper Rowan Alex Ryan Felix Luke Dexter Ollie Leon Tobias Dominic John Jonny Johnny Seb Dave Joe Joey Christopher Chris Andrew Andy
+			Robert Rob Robbie Robb
+			
+			# Later Additions
+			Adrian Alan Anthony Augustus Bernard Dennis Eric Steven Eugene Francis Gerald Gregory Bill Jimmy Jerome Julius Julian Laurence Lewis Lukas Mark Marcus Morris 
+			Nicholas Patrick Peter Stephen Theophilus Theobald Terry Timothy Ives 
+		}
+		female_names = {
+			Olivia Liv Amelia Ava Isla Emily Mia Isabella Sophia Ella Grace Poppy Charlotte Lily Lillie Ivy Florence Evie Sophie Freya Evelyn Willow Phoebe Elsie Sienna Alice 
+			Jessica Jess Rosie Harper Daisy Sofia Isabelle Matilda Ruby Eva Emilia Scarlett Chloe Maya Esme Eliza Millie Imogen Aria Luna Layla Harriet Maisie Elizabeth 
+			Penelope Mila Erin Eleanor Lola Violet Bella Rose Emma Holly Molly Thea Ellie Lucy Hannah Lottie Nancy Ada Maria Lilly Zara Aurora Amber Georgia Robyn 
+			Robin Gracie Summer Jasmine Annabelle Bella Abigail Darcie Hallie Amelie Bonnie Iris Maryam Mariam Beatrice Anna Heidi Orla Arabella Clara Delilah Edith
+			Aisha Francesca Martha Ayla Zoe Zoey Lyla Sara Sarah Margot Felicity Margaret Angel
+			
+			# Later Additions
+			Adelaide Adela Adriana Agatha Agnes Amy Alexandria Alex Anastasia Andrea Ann Anne Audrey Bridget Cecilia Christine Claudia Dominica Dorothy 
+			Elisa Frances Fredericka Helen Ellen Henrietta Inez Isabel Joan Jean Jane Janine Juliet Latitia Laura Madeline Maggie Monica Naomi Susan 
+			Suzanne Sylvia Theresa Valentina Valerie Veronica Victoria Virginia
+		}
+		
+		from_dynasty_prefix = "of "
+
+		feminist = yes
+		dukes_called_kings = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+}
+
+outsider = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { englishgfx }
+
+	hampshire_hog = {
+		graphical_cultures = { englishgfx westerngfx }
+		
+		color = { 142 174 88 }
+
+		male_names = {
+			Jenson Lewis Oliver George Harry Noah Jack Leo Arthur Oscar Charlie Jacob Thomas Tom Henry William Will Alfie Archie Joshua Josh Freddie Theo Isaac James Alexander
+			Logan Edward Ethan Lucas Joseph Sebastian Theodore Finley Max Samuel Sam Sammy Harrison Benjamin Ben Daniel Dan Adam Teddy Mason Elijah Reuben Dylan 
+			Hunter Reggie Jason Rory Louie David Tommy Luca Albie Hugo Zachary Zack Albert Jude Toby Riley Ezra Carter Gabriel Gabe Roman Frankie Frank Harley
+			Frederick Fred Freddy Ronnie Jake Elliot Louis Jenson Stanley Bobby Michael Mike Jesse Finn Jayden Harvey Caleb Jackson Charles Matthew Matt Grayson Blake Liam 
+			Elliott Ellis Ralph Jasper Rowan Alex Ryan Felix Luke Dexter Ollie Leon Tobias Dominic John Jonny Johnny Seb Dave Joe Joey Christopher Chris Andrew Andy
+			Robert Rob Robbie Robb
+			
+			# Later Additions
+			Adrian Alan Anthony Augustus Bernard Dennis Eric Steven Eugene Francis Gerald Gregory Bill Jimmy Jerome Julius Julian Laurence Lewis Lukas Mark Marcus Morris 
+			Nicholas Patrick Peter Stephen Theophilus Theobald Terry Timothy Ives 
+		}
+		female_names = {
+			Olivia Liv Amelia Ava Isla Emily Mia Isabella Sophia Ella Grace Poppy Charlotte Lily Lillie Ivy Florence Evie Sophie Freya Evelyn Willow Phoebe Elsie Sienna Alice 
+			Jessica Jess Rosie Harper Daisy Sofia Isabelle Matilda Ruby Eva Emilia Scarlett Chloe Maya Esme Eliza Millie Imogen Aria Luna Layla Harriet Maisie Elizabeth 
+			Penelope Mila Erin Eleanor Lola Violet Bella Rose Emma Holly Molly Thea Ellie Lucy Hannah Lottie Nancy Ada Maria Lilly Zara Aurora Amber Georgia Robyn 
+			Robin Gracie Summer Jasmine Annabelle Bella Abigail Darcie Hallie Amelie Bonnie Iris Maryam Mariam Beatrice Anna Heidi Orla Arabella Clara Delilah Edith
+			Aisha Francesca Martha Ayla Zoe Zoey Lyla Sara Sarah Margot Felicity Margaret Angel
+			
+			# Later Additions
+			Adelaide Adela Adriana Agatha Agnes Amy Alexandria Alex Anastasia Andrea Ann Anne Audrey Bridget Cecilia Christine Claudia Dominica Dorothy 
+			Elisa Frances Fredericka Helen Ellen Henrietta Inez Isabel Joan Jean Jane Janine Juliet Latitia Laura Madeline Maggie Monica Naomi Susan 
+			Suzanne Sylvia Theresa Valentina Valerie Veronica Victoria Virginia
+		}
+		
+		from_dynasty_prefix = "of "
+
+		feminist = yes
+		dukes_called_kings = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+	roman = {
+		graphical_cultures = { romangfx southerngfx trueoccitangfx occitangfx }
+		
+		color = { 0.8 0.2 0.2 }
+		
+		used_for_random = no
+		alternate_start = { has_alternate_start_parameter = { key = culture value = full_random } }
+
+		male_names = {
+			Aemilianus Aemilius Aetius Albinus Alexander_Alexander Anastasius_Anastasius Anicius Annius Antoninus Antonius_Antonius Arcadius Aurelianus Aurelius
+			Avitus Belisarius_Belisarius Britannicus Caecilius Caesar_Caesar Carinus Carus Cassius Claudius_Claudius Clementius Constans_Constans Constantinus_Constantine
+			Constantius_Constantius Cornelius_Cornelius Crassus Decimus Decius Diocletianus Domitianus Domitius Drusus Ennodius Fabianus Fabius Faustus Felix Flavianus Florianus
+			Gaius Galerius Gallienus Gallus Germanus_Germanus Gordianus Gracchus Gratianus Hadrianus_Adrian Herculius_Heracles Honorius Joannes_John Jovianus
+			Julianus_Julian Julius_Julius Julius-Caesar Junius Justinus_Justin Justinianus_Justinian Leo_Leo Leontius_Leontius Liberius Licinius Lucius Magnus_Magnus Marcellinus
+			Marcellus Marcianus Marcus_Marcus Marinus Marius Martinus Maximianus Maximinus Maximus_Maximus Nepotianus Nerva Numerianus Octavianus Octavius Otho
+			Paulinus Paulus_Paul Petronius Philippus_Philip Pompeius Pontianus Priscus Probus Publius Quintus Romanus_Roman Romulus Rufinus Rutilius Sabinianus
+			Saturninus Sempronius Septimius Sergius_Sergius Severinus Severus Sextus Symmachus_Symmachus Tacitus Theodosius_Theodosios Tiberius_Tiberius
+			Titius Titus Trajanus_Trajan Urbanus_Urban Valens Valentinianus Valerianus Valerius_Valerius Venantius Vespasianus Victor Victorinus Vigilius Vitalianus Volusianus
+		}
+		female_names = {
+			Aelia Agrippina Antonia_Antonia Antonina Aquilia Aurelia_Aurelia Caecilia Caesaris Candida Cassia Claudia_Claudia Clementia Constantia_Constantia
+			Constantina_Constantina Cornelia Crispina Dominica Domitiana Domna Domnina Drusilla Fausta Faustina Flacilla Flavia Fortunata Frontina Gaia Galeria
+			Gordiana Hadriana_Adriana Helvia Hilara Honoria Hortensia Julia_Julia Juliana_Juliana Junia Justa Justina_Justina Justiniana Licinia Livia Livilla Lucilla
+			Magnia Magnilla Marcella Marcia_Marcia Marciana Marina_Marine Martina_Martina Matrona Maxima Maximiana Messalina Minervina Minucia Modia Mustela
+			Octavia Palatina Paula_Paula Paulina_Paulina Petronella_Petronilla Petronia_Petronia Placidia Plautia Plautilla Pompeia Poppaea Praeiecta Publia Pulcheria_Pulcheria
+			Rusticiana Sabina Sallustia Salonina Salvianella Scantilla Serena Sergia Severa Severina Silvia_Silvia Spadusa Sulpicia Tarsilla Titiana Ulpia Valeria_Valeria
+			Verina Victoria Vigilantia Viviana_Viviana
+		}
+		from_dynasty_prefix = "of "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 50
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 50
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+		
+		disinherit_from_blinding = yes
+
+		modifier = default_culture_modifier
+	}
+}
+
+chav = {
+	graphical_cultures = { englishgfx }
+	
+	roadman = {
+		graphical_cultures = { englishgfx westerngfx }
+		
+		color = { 28 116 80 }
+
+		male_names = {
+			Triggz Kash "A1 Certi" A1 Scrapz Flacko "Digga D" Drillz "Certi 100" Smokey "K1 Loose" T1 Asznee "Youngest Drilla" 
+			MK Certi "A1 Viks" Stackzz Jsav "AJ Shanks" SLANEY YB Rizzy Strapz Raj "K1-Trapz" Yungblud "Yungz Smokeytrapz" Ace
+			S1 Skendo Zak Kiggz Slickzz 1up Battyman "T.Y." Wavey 6ix9ine 9ines Drilla Ksav Stackz Reeks Yardz Darky TFlipz Lynch
+			Yungxdrilla Uzzy "Lil' Uzi" "Lil' Pup" Jahseh Trickzz Ryder 2Loose Lockz SB Yungnutz "DJ Smoke" Fatz2Nitty Cortezz
+			"T.Bandz" Ratnoo Nish Sav Mubz Rigs Nabz Hugz Billz Fizzy Breezy Mossy Ap Am Mubz Elzzsav Loose Fatman Ozzy Skamz Digz
+			"SJ Breezy" "SJ Drillzz" 2Shanky "Unknown Drilla" Jamz t1K Tagz Mobangz Bigman Sparkz Yungmoe FK DK Trizzy SKengzz
+			ChubZilla Blitz Sparkz B1Bolu Shadz Shady Munii L1YoungDrilla 9i9ER kDrilla M3ramz Yungztings Penchod Clapz Trappy
+			Wavvey Packz Dreads Pokey Dinzy Fozzer Fessey Millzyboi Clinton Skeng Skengman OGSkengger "£Shots_" Itsygxo Shomekkey
+			R1mzyy Buxkky Fadz Sym Aryman Dixie Tloose Oppblammer Bradtlap Msav "Young Shotter" Shotter
+			
+			# From 'Musicians'
+			"Amplify Dot" Bashy "Big H" C4 Chip "Big Narstie" "Lil Silver" "Bugzy" "Titch" Crazy Oxxxymiron "D Double"
+			Dubzy DaVinChe Devlin "Durty Goodz" Zeph "Dot Rotten" Flowdan Ghetts Ghostly Guvna Ironik Jammer Jammz Jayake "Jin Jin"
+			Jme Koomz Bizzle Yizzy Merky "P Money" Popek Rabit Dizzee Royal-T Redzz Depzman Laika Sketchman Slimzy Skinzz Smilzey
+			Stormin Tinchy Tempa Toddla Trim Trimz Trimmer Tubby Tubxz Wiley 30irty2wo
+		}
+		female_names = {
+			Fay Elzz Takesha Thotianna Anita Cindy Courtney Cortnee Cortnie Danielle Jade Jodie Kayleigh Keeley Keira Kimberley
+			Kylie Leanne Leigh "Lou-Lou" Mia Paige Stacey Tyler "Tyler-Rose" Alanna Adrienne Ashleigh Britney Candice Chantelle
+			Chelsie Chelsea Chelseigh Chloe Nadia "Leshur" Kat
+			
+			# From 'Musicians'
+			"Mz. Bratt" "Envy" "Flava D" "Little Simz" NoLay Gotti Redzz Shystie
+		}
+		
+		from_dynasty_prefix = "endzat "
+
+		feminist = no
+		dukes_called_kings = no
+		allow_looting = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+}

@@ -4,8 +4,8 @@
 title = c_sandy_hill
 
 #Settlements
-max_settlements = 7
-b_toplady = city
+max_settlements = 6
+b_toplady = castle
 b_alwin = city
 b_st_marks = temple
 b_swift = castle

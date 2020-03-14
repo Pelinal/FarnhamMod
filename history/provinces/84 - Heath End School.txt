@@ -4,8 +4,8 @@
 title = c_heath_end_school
 
 #Settlements
-max_settlements = 7
-b_heath_end_school = city
+max_settlements = 6
+b_heath_end_school = castle
 b_the_tower = castle
 b_hawthorne_house = city
 #b_baynes = {}

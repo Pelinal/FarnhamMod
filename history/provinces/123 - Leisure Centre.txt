@@ -1,0 +1,21 @@
+# 123 - Leisure Centre
+
+#County title
+title = c_leisure_centre
+
+#Settlements
+max_settlements = 5
+b_leisure_centre = castle
+b_leisure_centre_gym = city
+b_40_degreez = temple
+#b_kravmaga = city
+#b_nam = city
+#b_goodlaw = {}
+#b_huxley = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = plains
+
+# History

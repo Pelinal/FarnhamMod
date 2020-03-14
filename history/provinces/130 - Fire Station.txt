@@ -1,0 +1,21 @@
+# 130 - Fire Station
+
+#County title
+title = c_fire_station
+
+#Settlements
+max_settlements = 6
+b_fire_station = castle
+b_enchanted_wood = city
+b_dollis = temple
+b_kimber = castle
+#b_in2training = city
+#b_post19 = {}
+#b_bioventix = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = plains
+
+# History

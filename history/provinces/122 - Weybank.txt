@@ -1,0 +1,21 @@
+# 122 - Weybank
+
+#County title
+title = c_weybank
+
+#Settlements
+max_settlements = 6
+b_35_weybank_close = castle
+b_weybank = city
+b_hawthorn = temple
+b_wey_valley_house = castle
+#b_brightwell = city
+#b_riverside_park = {}
+#b_harrison = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = plains
+
+# History

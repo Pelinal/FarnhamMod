@@ -4,10 +4,10 @@
 title = c_blackheath
 
 #Settlements
-max_settlements = 7
-b_blackheath = city
+max_settlements = 5
+b_blackheath = castle
 b_eton_place = castle
-b_brougham = city
+#b_brougham = city
 b_jascapes = temple
 #b_barrie = {}
 #b_spring = {}

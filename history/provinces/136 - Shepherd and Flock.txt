@@ -1,0 +1,21 @@
+# 136 - Shepherd and Flock
+
+#County title
+title = c_shepherdandflock
+
+#Settlements
+max_settlements = 5
+b_shepard_and_flock = castle
+b_shepard_and_flock_pub = city
+b_high_way = temple
+#b_sheepfield = {}
+#b_flockhouses = {}
+#b_yellowbrick = {}
+#b_freehouse = {}
+
+#Misc
+culture = comptonic
+religion = lollard
+terrain = woods
+
+# History

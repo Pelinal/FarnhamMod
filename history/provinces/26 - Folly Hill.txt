@@ -4,11 +4,11 @@
 title = c_folly_hill
 
 #Settlements
-max_settlements = 7
-b_folly_lodge = city
+max_settlements = 4
+b_folly_lodge = castle
 b_knowle_farm = city
-b_drovers = temple
-b_blenheim = castle
+#b_drovers = temple
+#b_blenheim = castle
 #b_hampton = {}
 #b_upper_old_park = {}
 #b_woodstock = {}

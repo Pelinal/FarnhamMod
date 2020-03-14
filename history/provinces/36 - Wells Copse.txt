@@ -4,10 +4,10 @@
 title = c_wells_copse
 
 #Settlements
-max_settlements =7
+max_settlements = 3
 b_farnham_house = castle
-b_northbrook = city
-b_woodheart = temple
+b_northbrook = temple
+#b_woodheart = temple
 #b_ridgway_house = city
 #b_willey_park_house
 #b_ridgway_lodge

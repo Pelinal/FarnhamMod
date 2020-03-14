@@ -7,8 +7,8 @@ title = c_dippenhall
 max_settlements = 7
 b_dippenhall = castle
 b_dippenhall_house = city
-b_the_factory = castle
-b_stable_cottage = temple
+b_the_factory = city
+#b_stable_cottage = temple
 #b_coach_house = {}
 #b_compass_yacht = {}
 #b_rover_and_jaguar = {}
@@ -16,6 +16,6 @@ b_stable_cottage = temple
 #Misc
 culture = townie
 religion = lollard
-terrain = plains
+terrain = farmlands
 
 # History

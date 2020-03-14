@@ -4,11 +4,11 @@
 title = c_bricksbury
 
 #Settlements
-max_settlements = 7
-b_bricksbury = city
-b_willow_house = city
-b_the_ferns = temple
-b_gorselands = castle
+max_settlements = 5
+b_bricksbury = castle
+b_willow_house = castle
+b_the_ferns = city
+#b_gorselands = castle
 #b_mr_scan = {}
 #b_christian_trust = {}
 #b_shiphouse = {}
@@ -16,6 +16,6 @@ b_gorselands = castle
 #Misc
 culture = haleian
 religion = lollard
-terrain = plains
+terrain = hills
 
 # History

@@ -4,10 +4,10 @@
 title = c_farnham_park
 
 #Settlements
-max_settlements = 7
+max_settlements = 3
 b_rangers_lodge = tribal
 #b_the_avenue = castle
-#b_st_james = temple
+b_st_james = temple
 #b_whitebottom = castle
 #b_swallow_hole = {}
 #b_college_copse = {}

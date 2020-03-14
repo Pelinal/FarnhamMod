@@ -1,0 +1,21 @@
+# 121 - G9 HQ
+
+#County title
+title = c_g9hq
+
+#Settlements
+max_settlements = 5
+b_g9hq = castle
+b_drug_den = city
+b_scatshrine = temple
+#b_syringe_bin = {}
+#b_dingy_squat = {}
+#b_the_hotbox = {}
+#b_scrapsign = {}
+
+#Misc
+culture = roadman
+religion = lollard
+terrain = woods
+
+# History

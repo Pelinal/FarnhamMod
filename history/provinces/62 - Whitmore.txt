@@ -4,11 +4,11 @@
 title = c_whitmore
 
 #Settlements
-max_settlements = 7
-b_whitmore = city
+max_settlements = 5
+b_whitmore = castle
 b_oaktree = city
 b_fairview = temple
-b_white_cottage = castle
+#b_white_cottage = castle
 #b_haling = {}
 #b_southreeds = {}
 #b_blueline = {}

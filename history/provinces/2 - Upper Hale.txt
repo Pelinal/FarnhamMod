@@ -5,9 +5,9 @@ title = c_upper_hale
 
 #Settlements
 max_settlements = 7
-b_fernhill = city
-b_hale_village_hall = temple
-b_the_vine = city
+b_fernhill = castle
+b_hale_village_hall = city
+b_the_vine = temple
 b_the_green = castle
 b_ball_and_wicket = city
 #b_greenways = {}
