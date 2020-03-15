@@ -1,4 +1,6 @@
-1000 = {
+## Farnham Unique Chars
+
+1000 = { # Josh 'the Bean' Tabner
 	name = "Josh"
 	dynasty = 1000
 	culture = "townie"
@@ -22,18 +24,20 @@
 	add_trait = "scholar"
 	add_trait = "twin"
 	
-	dna="0c0fb0cbdd0"
-	properties="ch0c0k000000000000"
+	race = "german"
+	dna = "0c0fb0cbdd0"
+	properties = "ch0c0k000000000000"
 	
-	752.8.15 = {
-		birth = yes 
+	2002.8.15 = {
+		birth = yes
+		give_nickname = nick_the_bean
 	}
-	1452.1.1 = {
+	2075.1.1 = {
 		death = yes
 	}
 }
 
-1001 = {
+1001 = { # Caroline 'Cunningham' Tabner
 	name = "Caroline"
 	dynasty = 1000
 	culture = "haleian"
@@ -54,19 +58,24 @@
 	add_trait = slothful
 	add_trait = content
 	add_trait = cynical
+	
+	race = "german"
+	dna = "caheb0dbbf0"
+    properties = "cb000k000000000000"
 
-	752.1.1 = {
-		birth = yes 
+	1975.1.18 = {
+		birth = yes
+		give_nickname = nick_cunningham
 	}
-	1452.1.1 = {
+	2060.1.1 = {
 		death = yes
 	}
 }
 
-1002 = {
-	name = "Mullac"
+1002 = { # Callum Allgar-Jepson
+	name = "Callum"
 	dynasty = 1001
-	culture = "townie"
+	culture = "wreccleshese"
 	religion = "pupalitarian"
 	
 	diplomacy = 2
@@ -87,20 +96,20 @@
 	add_trait = "scholar"
 	add_trait = "erudite"
 	
-	dna="cdhba0dc0a0"
-	properties="cn0h0k000000000000"
+	dna = "cdhba0dc0a0"
+	properties = "cn0h0k000000000000"
 	
-	752.1.1 = {
+	2001.11.1 = {
 		birth = yes 
 	}
-	1452.1.1 = {
+	2093.1.1 = {
 		death = yes 
 	}
 }
 
 
-1003 = {
-	name = "Callum"
+1003 = { # Callum Randall
+	name = "Callum" 
 	dynasty = 1002
 	culture = "townie"
 	religion = "pupalitarian"
@@ -114,11 +123,13 @@
 	add_trait = flanker
 	add_trait = uncouth
 	
+	dna = "ciheh00chc0"
+    properties = "oh0e0k000000000000"
 
-	752.1.1 = {
+	2002.6.1 = {
 		birth = yes 
 	}
-	1452.1.1 = {
+	2082.1.1 = {
 		death = yes
 	}
 }
@@ -137,16 +148,19 @@
 	add_trait = paranoid
 	add_trait = zealous
 	add_trait = trickster
+	
+	dna = "cgbfi0db000"
+    properties = "im0b0k000000000000"
 
-	752.1.1 = {
+	2002.1.1 = {
 		birth = yes 
 	}
-	1452.1.1 = {
+	2080.1.1 = {
 		death = yes
 	}
 }
 
-1005 = {
+1005 = { # Max 'Mad Max' Collings
 	name = "Max"
 	dynasty = 1004
 	culture = "townie"
@@ -165,19 +179,25 @@
 	add_trait = aggressive_leader
 	add_trait = berserker
 	
-	752.1.1 = {
-		birth = yes 
+	# Max's Dad :  dna="be0fb0fbdd0" properties="ee00fk000000000000"
+	dna = "bh00g0fced0"
+	properties = "eb000k000000000000"
+	
+	2002.5.1 = {
+		birth = yes
+		give_nickname = nick_mad_max
 	}
-	1452.1.1 = {
+	2070.1.1 = {
 		death = yes
 	}
 }
 
-1006 = {
+1006 = { # Kial Dicks
 	name = "Kial"
 	dynasty = 1005
 	culture = "haleian"
 	religion = "lollard"
+	father = 1007
 	
 	random_traits = no
 	add_trait = grey_eminence
@@ -194,11 +214,14 @@
 	add_trait = stubborn
 	add_trait = homosexual
 	add_trait = trickster
-
-	752.1.1 = {
+	
+	dna = "cggcg0dahf0"
+	properties = "bk0e0k000000000000"
+	
+	1996.9.23 = {
 		birth = yes 
 	}
-	1452.1.1 = {
+	2066.1.1 = {
 		death = yes
 	}
 }
@@ -206,21 +229,35 @@
 1007 = {
 	name = "Stuart"
 	dynasty = 1005
-	culture = "haleian"
+	culture = "leeman"
 	religion = "lollard"
-
-	752.1.1 = {
-		birth = yes 
+	
+	add_trait = groomed
+	add_trait = groomed
+	add_trait = deceitful
+	add_trait = ugly
+	add_trait = wroth
+	add_trait = proud
+	add_trait = arbitrary
+	add_trait = duelist
+	add_trait = lustful
+	add_trait = aggressive_leader
+	
+	dna = "0cgg00g0c00"
+	properties = "fm0g0k000000000000"
+	
+	1982.1.1 = {
+		birth = yes
 	}
-	1452.1.1 = {
+	2060.1.1 = {
 		death = yes
 	}
 }
 
-1008 = {
+1008 = { # Ben Allgar
 	name = "Ben"
 	dynasty = 1001
-	culture = "haleian"
+	culture = "townie"
 	religion = "lollard"
 	
 	random_traits = no
@@ -266,10 +303,10 @@
 	add_trait = aggressive_leader
 	add_trait = dynastic_kinslayer	
 
-	752.1.1 = {
+	2003.1.1 = {
 		birth = yes 
 	}
-	1452.1.1 = {
+	2044.1.1 = {
 		death = yes
 	}
 }
@@ -277,7 +314,7 @@
 1010 = {
 	name = "Gillan"
 	dynasty = 1007
-	culture = "townie"
+	culture = "wreccleshese"
 	religion = "pupalitarian"
 	
 	random_traits = no
@@ -290,10 +327,14 @@
 	add_trait = cruel
 	add_trait = deceitful
 	add_trait = unyielding_leader
-
+	
+	race = "indian"
+	dna = "0bfef0ca000"
+	properties = "gd000k000000000000"
 
 	752.1.1 = {
-		birth = yes 
+		birth = yes
+		give_nickname = nick_the_wide
 	}
 	1452.1.1 = {
 		death = yes

@@ -1967,5 +1967,99 @@ e_farnham = {
 				b_freehouse = {}
 			}
 		}
+		
+		d_underpass = {
+			color={ 146 75 120 }
+			color2={ 255 255 255 }
+			
+			capital = 139 # Kilnside
+			dignity = 15
+			
+			culture = comptonic
+			
+			c_snailslynch = {
+				color={ 112 58 92 }
+				color2={ 255 255 255 }
+				
+				b_snailslynch = {}
+				b_snailslynch_farm = {}
+				b_oakgate = {}
+				b_picketree = {}
+				b_gap_farm = {}
+				b_lynchfield = {}
+				b_henhouse = {}
+			}
+			c_highmill = {
+				color={ 175 103 149 }
+				color2={ 255 255 255 }
+				
+				b_high_mill = {}
+				b_high_mill_house = {}
+				b_grainsill = {}
+				b_millford = {}
+				b_nearoak = {}
+				b_crookswood = {}
+				b_pondhouse = {}
+			}
+			c_kilnside = {
+				color={ 146 75 120 }
+				color2={ 255 255 255 }
+				
+				b_kilnside_farm = {}
+				b_rock_house = {}
+				b_kilnrock = {}
+				b_tennising = {}
+				b_drainwood = {}
+				b_rowlud = {}
+				b_jaspers = {}
+			}
+		}
+		
+		d_broomleaf = {
+			color={ 218 61 161 }
+			color2={ 255 255 255 }
+			
+			capital = 142 # Kilnside
+			dignity = 15
+			
+			culture = comptonic
+			
+			c_broomleaf = {
+				color={ 218 61 161 }
+				color2={ 255 255 255 }
+				
+				b_broomleaf = {}
+				b_bridgefield = {}
+				b_oakgate = {}
+				b_picketree = {}
+				b_gap_farm = {}
+				b_lynchfield = {}
+				b_henhouse = {}
+			}
+			c_lynch = {
+				color={ 191 37 135 }
+				color2={ 255 255 255 }
+				
+				b_lynch = {}
+				b_high_mill_house = {}
+				b_grainsill = {}
+				b_millford = {}
+				b_nearoak = {}
+				b_crookswood = {}
+				b_pondhouse = {}
+			}
+			c_waverley_grange = {
+				color={ 226 104 182 }
+				color2={ 255 255 255 }
+				
+				b_waverley_grange = {}
+				b_bupa = {}
+				b_mama_jeanius = {}
+				b_tennising = {}
+				b_drainwood = {}
+				b_rowlud = {}
+				b_jaspers = {}
+			}
+		}
 	}
 }

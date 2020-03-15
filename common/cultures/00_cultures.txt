@@ -346,6 +346,53 @@ farnhamese = {
 
 		modifier = default_culture_modifier
 	}
+	rowlegian = {
+		graphical_cultures = { englishgfx westerngfx }
+		
+		color = { 174 88 148 }
+
+		male_names = {
+			Jenson Lewis Oliver George Harry Noah Jack Leo Arthur Oscar Charlie Jacob Thomas Tom Henry William Will Alfie Archie Joshua Josh Freddie Theo Isaac James Alexander
+			Logan Edward Ethan Lucas Joseph Sebastian Theodore Finley Max Samuel Sam Sammy Harrison Benjamin Ben Daniel Dan Adam Teddy Mason Elijah Reuben Dylan 
+			Hunter Reggie Jason Rory Louie David Tommy Luca Albie Hugo Zachary Zack Albert Jude Toby Riley Ezra Carter Gabriel Gabe Roman Frankie Frank Harley
+			Frederick Fred Freddy Ronnie Jake Elliot Louis Jenson Stanley Bobby Michael Mike Jesse Finn Jayden Harvey Caleb Jackson Charles Matthew Matt Grayson Blake Liam 
+			Elliott Ellis Ralph Jasper Rowan Alex Ryan Felix Luke Dexter Ollie Leon Tobias Dominic John Jonny Johnny Seb Dave Joe Joey Christopher Chris Andrew Andy
+			Robert Rob Robbie Robb
+			
+			# Later Additions
+			Adrian Alan Anthony Augustus Bernard Dennis Eric Steven Eugene Francis Gerald Gregory Bill Jimmy Jerome Julius Julian Laurence Lewis Lukas Mark Marcus Morris 
+			Nicholas Patrick Peter Stephen Theophilus Theobald Terry Timothy Ives 
+		}
+		female_names = {
+			Olivia Liv Amelia Ava Isla Emily Mia Isabella Sophia Ella Grace Poppy Charlotte Lily Lillie Ivy Florence Evie Sophie Freya Evelyn Willow Phoebe Elsie Sienna Alice 
+			Jessica Jess Rosie Harper Daisy Sofia Isabelle Matilda Ruby Eva Emilia Scarlett Chloe Maya Esme Eliza Millie Imogen Aria Luna Layla Harriet Maisie Elizabeth 
+			Penelope Mila Erin Eleanor Lola Violet Bella Rose Emma Holly Molly Thea Ellie Lucy Hannah Lottie Nancy Ada Maria Lilly Zara Aurora Amber Georgia Robyn 
+			Robin Gracie Summer Jasmine Annabelle Bella Abigail Darcie Hallie Amelie Bonnie Iris Maryam Mariam Beatrice Anna Heidi Orla Arabella Clara Delilah Edith
+			Aisha Francesca Martha Ayla Zoe Zoey Lyla Sara Sarah Margot Felicity Margaret Angel
+			
+			# Later Additions
+			Adelaide Adela Adriana Agatha Agnes Amy Alexandria Alex Anastasia Andrea Ann Anne Audrey Bridget Cecilia Christine Claudia Dominica Dorothy 
+			Elisa Frances Fredericka Helen Ellen Henrietta Inez Isabel Joan Jean Jane Janine Juliet Latitia Laura Madeline Maggie Monica Naomi Susan 
+			Suzanne Sylvia Theresa Valentina Valerie Veronica Victoria Virginia
+		}
+		
+		from_dynasty_prefix = "of "
+
+		feminist = yes
+		dukes_called_kings = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
 }
 
 outsider = {
@@ -496,5 +543,72 @@ chav = {
 		mother_name_chance = 5
 
 		modifier = default_culture_modifier
+	}
+}
+
+foreigner = {
+	graphical_cultures = { indiangfx germangfx }
+	indian = {
+		graphical_cultures = { indiangfx }
+		
+		color = { 255 128 0 }
+	
+		male_names = {
+			Aamir Abbas Abhay Abhijeet Abhijit Abhilash Abhinav Abhishek Abrar Adil Aditya Adnan Agni Ahmad Ajay Ajeet Ajit Ajith Akash Bharat Bharath Bibek Bijay Bipin Bishal Bishan Brijesh Chand
+			Chander Chetan Damodar Danyal Darshan Dayaram Deo Devdas Devraj Dhaval Dileep Dilshad Dinesh Dip Dipak Durai Durga Dushyant Farid Feroze Firoz Gautam Ghulam Girish Gopinath Goutam
+			Harinder Hari Haroon Harsh Harsha Inderpal Inrda Isha Jagadish Jagit Jaidev Kalyan Kanta Kanti Kapil Karan Karthik Kartik Mohinder Mukesh Nand Nanda Narinder Navin Ninad Niraj Om Padma Pallav
+			Pankaj Parminder Parth Parveen Pitambar Prabhu Pran Pratap Rabi Punit Raghu Rajib Rajinder Rajneesh Rasel Sanjeet Sanjit Saral Satish Shekhar Sher Shib Shiva Shyam Simran Sikandar Vasu Venkat  
+		}
+		female_names = {
+			Aarthi Abha Aisha Amala Anandi Anila Anima Anisha Anita Anjali Arti Aruna Arya Aruna Avani Balwinder Bhavna Chanda Chandana Chandra Chetana Darshana Deepa Deepika Divya Esha Ezhil
+			Fahmida Ferdous Gargi Dauri Gayatri Gita Gowri Gurdeep Gurmeet Harinder Harshada Hema Hira Humaira Ila Inderjeet Inderpal Jaswinder Jaya Jayanthi Kala Kali Kalpana Kamakshi Kasi Kavita
+			Laila Laboni Lalita Madhur Manjeet Maya Meera Meena Mohini Mumtaz Nalini Nikita Nilima Padma Padmini Pratima Preethi Prema Priti Rachana Rajinder Rakhi Riya Rupa Sadia Sandhya Sarala
+			Saraswati Sarika Sarita Sashi Seeta Shabnam Shailaja Shanti Sheela Shikha Shila Shivani Simran Sitara Sneha Sridevi Suniti Swapna Uma Urvi Vasanti Yamuna Zeenat
+		}
+		
+		founder_named_dynasties = yes
+		
+		modifier = default_culture_modifier	
+		dukes_called_kings = yes		
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+	}
+	german = {
+		graphical_cultures = {germangfx}
+		color = { 111 111 111 }
+	
+		from_dynasty_prefix = "von "
+		male_names = {
+			Ben Jonas Leon Elias Finn Noah Paul Luis Lukas Luca Felix Maximilian Henry Max Emil Moritz Jakob Niklas Tim Julian Oskar Anton Philipp David Alexander Theo Tom Mats Jan Matteo Samuel Erik Fabian Milan Leo Jonathan Rafael Simon Vincent 
+			Lennard Carl Linus Hannes Jona Mika Jannik Nico Till Johannes Marlon Leonard Benjamin Johann Mattis Adrian Julius Florian Constantin Daniel Aaron Maxim Nick Valentin Ole Luke Levi Nils Jannis Sebastian Tobias Marvin Joshua Timo Phil Joel 
+			Benedikt John Robin Toni Dominic Damian Artur Pepe Lasse Malte Sam Bruno Gabriel Lennox Justus Kilian Theodor Oliver Jamie Levin Lian Noel
+		}
+		female_names = {
+			Emma Mia Hannah Sofia Emilia Ann Lena Lea Emily Lina Léonie Amelie Sophie Luisa Johanna Nele Laura Lilly Lara Clara Mila Leni Maja Charlotte Sarah Frieda Ida Greta Pia Lotta Lia Mathilda Ella Melina Lisa Julia Paula 
+			Alina Mira Zoe Helena Marlene Emely Elisa Victoria Isabell Isabella Jana Amy Mara Finja Josephine Katharina Nora Theresa Mary Antonia Jasmin Stella Pauline Louise Annika Anni Lucy Jule Merle Carla Eva Milena Martha 
+			Elena Fiona Melissa Franziska Luna Magdalena Nina Annabell Romy Carlotta Mina Paulina Ronja Zoey Chiara Helene Selina Maila Fabienne Elina Jette Sina Jolina Elif Elisabeth Linda Miriam Valentina Lotte 
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 	}
 }

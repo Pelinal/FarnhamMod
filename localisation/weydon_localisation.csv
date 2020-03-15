@@ -126,46 +126,46 @@ DUNCALFE;Mr. Duncalfe;;;;;;;;;;;;x
 weydonian_key;The queues at Weydon school are ludicrously long!!;;;;;;;;;;;;x
 
 #Emperor
-emperor_weydon_group;Chief Executive;;;;;;;;;;;;;x
-emperor_female_weydon_group;Chief Executive;;;;;;;;;;;;;x
-empire_of_weydon_group;Academy of;;;;;;;;;;;;;x
+emperor_weydonian;Chief Executive;;;;;;;;;;;;;x
+emperor_female_weydonian;Chief Executive;;;;;;;;;;;;;x
+empire_of_weydonian;Academy of;;;;;;;;;;;;;x
 
 #King
-king_weydon_group;Headteacher;;;;;;;;;;;;x
-king_female_weydon_group;Headteacher;;;;;;;;;;;;x
-kingdom_of_weydon_group;School of;;;;;;;;;;;;x
+king_weydonian;Headteacher;;;;;;;;;;;;x
+king_female_weydonian;Headteacher;;;;;;;;;;;;x
+kingdom_of_weydonian;School of;;;;;;;;;;;;x
 
 #Duke
-duke_weydon_group;PAL;;;;;;;;;;;;;x
-duke_female_weydon_group;PAL;;;;;;;;;;;;;x
-duchy_of_weydon_group;Yeargroup of;;;;;;;;;;;;;x
+duke_weydonian;PAL;;;;;;;;;;;;;x
+duke_female_weydonian;PAL;;;;;;;;;;;;;x
+duchy_of_weydonian;Yeargroup of;;;;;;;;;;;;;x
 
-city_duchy_of_weydon_group;Big Office of;;;;;;;;;;;;;x
-city_duke_weydon_group;Head Technician;;;;;;;;;;;;;x
-city_duke_female_weydon_group;Head Technician;;;;;;;;;;;;;x
+city_duchy_of_weydonian;Big Office of;;;;;;;;;;;;;x
+city_duke_weydonian;Head Technician;;;;;;;;;;;;;x
+city_duke_female_weydonian;Head Technician;;;;;;;;;;;;;x
 
 #Count
-temple_county_weydon_group;Librarian;;;;;;;;;;;;x
-temple_county_female_weydon_group;Librarian;;;;;;;;;;;;x
-temple_county_of_weydon_group;LRC of;;;;;;;;;;;;x
+temple_county_weydonian;Librarian;;;;;;;;;;;;x
+temple_county_female_weydonian;Librarian;;;;;;;;;;;;x
+temple_county_of_weydonian;LRC of;;;;;;;;;;;;x
 
-city_county_of_weydon_group;Office of;;;;;;;;;;;;;x
-city_count_weydon_group;Technician;;;;;;;;;;;;;x
-city_count_female_weydon_group;Technician;;;;;;;;;;;;;x
+city_county_of_weydonian;Office of;;;;;;;;;;;;;x
+city_count_weydonian;Technician;;;;;;;;;;;;;x
+city_count_female_weydonian;Technician;;;;;;;;;;;;;x
 
-count_weydon_group;Teacher;;;;;;;;;;;;;x
-count_female_weydon_group;Teacher;;;;;;;;;;;;;x
-county_of_weydon_group;Classroom of;;;;;;;;;;;;;x
+count_weydonian;Teacher;;;;;;;;;;;;;x
+count_female_weydonian;Teacher;;;;;;;;;;;;;x
+county_of_weydonian;Classroom of;;;;;;;;;;;;;x
 
 #Baron
-temple_baron_weydon_group;Student Leader;;;;;;;;;;;;x
-temple_baron_female_weydon_group;Student Leader;;;;;;;;;;;;x
-temple_barony_of_weydon_group;Duty of;;;;;;;;;;;;x
+temple_baron_weydonian;Student Leader;;;;;;;;;;;;x
+temple_baron_female_weydonian;Student Leader;;;;;;;;;;;;x
+temple_barony_of_weydonian;Duty of;;;;;;;;;;;;x
 
-city_baron_weydon_group;Technician;;;;;;;;;;;;x
-city_baron_female_weydon_group;Technician;;;;;;;;;;;;x
-city_barony_of_weydon_group;Small Office of;;;;;;;;;;;;x
+city_baron_weydonian;Technician;;;;;;;;;;;;x
+city_baron_female_weydonian;Technician;;;;;;;;;;;;x
+city_barony_of_weydonian;Small Office of;;;;;;;;;;;;x
 
-baron_weydon_group;Student;;;;;;;;;;;;;x
-baron_female_weydon_group;Student;;;;;;;;;;;;;x
-barony_of_weydon_group;Desk of;;;;;;;;;;;;;x
+baron_weydonian;Student;;;;;;;;;;;;;x
+baron_female_weydonian;Student;;;;;;;;;;;;;x
+barony_of_weydonian;Desk of;;;;;;;;;;;;;x

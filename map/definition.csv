@@ -136,8 +136,8 @@ province;red;green;blue;x;x
 135;0;192;195;Trading Estate;x
 136;42;195;68;Shepherd and Flock;x ### k_moor_park below the bypass
 137;84;198;196;Snailslynch;x
-138;126;201;69;High Mill;x # b_high_mill_house
-139;168;204;197;Kilnside;x # b_kilnside farm b_rock_house
+138;126;201;69;High Mill;x
+139;168;204;197;Kilnside;x 
 140;0;207;70;Moor Park Farm;x
 141;42;210;198;Swifts;x
 142;84;0;71;Broomfleaf;x

@@ -1,0 +1,6 @@
+nick_mad_max = {}
+nick_cunningham = {}
+nick_the_bean = {}
+nick_the_wide = {}
+nick_the_long = {}
+nick_the_jew = {}
