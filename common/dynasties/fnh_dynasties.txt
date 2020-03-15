@@ -1,0 +1,47 @@
+1000 = {
+	name="Tabner"
+	culture="townie"
+	religion="lollard"
+}
+
+1001 = {
+	name="2001"
+	culture="townie"
+	religion="lollard"
+}
+
+1002 = {
+	name="Randall"
+	culture="townie"
+	religion="lollard"
+}
+
+1003 = {
+	name="Gerhardt"
+	culture="haleian"
+	religion="weydonian"
+}
+
+1004 = {
+	name="Collings"
+	culture="townie"
+	religion="pupalitarian"
+}
+
+1005 = {
+	name="Dicks"
+	culture="haleian"
+	religion="lollard"
+}
+
+1006 = {
+	name="Cassali"
+	culture="rowlegian"
+	religion="scat"
+}
+
+1007 = {
+	name="Westley"
+	culture="townie"
+	religion="pupalitarian"
+}
