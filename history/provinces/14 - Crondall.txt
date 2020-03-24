@@ -15,7 +15,7 @@ b_st_francis = temple
 
 #Misc
 culture = townie
-religion = lollard
+religion = waitrosian
 terrain = hills
 
 # History

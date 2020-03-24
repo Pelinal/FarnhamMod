@@ -1,0 +1,21 @@
+# 168 - Dene Way
+
+#County title
+title = c_deneway
+
+#Settlements
+max_settlements = 3
+b_dene_way = castle
+b_longwood = city
+#b_brambledene = city
+#b_inglewood = {}
+#b_farning = {}
+#b_peterswood = {}
+#b_holly_house = {}
+
+#Misc
+culture = runfolder
+religion = lollard
+terrain = plains
+
+# History

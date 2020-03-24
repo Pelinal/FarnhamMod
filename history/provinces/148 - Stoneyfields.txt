@@ -1,0 +1,21 @@
+# 148 - Stoneyfields
+
+#County title
+title = c_stoneyfields
+
+#Settlements
+max_settlements = 5
+b_stoneyfields = castle
+b_holland = city
+b_lincoln = temple
+#b_twenty = {}
+#b_dell = {}
+#b_greenspoke = {}
+#b_thornton_lodge = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

@@ -1,0 +1,21 @@
+# 196 - Longley
+
+#County title
+title = c_longley
+
+#Settlements
+max_settlements = 5
+b_longley = castle
+b_highbank = city
+b_the_bays = temple
+#b_laurels = { }
+#b_peshawar = {}
+#b_west_field = {}
+#b_daylesford = {}
+
+#Misc
+culture = comptonic
+religion = lollard
+terrain = plains
+
+# History

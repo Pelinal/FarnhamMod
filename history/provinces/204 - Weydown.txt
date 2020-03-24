@@ -1,0 +1,21 @@
+# 204 - Weydown
+
+#County title
+title = c_weydown
+
+#Settlements
+max_settlements = 3
+b_weydown = castle
+b_maucher = temple
+#b_cala = city
+#b_downhouse = {}
+#b_by_the_bypass = {}
+#b_moonpath = {}
+#b_turnoff = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = hills
+
+# History

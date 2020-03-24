@@ -1,0 +1,21 @@
+# 201 - Searle
+
+#County title
+title = c_searle
+
+#Settlements
+max_settlements = 5
+b_searle_house = castle
+b_searle = city
+b_charlton = temple
+#b_cranford = {}
+#b_silverborne = {}
+#b_mornington = {}
+#b_bridging = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

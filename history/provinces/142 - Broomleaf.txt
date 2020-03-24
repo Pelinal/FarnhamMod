@@ -1,0 +1,21 @@
+# 142 - Broomleaf
+
+#County title
+title = c_broomleaf
+
+#Settlements
+max_settlements = 5
+b_broomleaf = castle
+b_bridgefield = city
+b_lewington = temple
+#b_winneberger = {}
+#b_greyhouse = {}
+#b_panelcottage = {}
+#b_bridgesend = {}
+
+#Misc
+culture = comptonic
+religion = lollard
+terrain = plains
+
+# History

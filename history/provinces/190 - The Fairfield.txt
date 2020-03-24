@@ -1,0 +1,21 @@
+# 190 - The Fairfield
+
+#County title
+title = c_the_fairfield
+
+#Settlements
+max_settlements = 5
+b_fairfield_lodge = castle
+b_whitbines = city
+b_lacey = temple
+#b_darvill_heights = {}
+#b_fairwood = {}
+#b_brambley = {}
+#b_farrington = {}
+
+#Misc
+culture = comptonic
+religion = lollard
+terrain = plains
+
+# History

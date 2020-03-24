@@ -1,0 +1,21 @@
+# 207 - Talbot
+
+#County title
+title = c_talbot
+
+#Settlements
+max_settlements = 6
+b_28_talbot_road = castle
+b_tesco_express_talbot = city
+b_brambleton_hall = temple
+#b_bramblefields = {}
+#b_lollipop = {}
+#b_carabout = {}
+#b_talbot = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

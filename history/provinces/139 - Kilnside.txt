@@ -1,0 +1,21 @@
+# 139 - Kilnside
+
+#County title
+title = c_kilnside
+
+#Settlements
+max_settlements = 4
+b_kilnside_farm = castle
+b_rock_house = city
+#b_kilnrock = temple
+#b_tennising = {}
+#b_drainwood = {}
+#b_rowlud = {}
+#b_jaspers = {}
+
+#Misc
+culture = comptonic
+religion = lollard
+terrain = farmlands
+
+# History

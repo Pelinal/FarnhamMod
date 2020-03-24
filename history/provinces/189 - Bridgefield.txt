@@ -1,0 +1,21 @@
+# 189 - Bridgefield
+
+#County title
+title = c_bridgefield
+
+#Settlements
+max_settlements = 4
+b_bridgefield_actual = castle
+b_dorrington = temple
+#b_bridgefield_physiotherapy = temple
+#b_turner = { }
+#b_halftime = {}
+#b_brow_cottage = {}
+#b_fifthbridge = {}
+
+#Misc
+culture = comptonic
+religion = lollard
+terrain = woods
+
+# History

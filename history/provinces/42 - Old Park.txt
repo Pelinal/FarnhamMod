@@ -15,7 +15,7 @@ b_bishops_square = temple
 
 #Misc
 culture = townie
-religion = lollard
+religion = waitrosian
 terrain = hills
 
 # History

@@ -1,0 +1,21 @@
+# 199 - Sheephouse
+
+#County title
+title = c_sheephouse
+
+#Settlements
+max_settlements = 5
+b_sheephouse = castle
+b_shepards_court = city
+b_the_holy_spirit_sisters = temple
+b_meredith = city
+#b_pool_enclosures = {}
+#b_ridgeway_hill = {}
+#b_abbeyfield = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

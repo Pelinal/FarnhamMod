@@ -1,0 +1,21 @@
+# 137 - Snailslynch
+
+#County title
+title = c_snailslynch
+
+#Settlements
+max_settlements = 3
+b_snailslynch = castle
+b_oakgate = temple
+#b_snailslynch_farm = city
+#b_picketree = {}
+#b_gap_farm = {}
+#b_lynchfield = {}
+#b_henhouse = {}
+
+#Misc
+culture = comptonic
+religion = lollard
+terrain = plains
+
+# History

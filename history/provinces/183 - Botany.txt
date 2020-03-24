@@ -1,0 +1,21 @@
+# 183 - Botany
+
+#County title
+title = c_botany
+
+#Settlements
+max_settlements = 3
+b_botany_house = castle
+b_thorney = temple
+#b_botany = city
+#b_glenside = {}
+#b_botany_hill = {}
+#b_broomwood = {}
+#b_balthorne = {}
+
+#Misc
+culture = sandsman
+religion = lollard
+terrain = woods
+
+# History

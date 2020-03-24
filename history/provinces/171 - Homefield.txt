@@ -1,0 +1,21 @@
+# 171 - Homefield
+
+#County title
+title = c_homefield
+
+#Settlements
+max_settlements = 3
+b_homefield = castle
+b_pightle_house = city
+#b_sandilands = city
+#b_brackendale = {}
+#b_leewood = {}
+#b_tracklands = {}
+#b_yewgate = {}
+
+#Misc
+culture = runfolder
+religion = lollard
+terrain = plains
+
+# History

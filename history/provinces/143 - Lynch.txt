@@ -1,0 +1,21 @@
+# 143 - Lynch
+
+#County title
+title = c_lynch
+
+#Settlements
+max_settlements = 5
+b_lynch = castle
+b_monkshanger = city
+b_quakers_church = temple
+#b_point_house = {}
+#b_lynch_manor = {}
+#b_blueway = {}
+#b_greenwick = {}
+
+#Misc
+culture = comptonic
+religion = lollard
+terrain = plains
+
+# History

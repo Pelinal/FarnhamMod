@@ -1,0 +1,21 @@
+# 141 - Swifts
+
+#County title
+title = c_swifts
+
+#Settlements
+max_settlements = 4
+b_swifts_house = castle
+b_folly = city
+#b_highmoor = {}
+#b_petering = {}
+#b_maplesite = {}
+#b_quisborough = {}
+#b_southstone = {}
+
+#Misc
+culture = comptonic
+religion = lollard
+terrain = farmlands
+
+# History

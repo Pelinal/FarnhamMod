@@ -1,0 +1,21 @@
+# 205 - Highfield South Farnham
+
+#County title
+title = c_highfield_sf
+
+#Settlements
+max_settlements = 5
+b_highfield_south_farnham = castle
+b_weydon_farm = city
+b_ryle = temple
+#b_julias_school_of_motoring = {}
+#b_buildbase = {}
+#b_the_garden_florists = {}
+#b_east_talbot = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

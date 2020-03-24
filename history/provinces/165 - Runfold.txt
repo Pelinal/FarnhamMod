@@ -1,0 +1,21 @@
+# 165 - Runfold
+
+#County title
+title = c_runfold
+
+#Settlements
+max_settlements = 7
+b_runfold_village_hall = castle
+b_runfold = city
+b_westgarth = temple
+b_sandhurst = city
+#b_runfold_lodge = {}
+#b_flint = {}
+#b_foldwood = {}
+
+#Misc
+culture = runfolder
+religion = lollard
+terrain = plains
+
+# History

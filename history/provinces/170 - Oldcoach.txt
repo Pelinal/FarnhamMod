@@ -1,0 +1,21 @@
+# 170 - Oldcoach
+
+#County title
+title = c_oldcoach
+
+#Settlements
+max_settlements = 5
+b_old_coach_house = castle
+b_thumblands_cottage = city
+b_sandsoak = city
+#b_furzehill = {}
+#b_thumblands = {}
+#b_swiss_cottage = {}
+#b_playfield = {}
+
+#Misc
+culture = runfolder
+religion = lollard
+terrain = plains
+
+# History

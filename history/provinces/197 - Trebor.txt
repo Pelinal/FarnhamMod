@@ -1,0 +1,21 @@
+# 197 - Trebor
+
+#County title
+title = c_trebor
+
+#Settlements
+max_settlements = 6
+b_trebor = castle
+b_new_pastures = city
+b_surreying = temple
+#b_jeepton = {}
+#b_pubwalk = {}
+#b_stompland = {}
+#b_trebor_lodge = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

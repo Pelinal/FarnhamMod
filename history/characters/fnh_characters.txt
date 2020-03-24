@@ -3,7 +3,7 @@
 1000 = { # Josh 'the Bean' Tabner
 	name = "Josh"
 	dynasty = 1000
-	culture = "townie"
+	culture = "german"
 	religion = "pupalitarian"
 	
 	diplomacy = 3
@@ -24,13 +24,16 @@
 	add_trait = "scholar"
 	add_trait = "twin"
 	
-	race = "german"
+	#race = "german"
 	dna = "0c0fb0cbdd0"
 	properties = "ch0c0k000000000000"
 	
 	2002.8.15 = {
 		birth = yes
 		give_nickname = nick_the_bean
+	}
+	2003.1.1 = {
+		culture = townie
 	}
 	2075.1.1 = {
 		death = yes
@@ -40,7 +43,7 @@
 1001 = { # Caroline 'Cunningham' Tabner
 	name = "Caroline"
 	dynasty = 1000
-	culture = "haleian"
+	culture = "german"
 	religion = "wiccan"
 	female = yes
 	
@@ -59,13 +62,16 @@
 	add_trait = content
 	add_trait = cynical
 	
-	race = "german"
+	#race = "german"
 	dna = "caheb0dbbf0"
     properties = "cb000k000000000000"
 
 	1975.1.18 = {
 		birth = yes
 		give_nickname = nick_cunningham
+	}
+	1976.1.1 = {
+		culture = haleian
 	}
 	2060.1.1 = {
 		death = yes
@@ -273,11 +279,10 @@
 	add_trait = stubborn
 	add_trait = siege_leader
 	
-
-	752.1.1 = {
+	1975.1.1 = {
 		birth = yes 
 	}
-	1452.1.1 = {
+	2048.1.1 = {
 		death = yes
 	}
 }
@@ -304,7 +309,7 @@
 	add_trait = dynastic_kinslayer	
 
 	2003.1.1 = {
-		birth = yes 
+		birth = yes
 	}
 	2044.1.1 = {
 		death = yes
@@ -314,7 +319,7 @@
 1010 = {
 	name = "Gillan"
 	dynasty = 1007
-	culture = "wreccleshese"
+	culture = "indian"
 	religion = "pupalitarian"
 	
 	random_traits = no
@@ -328,15 +333,18 @@
 	add_trait = deceitful
 	add_trait = unyielding_leader
 	
-	race = "indian"
+	#race = "indian"
 	dna = "0bfef0ca000"
 	properties = "gd000k000000000000"
 
-	752.1.1 = {
+	2002.2.13 = {
 		birth = yes
 		give_nickname = nick_the_wide
 	}
-	1452.1.1 = {
+	2003.1.1 = {
+		culture = wreccleshese
+	}
+	2080.1.1 = {
 		death = yes
 	}
 }

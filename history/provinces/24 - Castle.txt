@@ -15,7 +15,7 @@ b_castlehill = castle
 
 #Misc
 culture = townie
-religion = lollard
+religion = scientologist
 terrain = hills
 
 # History

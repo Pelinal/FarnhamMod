@@ -1,0 +1,21 @@
+# 147 - Abbey School
+
+#County title
+title = c_abbey_school
+
+#Settlements
+max_settlements = 5
+b_abbey_school = castle
+b_rowan_house = city
+b_southmenin = temple
+#b_ambulo = {}
+#b_beacon_crescent = {}
+#b_white_house = {}
+#b_northstone = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

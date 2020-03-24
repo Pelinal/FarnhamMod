@@ -1,0 +1,21 @@
+# 158 - Bridgeview
+
+#County title
+title = c_bridgeview
+
+#Settlements
+max_settlements = 4
+b_bridgeview = castle
+#b_old_bridge = city
+b_st_george = temple
+#b_coveclocks = {}
+#b_daxlite = {}
+#b_hop_meadows = {}
+#b_whitiles = {}
+
+#Misc
+culture = runfolder
+religion = lollard
+terrain = plains
+
+# History

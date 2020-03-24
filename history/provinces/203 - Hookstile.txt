@@ -1,0 +1,21 @@
+# 203 - Hookstile
+
+#County title
+title = c_hookstile
+
+#Settlements
+max_settlements = 4
+b_hookstile = castle
+b_sun_and_moon = city
+#b_elderfield = {}
+#b_hyatt = {}
+#b_GLS_design = {}
+#b_AE_hydraulics = {}
+#b_westracks = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = hills
+
+# History

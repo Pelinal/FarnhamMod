@@ -15,7 +15,7 @@ b_poundland = city
 
 #Misc
 culture = townie
-religion = lollard
+religion = waitrosian
 terrain = plains
 
 # History

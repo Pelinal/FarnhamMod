@@ -1,0 +1,21 @@
+# 188 - Darvills
+
+#County title
+title = c_darvills
+
+#Settlements
+max_settlements = 3
+b_darvills = castle
+b_marks_and_spencers = city
+#b_westlynch = city
+#b_bypass_petrol_station = {}
+#b_browns_cottage = {}
+#b_north_downs_way = {}
+#b_bypass_entrance = {}
+
+#Misc
+culture = comptonic
+religion = lollard
+terrain = woods
+
+# History

@@ -1,0 +1,21 @@
+# 182 - Rosemont
+
+#County title
+title = c_rosemont
+
+#Settlements
+max_settlements = 5
+b_rosemont = castle
+b_little_hill = city
+b_templeclose = temple
+#b_ormonde = {}
+#b_rowans_rise = {}
+#b_whitebeams = {}
+#b_temple_lodge = {}
+
+#Misc
+culture = sandsman
+religion = lollard
+terrain = plains
+
+# History

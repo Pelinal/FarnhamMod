@@ -1,0 +1,21 @@
+# 176 - Winding Wood
+
+#County title
+title = c_winding_wood
+
+#Settlements
+max_settlements = 4
+b_winding_wood_house = castle
+b_hillhouse = city
+b_seafletts = temple
+#b_windwood = {}
+#b_courthouse = {}
+#b_star_lodge = {}
+#b_amersham = {}
+
+#Misc
+culture = sandsman
+religion = lollard
+terrain = woods
+
+# History

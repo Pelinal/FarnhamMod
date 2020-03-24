@@ -1,0 +1,21 @@
+# 209 - Sandiway
+
+#County title
+title = c_sandiway
+
+#Settlements
+max_settlements = 4
+b_sandiway = castle
+b_survaco_house = city
+#b_chandlers = city
+#b_the_coachouse = {}
+#b_averley_north = {}
+#b_grappledon = {}
+#b_the_drive = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

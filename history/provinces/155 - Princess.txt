@@ -1,0 +1,21 @@
+# 155 - Princess
+
+#County title
+title = c_princess
+
+#Settlements
+max_settlements = 4
+b_royal_cottages = castle
+b_the_princess_royal = city
+#b_hook_cottage = city
+#b_watersfield = {}
+#b_winchester_farm = {}
+#b_guildsford = {}
+#b_bypass_lodging = {}
+
+#Misc
+culture = runfolder
+religion = lollard
+terrain = plains
+
+# History

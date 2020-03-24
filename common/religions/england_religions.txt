@@ -1,3 +1,11 @@
+### need to make:
+# treehugger
+# tractorist
+# waitrosian
+# carterian - South Farnham Religion
+# roeist - Hunter's religion
+# a money religion
+
 roadman_group = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
@@ -147,6 +155,131 @@ hobbyist = {
 		
 		dislike_tribal_organization = no
 		can_demand_religious_conversion = yes
+	}
+	
+	piscine = {
+		graphical_culture = westerngfx
+		alternate_start = { always = no }
+		allow_in_ruler_designer = yes
+		
+		icon = 7
+		heresy_icon = 8
+
+		color = { 109 144 161 }
+		feminist = yes
+
+		ai_convert_other_group = 2 # always try to convert
+		ai_convert_same_group = 2 # always try to convert
+		
+		high_god_name = GOD_HOLY_COD
+		
+		god_names = {
+			GOD_HOLY_COD COD_ART_OF_FISHING
+		}
+		evil_god_names = {
+			EVIL_YUPPIES EVIL_INCIDENTAL_CATCHES
+		}
+		
+		#unit_modifier = {
+		#	land_morale = 0.05
+		#}
+		#character_modifier = {
+		#	#galleys_perc = 0.25
+		#	#key = "MARITIME_RELIGION"
+		#}
+		
+		scripture_name = THE_FISHERMANS_CODE
+		priest_title = FISHERMAN
+		
+		autocephaly = yes
+		can_retire_to_monastery = no
+		priests_can_marry = yes
+		allow_looting = no
+		can_call_crusade = no
+		join_crusade_if_bordering_hostile = yes
+
+		cousin_marriage = yes
+		rel_head_defense = yes
+		
+		aggression = 0 # We just fishin' dont need no war
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+		
+		#religious_clothing_head = 0
+		#religious_clothing_priest = 1
+		
+		dislike_tribal_organization = no
+		can_demand_religious_conversion = yes
+	}
+}
+
+oniomanic = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	crusade_cb = crusade
+	playable = yes
+	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
+
+	color = { 92 128 24 }
+	
+	waitrosian = {
+		graphical_culture = westerngfx
+		alternate_start = { always = no }
+		allow_in_ruler_designer = yes
+		
+		icon = 3
+		heresy_icon = 4
+
+		color = { 92 128 24 }
+		feminist = yes
+
+		ai_convert_other_group = 2 # always try to convert
+		ai_convert_same_group = 2 # always try to convert
+		
+		high_god_name = GOD_WAITROSE
+		
+		god_names = {
+			GOD_WAITROSE THE_RICH
+		}
+		evil_god_names = {
+			EVIL_SAINSBURYS EVIL_TESCO THE_WORKING_CLASS
+		}
+		
+		#unit_modifier = {
+		#	land_morale = 0.05
+		#	key = "HERO_RELIGION"
+		#}
+		#character_modifier = {
+		#	monthly_character_wealth = -0.5
+		#	#key = "WAITROSE_MONTHLY_SHOP"
+		#}
+
+		crusade_name = SHOPPING_SPREE
+		crusade_cb = new_crusade
+		scripture_name = THE_TENETS
+		priest_title = SHOPPER
+		
+		can_excommunicate = yes
+		can_grant_divorce = no
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		can_retire_to_monastery = no
+		priests_can_marry = yes
+		allow_looting = no
+		use_new_crusade = yes
+		join_crusade_if_bordering_hostile = yes
+		
+		cousin_marriage = no
+		rel_head_defense = yes
+		
+		#religious_clothing_head = 0
+		#religious_clothing_priest = 1
+		
+		dislike_tribal_organization = no
+		can_demand_religious_conversion = yes
+		
+		intermarry = weydonian
+		intermarry = pupalitarian
 	}
 }
 

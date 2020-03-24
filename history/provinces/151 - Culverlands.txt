@@ -1,0 +1,21 @@
+# 151 - Culverlands
+
+#County title
+title = c_culverlands
+
+#Settlements
+max_settlements = 5
+b_culverlands = castle
+b_white_lodge = city
+b_moorsway = temple
+#b_the_beeches = {}
+#b_colton = {}
+#b_barrwood = {}
+#b_neilswood = {}
+
+#Misc
+culture = comptonic
+religion = lollard
+terrain = woods
+
+# History

@@ -1,0 +1,21 @@
+# 149 - Abbotts End
+
+#County title
+title = c_abbotts_end
+
+#Settlements
+max_settlements = 4
+b_abbots_ride = castle
+b_greyfriars = city
+#b_abbots_end = {}
+#b_oak_view_lodge = {}
+#b_barlow = {}
+#b_beech_cottage = {}
+#b_middlered = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

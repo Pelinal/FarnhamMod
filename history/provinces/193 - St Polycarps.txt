@@ -1,0 +1,21 @@
+# 193 - St Polycarps
+
+#County title
+title = c_st_polycarps
+
+#Settlements
+max_settlements = 6
+b_st_polycarps_primary_school = castle
+b_the_waverley_arms = city
+b_st_joan_of_arcs = temple
+#b_tilford_house = {}
+#b_spirited_away = {}
+#b_farnham_dance = {}
+#b_granary = {}
+
+#Misc
+culture = comptonic
+religion = lollard
+terrain = plains
+
+# History

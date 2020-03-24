@@ -15,7 +15,7 @@ b_the_plough = city
 
 #Misc
 culture = townie
-religion = lollard
+religion = waitrosian
 terrain = plains
 
 # History

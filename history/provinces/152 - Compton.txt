@@ -1,0 +1,21 @@
+# 152 - Compton
+
+#County title
+title = c_compton
+
+#Settlements
+max_settlements = 7
+b_compton_hall = castle
+b_compton = city
+b_robinswood = temple
+b_titwood = castle
+#b_overhood = city
+#b_storeys = {}
+#b_compton_hill = {}
+
+#Misc
+culture = comptonic
+religion = lollard
+terrain = woods
+
+# History

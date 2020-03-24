@@ -1,0 +1,21 @@
+# 163 - Tongham Vale
+
+#County title
+title = c_tongham_vale
+
+#Settlements
+max_settlements = 3
+b_tongham_vale = castle
+b_hewitts_farm = temple
+#b_eastfam = city
+#b_west_farm_cottage = {}
+#b_farnham_community_farm = {}
+#b_gibbs = {}
+#b_the_grange = {}
+
+#Misc
+culture = runfolder
+religion = lollard
+terrain = farmlands
+
+# History

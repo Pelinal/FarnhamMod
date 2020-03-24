@@ -15,7 +15,7 @@ b_the_gorge = city
 
 #Misc
 culture = townie
-religion = lollard
+religion = scientologist
 terrain = plains
 
 # History

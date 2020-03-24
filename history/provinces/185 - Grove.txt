@@ -1,0 +1,21 @@
+# 185 - Grove
+
+#County title
+title = c_grove
+
+#Settlements
+max_settlements = 3
+b_grove = castle
+#b_cobbets_ridge = city
+b_monksbury = temple
+#b_campania = {}
+#b_elstead_house = {}
+#b_bachsmill = {}
+#b_elmwood_cottage = {}
+
+#Misc
+culture = sandsman
+religion = lollard
+terrain = woods
+
+# History

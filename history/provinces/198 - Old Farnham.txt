@@ -1,0 +1,21 @@
+# 198 - Old Farnham
+
+#County title
+title = c_old_farnham
+
+#Settlements
+max_settlements = 5
+b_old_farnham_house = castle
+b_lane_end = temple
+b_morley = temple
+#b_lancaster = {}
+#b_york = {}
+#b_oaklands = {}
+#b_wichwood = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

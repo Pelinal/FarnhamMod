@@ -1,0 +1,21 @@
+# 161 - Downshill
+
+#County title
+title = c_downshill
+
+#Settlements
+max_settlements = 5
+b_downshill = castle
+b_caravan_at_the_pumphouse = city
+b_hogsedge = city
+#b_downshill_cottage = {}
+#b_tongsham = {}
+#b_pithouse = {}
+#b_clayfield = {}
+
+#Misc
+culture = runfolder
+religion = lollard
+terrain = plains
+
+# History

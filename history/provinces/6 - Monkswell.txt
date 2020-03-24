@@ -1,0 +1,21 @@
+# 6 - Monkswell
+
+#County title
+title = c_monkswell
+
+#Settlements
+max_settlements = 4
+b_monkswell = castle
+b_abbeywood = temple
+b_friars_keep = temple
+#b_the_chapter_house = {}
+#b_mallards = {}
+#b_woodstock_house = {}
+#b_silver_heights = {}
+
+#Misc
+culture = sandsman
+religion = lollard
+terrain = plains
+
+# History

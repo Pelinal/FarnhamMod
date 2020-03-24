@@ -1,0 +1,21 @@
+# 200 - Ridgeway
+
+#County title
+title = c_ridgeway
+
+#Settlements
+max_settlements = 6
+b_ridgeway = castle
+b_tesco_express_ridgeway = city
+b_langhams = temple
+b_loaf_bakery = city
+b_wine_rack = city
+#b_mt_green = {}
+#b_edward = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

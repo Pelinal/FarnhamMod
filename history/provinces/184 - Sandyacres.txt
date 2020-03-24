@@ -1,0 +1,21 @@
+# 184 - Sandyacres
+
+#County title
+title = c_sandyacres
+
+#Settlements
+max_settlements = 4
+b_sandyacres = castle
+b_tanglewood = city
+#b_tall_timbers = city
+#b_oriel = {}
+#b_silvers = {}
+#b_cones = {}
+#b_hindwood = {}
+
+#Misc
+culture = sandsman
+religion = lollard
+terrain = woods
+
+# History

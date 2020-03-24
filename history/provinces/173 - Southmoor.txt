@@ -1,0 +1,21 @@
+# 173 - Southmoor
+
+#County title
+title = c_southmoor
+
+#Settlements
+max_settlements = 7
+b_moor_park_house = castle
+b_fourcables = city
+b_fairaere = temple
+b_moorvilla = city
+#b_gateway = {}
+#b_linden_house = {}
+#b_hawkshill = {}
+
+#Misc
+culture = comptonic
+religion = lollard
+terrain = plains
+
+# History

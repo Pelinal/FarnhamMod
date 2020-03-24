@@ -1,0 +1,21 @@
+# 150 - Old Compton
+
+#County title
+title = c_old_compton
+
+#Settlements
+max_settlements = 6
+b_old_compton = castle
+b_uplands = city
+b_regar = temple
+b_rhoander = castle
+#b_fair_lawns = {}
+#b_woodpeckers_rest = {}
+#b_oakcottage = {}
+
+#Misc
+culture = comptonic
+religion = lollard
+terrain = plains
+
+# History

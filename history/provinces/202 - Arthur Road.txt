@@ -1,0 +1,21 @@
+# 202 - Arthur Road
+
+#County title
+title = c_arthur_road
+
+#Settlements
+max_settlements = 5
+b_arthur_road = castle
+b_hotel_de_vie = city
+b_anchorstone = temple
+#b_merlins = {}
+#b_avon = {}
+#b_larmouth = {}
+#b_thirtythree = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

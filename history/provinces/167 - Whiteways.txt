@@ -1,0 +1,21 @@
+# 167 - Whiteways
+
+#County title
+title = c_whiteways
+
+#Settlements
+max_settlements = 5
+b_whiteways_cottage = castle
+b_sealing = city
+b_blighton = city
+#b_stoneley = {}
+#b_oldpotters = {}
+#b_pithouse = {}
+#b_the_sandpits = {}
+
+#Misc
+culture = runfolder
+religion = lollard
+terrain = plains
+
+# History

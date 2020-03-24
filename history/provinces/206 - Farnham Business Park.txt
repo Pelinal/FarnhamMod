@@ -1,0 +1,21 @@
+# 206 - Farnham Business Park
+
+#County title
+title = c_business_park
+
+#Settlements
+max_settlements = 7
+b_frensham_flats = city
+b_causeway = city
+b_touchdown = castle
+b_waverley_flats = city
+#b_bison = {}
+#b_broadmede = {}
+#b_trackridge = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = hills
+
+# History

@@ -1,0 +1,21 @@
+# 156 - Barfield
+
+#County title
+title = c_barfield
+
+#Settlements
+max_settlements = 3
+b_barfield_lodge = castle
+b_barfield = city
+#b_the_lodge = temple
+#b_plainwood = {}
+#b_martins = {}
+#b_coachworks = {}
+#b_barcopse = {}
+
+#Misc
+culture = runfolder
+religion = lollard
+terrain = plains
+
+# History

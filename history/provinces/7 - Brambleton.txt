@@ -1,0 +1,21 @@
+# 7 - Brambleton
+
+#County title
+title = c_brambleton
+
+#Settlements
+max_settlements = 6
+b_brambleton = castle
+b_david_of_fleet = city
+b_hillary = temple
+b_cedars = city
+#b_grove_end = {}
+#b_brython = {}
+#b_farnham_bed_and_breakfast = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

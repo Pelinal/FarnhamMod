@@ -1,0 +1,21 @@
+# 181 - Greenacres
+
+#County title
+title = c_greenacres
+
+#Settlements
+max_settlements = 4
+b_greenacres = castle
+#b_spruceacre = temple
+b_sprionthy = city
+#b_green_trees = {}
+#b_sandstones = {}
+#b_hunters_lodge = {}
+#b_wulwerry = {}
+
+#Misc
+culture = sandsman
+religion = lollard
+terrain = woods
+
+# History

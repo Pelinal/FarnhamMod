@@ -1,0 +1,21 @@
+# 179 - Nothbranch
+
+#County title
+title = c_northbranch
+
+#Settlements
+max_settlements = 2
+b_northbranch = castle
+#b_monks_well_house = temple
+#b_ludewell = city
+#b_weyling = {}
+#b_ludlams_gate = {}
+#b_rivendell = {}
+#b_camphill = {}
+
+#Misc
+culture = sandsman
+religion = lollard
+terrain = woods
+
+# History

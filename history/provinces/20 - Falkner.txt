@@ -15,7 +15,7 @@ b_mountbatten = castle
 
 #Misc
 culture = townie
-religion = lollard
+religion = waitrosian
 terrain = plains
 
 # History

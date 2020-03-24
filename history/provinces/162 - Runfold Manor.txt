@@ -1,0 +1,21 @@
+# 162 - Runfold Manor
+
+#County title
+title = c_runfold_manor
+
+#Settlements
+max_settlements = 3
+b_runfold_manor = castle
+b_bursey = city
+#b_flannes = city
+#b_lodge_stables = {}
+#b_sealeway = {}
+#b_west_ridge = {}
+#b_rated_apparel = {}
+
+#Misc
+culture = runfolder
+religion = lollard
+terrain = plains
+
+# History

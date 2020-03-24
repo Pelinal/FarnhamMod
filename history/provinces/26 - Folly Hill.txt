@@ -15,7 +15,7 @@ b_knowle_farm = city
 
 #Misc
 culture = townie
-religion = lollard
+religion = scientologist
 terrain = hills
 
 # History

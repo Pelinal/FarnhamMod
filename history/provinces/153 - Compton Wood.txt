@@ -1,0 +1,21 @@
+# 153 - Compton Wood
+
+#County title
+title = c_compton_wood
+
+#Settlements
+max_settlements = 5
+b_compton_wood = castle
+b_ramsbury = temple
+b_the_laurels = city
+#b_hillside_cottage = {}
+#b_burwood = {}
+#b_pinetrees = {}
+#b_compton_lodge = {}
+
+#Misc
+culture = comptonic
+religion = lollard
+terrain = woods
+
+# History

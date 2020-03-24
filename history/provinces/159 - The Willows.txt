@@ -1,0 +1,21 @@
+# 159 - The Willows
+
+#County title
+title = c_the_willows
+
+#Settlements
+max_settlements = 6
+b_the_willows = castle
+b_packhouse = city
+b_weavering = city
+#b_marketplace = {}
+#b_willows_nursery = {}
+#b_bears_at_the_packhouse = {}
+#b_perkinspark = {}
+
+#Misc
+culture = runfolder
+religion = lollard
+terrain = plains
+
+# History

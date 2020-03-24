@@ -1,0 +1,21 @@
+# 174 - Wallgarden
+
+#County title
+title = c_wallgarden
+
+#Settlements
+max_settlements = 5
+b_the_walled_garden = castle
+b_westcompton = temple
+b_saintsfont = city
+#b_thatchwood = {}
+#b_whitespire = {}
+#b_curenia = {}
+#b_lampsheaf = {}
+
+#Misc
+culture = comptonic
+religion = lollard
+terrain = plains
+
+# History

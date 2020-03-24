@@ -1,0 +1,21 @@
+# 146 - South Farnham 
+
+#County title
+title = c_south_farnham
+
+#Settlements
+max_settlements = 7
+b_south_farnham_school = castle
+b_menin_way = city
+b_the_library = temple
+b_carters_office = temple
+b_SCITT = city
+#b_the_gazebo = {}
+#b_threecourts = {}
+
+#Misc
+culture = comptonic
+religion = lollard
+terrain = plains
+
+# History

@@ -1,0 +1,21 @@
+# 195 - Wessex Place
+
+#County title
+title = c_wessex_place
+
+#Settlements
+max_settlements = 6
+b_wessex_place = castle
+b_alfred = castle
+b_bamcroft = temple
+#b_approachment = { }
+#b_college_place = {}
+#b_the_woodbarn = {}
+#b_norman_court = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = plains
+
+# History

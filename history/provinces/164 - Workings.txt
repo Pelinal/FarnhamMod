@@ -1,0 +1,21 @@
+# 164 - Workings
+
+#County title
+title = c_workings
+
+#Settlements
+max_settlements = 4
+b_workings = castle
+b_suez_recycling = city
+#b_sandchurch = temple
+#b_dunesfield = {}
+#b_pilgrims_coppice = {}
+#b_woodleigh = {}
+#b_onplace = {}
+
+#Misc
+culture = runfolder
+religion = lollard
+terrain = plains
+
+# History

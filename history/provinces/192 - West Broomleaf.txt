@@ -1,0 +1,21 @@
+# 192 - West Broomleaf
+
+#County title
+title = c_west_broomleaf
+
+#Settlements
+max_settlements = 4
+b_west_broomleaf = castle
+#b_broomleaf_corner = temple
+b_hone = city
+#b_westling = {}
+#b_taxington = {}
+#b_atomus = {}
+#b_rows_edge = {}
+
+#Misc
+culture = comptonic
+religion = lollard
+terrain = plains
+
+# History

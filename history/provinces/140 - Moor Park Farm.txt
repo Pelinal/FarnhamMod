@@ -1,0 +1,21 @@
+# 140 - Moor Park Farm
+
+#County title
+title = c_moor_park_farm
+
+#Settlements
+max_settlements = 4
+b_moor_park_farm = castle
+b_the_kilns = city
+#b_brickwood = {}
+#b_workers_lodge = {}
+#b_farmfield = {}
+#b_great_peters = {}
+#b_rock_lodge = {}
+
+#Misc
+culture = comptonic
+religion = lollard
+terrain = farmlands
+
+# History

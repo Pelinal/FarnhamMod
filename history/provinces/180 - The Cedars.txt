@@ -1,0 +1,21 @@
+# 180 - The Cedars
+
+#County title
+title = c_the_cedars
+
+#Settlements
+max_settlements = 5
+b_cedarwood = castle
+b_the_cedars = city
+b_belgrave = temple
+#b_hamptons_house = {}
+#b_portola = {}
+#b_creampetal = {}
+#b_northcote = {}
+
+#Misc
+culture = sandsman
+religion = lollard
+terrain = woods
+
+# History

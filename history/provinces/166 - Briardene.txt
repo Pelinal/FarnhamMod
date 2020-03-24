@@ -1,0 +1,21 @@
+# 166 - Briardene
+
+#County title
+title = c_briardene
+
+#Settlements
+max_settlements = 4
+b_briar_dene = castle
+b_west_wood = temple
+b_chambers = temple
+#b_homefield_house = {}
+#b_runfold_mews = {}
+#b_woodlands_lodge = {}
+#b_eastwood = {}
+
+#Misc
+culture = runfolder
+religion = lollard
+terrain = plains
+
+# History

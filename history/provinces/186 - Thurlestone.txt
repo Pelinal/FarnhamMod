@@ -1,0 +1,21 @@
+# 186 - Thurlestone 
+
+#County title
+title = c_thurlestone
+
+#Settlements
+max_settlements = 5
+b_thurlestone_house = castle
+#b_thurlestone = castle
+b_st_maryswell = temple
+b_grove_house = castle
+#b_heath_hatch = {}
+#b_cobbiton = {}
+#b_stonersfled = {}
+
+#Misc
+culture = sandsman
+religion = lollard
+terrain = farmlands
+
+# History

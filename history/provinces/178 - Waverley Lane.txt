@@ -1,0 +1,21 @@
+# 178 - Waverley Lane
+
+#County title
+title = c_waverley_lane
+
+#Settlements
+max_settlements = 2
+b_waverley_lane_house = castle
+#b_ramsbury = temple
+#b_the_laurels = city
+#b_hillside_cottage = {}
+#b_burwood = {}
+#b_pinetrees = {}
+#b_compton_lodge = {}
+
+#Misc
+culture = sandsman
+religion = lollard
+terrain = plains
+
+# History

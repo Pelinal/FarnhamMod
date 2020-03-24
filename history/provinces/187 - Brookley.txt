@@ -1,0 +1,21 @@
+# 187 - Brookley
+
+#County title
+title = c_brookley
+
+#Settlements
+max_settlements = 4
+b_brookley = castle
+#b_TMC_motors = temple
+b_paton = city
+#b_linelin_estate = {}
+#b_woodcroft = {}
+#b_oaking = {}
+#b_wilheim = {}
+
+#Misc
+culture = runfolder
+religion = lollard
+terrain = plains
+
+# History

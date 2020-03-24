@@ -1,0 +1,21 @@
+# 194 - Farnham College
+
+#County title
+title = c_farnham_college
+
+#Settlements
+max_settlements = 6
+b_farnham_sixth_form_college = castle
+b_starfish_nursery = city
+b_st_georges_west = temple
+#b_stagecoach = {}
+b_romley = castle
+#b_anderson = {}
+#b_berwood_house = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

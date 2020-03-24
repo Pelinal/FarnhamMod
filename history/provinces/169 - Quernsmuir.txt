@@ -1,0 +1,21 @@
+# 169 - Quernsmuir
+
+#County title
+title = c_quernsmuir
+
+#Settlements
+max_settlements = 5
+b_quernsmuir_cottage = castle
+b_queen_bee_in_the_woods = city
+b_kyrenia = temple
+#b_sandy_farm = castle
+#b_binton = {}
+#b_lawnswood = {}
+#b_sands_golf_course = {}
+
+#Misc
+culture = runfolder
+religion = lollard
+terrain = woods
+
+# History

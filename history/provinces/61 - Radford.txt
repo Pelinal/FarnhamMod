@@ -1,11 +1,11 @@
-#61 - St Johns
+#61 - Radford
 
 #County title
-title = c_st_johns
+title = c_radford
 
 #Settlements
 max_settlements = 6
-b_st_johns = castle
+b_st_johns_1 = castle
 b_radford = temple
 b_st_johns_church = temple
 b_hale_place = city

@@ -1,0 +1,21 @@
+# 208 - St Johns
+
+#County title
+title = c_st_johns
+
+#Settlements
+max_settlements = 5
+b_st_johns_house = castle
+b_templar = temple
+b_jubilee_church = temple
+#b_greenshields = {}
+#b_wildwood = {}
+#b_weydon_christian_centre = {}
+#b_the_den = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

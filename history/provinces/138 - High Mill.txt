@@ -1,0 +1,21 @@
+# 138 - High Mill
+
+#County title
+title = c_highmill
+
+#Settlements
+max_settlements = 4
+b_high_mill = castle
+b_high_mill_house = city
+#b_grainsill = temple
+#b_millford = {}
+#b_nearoak = {}
+#b_crookswood = {}
+#b_pondhouse = {}
+
+#Misc
+culture = comptonic
+religion = lollard
+terrain = farmlands
+
+# History

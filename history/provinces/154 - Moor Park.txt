@@ -1,0 +1,21 @@
+# 154 - Moor Park
+
+#County title
+title = c_moor_park
+
+#Settlements
+max_settlements = 4
+b_moor_park = castle
+#b_wolesey = {}
+b_askew = castle
+#b_sandy_lodge = {}
+#b_pembroke = {}
+#b_russell = {}
+#b_thornhill = {}
+
+#Misc
+culture = comptonic
+religion = lollard
+terrain = plains
+
+# History

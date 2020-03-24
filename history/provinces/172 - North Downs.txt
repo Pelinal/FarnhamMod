@@ -1,0 +1,21 @@
+# 172 - North Downs
+
+#County title
+title = c_north_downs
+
+#Settlements
+max_settlements = 4
+b_north_downs = castle
+#b_runfold_recreation_ground = temple
+b_little_crooksbury = city
+#b_residence = {}
+#b_garfield = {}
+#b_fox_warren = {}
+#b_oarhatch = {}
+
+#Misc
+culture = runfolder
+religion = lollard
+terrain = plains
+
+# History

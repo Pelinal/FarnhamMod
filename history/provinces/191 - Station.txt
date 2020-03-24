@@ -1,0 +1,21 @@
+# 191 - Station
+
+#County title
+title = c_station
+
+#Settlements
+max_settlements = 7
+b_farnham_station = castle
+b_the_mulberry = city
+b_kingfish = temple
+b_spice_station = temple
+b_merityre = city
+#b_station_texaco = {}
+#b_southway = {}
+
+#Misc
+culture = townie
+religion = lollard
+terrain = hills
+
+# History

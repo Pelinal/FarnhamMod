@@ -1,0 +1,21 @@
+# 144 - Waverley Grange
+
+#County title
+title = c_waverley_grange
+
+#Settlements
+max_settlements = 4
+b_waverley_grange = castle
+b_bramblings = city
+#b_longley = temple
+#b_mama_jeanius = {}
+#b_parott_lodge = {}
+#b_amsbury = {}
+#b_barot = {}
+
+#Misc
+culture = comptonic
+religion = lollard
+terrain = plains
+
+# History

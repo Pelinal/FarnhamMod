@@ -1,0 +1,21 @@
+# 175 - Delarden
+
+#County title
+title = c_delarden
+
+#Settlements
+max_settlements = 6
+b_delarden = castle
+b_greyslates = city
+b_the_outhouse = city
+#b_keepers_cottage = {}
+#b_barnhouse = {}
+#b_oastlands = {}
+#b_greenwich_house = {}
+
+#Misc
+culture = sandsman
+religion = lollard
+terrain = woods
+
+# History

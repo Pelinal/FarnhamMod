@@ -1,0 +1,21 @@
+# 177 - Moorfield
+
+#County title
+title = c_moorfield
+
+#Settlements
+max_settlements = 2
+b_moorfield = tribal
+#b_middlewood = temple
+#b_spring_hill = city
+#b_wychwood = {}
+#b_serendipity = {}
+#b_compton_house = {}
+#b_nearview = {}
+
+#Misc
+culture = huntsman
+religion = lollard
+terrain = plains
+
+# History
