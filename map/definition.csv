@@ -267,15 +267,15 @@ province;red;green;blue;x;x
 266;42;159;33;Little Green;x
 267;84;162;161;St Peters;x
 268;126;165;34;Greenhill Way;x
-269;168;168;162;Garth;x # b_highfield
+269;168;168;162;Garth;x
 270;0;171;35;Brockhurst;x
 271;42;174;163;Gorse;x
 272;84;177;36;Shortheath;x
 273;126;180;164;Bat and Ball;x
-274;168;183;37;Sandrock Hill;x # d_sandrock
-275;0;186;165;Laurel;x # b_jakes_house b_laurel_grove
-276;42;189;38;Rock Lane;x # b_ieuans_house
-277;84;192;166;Beacon Close;x # b_gillans_house b_the_burgervan_cocoon
+274;168;183;37;Sandrock Hill;x
+275;0;186;165;Laurel;x
+276;42;189;38;Rock Lane;x
+277;84;192;166;Beacon Close;x 
 278;126;195;39;Browns Walk;x
 279;168;198;167;Lavender;x
 280;0;201;40;Broomfield;x
