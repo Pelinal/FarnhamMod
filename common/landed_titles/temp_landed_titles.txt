@@ -449,4 +449,165 @@ e_farnham = {
 			}		
 		}
 	}
+
+
+	k_rowledge = {
+
+		d_gorsedene = {
+			color = {225 75 45}
+			color2 = {255 255 255}
+				
+			dignity = 12
+				
+			capital = 339 #Gorsedene
+			
+			c_gorsedene = {
+				color = {225 75 45}
+				color2 = {255 255 255}
+			
+				b_gorsedene = {}
+				b_long_road = {}
+				b_moorwell = {}
+				b_kirhall = {}
+				b_redley = {}
+				b_ashwich = {}
+				b_overbury = {}
+			}
+			
+			c_pear_tree = {
+				color = {236 140 121}
+				color2 = {255 255 255}		
+			
+				b_pear_tree = {}
+				b_forest_house = {}
+				b_switchback = {}
+				b_presbeck_green = {}
+				b_blackfold = {}
+				b_moormouth = {}
+				b_presby = {}
+			}
+			
+			c_broompatch = {
+				color = {179 51 25}
+				color2 = {255 255 255}			
+				
+				b_broompatch = {}
+				b_mayfield_farm = {}
+				b_ildon = {}
+				b_hopham = {}
+				b_ottermouth = {}
+				b_presmoor = {}
+				b_southdon_heath = {}		
+			}
+		}
+		
+		d_east_rowledge = {
+			color = {225 45 75}
+			color2 = {255 255 255}
+				
+			dignity = 12
+				
+			capital = 11 #Fernbrae	
+		
+			c_valehouse = {
+				color = {233 99 121}
+				color2 = {255 255 255}
+			
+				b_frensham_vale_house = {}
+				b_hindley = {}
+				b_millthorpe = {}
+				b_harhurst = {}
+				b_overburn = {}
+				b_oakington = {}
+				b_newden = {}	
+			}
+			
+			c_frensham_vale_farm = {
+				color = {179 25 51}
+				color2 = {255 255 255}
+			
+				b_frensham_vale_farm = {}
+				b_aqua_maintain = {}
+				b_interscape = {}
+				b_blackaster = {}
+				b_whiteham = {}
+				b_upper_harmoor = {}
+				b_preswike = {}
+			}
+			
+			c_fernbrae = {
+				color = {225 45 75}
+				color2 = {255 255 255}
+			
+				b_kennels_and_cattery = {}
+				b_cherry_tree_charms = {}
+				b_gardeners_hill = {}
+				b_birchlea = {}
+				b_northley = {}
+				b_potsfold = {}
+				b_henburgh = {}
+			}
+		}
+		
+		d_frensham_heights = {
+			color = {185 45 80}
+			color2 = {255 255 255}
+				
+			dignity = 12
+				
+			capital = 330 #Frensham Heights
+			
+			c_frensham_heights = {
+				color = {201 29 72}
+				color2 = {255 255 255}				
+			
+				b_frensham_heights = {}
+				b_heights_enterprises = {}
+				b_big_tennis_court = {}
+				b_hoplea_cross = {}
+				b_woolpool = {}
+				b_guildthorpe = {}
+				b_hindburgh = {}
+			}
+			
+			c_aldridge = {
+				color = {138 92 103}
+				color2 = {255 255 255}			
+			
+				b_aldridge_theatre = {}
+				b_frensham_heights_school = {}
+				b_norrick_house = {}
+				b_whitemarsh = {}
+				b_kirmere = {}
+				b_middleholm = {}
+				b_dundon_green = {}
+			}
+			
+			c_hamilton = {
+				color = {220 111 139}
+				color2 = {255 255 255}			
+			
+				b_hamilton_house = {}
+				b_thornley_cottage = {}
+				b_langden = {}
+				b_foxwich = {}
+				b_ottermere = {}
+				b_woolton = {}
+				b_portsburgh = {}
+			}
+			
+			c_more_house = {
+				color = {235 173 188}
+				color2 = {255 255 255}			
+			
+				b_summerfield = {}
+				b_more_house_school = {}
+				b_moons_hill = {}
+				b_blackford = {}
+				b_woolbrook = {}
+				b_keldchester_house = {}
+				b_harmouth = {}
+			}
+		}
+	}
 }
