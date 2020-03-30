@@ -15,7 +15,7 @@ b_northmore = temple
 
 #Misc
 culture = bournean
-religion = lollard
+religion = quaker
 terrain = hills
 
 # History

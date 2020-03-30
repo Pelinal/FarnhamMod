@@ -15,7 +15,7 @@ b_majorie = tribal
 
 #Misc
 culture = huntsman
-religion = lollard
+religion = roeist
 terrain = forest
 
 # History

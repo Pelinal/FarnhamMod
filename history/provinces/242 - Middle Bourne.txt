@@ -15,7 +15,7 @@ b_holt_cottage = castle
 
 #Misc
 culture = bournean
-religion = lollard
+religion = scorchist
 terrain = plains
 
 # History

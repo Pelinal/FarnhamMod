@@ -15,7 +15,7 @@ b_boundstone_corner = temple
 
 #Misc
 culture = wreccleshese
-religion = lollard
+religion = pupalitarian
 terrain = plains
 
 # History

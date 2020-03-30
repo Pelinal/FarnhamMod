@@ -15,7 +15,7 @@ b_whitewick = temple
 
 #Misc
 culture = farmer
-religion = lollard
+religion = tractorist
 terrain = farmlands
 
 # History

@@ -16,7 +16,7 @@ b_the_copse = temple
 
 #Misc
 culture = rowlegian
-religion = lollard
+religion = pupalitarian
 terrain = plains
 
 # History

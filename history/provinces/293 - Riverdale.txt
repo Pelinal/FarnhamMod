@@ -15,7 +15,7 @@ b_river_lane = temple
 
 #Misc
 culture = wreccleshese
-religion = lollard
+religion = anglican
 terrain = plains
 
 # History

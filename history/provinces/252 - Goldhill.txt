@@ -15,7 +15,7 @@ b_lavender_hill_florist = city
 
 #Misc
 culture = bournean
-religion = lollard
+religion = scorchist
 terrain = hills
 
 # History

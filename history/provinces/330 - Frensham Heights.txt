@@ -15,7 +15,7 @@ b_hoplea_cross = temple
 
 #Misc
 culture = spreaker
-religion = lollard
+religion = quaker
 terrain = forest
 
 # History

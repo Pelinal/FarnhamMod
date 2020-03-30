@@ -15,7 +15,7 @@ b_st_thomas = temple
 
 #Misc
 culture = wreccleshese
-religion = lollard
+religion = anglican
 terrain = plains
 
 # History

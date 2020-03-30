@@ -15,7 +15,7 @@ b_jubilee_church = temple
 
 #Misc
 culture = wreccleshese
-religion = lollard
+religion = anglican
 terrain = plains
 
 # History

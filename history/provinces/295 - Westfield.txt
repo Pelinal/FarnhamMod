@@ -15,7 +15,7 @@ b_tennis_club = city
 
 #Misc
 culture = wreccleshese
-religion = lollard
+religion = anglican
 terrain = plains
 
 # History

@@ -15,7 +15,7 @@ b_wells_cottages = city
 
 #Misc
 culture = wreccleshese
-religion = lollard
+religion = anglican
 terrain = plains
 
 # History

@@ -15,7 +15,7 @@ b_broom_patch = temple
 
 #Misc
 culture = rowlegian
-religion = lollard
+religion = pupalitarian
 terrain = plains
 
 # History

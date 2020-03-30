@@ -15,7 +15,7 @@ b_fernwood = temple
 
 #Misc
 culture = bournean
-religion = lollard
+religion = scorchist
 terrain = woods
 
 # History

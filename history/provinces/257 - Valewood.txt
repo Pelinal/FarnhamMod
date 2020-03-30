@@ -15,7 +15,7 @@ b_vale_wood = castle
 
 #Misc
 culture = bournean
-religion = lollard
+religion = monetic
 terrain = woods
 
 # History

@@ -15,7 +15,7 @@ b_old_vicarage = temple
 
 #Misc
 culture = wreccleshese
-religion = lollard
+religion = pupalitarian
 terrain = plains
 
 # History

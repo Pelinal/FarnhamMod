@@ -15,7 +15,7 @@ b_skincare_studio = city
 
 #Misc
 culture = wreccleshese
-religion = lollard
+religion = anglican
 terrain = plains
 
 # History

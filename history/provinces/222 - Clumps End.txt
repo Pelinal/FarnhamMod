@@ -15,7 +15,7 @@ b_clumps = temple
 
 #Misc
 culture = huntsman
-religion = lollard
+religion = roeist
 terrain = forest
 
 # History

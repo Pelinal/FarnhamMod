@@ -15,7 +15,7 @@ b_st_peters_church = temple
 
 #Misc
 culture = wreccleshese
-religion = lollard
+religion = anglican
 terrain = hills
 
 # History

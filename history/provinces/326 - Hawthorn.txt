@@ -15,7 +15,7 @@ b_christina = city
 
 #Misc
 culture = farmer
-religion = lollard
+religion = tractorist
 terrain = farmlands
 
 # History

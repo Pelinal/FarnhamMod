@@ -15,7 +15,7 @@ b_clumps_farm = city
 
 #Misc
 culture = bournean
-religion = lollard
+religion = monetic
 terrain = woods
 
 # History

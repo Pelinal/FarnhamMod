@@ -15,7 +15,7 @@ b_broomstead_cottage = castle
 
 #Misc
 culture = bournean
-religion = lollard
+religion = scorchist
 terrain = hills
 
 # History

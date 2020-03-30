@@ -15,7 +15,7 @@ b_thornley_cottage = city
 
 #Misc
 culture = spreaker
-religion = lollard
+religion = quaker
 terrain = plains
 
 # History
