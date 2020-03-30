@@ -14,7 +14,7 @@ b_laundromat = temple
 
 #Misc
 culture = haleian
-religion = lollard
+religion = weydonian
 terrain = plains
 
 # History

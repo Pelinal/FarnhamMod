@@ -1,0 +1,21 @@
+# 294 - School Hill
+
+#County title
+title = c_school_hill
+
+#Settlements
+max_settlements = 6
+b_jade_garden = castle
+b_bengal_lounge = city
+#b_school_hill_post_office = {}
+b_mccolls = city
+#b_t_baker_jr = {}
+b_st_peters_church = temple
+#b_gideons_intl = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = hills
+
+# History

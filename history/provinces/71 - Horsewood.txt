@@ -15,7 +15,7 @@ b_crownfield = temple
 
 #Misc
 culture = haleian
-religion = lollard
+religion = vocatine
 terrain = woods
 
 # History

@@ -1,0 +1,21 @@
+# 308 - Old Kiln
+
+#County title
+title = c_old_kiln
+
+#Settlements
+max_settlements = 3
+b_old_kiln = castle
+b_old_vicarage = temple
+#b_meadow_view = {}
+#b_highfield_lodge = {}
+#b_the_rook = {}
+#b_krimere = {}
+#b_norhalgh = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

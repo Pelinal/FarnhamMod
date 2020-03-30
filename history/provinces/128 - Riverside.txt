@@ -15,7 +15,7 @@ b_papa_johns = city
 
 #Misc
 culture = townie
-religion = lollard
+religion = pupalitarian
 terrain = plains
 
 # History

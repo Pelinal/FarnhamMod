@@ -1,0 +1,21 @@
+# 237 - Bourne Firs
+
+#County title
+title = c_bourne_firs
+
+#Settlements
+max_settlements = 5
+b_bourne_firs = castle
+b_annandale = city
+b_eldon = temple
+#b_notary = {}
+#b_manor_gardens = {}
+#b_deadends = {}
+#b_squatland = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

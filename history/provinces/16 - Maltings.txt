@@ -15,7 +15,7 @@ b_trafalgar = temple
 
 #Misc
 culture = townie
-religion = lollard
+religion = anglican
 terrain = plains
 
 # History

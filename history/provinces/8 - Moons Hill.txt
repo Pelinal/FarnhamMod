@@ -1,0 +1,21 @@
+# 8 - Moons Hill
+
+#County title
+title = c_moons_hill
+
+#Settlements
+max_settlements = 3
+b_moons_hill = castle
+b_northmore = temple
+#b_overwell = {}
+#b_barleigh = {}
+#b_hopchester_house = {}
+#b_langmere = {}
+#b_millwick_court = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = hills
+
+# History

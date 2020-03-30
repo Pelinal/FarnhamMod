@@ -1,0 +1,21 @@
+# 10 - Manleybridge
+
+#County title
+title = c_manleybridge
+
+#Settlements
+max_settlements = 6
+b_manleybridge = castle
+b_manley_farmhouse = city
+b_the_gables = temple
+b_holly_cottage = castle
+#b_hill_crest = {}
+#b_bungalow = {}
+#b_honeysuckle_cottage = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = farmlands
+
+# History

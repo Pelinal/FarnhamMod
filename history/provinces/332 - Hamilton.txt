@@ -1,0 +1,21 @@
+# 332 - Hamilton
+
+#County title
+title = c_hamilton
+
+#Settlements
+max_settlements = 3
+b_hamilton_house = castle
+b_thornley_cottage = city
+#b_langden = {}
+#b_foxwich = {}
+#b_ottermere = {}
+#b_woolton = {}
+#b_portsburgh = {}
+
+#Misc
+culture = spreaker
+religion = lollard
+terrain = plains
+
+# History

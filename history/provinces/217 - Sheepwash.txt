@@ -1,0 +1,21 @@
+# 217 - Sheepwash
+
+#County title
+title = c_sheepwash
+
+#Settlements
+max_settlements = 3
+b_sheep_wash = castle
+b_bourne_therapist = temple
+#b_the_barn = {}
+#b_courtmead = {}
+#b_LP_driving_school = {}
+#b_ancora = {}
+#b_barn_house = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

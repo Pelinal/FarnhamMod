@@ -15,7 +15,7 @@ b_mill_stream = city
 
 #Misc
 culture = haleian
-religion = lollard
+religion = wiccan
 terrain = plains
 
 # History

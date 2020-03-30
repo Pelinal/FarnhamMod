@@ -1,0 +1,21 @@
+# 270 - Brockhurst
+
+#County title
+title = c_brockhurst
+
+#Settlements
+max_settlements = 5
+b_brockhurst_lodge = castle
+b_channelports = city
+b_st_thomas = temple
+#b_ridgeway_cottage = {}
+#b_cedarways_house = {}
+#b_hursting = {}
+#b_flatfields = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

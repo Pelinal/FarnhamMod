@@ -1,0 +1,21 @@
+# 255 - Frensham Vale
+
+#County title
+title = c_frensham_vale
+
+#Settlements
+max_settlements = 4
+b_frenhsam_vale_house = castle
+b_pilates_suite = city
+b_vaceconce = temple
+#b_the_oasthouse = {}
+#b_vale_house = {}
+#b_lodgewood = {}
+#b_bardale = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = woods
+
+# History

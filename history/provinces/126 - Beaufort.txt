@@ -15,7 +15,7 @@ b_st_cross = temple
 
 #Misc
 culture = townie
-religion = scientologist
+religion = pupalitarian
 terrain = plains
 
 # History

@@ -1,0 +1,21 @@
+# 323 - The Square
+
+#County title
+title = c_square
+
+#Settlements
+max_settlements = 7
+b_the_co-op = castle
+b_hare_and_hounds = city
+b_rowledge_garage = castle
+#b_bell = {}
+b_rowledge_pre_school = temple
+b_rowledge_post_office = city
+#b_priory_cottage = {}
+
+#Misc
+culture = rowlegian
+religion = lollard
+terrain = plains
+
+# History

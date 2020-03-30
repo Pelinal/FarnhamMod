@@ -1,0 +1,21 @@
+# 212 - Burlingdale
+
+#County title
+title = c_burlingdale
+
+#Settlements
+max_settlements = 3
+b_burlingdale = castle
+b_waverley_court_farm = city
+#b_foxshott = {}
+#b_tearcroft = {}
+#b_artful_dog = {}
+#b_wellmade = {}
+#b_coan = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = farmlands
+
+# History

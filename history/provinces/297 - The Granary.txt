@@ -1,0 +1,21 @@
+# 297 - The Granary
+
+#County title
+title = c_the_granary
+
+#Settlements
+max_settlements = 3
+b_the_granary = castle
+b_brabner_developments = city
+#b_bikefixplus = {}
+#b_comley_reclaim = {}
+#b_self_storage = {}
+#b_quinten_woods = {}
+#b_gatfield_systems = {}
+
+#Misc
+culture = farmer
+religion = zun_pagan
+terrain = plains
+
+# History

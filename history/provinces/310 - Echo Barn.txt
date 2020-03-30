@@ -1,0 +1,21 @@
+# 310 - Echo Barn
+
+#County title
+title = c_echo_barn
+
+#Settlements
+max_settlements = 5
+b_echo_barn_lane = castle
+b_wrecclesham_farm = city
+b_granite_view = temple
+#b_croft = {}
+#b_sunnyside = {}
+#b_springfield = {}
+#b_whitecottage = {}		
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

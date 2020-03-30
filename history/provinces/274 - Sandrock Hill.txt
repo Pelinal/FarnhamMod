@@ -1,0 +1,21 @@
+# 274 - Sandrock Hill
+
+#County title
+title = c_sandrock_hill
+
+#Settlements
+max_settlements = 6
+b_bowden_lodge = castle
+b_sandrock = castle
+b_the_sandrock = city
+b_bower = temple
+#b_jubilee = {}
+#b_birdhaven = {}
+#b_kiln_cottage = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = hills
+
+# History

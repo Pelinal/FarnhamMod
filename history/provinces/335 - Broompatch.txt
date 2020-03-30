@@ -1,0 +1,21 @@
+# 335 - Broompatch
+
+#County title
+title = c_broompatch
+
+#Settlements
+max_settlements = 4
+b_broompatch = castle
+b_mayfield_farm = tribal
+#b_ildon = {}
+#b_hopham = {}
+#b_ottermouth = {}
+#b_presmoor = {}
+#b_southdon_heath = {}		
+
+#Misc
+culture = rowlegian
+religion = lollard
+terrain = plains
+
+# History

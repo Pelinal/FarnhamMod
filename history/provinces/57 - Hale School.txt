@@ -15,7 +15,7 @@ b_gravelscythe = temple
 
 #Misc
 culture = haleian
-religion = lollard
+religion = anglican
 terrain = plains
 
 # History

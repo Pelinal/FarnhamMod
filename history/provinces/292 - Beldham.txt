@@ -1,0 +1,21 @@
+# 292 - Beldham
+
+#County title
+title = c_beldham
+
+#Settlements
+max_settlements = 7
+b_wrecclesham_community_centre = castle
+b_beldham = city
+b_northpool = city
+b_birchley  = temple
+b_loxmouth_house = castle
+#b_beechford = {}
+#b_espace = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

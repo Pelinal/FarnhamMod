@@ -15,7 +15,7 @@ b_seedyfields = castle
 
 #Misc
 culture = farmer
-religion = lollard
+religion = zun_pagan
 terrain = farmlands
 
 # History

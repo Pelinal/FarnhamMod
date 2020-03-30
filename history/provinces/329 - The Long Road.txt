@@ -1,0 +1,21 @@
+# 329 - The Long Road
+
+#County title
+title = c_long_road
+
+#Settlements
+max_settlements = 5
+b_rowledge_village_hall = castle
+b_michael_humphries = city
+b_cumpsteys = temple
+#b_hands_of_rowledge = {}
+#b_northwaite = {}
+#b_fulmarsh = {}
+#b_oulley_farm = {}
+
+#Misc
+culture = rowlegian
+religion = lollard
+terrain = woods
+
+# History

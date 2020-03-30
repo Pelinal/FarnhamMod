@@ -2560,7 +2560,7 @@ e_farnham = {
 				
 				b_barfield_lodge = {}
 				b_barfield = {}
-				b_the_lodge = {}
+				b_whitehall = {}
 				b_plainwood = {}
 				b_martins = {}
 				b_coachworks = {}
@@ -2609,7 +2609,7 @@ e_farnham = {
 				b_animal_snack_and_tack = {}
 				b_lowchurch = {}
 				b_topspec = {}
-				b_martins = {}
+				b_martina = {}
 				b_dengie = {}
 				b_scaffolding = {}
 			}
@@ -2740,7 +2740,7 @@ e_farnham = {
 				b_blighton = {}
 				b_stoneley = {}
 				b_oldpotters = {}
-				b_pithouse = {}
+				b_pithorpe = {}
 				b_the_sandpits = {}
 			}
 		}
@@ -3169,7 +3169,7 @@ e_farnham = {
 				color={ 148 160 128 }
 				color2={ 255 255 255 }
 				
-				b_longley = {}
+				b_longley_house = {}
 				b_highbank = {}
 				b_the_bays = {}
 				b_laurels = { }
@@ -3330,7 +3330,7 @@ e_farnham = {
 			
 			culture = wreccleshese
 			
-			c_ridgeway = {
+			c_ridgeway = { # Maddy McCubbine
 				color={ 166 179 109 }
 				color2={ 255 255 255 }
 				
@@ -3551,7 +3551,7 @@ e_farnham = {
 			color={ 107 209 199 }
 			color2={ 255 255 255 }
 			
-			capital = 236 # Lodge Hill
+			capital = 224 # Lower Bourne
 			dignity = 17
 			
 			c_woodlarks = {
@@ -3561,7 +3561,7 @@ e_farnham = {
 				b_woodlarks = {}
 				b_woodlarks_centre = { short_name = yes }
 				b_farnham_dene_medical_practice = { short_name = yes }
-				b_stables = {}
+				b_westbrook_stables = {}
 				b_cornish_coastal_hotel = { short_name = yes }
 				b_woodlarks_camp = {}
 				b_helen_james_reflexory = {}
@@ -3620,7 +3620,7 @@ e_farnham = {
 			color={ 26 139 128 }
 			color2={ 255 255 255 }
 			
-			capital = 224 # Lower Bourne
+			capital = 217 # Sheepwash
 			dignity = 12
 			
 			c_monkswalk = {
@@ -3655,7 +3655,7 @@ e_farnham = {
 			
 			comptonic = "South Farnham Infant School"
 			
-			capital = 224 # Lower Bourne
+			capital = 231 # Vicarage Hill
 			dignity = 17
 			
 			c_vicarage_hill = {
@@ -3727,7 +3727,7 @@ e_farnham = {
 			capital = 228 # Little Austins
 			dignity = 15
 			
-			c_little_austins = {
+			c_little_austins = { # MR Austin-Jones (what was his damn first name??)
 				color={ 102 198 173 }
 				color2={ 255 255 255 }
 				
@@ -3903,7 +3903,7 @@ e_farnham = {
 				color2={ 255 255 255 }
 				
 				b_vale_wood = {}
-				b_vale = {}
+				b_oakby = {}
 				b_forrest = {}
 				b_comrie_house = {}
 				b_westfold_farm = {}
@@ -3940,7 +3940,7 @@ e_farnham = {
 				
 				b_gardners_hill = {}
 				b_tall_timber = {}
-				b_gardners_hill = {}
+				b_presdon = {}
 				b_lumberton = {}
 				b_frensham_court_house = {}
 				b_the_old_barn = {}
@@ -3950,7 +3950,7 @@ e_farnham = {
 				color={ 58 151 192 }
 				color2={ 255 255 255 }
 				
-				b_hillside = {}
+				b_hillside_lodge = {}
 				b_old_farm = {}
 				b_cotswold_house = {}
 				b_langwood = {}
@@ -4073,7 +4073,7 @@ e_farnham = {
 				color={ 116 211 185 }
 				color2={ 255 255 255 }
 				
-				b_broomwood = {}
+				b_broom_wood = {}
 				b_winston = {}
 				b_ford = {}
 				b_streamcottage = {}
@@ -4124,7 +4124,7 @@ e_farnham = {
 				b_cedarways = {}
 				b_brockhurst = {}
 				b_highland_church = {}
-				b_brockhurst = {}
+				b_henburn = {}
 				b_blackdon = {}
 				b_thornhurst = {}
 				b_oxley = {}
@@ -4212,7 +4212,7 @@ e_farnham = {
 			capital = 268 # Greenhill Way
 			dignity = 15
 			
-			c_greenfield = {
+			c_greenfield = { # George Terry
 				color={ 223 63 206 }
 				color2={ 255 255 255 }
 				
@@ -4266,11 +4266,11 @@ e_farnham = {
 				
 				b_garth = {}
 				b_highfield = {}
-				b_middlefield = {}
+				b_middle_field = {}
 				b_chartwell_house = {}
 				b_green_lane_house = {}
 				b_upperway = {}
-				b_undernoll = {}
+				b_underknoll = {}
 			}
 		}
 		
@@ -4325,14 +4325,14 @@ e_farnham = {
 			capital = 274 # Sandrock Hill
 			dignity = 17
 			
-			c_batnball = { # Sam 'the Square' Sneath
+			c_batnball = { # Sam 'Snivers' Sneath
 				color={ 116 56 76 }
 				color2={ 255 255 255 }
 				
 				b_bat_and_ball = {}
 				b_bat_and_ball_freehouse = {}
 				b_bourne_dene = {}
-				b_gardencosts = {}
+				b_gardencost = {}
 				b_bourne_vale = {}
 				b_gorsefield = {}
 				b_rowan = {}
@@ -4347,7 +4347,6 @@ e_farnham = {
 				b_bower = {}
 				b_jubilee = {}
 				b_birdhaven = {}
-				b_LHS_and_sons = {}
 				b_kiln_cottage = {}
 			}
 			c_laurel = { # Jake 'the Long' Thomas
@@ -4499,7 +4498,7 @@ e_farnham = {
 			capital = 284 # Applelands
 			dignity = 15
 			
-			c_applelands = {
+			c_applelands = { # Jake Bailey
 				color={ 103 29 69 }
 				color2={ 255 255 255 }
 				
@@ -4527,7 +4526,7 @@ e_farnham = {
 				color={ 188 36 118 }
 				color2={ 255 255 255 }
 				
-				b_rivendell = {}
+				b_riverdell = {}
 				b_rivendell_lodge = {}
 				b_orpus = {}
 				b_bowood = {}
@@ -4567,24 +4566,23 @@ e_farnham = {
 			
 				color = {191 191 191}
 				color2 = {255 255 255}
-					
-				b_playground = {}
-				b_galaxy = {}
-				b_clio = {}
-				b_vectra  ={}
-				b_saxo = {}
-				b_aygo = {}
+				
+				b_wrecclesham_community_centre = { short_name = yes }
+				b_beldham = {}
+				b_northpool = {}
+				b_birchley  ={}
+				b_loxmouth_house = {}
+				b_beechford = {}
 				b_espace = {}			
 			}
 			
-			c_chartwells = {
-			
+			c_chartwell = {
 				color = {115 115 115}
 				color2 = {255 255 255}
-					
+				
+				b_chartwell = {}
 				b_pooles_pooches = {}
 				b_spruce_fencing = {}
-				b_gritbox = {}
 				b_outback = {}
 				b_heather = {}
 				b_fabia = {}
@@ -4592,13 +4590,12 @@ e_farnham = {
 			}
 			
 			c_school_hill = {
-			
 				color = {230 230 230}
 				color2 = {255 255 255}
-					
+				
 				b_bengal_lounge = {}
-				b_jade_garden
-				b_post_office = {}
+				b_jade_garden = {}
+				b_school_hill_post_office = {}
 				b_mccolls = {}
 				b_t_baker_jr = {}
 				b_st_peters_church = {}
@@ -4610,7 +4607,7 @@ e_farnham = {
 			
 				color = {153 153 153}
 				color2 = {255 255 255}
-					
+				
 				b_riverdale = {}
 				b_jagos_house = {}
 				b_river_lane = {}
@@ -4624,14 +4621,14 @@ e_farnham = {
 			
 				color = {128 128 128}
 				color2 = {255 255 255}
-					
+				
 				b_football_club = {}
 				b_tennis_club = {}
 				b_empty_field = {}
-				b_playpark = {}
+				b_asholm = {}
 				b_cricket_pitch = {}
 				b_rugby_pitch = {}
-				b_allotment = {}
+				b_millborough = {}
 			}
 		
 		
@@ -4650,8 +4647,8 @@ e_farnham = {
 				color = {179 140 192}
 				color2 = {255 255 255}				
 			
-				b_weydon_hall = {}
 				b_winters_office = {}
+				b_weydon_hall = {}
 				b_globe = {}
 				b_keller = {}
 				b_padua = {}
@@ -4663,8 +4660,8 @@ e_farnham = {
 				color = {179 208 192}
 				color2 = {255 255 255}					
 			
+				b_venton_fort = {}
 				b_main_reception = {}
-				b_car_park = {}
 				b_staffroom = {}
 				b_canteen = {}
 				b_nurses_office = {}
@@ -4712,7 +4709,7 @@ e_farnham = {
 			
 				color = {121 207 236}
 				color2 = {255 255 255}
-					
+				
 				b_holtwood = {}
 				b_blackguard = {}
 				b_dyemaker = {}
@@ -4726,7 +4723,7 @@ e_farnham = {
 			
 				color = {159 188 198}
 				color2 = {255 255 255}
-					
+				
 				b_willey_mill = {}
 				b_cheery_woods = {}
 				b_restful_forest = {}
@@ -4740,8 +4737,8 @@ e_farnham = {
 			
 				color = {64 159 191}
 				color2 = {255 255 255}
-					
-				b_cow_field = {}
+				
+				b_weybank_farm = {}
 				b_morelow = {}
 				b_newriddle = {}
 				b_blanclair = {}
@@ -4754,8 +4751,8 @@ e_farnham = {
 			
 				color = {140 198 217}
 				color2 = {255 255 255}
-					
-				b_surrey_loams = {}
+				
+				b_homeleigh = {}
 				b_wheat_field = {}
 				b_hopherd = {}
 				b_applewater = {}
@@ -4792,7 +4789,7 @@ e_farnham = {
 			
 				color = {37 142 89}
 				color2 = {255 255 255}
-					
+				
 				b_cobden_farm = {}
 				b_deerpass = {}
 				b_palmald = {}
@@ -4806,8 +4803,8 @@ e_farnham = {
 			
 				color = {133 224 179}
 				color2 = {255 255 255}
-					
-				b_granary = {}
+				
+				b_the_granary = {}
 				b_brabner_developments = {}
 				b_bikefixplus = {}
 				b_comley_reclaim = {}
@@ -4820,12 +4817,12 @@ e_farnham = {
 			
 				color = {194 239 217}
 				color2 = {255 255 255}
-					
+				
 				b_farnham_eyelashes = {}
 				b_318_ceramics = {}
 				b_hollis_wood = {}
 				b_greystead = {}
-				b_cala = {}
+				b_keldton = {}
 				b_the_grove = {}
 				b_werrant = {}
 			}
@@ -4844,13 +4841,13 @@ e_farnham = {
 				
 				color = {239 191 143}
 				color2 = {255 255 255}
-					
+				
+				b_quennels = {}
 				b_royal_oak = {}
 				b_business_car_finance = {}
 				b_farnham_pottery = {}
 				b_cokenor = {}
 				b_thistledown = {}
-				b_mummy_makes_fudge = {}
 				b_grantham_tools = {}
 			}
 			
@@ -4858,8 +4855,8 @@ e_farnham = {
 			
 				color = {226 140 54}
 				color2 = {255 255 255}
-					
-				b_copse = {}
+				
+				b_broadwell_house = {}
 				b_broadwell_road = {}
 				b_woodcut = {}
 				b_skincare_studio = {}
@@ -4872,7 +4869,7 @@ e_farnham = {
 			
 				color = {220 191 163}
 				color2 = {255 255 255}
-					
+				
 				b_acacia_gardens = {}
 				b_bucksend = {}
 				b_pittherd = {}
@@ -4903,35 +4900,35 @@ e_farnham = {
 				b_croft = {}
 				b_sunnyside = {}
 				b_springfield = {}
-				b_white_cottage = {}		
+				b_whitecottage = {}		
 			}
 			
 			c_the_chine = {
 			
 				color = {240 240 117}
 				color2 = {255 255 255}
-					
+				
 				b_the_chine = {}
 				b_civic = {}
 				b_cooper_house = {}
-				b_corner_cottage = {}
+				b_cornerhouse = {}
 				b_fox_hollow = {}
 				b_kestrels = {}
-				b_fairview = {}
+				b_fair_view = {}
 			}
 			
-			c_telemarga = {
+			c_tremarga = {
 				
 				color = {201 201 156}
 				color2 = {255 255 255}
-					
+				
 				b_tremarga = {}
 				b_mobile_tuning = {}
 				b_primrose_cottage = {}
 				b_the_jays = {}
 				b_the_haven = {}
-				b_wayside = {}
-				b_the_lodge = {}
+				b_weyside = {}
+				b_reddon = {}
 			}		
 		}
 		
@@ -4948,13 +4945,13 @@ e_farnham = {
 			
 				color = {224 133 169}
 				color2 = {255 255 255}
-					
+				
 				b_manleybridge = {}
 				b_manley_farmhouse = {}
 				b_the_gables = {}
 				b_holly_cottage = {}
-				b_hillcrest = {}
-				b_the_bungalow = {}
+				b_hill_crest = {}
+				b_bungalow = {}
 				b_honeysuckle_cottage = {}
 			}
 			
@@ -4962,21 +4959,21 @@ e_farnham = {
 			
 				color = {255 179 209}
 				color2 = {255 255 255}
-					
+				
 				b_old_kiln = {}
 				b_old_vicarage = {}
 				b_meadow_view = {}
-				b_highfield = {}
+				b_highfield_lodge = {}
 				b_the_rook = {}
-				b_oaklands = {}
-				b_the_laurels = {}
+				b_krimere = {}
+				b_norhalgh = {}
 			}
 			
 			c_holt_pound_farm = {
 			
 				color = {255 51 133}
 				color2 = {255 255 255}
-					
+				
 				b_holt_pound_farm = {}
 				b_magpies = {}
 				b_mole_end = {}
@@ -5110,7 +5107,7 @@ e_farnham = {
 				
 				b_shrubbs = {}
 				b_ten_acre = {}
-				b_broompatch = {}
+				b_broom_patch = {}
 				b_primrose = {}
 				b_greenlands = {}
 				b_murton_farm = {}
@@ -5127,7 +5124,7 @@ e_farnham = {
 				b_brambling = {}
 				b_mantard = {}
 				b_wayey = {}
-				b_reignsgrove = {}
+				#b_reignsgrove = {}
 			}
 		}
 		
@@ -5260,9 +5257,9 @@ e_farnham = {
 		d_gorsedene = {
 			color = {225 75 45}
 			color2 = {255 255 255}
-				
+			
 			dignity = 12
-				
+			
 			capital = 339 #Gorsedene
 			
 			c_gorsedene = {
@@ -5284,7 +5281,7 @@ e_farnham = {
 			
 				b_pear_tree = {}
 				b_forest_house = {}
-				b_switchback = {}
+				b_switch_back = {}
 				b_presbeck_green = {}
 				b_blackfold = {}
 				b_moormouth = {}
@@ -5308,9 +5305,9 @@ e_farnham = {
 		d_east_rowledge = {
 			color = {225 45 75}
 			color2 = {255 255 255}
-				
+			
 			dignity = 12
-				
+			
 			capital = 11 #Fernbrae	
 		
 			c_valehouse = {
@@ -5345,20 +5342,33 @@ e_farnham = {
 			
 				b_kennels_and_cattery = {}
 				b_cherry_tree_charms = {}
-				b_gardeners_hill = {}
+				b_fernbrae = {}
 				b_birchlea = {}
 				b_northley = {}
 				b_potsfold = {}
 				b_henburgh = {}
 			}
+			
+			c_bakeroats = {
+				color = {200 60 80}
+				color2 = {255 255 255}
+			
+				b_baker_oats_house = {}
+				b_bakeroats = {}
+				b_frosties = {}
+				b_cornflakes = {}
+				b_shreddie = {}
+				b_cruchy_nut = {}
+				b_lucky_charms = {}
+			}
 		}
 		
 		d_frensham_heights = {
-			color = {185 45 80}
-			color2 = {255 255 255}
-				
+			color = { 185 45 80 }
+			color2 = { 255 255 255 }
+			
 			dignity = 12
-				
+			
 			capital = 330 #Frensham Heights
 			
 			c_frensham_heights = {
@@ -5377,7 +5387,7 @@ e_farnham = {
 			c_aldridge = {
 				color = {138 92 103}
 				color2 = {255 255 255}			
-			
+				
 				b_aldridge_theatre = {}
 				b_frensham_heights_school = {}
 				b_norrick_house = {}
@@ -5390,7 +5400,7 @@ e_farnham = {
 			c_hamilton = {
 				color = {220 111 139}
 				color2 = {255 255 255}			
-			
+				
 				b_hamilton_house = {}
 				b_thornley_cottage = {}
 				b_langden = {}
@@ -5406,7 +5416,7 @@ e_farnham = {
 			
 				b_summerfield = {}
 				b_more_house_school = {}
-				b_moons_hill = {}
+				b_moonshill = {}
 				b_blackford = {}
 				b_woolbrook = {}
 				b_keldchester_house = {}

@@ -1,0 +1,21 @@
+# 304 - Broadwell
+
+#County title
+title = c_broadwell
+
+#Settlements
+max_settlements = 5
+b_broadwell_house = castle
+#b_broadwell_road = city
+b_woodcut = temple
+b_skincare_studio = city
+#b_marshton = {}
+#b_talhall = {}
+#b_bridesmith = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

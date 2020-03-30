@@ -1,0 +1,21 @@
+# 264 - Greenfield
+
+#County title
+title = c_greenfield
+
+#Settlements
+max_settlements = 4
+b_greenfield = castle
+b_taximaris = city
+#b_southbard = {}
+#b_hamshouse = {}
+#b_fulstead = {}
+#b_lutesway_house = {}
+#b_telmont = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

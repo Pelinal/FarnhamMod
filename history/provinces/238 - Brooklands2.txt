@@ -1,0 +1,21 @@
+# 238 - Brooklands2
+
+#County title
+title = c_brooklands2
+
+#Settlements
+max_settlements = 4
+b_brooklands = castle
+b_clumps_cottage = city
+b_westdene = temple
+#b_fairmajor = {}
+##b_crosshatches = {}
+#b_garvey = {}
+#b_lockwood = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = woods
+
+# History

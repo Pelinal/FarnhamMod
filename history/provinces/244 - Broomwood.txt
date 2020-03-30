@@ -1,0 +1,21 @@
+# 244 - Broomwood
+
+#County title
+title = c_broomwood
+
+#Settlements
+max_settlements = 4
+b_broom_wood = castle
+b_winston = city
+#b_ford = {}
+#b_streamcottage = {}
+#b_sugarcove = {}
+#b_millenium = {}
+#b_kiln = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = hills
+
+# History

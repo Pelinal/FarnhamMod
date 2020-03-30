@@ -15,7 +15,7 @@ b_phoebe_lodge = tribal
 
 #Misc
 culture = huntsman
-religion = lollard
+religion = roeist
 terrain = plains
 
 # History

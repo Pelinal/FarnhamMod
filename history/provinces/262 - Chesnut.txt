@@ -1,0 +1,21 @@
+# 262 - Chesnut
+
+#County title
+title = c_chesnut
+
+#Settlements
+max_settlements = 3
+b_chesnut = castle
+b_polats = tribal
+#b_middlefield = {}
+#b_gullivers = {}
+#b_sophia_salon = {}
+#b_rearview = {}
+#b_undernoll = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

@@ -14,7 +14,7 @@ b_grovers_farm = city
 
 #Misc
 culture = farmer
-religion = lollard
+religion = zun_pagan
 terrain = farmlands
 
 # History

@@ -15,7 +15,7 @@ b_hallowed_chapel = temple
 
 #Misc
 culture = haleian
-religion = lollard
+religion = catholic
 terrain = plains
 
 # History

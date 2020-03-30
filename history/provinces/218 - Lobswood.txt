@@ -1,0 +1,21 @@
+# 209 - Sandiway
+
+#County title
+title = c_lobswood
+
+#Settlements
+max_settlements = 5
+b_lobswood_manor = castle
+b_lobswood = city
+#b_shedford = {}
+#b_knoweir = {}
+#b_blacklake = {}
+#b_yellowfarm = {}
+#b_lake_house = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = woods
+
+# History

@@ -1,0 +1,21 @@
+# 258 - Gardners Hill
+
+#County title
+title = c_gardners_hill
+
+#Settlements
+max_settlements = 3
+b_gardners_hill = castle
+b_tall_timber = city
+#b_presdon = {}
+#b_lumberton = {}
+#b_frensham_court_house = {}
+#b_the_old_barn = {}
+#b_valevilla = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = hills
+
+# History

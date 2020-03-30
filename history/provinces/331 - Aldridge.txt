@@ -1,0 +1,21 @@
+# 331 - Aldridge
+
+#County title
+title = c_aldridge
+
+#Settlements
+max_settlements = 4
+b_aldridge_theatre = city
+b_frensham_heights_school = temple
+#b_norrick_house = {}
+#b_whitemarsh = {}
+#b_kirmere = {}
+#b_middleholm = {}
+#b_dundon_green = {}
+
+#Misc
+culture = spreaker
+religion = lollard
+terrain = forest
+
+# History

@@ -1,0 +1,21 @@
+# 330 - Frensham Heights
+
+#County title
+title = c_frensham_heights
+
+#Settlements
+max_settlements = 5
+b_frensham_heights = castle
+b_heights_enterprises = city
+b_big_tennis_court = city
+b_hoplea_cross = temple
+#b_woolpool = {}
+#b_guildthorpe = {}
+#b_hindburgh = {}
+
+#Misc
+culture = spreaker
+religion = lollard
+terrain = forest
+
+# History

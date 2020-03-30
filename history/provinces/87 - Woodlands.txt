@@ -15,7 +15,7 @@ b_bentley = temple
 
 #Misc
 culture = haleian
-religion = lollard
+religion = catholic
 terrain = woods
 
 # History

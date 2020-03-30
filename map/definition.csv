@@ -306,7 +306,7 @@ province;red;green;blue;x;x
 305;0;63;180;The Chine;x
 306;42;66;53;Quennels;x
 307;84;69;181;Acacia;x
-308;126;72;54;Old Kiln;x # b_old_kiln_cottage
+308;126;72;54;Old Kiln;x
 309;168;75;182;Holt Pound Farm;x
 310;0;78;55;Echo Barn;x
 311;42;81;183;Tremarga;x
@@ -314,7 +314,7 @@ province;red;green;blue;x;x
 313;126;87;184;Green End;x 
 314;168;90;57;Rosemary;x  
 315;0;93;185;High Street;x
-316;42;96;58;Clare Mead;x # b_the_copse
+316;42;96;58;Clare Mead;x
 317;84;99;186;Shrubbs;x
 318;126;102;59;The Avenue;x
 319;168;105;187;Mayfield;x
@@ -326,15 +326,15 @@ province;red;green;blue;x;x
 325;0;123;190;Lickfolds Farm;x
 326;42;126;63;Hawthorn;x
 327;84;129;191;Vanners;x
-328;126;132;64;Middlepark;x # b_middle_park_lodge
+328;126;132;64;Middlepark;x
 329;168;135;192;The Long Road;x
-330;0;138;65;Frensham Heights;x # d_frensham_heights START
-331;42;141;193;Aldridge;x # b_aldridge_theatre
-332;84;144;66;Hamilton;x # b_hamilton_house  # d_frensham_heights END
-333;126;147;194;More House;x # b_summerfield
+330;0;138;65;Frensham Heights;x
+331;42;141;193;Aldridge;x
+332;84;144;66;Hamilton;x
+333;126;147;194;More House;x
 334;168;150;67;Pear Tree;x
 335;0;153;195;Broompatch;x
-336;42;156;68;Valehouse;x # b_frensham_vale_house
+336;42;156;68;Valehouse;x
 337;84;159;196;Baker Oats;x
 338;126;162;69;Frensham Vale Farm;x
 339;168;165;197;Gorsedene;x

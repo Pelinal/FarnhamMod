@@ -1,0 +1,21 @@
+# 9 - Lane End
+
+#County title
+title = c_lane_end
+
+#Settlements
+max_settlements = 5
+b_lanesend = castle
+b_lane_end_cottage = city
+#b_little_thatches = {}
+b_gardenCOSTS = city
+#b_upper_bourne_lodge = {}
+#b_rowanchase = {}
+#b_tilford_cottage = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

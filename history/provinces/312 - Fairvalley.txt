@@ -1,0 +1,21 @@
+# 312 - Fairvalley
+
+#County title
+title = c_fairvalley
+
+#Settlements
+max_settlements = 3
+b_fairvalley_farm_house = castle
+b_fairvalley_farm = city
+#b_manley = {}
+#b_meadowside = {}
+#b_beech_lodge = {}
+#b_sandford_roost = {}
+#b_treeview = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = farmlands
+
+# History

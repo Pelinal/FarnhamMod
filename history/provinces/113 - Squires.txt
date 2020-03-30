@@ -15,7 +15,7 @@ b_wellis = city
 
 #Misc
 culture = leeman
-religion = lollard
+religion = wilkinsonian
 terrain = plains
 
 # History

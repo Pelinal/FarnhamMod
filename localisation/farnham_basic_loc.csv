@@ -1,6 +1,6 @@
-bm_gcses2018;The GCSEs;;;;;;;;;;;;x
-BM_GCSES2018;The GCSEs;;;;;;;;;;;;x
-BM_GCSES2018_DESC;It is that time of year again, the Year 11s of 2018 must soon undertake their GCSE examinations. Study leave has now begun and due to the confusion and outrage caused by Govian reforms, followers of the Pupalitarian faith have risen, forming a militant sect against the autority of Weydon and their subsidaries.;;;;;;;;;;;;x
+bm_winter2019;Farnham Independence Day;;;;;;;;;;;;x
+BM_WINTER2019;Farnham Independence Day;;;;;;;;;;;;x
+BM_WINTER2019_DESC;Farnham, a seemingly minor town in South West Surrey, has declared independance from the United Kingdom. This claim is laughed about by Parliament and is not recognised, however the Prime Minister has stated that any conflict in the region will lead to government intervention.\nUsing the power vaccum that followed Farnham's independence, the many peoples of Waverley have taken to forming nations of their own, with figures such as John Winter and Sir Andrew breaking away from the newly established Farnham republic. The future of Waverley is uncertain, waiting for someone to bring peace and unity to the land once more.;;;;;;;;;;;;x
 
 # Regions
 surrey_waverley_farnham_north;North Farnham;;;;;;;;;;;;x
@@ -16,37 +16,38 @@ surrey_waverley_farnham_badshot_lea;Badshot Lea;;;;;;;;;;;;x
 surrey_waverley_farnham_runfold;Runfold;;;;;;;;;;;;x
 
 woods;Woods;;;;;;;;;;;;x
-#baron;Sir;;;;;;;;;;;;x
-#baron_female;Madam;;;;;;;;;;;;x
-#barony_of;Manor of;;;;;;;;;;;;x
-#count;Lord;;;;;;;;;;;;x
-#count_female;Lady;;;;;;;;;;;;x
-#county_of;Estate of;;;;;;;;;;;;x
-#duke;Marshal;;;;;;;;;;;;x
-#duke_female;Marshal;;;;;;;;;;;;x
-#duchy_of;Marshalcy of;;;;;;;;;;;;x
-#king;Warden;;;;;;;;;;;;x
-#king_female;Wardeness;;;;;;;;;;;;x
-#kingdom_of;Ward of;;;;;;;;;;;;x
-#emperor;Hetnab;;;;;;;;;;;;x
-#emperor_female;Queen;;;;;;;;;;;;x
-#empire_of;Parish of;;;;;;;;;;;;x
 
-#city_baron;Shopkeeper;;;;;;;;;;;;x
-#city_baron_female;Shopkeeper;;;;;;;;;;;;x
-#city_barony_of;Shop of;;;;;;;;;;;;x
-#city_count;Councillor;;;;;;;;;;;;x
-#city_count_female;Councillor;;;;;;;;;;;;x
-#city_county_of;Council of;;;;;;;;;;;;x
-#city_duke;Bailiff;;;;;;;;;;;;x
-#city_duke_female;Bailiff;;;;;;;;;;;;x
-#city_duchy_of;Village of;;;;;;;;;;;;x
-#city_king;Director;;;;;;;;;;;;x
-#city_king_female;Director;;;;;;;;;;;;x
-#city_kingdom_of;Ward of;;;;;;;;;;;;x
-#city_emperor;Chairman;;;;;;;;;;;;x
-#city_emperor_female;Chairwoman;;;;;;;;;;;;x
-#city_empire_of;Parish of;;;;;;;;;;;;x
+baron;Lord;;;;;;;;;;;;x
+baron_female;Lady;;;;;;;;;;;;x
+barony_of;Lordship of;;;;;;;;;;;;x
+count;Reeve;;;;;;;;;;;;x
+count_female;Baroness;;;;;;;;;;;;x
+county_of;Barony of;;;;;;;;;;;;x
+duke;Earl;;;;;;;;;;;;x
+duke_female;Countess;;;;;;;;;;;;x
+duchy_of;Earldom of;;;;;;;;;;;;x
+king;King;;;;;;;;;;;;x
+king_female;Queen;;;;;;;;;;;;x
+kingdom_of;Kingdom of;;;;;;;;;;;;x
+emperor;Emperor;;;;;;;;;;;;x
+emperor_female;Empress;;;;;;;;;;;;x
+empire_of;Empire of;;;;;;;;;;;;x
+
+city_baron;Landowner;;;;;;;;;;;;x
+city_baron_female;Landowner;;;;;;;;;;;;x
+city_barony_of;Property of;;;;;;;;;;;;x
+city_count;Councillor;;;;;;;;;;;;x
+city_count_female;Councillor;;;;;;;;;;;;x
+city_county_of;Borough of;;;;;;;;;;;;x
+city_duke;Lord Lieutenant;;;;;;;;;;;;x
+city_duke_female;Lord Lieutenant;;;;;;;;;;;;x
+city_duchy_of;County of;;;;;;;;;;;;x
+city_king;President;;;;;;;;;;;;x
+city_king_female;President;;;;;;;;;;;;x
+city_kingdom_of;Republic of;;;;;;;;;;;;x
+city_emperor;Prime Minister;;;;;;;;;;;;x
+city_emperor_female;Prime Minister;;;;;;;;;;;;x
+city_empire_of;Grand Republic of;;;;;;;;;;;;x
 
 nick_mad_max;Mad Max;;;;;;;;;;;;x
 nick_cunningham;Cunningham;;;;;;;;;;;;x
@@ -54,3 +55,4 @@ nick_the_bean;the Bean;;;;;;;;;;;;x
 nick_the_wide;the Wide;;;;;;;;;;;;x
 nick_the_long;the Long;;;;;;;;;;;;x
 nick_the_jew;the Jew;;;;;;;;;;;;x
+nick_dunners;Dunners;;;;;;;;;;;;x

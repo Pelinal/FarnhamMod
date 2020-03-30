@@ -15,7 +15,7 @@ b_lyall_place = city
 
 #Misc
 culture = haleian
-religion = lollard
+religion = scat
 terrain = plains
 
 # History

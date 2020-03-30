@@ -15,7 +15,7 @@ b_fairview = temple
 
 #Misc
 culture = haleian
-religion = lollard
+religion = anglican
 terrain = plains
 
 # History

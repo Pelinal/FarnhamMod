@@ -1,0 +1,21 @@
+# 243 - Aveley
+
+#County title
+title = c_aveley
+
+#Settlements
+max_settlements = 5
+b_aveley = castle
+b_the_wrens = city
+b_white_rose = temple
+#b_underhill = {}
+##b_ernest_house = {}
+#b_shakeys = {}
+#b_valley_lodge = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

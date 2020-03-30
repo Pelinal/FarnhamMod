@@ -15,7 +15,7 @@ b_hungrychurch = temple
 
 #Misc
 culture = haleian
-religion = lollard
+religion = weydonian
 terrain = hills
 
 # History

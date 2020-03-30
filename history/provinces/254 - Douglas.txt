@@ -1,0 +1,21 @@
+# 254 - Douglas
+
+#County title
+title = c_douglas
+
+#Settlements
+max_settlements = 5
+b_douglas = castle
+b_kakkar = city
+#b_grovesend = temple
+#b_oak_tree_house = {}
+#b_chenson = {}
+#b_lingerage = {}
+#b_swanfield = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

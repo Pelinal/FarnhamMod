@@ -1,0 +1,21 @@
+# 210 - Northlodge
+
+#County title
+title = c_northlodge
+
+#Settlements
+max_settlements = 4
+b_northwood = castle
+b_pumpington = city
+#b_norwood_chapel = {}
+#b_jaelon = {}
+#b_crossila = {}
+#b_takeshi_house = {}
+#b_manoria = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = woods
+
+# History

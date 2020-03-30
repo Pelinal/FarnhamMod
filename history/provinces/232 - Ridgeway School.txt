@@ -1,0 +1,21 @@
+# 232 - Ridgeway School
+
+#County title
+title = c_ridgeway_school
+
+#Settlements
+max_settlements = 6
+b_ridgeway_community_school = castle
+b_the_bourne_club = city
+b_st_thomas_on_the_bourne = temple
+b_acheulia = city
+#b_edwards = {}
+#b_showshack = {}
+#b_school_cross = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

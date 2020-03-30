@@ -1,0 +1,21 @@
+# 209 - Sandiway
+
+#County title
+title = c_cedarways
+
+#Settlements
+max_settlements = 5
+b_cedarways = castle
+b_brockhurst = city
+b_highland_church = temple
+#b_henburn = {}
+#b_blackdon = {}
+#b_thornhurst = {}
+#b_oxley = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = woods
+
+# History

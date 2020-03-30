@@ -1,0 +1,21 @@
+# 288 - Weydon
+
+#County title
+title = c_weydon
+
+#Settlements
+max_settlements = 7
+b_winters_office = castle
+b_weydon_hall = city
+b_globe = temple
+b_keller = castle
+b_padua = city
+#b_ada = {}
+#b_medici = {}		
+
+#Misc
+culture = wreccleshese
+religion = weydonian
+terrain = plains
+
+# History

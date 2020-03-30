@@ -1,0 +1,21 @@
+# 242 - Middle Bourne
+
+#County title
+title = c_middle_bourne
+
+#Settlements
+max_settlements = 6
+b_middle_bourne = castle
+b_tudors_house = city
+b_the_pieces = temple
+b_holt_cottage = castle
+#b_oakdene = {}
+#b_gorsebrook = {}
+#b_tilehouse = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

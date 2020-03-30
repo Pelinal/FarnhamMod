@@ -1,0 +1,21 @@
+# 286 - Rivendell
+
+#County title
+title = c_rivendell
+
+#Settlements
+max_settlements = 4
+b_riverdell = castle
+b_rivendell_lodge = city
+#b_orpus = {}
+#b_bowood = {}
+#b_southapple = {}
+#b_thinveil = {}
+#b_inglefield = {}
+
+#Misc
+culture = rowlegian
+religion = lollard
+terrain = plains
+
+# History

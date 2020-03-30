@@ -1,0 +1,21 @@
+# 227 - Paradise Wood
+
+#County title
+title = c_paradise_wood
+
+#Settlements
+max_settlements = 3
+b_paradise_wood = castle
+b_leigh = city
+#b_reverance = {}
+#b_oastoaks = {}
+#b_woodpecker = {}
+#b_maple_house = {}
+#b_ashweir = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = woods
+
+# History

@@ -15,7 +15,7 @@ b_potts_farm = city
 
 #Misc
 culture = townie
-religion = lollard
+religion = waitrosian
 terrain = plains
 
 # History

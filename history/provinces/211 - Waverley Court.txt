@@ -1,0 +1,21 @@
+# 211 - Waverley Court
+
+#County title
+title = c_waverley_court
+
+#Settlements
+max_settlements = 5
+b_waverley_court_lodge = castle
+b_abbey_business_park = city
+b_monkwalk = temple
+b_british_action_academy = temple
+#b_wavelea = {}
+#b_gnomesborough = {}
+#b_hallinghall = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

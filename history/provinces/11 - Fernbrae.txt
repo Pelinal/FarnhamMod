@@ -1,0 +1,21 @@
+# 11 - Fernbrae
+
+#County title
+title = c_fernbrae
+
+#Settlements
+max_settlements = 4
+b_kennels_and_cattery = castle
+b_cherry_tree_charms = city
+b_fernbrae = temple
+#b_birchlea = temple
+#b_northley = {}
+#b_potsfold = {}
+#b_henburgh = {}
+
+#Misc
+culture = rowlegian
+religion = lollard
+terrain = woods
+
+# History

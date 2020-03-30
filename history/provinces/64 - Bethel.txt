@@ -15,7 +15,7 @@ b_poplar = castle
 
 #Misc
 culture = haleian
-religion = lollard
+religion = anglican
 terrain = plains
 
 # History

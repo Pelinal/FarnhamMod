@@ -1,0 +1,21 @@
+# 235 - Deepdene
+
+#County title
+title = c_deepdene
+
+#Settlements
+max_settlements = 5
+b_deepdene = temple
+b_grovehouse = castle
+b_eastdene = temple
+#b_woodley = {}
+#b_sweet_croft = {}
+#b_garrick = {}
+#b_lodge_farm = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

@@ -1,0 +1,21 @@
+# 219 - Wendys Wood
+
+#County title
+title = c_wendys_wood
+
+#Settlements
+max_settlements = 3
+b_wendys_wood = tribal
+b_eastbourn = temple
+#b_wendys_church = {}
+#b_peter_pan_lodge = {}
+#b_sugiyama = {}
+#b_tilford_vale_house = {}
+#b_browncopse = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = woods
+
+# History

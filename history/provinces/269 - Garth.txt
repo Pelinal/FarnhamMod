@@ -1,0 +1,21 @@
+# 269 - Garth
+
+#County title
+title = c_garth
+
+#Settlements
+max_settlements = 3
+b_garth = castle
+b_highfield = city
+#b_middle_field = {}
+#b_chartwell_house = {}
+#b_green_lane_house = {}
+#b_upperway = {}
+#b_underknoll = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = hills
+
+# History

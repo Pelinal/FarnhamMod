@@ -1,0 +1,21 @@
+# 314 - Rosemary
+
+#County title
+title = c_rosemary
+
+#Settlements
+max_settlements = 6
+b_rockford_lodge = castle
+b_cherryfields_cottage = city
+b_brookside_rowledge = temple
+b_rosemary_cottage = castle
+#b_brambles = {}
+#b_vintersgate = {}
+#b_verosa = {}
+
+#Misc
+culture = rowlegian
+religion = lollard
+terrain = plains
+
+# History

@@ -15,7 +15,7 @@ b_peabridge = city
 
 #Misc
 culture = leeman
-religion = lollard
+religion = wilkinsonian
 terrain = woods
 
 # History

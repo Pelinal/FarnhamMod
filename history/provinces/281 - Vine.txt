@@ -1,0 +1,21 @@
+# 281 - Vine
+
+#County title
+title = c_vine
+
+#Settlements
+max_settlements = 5
+b_vine = castle
+b_april_cottage = city
+b_vineway = temple
+#b_pied_cottage = castle
+#b_paradigm = {}
+#b_the_white_house = {}
+#b_elbury = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = hills
+
+# History

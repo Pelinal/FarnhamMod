@@ -1,0 +1,21 @@
+# 302 - Holtwood
+
+#County title
+title = c_holtwood
+
+#Settlements
+max_settlements = 3
+b_holtwood = castle
+b_blackguard = temple
+#b_dyemaker = {}
+#b_stoneway = {}
+##b_hawkriddle = {}
+#b_galloham = {}
+#b_foxport = {}
+
+#Misc
+culture = holtish
+religion = zun_pagan
+terrain = woods
+
+# History

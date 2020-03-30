@@ -15,7 +15,7 @@ b_six_bells_pub = city
 
 #Misc
 culture = haleian
-religion = lollard
+religion = kevite
 terrain = plains
 
 # History

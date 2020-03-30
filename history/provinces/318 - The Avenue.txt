@@ -1,0 +1,21 @@
+# 318 - The Avenue
+
+#County title
+title = c_the_avenue
+
+#Settlements
+max_settlements = 6
+b_the_goodearl_residence = castle
+b_magnolia = city
+b_synagogue_of_the_avenue = temple
+#b_mayfield_lodge = {}
+b_meadley = city
+#b_newfield = {}
+#b_pear_lodge = {}
+
+#Misc
+culture = rowlegian
+religion = jewish
+terrain = woods
+
+# History

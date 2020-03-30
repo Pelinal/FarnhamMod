@@ -1,0 +1,21 @@
+# 250 - Pinesridge
+
+#County title
+title = c_pinesridge
+
+#Settlements
+max_settlements = 4
+b_pine_ridge = castle
+#b_eouldon = {}
+b_fernwood = temple
+#b_grover_house = {}
+#b_southurst = {}
+#b_kirfold = {}
+#b_aldburn = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = woods
+
+# History

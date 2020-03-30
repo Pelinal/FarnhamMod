@@ -1,0 +1,21 @@
+# 241 - Clumps
+
+#County title
+title = c_clumps
+
+#Settlements
+max_settlements = 3
+b_clumps_house = castle
+b_clumps_farm = city
+#b_stoke_hall = {}
+#b_frenshaw = {}
+#b_longview = {}
+##b_greyside = {}
+#b_the_clumps = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = woods
+
+# History

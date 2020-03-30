@@ -1,0 +1,21 @@
+# 226 - Woodview
+
+#County title
+title = c_woodview
+
+#Settlements
+max_settlements = 4
+b_woodview_manor = castle
+b_woodview = city
+b_parklands = temple
+#b_southleigh = {}
+#b_green_hill_house = {}
+#b_streamhouse = {}
+#b_norgrove = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

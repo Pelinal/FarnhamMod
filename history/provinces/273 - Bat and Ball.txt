@@ -1,0 +1,21 @@
+# 273 - Bat and Ball
+
+#County title
+title = c_batnball
+
+#Settlements
+max_settlements = 5
+b_bat_and_ball = castle
+b_bat_and_ball_freehouse = city
+b_bourne_dene = temple
+#b_gardencost = {}
+#b_bourne_vale = {}
+#b_gorsefield = {}
+#b_rowan = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

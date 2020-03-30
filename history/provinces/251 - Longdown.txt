@@ -1,0 +1,20 @@
+# 252 - Longdown
+#County title
+title = c_longdown
+
+#Settlements
+max_settlements = 5
+b_longdown = castle
+b_the_brae = city
+b_axwood = temple
+#b_west_wing = {}
+#b_the_courtyard = {}
+#b_brae_coachouse = {}
+#b_clangdon = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

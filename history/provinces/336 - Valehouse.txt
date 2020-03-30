@@ -1,0 +1,21 @@
+# 336 - Valehouse
+
+#County title
+title = c_valehouse
+
+#Settlements
+max_settlements = 4
+b_frensham_vale_house = castle
+b_hindley = temple
+#b_millthorpe = {}
+#b_harhurst = {}
+#b_overburn = {}
+#b_oakington = {}
+#b_newden = {}	
+
+#Misc
+culture = rowlegian
+religion = lollard
+terrain = plains
+
+# History

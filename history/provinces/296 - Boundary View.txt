@@ -1,0 +1,21 @@
+# 296 - Boundary View
+
+#County title
+title = c_boundary_view
+
+#Settlements
+max_settlements = 3
+b_farnham_eyelashes = castle
+b_318_ceramics = city
+#b_hollis_wood = {}
+#b_greystead = {}
+#b_keldton = {}
+#b_the_grove = {}
+#b_werrant = {}
+
+#Misc
+culture = farmer
+religion = zun_pagan
+terrain = plains
+
+# History

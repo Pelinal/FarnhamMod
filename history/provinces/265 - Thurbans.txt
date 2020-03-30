@@ -1,0 +1,21 @@
+# 265 - Thurbans
+
+#County title
+title = c_thurbans
+
+#Settlements
+max_settlements = 6
+b_thurbans = castle
+b_secrha = city
+b_wells_cottages = city
+#b_serenity_speaking = {}
+#b_vector = {}
+#b_fightflight = {}
+#b_bryony = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

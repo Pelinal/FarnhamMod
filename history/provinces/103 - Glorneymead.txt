@@ -15,7 +15,7 @@ b_christpond = temple
 
 #Misc
 culture = leeman
-religion = lollard
+religion = wilkinsonian
 terrain = woods
 
 # History

@@ -1,0 +1,21 @@
+# 252 - Goldhill
+
+#County title
+title = c_goldhill
+
+#Settlements
+max_settlements = 3
+b_gold_hill = castle
+b_lavender_hill_florist = city
+#b_avicenna_pharmacy = {}
+#b_hair_stop = {}
+#b_the_old_chapel = {}
+#b_shambles = {}
+#b_potting_shed = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = hills
+
+# History

@@ -1,0 +1,21 @@
+# 266 - Little Green
+
+#County title
+title = c_littlegreen
+
+#Settlements
+max_settlements = 3
+b_little_green = castle
+#b_allweather = castle
+b_equipment_shed = temple
+#b_upper_fermat = {}
+#b_northfield = {}
+#b_tennis_courts = {}
+#b_longjump = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

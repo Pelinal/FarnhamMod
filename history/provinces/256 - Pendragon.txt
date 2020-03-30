@@ -1,0 +1,21 @@
+# 256 - Pendragon
+
+#County title
+title = c_pendragon
+
+#Settlements
+max_settlements = 4
+b_pendragon_hall = castle
+b_moonvale = temple
+#b_theboth = {}
+#b_kirkland = {}
+#b_heathfield_house = {}
+#b_fearnhills = {}
+#b_silverbale = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = woods
+
+# History

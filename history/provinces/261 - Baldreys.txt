@@ -1,0 +1,21 @@
+# 261 - Baldreys
+
+#County title
+title = c_baldreys
+
+#Settlements
+max_settlements = 5
+b_baldreys = castle
+b_bon_east = city
+b_lyford = temple
+b_farnham_tool_hire = city
+#b_mainline = {}
+#b_pilgrimclose = {}
+#b_belmont = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

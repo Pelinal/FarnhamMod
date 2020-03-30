@@ -1,47 +1,147 @@
 1000 = {
-	name="Tabner"
-	culture="townie"
-	religion="lollard"
+	name = "Tabner"
+	culture = townie
+	religion = pupalitarian
+	used_for_random = no
 }
 
 1001 = {
-	name="2001"
-	culture="townie"
-	religion="lollard"
+	name = "Allgar"
+	culture = townie
+	religion = waitrosian
+	used_for_random = no
 }
 
 1002 = {
-	name="Randall"
-	culture="townie"
-	religion="lollard"
+	name = "Randall"
+	culture = townie
+	religion = pupalitarian
+	used_for_random = no
 }
 
 1003 = {
-	name="Gerhardt"
-	culture="haleian"
-	religion="weydonian"
+	name = "Gerhardt"
+	culture = haleian
+	religion = weydonian
+	used_for_random = no
 }
 
 1004 = {
-	name="Collings"
-	culture="townie"
-	religion="pupalitarian"
+	name = "Collings"
+	culture = townie
+	religion = pupalitarian
+	used_for_random = no
 }
 
 1005 = {
-	name="Dicks"
-	culture="haleian"
-	religion="lollard"
+	name = "Dicks"
+	culture = haleian
+	religion = wilkinsonian
+	used_for_random = no
 }
 
 1006 = {
-	name="Cassali"
-	culture="rowlegian"
-	religion="scat"
+	name = "Cassali"
+	culture = rowlegian
+	religion = scat
+	used_for_random = no
 }
 
 1007 = {
-	name="Westley"
-	culture="townie"
-	religion="pupalitarian"
+	name = "Westley"
+	culture = townie
+	religion = pupalitarian
+	used_for_random = no
+}
+
+1008 = {
+	name = "Higgs"
+	culture = leeman
+	religion = wiccan
+	used_for_random = no
+}
+
+1009 = {
+	name = "Allgar-Jepson"
+	culture = wreccleshese
+	religion = weydonian
+	used_for_random = no
+}
+1010 = {
+	name = "Jepson"
+	culture = wreccleshese
+	religion = weydonian
+	used_for_random = no
+}
+1011 = {
+	name = "Dunwoodie"
+	culture = rowlegian
+	religion = pupalitarian
+	used_for_random = no
+}
+1012 = {
+	name = "Pratt"
+	culture = rowlegian
+	religion = pupalitarian
+	used_for_random = no
+}
+1013 = {
+	name = "Bailey"
+	culture = wreccleshese
+	religion = pupalitarian
+	used_for_random = no
+}
+1014 = {
+	name = "Thomas"
+	culture = wreccleshese
+	religion = pupalitarian
+	used_for_random = no
+}
+1015 = {
+	name = "Davey"
+	culture = wreccleshese
+	religion = pupalitarian
+	used_for_random = no
+}
+1016 = {
+	name = "Goodearl"
+	culture = rowlegian
+	religion = jewish
+	used_for_random = no
+}
+1016 = {
+	name = "Walters"
+	culture = wreccleshese
+	religion = pupalitarian
+	used_for_random = no
+}
+1017 = {
+	name = "Vaux"
+	culture = bournean
+	religion = pupalitarian
+	used_for_random = no
+}
+1018 = {
+	name = "Clarke"
+	culture = londoner
+	religion = brexiteer
+	used_for_random = no
+}
+1019 = {
+	name = "Barclay"
+	culture = glaswegian
+	religion = eurocentrist
+	used_for_random = no
+}
+1020 = {
+	name = "Aiken"
+	culture = bournean
+	religion = tuberist
+	used_for_random = no
+}
+1021 = {
+	name = "Siobhan"
+	culture = bournean
+	religion = tuberist
+	used_for_random = no
 }

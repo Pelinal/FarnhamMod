@@ -15,7 +15,7 @@ b_newchapel = temple
 
 #Misc
 culture = haleian
-religion = lollard
+religion = anglican
 terrain = plains
 
 # History

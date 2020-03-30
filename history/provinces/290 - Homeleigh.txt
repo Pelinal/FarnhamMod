@@ -1,0 +1,21 @@
+# 290 - Homeleigh
+
+#County title
+title = c_homeleigh
+
+#Settlements
+max_settlements = 4
+b_homeleigh = castle
+b_wheat_field = city
+b_hopherd = temple
+#b_applewater = {}
+#b_augustward = {}
+#b_richfield = {}
+#b_pittwell = {}
+
+#Misc
+culture = farmer
+religion = zun_pagan
+terrain = farmlands
+
+# History

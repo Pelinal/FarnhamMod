@@ -1,0 +1,21 @@
+# 334 - Pear Tree
+
+#County title
+title = c_pear_tree
+
+#Settlements
+max_settlements = 5
+b_pear_tree = castle
+b_forest_house = castle
+b_switch_back = city
+#b_presbeck_green = {}
+#b_blackfold = {}
+#b_moormouth = {}
+#b_presby = {}
+
+#Misc
+culture = rowlegian
+religion = lollard
+terrain = plains
+
+# History

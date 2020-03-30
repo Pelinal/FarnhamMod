@@ -1,0 +1,21 @@
+# 311 - Tremarga
+
+#County title
+title = c_tremarga
+
+#Settlements
+max_settlements = 4
+b_tremarga = castle
+#b_mobile_tuning = {}
+b_primrose_cottage = city
+#b_the_jays = {}
+#b_the_haven = {}
+#b_weyside = {}
+#b_reddon = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = farmlands
+
+# History

@@ -15,7 +15,7 @@ b_waynflete = city
 
 #Misc
 culture = townie
-religion = lollard
+religion = waitrosian
 terrain = hills
 
 # History

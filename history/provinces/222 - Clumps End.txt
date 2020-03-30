@@ -1,0 +1,21 @@
+# 222 - Clumps end
+
+#County title
+title = c_clumps_end
+
+#Settlements
+max_settlements = 3
+b_clumps_end = tribal
+b_clumps = temple
+#b_openfield = {}
+#b_trackwood = {}
+#b_hayley = {}
+#b_nocturnal = {}
+#b_field_house = {}
+
+#Misc
+culture = huntsman
+religion = lollard
+terrain = forest
+
+# History

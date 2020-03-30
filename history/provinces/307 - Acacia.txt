@@ -1,0 +1,21 @@
+# 307 - Acacia
+
+#County title
+title = c_acacia
+
+#Settlements
+max_settlements = 4
+b_acacia_gardens = castle
+b_bucksend = city
+#b_pittherd = {}
+#b_raincox = {}
+#b_amberstrong = {}
+#b_featherbard = {}
+#b_colemere = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

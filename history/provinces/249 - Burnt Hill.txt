@@ -1,0 +1,21 @@
+# 249 - Burnt Hill
+
+#County title
+title = c_burnt_hill
+
+#Settlements
+max_settlements = 6
+b_burnt_hill = castle
+b_foxcroft = temple
+b_burntoak = city
+b_broomstead_cottage = castle
+#b_silvering = {}
+#b_north_celery = {}
+#b_harfield = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = hills
+
+# History

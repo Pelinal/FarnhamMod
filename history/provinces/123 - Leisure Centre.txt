@@ -15,7 +15,7 @@ b_40_degreez = temple
 
 #Misc
 culture = townie
-religion = lollard
+religion = pupalitarian
 terrain = plains
 
 # History

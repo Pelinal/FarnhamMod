@@ -15,7 +15,7 @@ b_antiques_warehouse = temple
 
 #Misc
 culture = leeman
-religion = lollard
+religion = wilkinsonian
 terrain = plains
 
 # History

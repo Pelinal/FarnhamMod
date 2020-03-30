@@ -1515,3 +1515,989 @@ b_grove_end;Grove End;;;;;;;;;;;x
 b_brython;Brython;;;;;;;;;;;x
 b_brookside_rowledge;Brookside;;;;;;;;;;;x
 b_farnham_bed_and_breakfast;Farnham Bed And Breakfast;;;;;;;;;;;x
+k_compton;Compton;;;;;;;;;;;x
+k_the_sands;The Sands;;;;;;;;;;;x
+k_runfold;Runfold;;;;;;;;;;;x
+k_south_farnham;South Farnham;;;;;;;;;;;x
+k_dippenhall;Dippenhall;;;;;;;;;;;x
+k_regnum_caesarorum;Regnum Caesarorum;;;;;;;;;;;x
+k_shortheath;Shortheath;;;;;;;;;;;x
+k_boundstone;Boundstone;;;;;;;;;;;x
+k_weydon;Weydon;;;;;;;;;;;x
+b_whitehall;Whitehall;;;;;;;;;;;x
+b_martina;Martina;;;;;;;;;;;x
+b_pithorpe;Pithorpe;;;;;;;;;;;x
+b_longley_house;Longley House;;;;;;;;;;;x
+k_the_bourne;The Bourne;;;;;;;;;;;x
+d_waverley_abbey;Waverley Abbey;;;;;;;;;;;x
+b_northwood;Northwood;;;;;;;;;;;x
+b_pumpington;Pumpington;;;;;;;;;;;x
+b_norwood_chapel;Norwood Chapel;;;;;;;;;;;x
+b_jaelon;Jaelon;;;;;;;;;;;x
+b_crossila;Crossila;;;;;;;;;;;x
+b_takeshi_house;Takeshi House;;;;;;;;;;;x
+b_manoria;Manoria;;;;;;;;;;;x
+b_waverley_court_lodge;Waverley Court Lodge;;;;;;;;;;;x
+b_abbey_business_park;Abbey Business Park;;;;;;;;;;;x
+b_monkwalk;Monkwalk;;;;;;;;;;;x
+b_british_action_academy;British Action Academy;;;;;;;;;;;x
+b_wavelea;Wavelea;;;;;;;;;;;x
+b_gnomesborough;Gnomesborough;;;;;;;;;;;x
+b_hallinghall;Hallinghall;;;;;;;;;;;x
+b_burlingdale;Burlingdale;;;;;;;;;;;x
+b_waverley_court_farm;Waverley Court Farm;;;;;;;;;;;x
+b_foxshott;Foxshott;;;;;;;;;;;x
+b_tearcroft;Tearcroft;;;;;;;;;;;x
+b_artful_dog;Artful Dog;;;;;;;;;;;x
+b_wellmade;Wellmade;;;;;;;;;;;x
+b_coan;Coan;;;;;;;;;;;x
+b_waverley_abbey_house;Waverley Abbey House;;;;;;;;;;;x
+b_southlodge;Southlodge;;;;;;;;;;;x
+b_the_stables;The Stables;;;;;;;;;;;x
+b_camp_hill;Camp Hill;;;;;;;;;;;x
+b_abbotside;Abbotside;;;;;;;;;;;x
+b_greenwood_cottage;Greenwood Cottage;;;;;;;;;;;x
+b_guesthall;Guesthall;;;;;;;;;;;x
+b_priory_farm;Priory Farm;;;;;;;;;;;x
+b_long_barn;Long Barn;;;;;;;;;;;x
+b_the_priory;The Priory;;;;;;;;;;;x
+b_abbey_mill;Abbey Mill;;;;;;;;;;;x
+b_mother_ludlams;Mother Ludlams;;;;;;;;;;;x
+b_okland;Okland;;;;;;;;;;;x
+b_quernel;Quernel;;;;;;;;;;;x
+b_waverley_abbey;Waverley Abbey;;;;;;;;;;;x
+b_the_cloister;The Cloister;;;;;;;;;;;x
+b_chapter_house;Chapter House;;;;;;;;;;;x
+b_monks_refectory;Monks Refectory;;;;;;;;;;;x
+b_the_ranges;The Ranges;;;;;;;;;;;x
+b_brewhouse;Brewhouse;;;;;;;;;;;x
+b_dragons_teeth;Dragons Teeth;;;;;;;;;;;x
+d_bourne_wood;Bourne Wood;;;;;;;;;;;x
+b_lobswood_manor;Lobswood Manor;;;;;;;;;;;x
+b_lobswood;Lobswood;;;;;;;;;;;x
+b_shedford;Shedford;;;;;;;;;;;x
+b_knoweir;Knoweir;;;;;;;;;;;x
+b_blacklake;Blacklake;;;;;;;;;;;x
+b_yellowfarm;Yellowfarm;;;;;;;;;;;x
+b_lake_house;Lake House;;;;;;;;;;;x
+b_wendys_wood;Wendys Wood;;;;;;;;;;;x
+b_eastbourn;Eastbourn;;;;;;;;;;;x
+b_wendys_church;Wendys Church;;;;;;;;;;;x
+b_peter_pan_lodge;Peter Pan Lodge;;;;;;;;;;;x
+b_sugiyama;Sugiyama;;;;;;;;;;;x
+b_tilford_vale_house;Tilford Vale House;;;;;;;;;;;x
+b_browncopse;Browncopse;;;;;;;;;;;x
+b_bourne_wood;Bourne Wood;;;;;;;;;;;x
+b_film_set;Film Set;;;;;;;;;;;x
+b_gods_hill;Gods Hill;;;;;;;;;;;x
+b_central_track;Central Track;;;;;;;;;;;x
+b_cyclewood;Cyclewood;;;;;;;;;;;x
+b_straightrees;Straightrees;;;;;;;;;;;x
+b_oakmans_house;Oakmans House;;;;;;;;;;;x
+b_majorie;Majorie;;;;;;;;;;;x
+b_majorie_lodge;Majorie Lodge;;;;;;;;;;;x
+b_lumber;Lumber;;;;;;;;;;;x
+b_oakenoar;Oakenoar;;;;;;;;;;;x
+b_darkwood;Darkwood;;;;;;;;;;;x
+b_timbers;Timbers;;;;;;;;;;;x
+b_larksend;Larksend;;;;;;;;;;;x
+b_clumps_end;Clumps End;;;;;;;;;;;x
+b_clumps;Clumps;;;;;;;;;;;x
+b_openfield;Openfield;;;;;;;;;;;x
+b_trackwood;Trackwood;;;;;;;;;;;x
+b_hayley;Hayley;;;;;;;;;;;x
+b_nocturnal;Nocturnal;;;;;;;;;;;x
+b_field_house;Field House;;;;;;;;;;;x
+d_lower_bourne;Lower Bourne;;;;;;;;;;;x
+b_woodlarks;Woodlarks;;;;;;;;;;;x
+b_woodlarks_centre;Woodlarks Centre;;;;;;;;;;;x
+b_farnham_dene_medical_practice;Farnham Dene Medical Practice;;;;;;;;;;;x
+b_westbrook_stables;Westbrook Stables;;;;;;;;;;;x
+b_cornish_coastal_hotel;Cornish Coastal Hotel;;;;;;;;;;;x
+b_woodlarks_camp;Woodlarks Camp;;;;;;;;;;;x
+b_helen_james_reflexory;Helen James Reflexory;;;;;;;;;;;x
+b_st_marks_hall;St Marks Hall;;;;;;;;;;;x
+b_bourne_shops;Bourne Shops;;;;;;;;;;;x
+b_st_martin_by_the_green;St Martin By The Green;;;;;;;;;;;x
+b_bourne_rec;Bourne Rec;;;;;;;;;;;x
+b_dene;Dene;;;;;;;;;;;x
+b_woodland_nursery;Woodland Nursery;;;;;;;;;;;x
+b_the_bourne_house;The Bourne House;;;;;;;;;;;x
+b_lodge_hill;Lodge Hill;;;;;;;;;;;x
+b_vita_active;Vita Active;;;;;;;;;;;x
+b_sapphire;Sapphire;;;;;;;;;;;x
+b_longbourn;Longbourn;;;;;;;;;;;x
+b_with_a_little_bit_of_love;With A Little Bit Of Love;;;;;;;;;;;x
+b_denewalk;Denewalk;;;;;;;;;;;x
+b_pine_grove;Pine Grove;;;;;;;;;;;x
+b_ali-as_house;Ali-As House;;;;;;;;;;;x
+b_the_spotted_cow;The Spotted Cow;;;;;;;;;;;x
+b_brownstone;Brownstone;;;;;;;;;;;x
+b_grace_house;Grace House;;;;;;;;;;;x
+b_high_wray;High Wray;;;;;;;;;;;x
+b_robins_wood;Robins Wood;;;;;;;;;;;x
+b_little_bradford;Little Bradford;;;;;;;;;;;x
+b_deepdene;Deepdene;;;;;;;;;;;x
+b_grovehouse;Grovehouse;;;;;;;;;;;x
+b_eastdene;Eastdene;;;;;;;;;;;x
+b_woodley;Woodley;;;;;;;;;;;x
+b_sweet_croft;Sweet Croft;;;;;;;;;;;x
+b_garrick;Garrick;;;;;;;;;;;x
+b_lodge_farm;Lodge Farm;;;;;;;;;;;x
+d_monks_walk;Monks Walk;;;;;;;;;;;x
+b_ancora_farm_house;Ancora Farm House;;;;;;;;;;;x
+b_starlane;Starlane;;;;;;;;;;;x
+b_monks_walk;Monks Walk;;;;;;;;;;;x
+b_brocas_dene;Brocas Dene;;;;;;;;;;;x
+b_sutley;Sutley;;;;;;;;;;;x
+b_monksbrook;Monksbrook;;;;;;;;;;;x
+b_bourne_stream_house;Bourne Stream House;;;;;;;;;;;x
+b_sheep_wash;Sheep Wash;;;;;;;;;;;x
+b_bourne_therapist;Bourne Therapist;;;;;;;;;;;x
+b_the_barn;The Barn;;;;;;;;;;;x
+b_courtmead;Courtmead;;;;;;;;;;;x
+b_LP_driving_school;LP Driving School;;;;;;;;;;;x
+b_ancora;Ancora;;;;;;;;;;;x
+b_barn_house;Barn House;;;;;;;;;;;x
+d_vicarage_hill;Vicarage Hill;;;;;;;;;;;x
+b_vicarage_hill;Vicarage Hill;;;;;;;;;;;x
+b_packway;Packway;;;;;;;;;;;x
+b_grovelands;Grovelands;;;;;;;;;;;x
+b_the_peloton;The Peloton;;;;;;;;;;;x
+b_lake_cottage;Lake Cottage;;;;;;;;;;;x
+b_corner_cottage;Corner Cottage;;;;;;;;;;;x
+b_oakridge;Oakridge;;;;;;;;;;;x
+b_south_farnham_infant_school;South Farnham Infant School;;;;;;;;;;;x
+b_the_fox;The Fox;;;;;;;;;;;x
+b_bourne_vets;Bourne Vets;;;;;;;;;;;x
+b_deep_dene;Deep Dene;;;;;;;;;;;x
+b_taylor_hall;Taylor Hall;;;;;;;;;;;x
+b_southstream;Southstream;;;;;;;;;;;x
+b_school_house;School House;;;;;;;;;;;x
+b_old_church;Old Church;;;;;;;;;;;x
+b_stream_farm;Stream Farm;;;;;;;;;;;x
+b_vicarage;Vicarage;;;;;;;;;;;x
+b_sturts_house;Sturts House;;;;;;;;;;;x
+b_tree_cottage;Tree Cottage;;;;;;;;;;;x
+b_highways;Highways;;;;;;;;;;;x
+b_church_cottage;Church Cottage;;;;;;;;;;;x
+b_woodview_manor;Woodview Manor;;;;;;;;;;;x
+b_woodview;Woodview;;;;;;;;;;;x
+b_parklands;Parklands;;;;;;;;;;;x
+b_southleigh;Southleigh;;;;;;;;;;;x
+b_green_hill_house;Green Hill House;;;;;;;;;;;x
+b_streamhouse;Streamhouse;;;;;;;;;;;x
+b_norgrove;Norgrove;;;;;;;;;;;x
+b_paradise_wood;Paradise Wood;;;;;;;;;;;x
+b_leigh;Leigh;;;;;;;;;;;x
+b_reverance;Reverance;;;;;;;;;;;x
+b_oastoaks;Oastoaks;;;;;;;;;;;x
+b_woodpecker;Woodpecker;;;;;;;;;;;x
+b_maple_house;Maple House;;;;;;;;;;;x
+b_ashweir;Ashweir;;;;;;;;;;;x
+d_great_austins;Great Austins;;;;;;;;;;;x
+b_little_austins;Little Austins;;;;;;;;;;;x
+b_the_gateway;The Gateway;;;;;;;;;;;x
+b_foxwood;Foxwood;;;;;;;;;;;x
+b_lindens;Lindens;;;;;;;;;;;x
+b_orchard_house;Orchard House;;;;;;;;;;;x
+b_the_glen;The Glen;;;;;;;;;;;x
+b_jasmine_lodge;Jasmine Lodge;;;;;;;;;;;x
+b_greenhill;Greenhill;;;;;;;;;;;x
+b_mavins;Mavins;;;;;;;;;;;x
+b_fastnet;Fastnet;;;;;;;;;;;x
+b_fairwinds;Fairwinds;;;;;;;;;;;x
+b_cobbett;Cobbett;;;;;;;;;;;x
+b_fordwyeh;Fordwyeh;;;;;;;;;;;x
+b_nuesend;Nuesend;;;;;;;;;;;x
+b_swingate;Swingate;;;;;;;;;;;x
+b_great_austins;Great Austins;;;;;;;;;;;x
+b_perlriver;Perlriver;;;;;;;;;;;x
+b_margot;Margot;;;;;;;;;;;x
+b_middling;Middling;;;;;;;;;;;x
+b_north_green;North Green;;;;;;;;;;;x
+b_pighouse;Pighouse;;;;;;;;;;;x
+b_ridgeway_community_school;Ridgeway Community School;;;;;;;;;;;x
+b_the_bourne_club;The Bourne Club;;;;;;;;;;;x
+b_st_thomas_on_the_bourne;St Thomas On The Bourne;;;;;;;;;;;x
+b_acheulia;Acheulia;;;;;;;;;;;x
+b_edwards;Edwards;;;;;;;;;;;x
+b_showshack;Showshack;;;;;;;;;;;x
+b_school_cross;School Cross;;;;;;;;;;;x
+d_the_bourne;The Bourne;;;;;;;;;;;x
+b_bourne_firs;Bourne Firs;;;;;;;;;;;x
+b_annandale;Annandale;;;;;;;;;;;x
+b_eldon;Eldon;;;;;;;;;;;x
+b_notary;Notary;;;;;;;;;;;x
+b_manor_gardens;Manor Gardens;;;;;;;;;;;x
+b_deadends;Deadends;;;;;;;;;;;x
+b_squatland;Squatland;;;;;;;;;;;x
+b_gold_hill;Gold Hill;;;;;;;;;;;x
+b_lavender_hill_florist;Lavender Hill Florist;;;;;;;;;;;x
+b_avicenna_pharmacy;Avicenna Pharmacy;;;;;;;;;;;x
+b_hair_stop;Hair Stop;;;;;;;;;;;x
+b_the_old_chapel;The Old Chapel;;;;;;;;;;;x
+b_shambles;Shambles;;;;;;;;;;;x
+b_potting_shed;Potting Shed;;;;;;;;;;;x
+b_bourne_house;Bourne House;;;;;;;;;;;x
+b_tattington;Tattington;;;;;;;;;;;x
+b_beechgrove;Beechgrove;;;;;;;;;;;x
+b_oakdean;Oakdean;;;;;;;;;;;x
+b_bradley;Bradley;;;;;;;;;;;x
+b_kingsley;Kingsley;;;;;;;;;;;x
+b_cricketview;Cricketview;;;;;;;;;;;x
+b_douglas;Douglas;;;;;;;;;;;x
+b_kakkar;Kakkar;;;;;;;;;;;x
+b_grovesend;Grovesend;;;;;;;;;;;x
+b_oak_tree_house;Oak Tree House;;;;;;;;;;;x
+b_chenson;Chenson;;;;;;;;;;;x
+b_lingerage;Lingerage;;;;;;;;;;;x
+b_swanfield;Swanfield;;;;;;;;;;;x
+d_gong_hill;Gong Hill;;;;;;;;;;;x
+b_latchwood;Latchwood;;;;;;;;;;;x
+b_sandrock_cottage;Sandrock Cottage;;;;;;;;;;;x
+b_comberise;Comberise;;;;;;;;;;;x
+b_beech_corner;Beech Corner;;;;;;;;;;;x
+b_septembers;Septembers;;;;;;;;;;;x
+b_pine_view_lodge;Pine View Lodge;;;;;;;;;;;x
+b_latchets;Latchets;;;;;;;;;;;x
+b_brooklands;Brooklands;;;;;;;;;;;x
+b_clumps_cottage;Clumps Cottage;;;;;;;;;;;x
+b_westdene;Westdene;;;;;;;;;;;x
+b_fairmajor;Fairmajor;;;;;;;;;;;x
+b_crosshatches;Crosshatches;;;;;;;;;;;x
+b_garvey;Garvey;;;;;;;;;;;x
+b_lockwood;Lockwood;;;;;;;;;;;x
+b_clumps_house;Clumps House;;;;;;;;;;;x
+b_clumps_farm;Clumps Farm;;;;;;;;;;;x
+b_stoke_hall;Stoke Hall;;;;;;;;;;;x
+b_frenshaw;Frenshaw;;;;;;;;;;;x
+b_longview;Longview;;;;;;;;;;;x
+b_greyside;Greyside;;;;;;;;;;;x
+b_the_clumps;The Clumps;;;;;;;;;;;x
+b_gong_hill;Gong Hill;;;;;;;;;;;x
+b_woodwise;Woodwise;;;;;;;;;;;x
+b_scotsgrove;Scotsgrove;;;;;;;;;;;x
+b_white_croft;White Croft;;;;;;;;;;;x
+b_ridgehouse;Ridgehouse;;;;;;;;;;;x
+b_gong_house;Gong House;;;;;;;;;;;x
+b_westwinds;Westwinds;;;;;;;;;;;x
+d_edgeborough;Edgeborough;;;;;;;;;;;x
+b_vale_wood;Vale Wood;;;;;;;;;;;x
+b_oakby;Oakby;;;;;;;;;;;x
+b_forrest;Forrest;;;;;;;;;;;x
+b_comrie_house;Comrie House;;;;;;;;;;;x
+b_westfold_farm;Westfold Farm;;;;;;;;;;;x
+b_delta;Delta;;;;;;;;;;;x
+b_little_craig;Little Craig;;;;;;;;;;;x
+b_edgeborough_school;Edgeborough School;;;;;;;;;;;x
+b_barracudas;Barracudas;;;;;;;;;;;x
+b_moorhills;Moorhills;;;;;;;;;;;x
+b_hillside_house;Hillside House;;;;;;;;;;;x
+b_the_canopies;The Canopies;;;;;;;;;;;x
+b_winston_house;Winston House;;;;;;;;;;;x
+b_fulfair;Fulfair;;;;;;;;;;;x
+b_moons_hill;Moons Hill;;;;;;;;;;;x
+b_northmore;Northmore;;;;;;;;;;;x
+b_overwell;Overwell;;;;;;;;;;;x
+b_barleigh;Barleigh;;;;;;;;;;;x
+b_hopchester_house;Hopchester House;;;;;;;;;;;x
+b_langmere;Langmere;;;;;;;;;;;x
+b_millwick_court;Millwick Court;;;;;;;;;;;x
+b_gardners_hill;Gardners Hill;;;;;;;;;;;x
+b_tall_timber;Tall Timber;;;;;;;;;;;x
+b_presdon;Presdon;;;;;;;;;;;x
+b_lumberton;Lumberton;;;;;;;;;;;x
+b_frensham_court_house;Frensham Court House;;;;;;;;;;;x
+b_the_old_barn;The Old Barn;;;;;;;;;;;x
+b_valevilla;Valevilla;;;;;;;;;;;x
+b_hillside_lodge;Hillside Lodge;;;;;;;;;;;x
+b_old_farm;Old Farm;;;;;;;;;;;x
+b_cotswold_house;Cotswold House;;;;;;;;;;;x
+b_langwood;Langwood;;;;;;;;;;;x
+b_hindmarsh;Hindmarsh;;;;;;;;;;;x
+b_oulwell;Oulwell;;;;;;;;;;;x
+b_northbeck;Northbeck;;;;;;;;;;;x
+d_frensham_vale;Frensham Vale;;;;;;;;;;;x
+b_pendragon_hall;Pendragon Hall;;;;;;;;;;;x
+b_moonvale;Moonvale;;;;;;;;;;;x
+b_theboth;Theboth;;;;;;;;;;;x
+b_kirkland;Kirkland;;;;;;;;;;;x
+b_heathfield_house;Heathfield House;;;;;;;;;;;x
+b_fearnhills;Fearnhills;;;;;;;;;;;x
+b_silverbale;Silverbale;;;;;;;;;;;x
+b_frenhsam_vale_house;Frenhsam Vale House;;;;;;;;;;;x
+b_pilates_suite;Pilates Suite;;;;;;;;;;;x
+b_vaceconce;Vaceconce;;;;;;;;;;;x
+b_the_oasthouse;The Oasthouse;;;;;;;;;;;x
+b_vale_house;Vale House;;;;;;;;;;;x
+b_lodgewood;Lodgewood;;;;;;;;;;;x
+b_bardale;Bardale;;;;;;;;;;;x
+d_burnt_hill;Burnt Hill;;;;;;;;;;;x
+b_longdown;Longdown;;;;;;;;;;;x
+b_the_brae;The Brae;;;;;;;;;;;x
+b_axwood;Axwood;;;;;;;;;;;x
+b_west_wing;West Wing;;;;;;;;;;;x
+b_the_courtyard;The Courtyard;;;;;;;;;;;x
+b_brae_coachouse;Brae Coachouse;;;;;;;;;;;x
+b_clangdon;Clangdon;;;;;;;;;;;x
+b_pine_ridge;Pine Ridge;;;;;;;;;;;x
+b_eouldon;Eouldon;;;;;;;;;;;x
+b_fernwood;Fernwood;;;;;;;;;;;x
+b_grover_house;Grover House;;;;;;;;;;;x
+b_southurst;Southurst;;;;;;;;;;;x
+b_kirfold;Kirfold;;;;;;;;;;;x
+b_aldburn;Aldburn;;;;;;;;;;;x
+b_burnt_hill;Burnt Hill;;;;;;;;;;;x
+b_foxcroft;Foxcroft;;;;;;;;;;;x
+b_burntoak;Burntoak;;;;;;;;;;;x
+b_broomstead_cottage;Broomstead Cottage;;;;;;;;;;;x
+b_silvering;Silvering;;;;;;;;;;;x
+b_north_celery;North Celery;;;;;;;;;;;x
+b_harfield;Harfield;;;;;;;;;;;x
+d_middle_bourne;Middle Bourne;;;;;;;;;;;x
+b_middle_bourne;Middle Bourne;;;;;;;;;;;x
+b_tudors_house;Tudors House;;;;;;;;;;;x
+b_the_pieces;The Pieces;;;;;;;;;;;x
+b_holt_cottage;Holt Cottage;;;;;;;;;;;x
+b_oakdene;Oakdene;;;;;;;;;;;x
+b_gorsebrook;Gorsebrook;;;;;;;;;;;x
+b_tilehouse;Tilehouse;;;;;;;;;;;x
+b_aveley;Aveley;;;;;;;;;;;x
+b_the_wrens;The Wrens;;;;;;;;;;;x
+b_white_rose;White Rose;;;;;;;;;;;x
+b_underhill;Underhill;;;;;;;;;;;x
+b_ernest_house;Ernest House;;;;;;;;;;;x
+b_shakeys;Shakeys;;;;;;;;;;;x
+b_valley_lodge;Valley Lodge;;;;;;;;;;;x
+b_broom_wood;Broom Wood;;;;;;;;;;;x
+b_winston;Winston;;;;;;;;;;;x
+b_ford;Ford;;;;;;;;;;;x
+b_streamcottage;Streamcottage;;;;;;;;;;;x
+b_sugarcove;Sugarcove;;;;;;;;;;;x
+b_millenium;Millenium;;;;;;;;;;;x
+b_kiln;Kiln;;;;;;;;;;;x
+b_stream_valley;Stream Valley;;;;;;;;;;;x
+b_lower_bourne_social_club;Lower Bourne Social Club;;;;;;;;;;;x
+b_st_edmunds;St Edmunds;;;;;;;;;;;x
+b_underwillows;Underwillows;;;;;;;;;;;x
+b_craven_house;Craven House;;;;;;;;;;;x
+b_foxorme;Foxorme;;;;;;;;;;;x
+b_sprinkle_cottage;Sprinkle Cottage;;;;;;;;;;;x
+b_blackpond;Blackpond;;;;;;;;;;;x
+b_mulberry_ridge;Mulberry Ridge;;;;;;;;;;;x
+b_pinewood;Pinewood;;;;;;;;;;;x
+b_the_studio_house;The Studio House;;;;;;;;;;;x
+b_garden_house;Garden House;;;;;;;;;;;x
+b_blackthorn;Blackthorn;;;;;;;;;;;x
+b_orchard_mews;Orchard Mews;;;;;;;;;;;x
+b_woodland;Woodland;;;;;;;;;;;x
+b_wayside;Wayside;;;;;;;;;;;x
+b_latimer;Latimer;;;;;;;;;;;x
+b_drovers_holt;Drovers Holt;;;;;;;;;;;x
+b_follikella;Follikella;;;;;;;;;;;x
+b_guildpool;Guildpool;;;;;;;;;;;x
+b_westhey;Westhey;;;;;;;;;;;x
+b_cedarways;Cedarways;;;;;;;;;;;x
+b_brockhurst;Brockhurst;;;;;;;;;;;x
+b_highland_church;Highland Church;;;;;;;;;;;x
+b_henburn;Henburn;;;;;;;;;;;x
+b_blackdon;Blackdon;;;;;;;;;;;x
+b_thornhurst;Thornhurst;;;;;;;;;;;x
+b_oxley;Oxley;;;;;;;;;;;x
+k_shortheath_and_boundstone;Shortheath And Boundstone;;;;;;;;;;;x
+d_weydon_lane;Weydon Lane;;;;;;;;;;;x
+b_baldreys;Baldreys;;;;;;;;;;;x
+b_bon_east;Bon East;;;;;;;;;;;x
+b_lyford;Lyford;;;;;;;;;;;x
+b_farnham_tool_hire;Farnham Tool Hire;;;;;;;;;;;x
+b_mainline;Mainline;;;;;;;;;;;x
+b_pilgrimclose;Pilgrimclose;;;;;;;;;;;x
+b_belmont;Belmont;;;;;;;;;;;x
+b_83_bardsley;83 Bardsley;;;;;;;;;;;x
+b_bardsley;Bardsley;;;;;;;;;;;x
+b_farnham_cabs;Farnham Cabs;;;;;;;;;;;x
+b_lynton;Lynton;;;;;;;;;;;x
+b_selbourne_gardens;Selbourne Gardens;;;;;;;;;;;x
+b_the_old_orchard;The Old Orchard;;;;;;;;;;;x
+b_cornerwalk;Cornerwalk;;;;;;;;;;;x
+b_chesnut;Chesnut;;;;;;;;;;;x
+b_polats;Polats;;;;;;;;;;;x
+b_middlefield;Middlefield;;;;;;;;;;;x
+b_gullivers;Gullivers;;;;;;;;;;;x
+b_sophia_salon;Sophia Salon;;;;;;;;;;;x
+b_rearview;Rearview;;;;;;;;;;;x
+b_undernoll;Undernoll;;;;;;;;;;;x
+b_little_green;Little Green;;;;;;;;;;;x
+b_allweather;Allweather;;;;;;;;;;;x
+b_equipment_shed;Equipment Shed;;;;;;;;;;;x
+b_upper_fermat;Upper Fermat;;;;;;;;;;;x
+b_northfield;Northfield;;;;;;;;;;;x
+b_tennis_courts;Tennis Courts;;;;;;;;;;;x
+b_longjump;Longjump;;;;;;;;;;;x
+d_greenhill;Greenhill;;;;;;;;;;;x
+b_greenfield;Greenfield;;;;;;;;;;;x
+b_taximaris;Taximaris;;;;;;;;;;;x
+b_southbard;Southbard;;;;;;;;;;;x
+b_hamshouse;Hamshouse;;;;;;;;;;;x
+b_fulstead;Fulstead;;;;;;;;;;;x
+b_lutesway_house;Lutesway House;;;;;;;;;;;x
+b_telmont;Telmont;;;;;;;;;;;x
+b_thurbans;Thurbans;;;;;;;;;;;x
+b_secrha;Secrha;;;;;;;;;;;x
+b_wells_cottages;Wells Cottages;;;;;;;;;;;x
+b_serenity_speaking;Serenity Speaking;;;;;;;;;;;x
+b_vector;Vector;;;;;;;;;;;x
+b_fightflight;Fightflight;;;;;;;;;;;x
+b_bryony;Bryony;;;;;;;;;;;x
+b_st_peters_school;St Peters School;;;;;;;;;;;x
+b_tae_kwon_do_dojo;Tae Kwon Do Dojo;;;;;;;;;;;x
+b_st_joan;St Joan;;;;;;;;;;;x
+b_the_verges;The Verges;;;;;;;;;;;x
+b_tallfield;Tallfield;;;;;;;;;;;x
+b_kozikot;Kozikot;;;;;;;;;;;x
+b_flat_2;Flat 2;;;;;;;;;;;x
+b_tims_house;Tims House;;;;;;;;;;;x
+b_greenhill_way;Greenhill Way;;;;;;;;;;;x
+b_elmwood;Elmwood;;;;;;;;;;;x
+b_the_sheds;The Sheds;;;;;;;;;;;x
+b_circlefield;Circlefield;;;;;;;;;;;x
+b_hollowich;Hollowich;;;;;;;;;;;x
+b_gregory;Gregory;;;;;;;;;;;x
+b_garth;Garth;;;;;;;;;;;x
+b_highfield;Highfield;;;;;;;;;;;x
+b_middle_field;Middle Field;;;;;;;;;;;x
+b_chartwell_house;Chartwell House;;;;;;;;;;;x
+b_green_lane_house;Green Lane House;;;;;;;;;;;x
+b_upperway;Upperway;;;;;;;;;;;x
+b_underknoll;Underknoll;;;;;;;;;;;x
+d_shortheath;Shortheath;;;;;;;;;;;x
+b_shortheath_hall;Shortheath Hall;;;;;;;;;;;x
+b_shortheath_vetinary_surgery;Shortheath Vetinary Surgery;;;;;;;;;;;x
+b_little_thurbans;Little Thurbans;;;;;;;;;;;x
+b_sunnydell;Sunnydell;;;;;;;;;;;x
+b_longhope;Longhope;;;;;;;;;;;x
+b_sycamore;Sycamore;;;;;;;;;;;x
+b_farnham_funeralcare;Farnham Funeralcare;;;;;;;;;;;x
+b_gorse;Gorse;;;;;;;;;;;x
+b_farnham_cloisters;Farnham Cloisters;;;;;;;;;;;x
+b_skyscape;Skyscape;;;;;;;;;;;x
+b_vine_cottage;Vine Cottage;;;;;;;;;;;x
+b_mulberry_house;Mulberry House;;;;;;;;;;;x
+b_firfield;Firfield;;;;;;;;;;;x
+b_oakhanger;Oakhanger;;;;;;;;;;;x
+b_brockhurst_lodge;Brockhurst Lodge;;;;;;;;;;;x
+b_channelports;Channelports;;;;;;;;;;;x
+b_st_thomas;St Thomas;;;;;;;;;;;x
+b_ridgeway_cottage;Ridgeway Cottage;;;;;;;;;;;x
+b_cedarways_house;Cedarways House;;;;;;;;;;;x
+b_hursting;Hursting;;;;;;;;;;;x
+b_flatfields;Flatfields;;;;;;;;;;;x
+d_sandrock;Sandrock;;;;;;;;;;;x
+b_bat_and_ball;Bat And Ball;;;;;;;;;;;x
+b_bat_and_ball_freehouse;Bat And Ball Freehouse;;;;;;;;;;;x
+b_bourne_dene;Bourne Dene;;;;;;;;;;;x
+b_gardencost;Gardencost;;;;;;;;;;;x
+b_bourne_vale;Bourne Vale;;;;;;;;;;;x
+b_gorsefield;Gorsefield;;;;;;;;;;;x
+b_rowan;Rowan;;;;;;;;;;;x
+b_bowden_lodge;Bowden Lodge;;;;;;;;;;;x
+b_sandrock;Sandrock;;;;;;;;;;;x
+b_the_sandrock;The Sandrock;;;;;;;;;;;x
+b_bower;Bower;;;;;;;;;;;x
+b_jubilee;Jubilee;;;;;;;;;;;x
+b_birdhaven;Birdhaven;;;;;;;;;;;x
+b_kiln_cottage;Kiln Cottage;;;;;;;;;;;x
+b_jakes_house;Jakes House;;;;;;;;;;;x
+b_foxwood_house;Foxwood House;;;;;;;;;;;x
+b_laurel_grove;Laurel Grove;;;;;;;;;;;x
+b_beaconsend;Beaconsend;;;;;;;;;;;x
+b_mt_sesh;Mt Sesh;;;;;;;;;;;x
+b_lane_of_tears;Lane Of Tears;;;;;;;;;;;x
+b_darkpuddle;Darkpuddle;;;;;;;;;;;x
+b_ieuans_house;Ieuans House;;;;;;;;;;;x
+b_sandrock_barbers;Sandrock Barbers;;;;;;;;;;;x
+b_the_streamhouse;The Streamhouse;;;;;;;;;;;x
+b_sycamore_cottage;Sycamore Cottage;;;;;;;;;;;x
+b_farend;Farend;;;;;;;;;;;x
+b_granell;Granell;;;;;;;;;;;x
+b_allington_studio;Allington Studio;;;;;;;;;;;x
+b_gillans_house;Gillans House;;;;;;;;;;;x
+b_the_burgervan_cocoon;The Burgervan Cocoon;;;;;;;;;;;x
+b_coop_walk;Coop Walk;;;;;;;;;;;x
+b_murphys;Murphys;;;;;;;;;;;x
+b_beacon_house;Beacon House;;;;;;;;;;;x
+b_the_terraces;The Terraces;;;;;;;;;;;x
+b_hotbox_cabin;Hotbox Cabin;;;;;;;;;;;x
+b_lanesend;Lanesend;;;;;;;;;;;x
+b_lane_end_cottage;Lane End Cottage;;;;;;;;;;;x
+b_little_thatches;Little Thatches;;;;;;;;;;;x
+b_gardenCOSTS;Gardencosts;;;;;;;;;;;x
+b_upper_bourne_lodge;Upper Bourne Lodge;;;;;;;;;;;x
+b_rowanchase;Rowanchase;;;;;;;;;;;x
+b_tilford_cottage;Tilford Cottage;;;;;;;;;;;x
+d_boundstone;Boundstone;;;;;;;;;;;x
+b_vine;Vine;;;;;;;;;;;x
+b_april_cottage;April Cottage;;;;;;;;;;;x
+b_vineway;Vineway;;;;;;;;;;;x
+b_pied_cottage;Pied Cottage;;;;;;;;;;;x
+b_paradigm;Paradigm;;;;;;;;;;;x
+b_the_white_house;The White House;;;;;;;;;;;x
+b_elbury;Elbury;;;;;;;;;;;x
+b_white_post;White Post;;;;;;;;;;;x
+b_magerrling;Magerrling;;;;;;;;;;;x
+b_pelham;Pelham;;;;;;;;;;;x
+b_grosver_house;Grosver House;;;;;;;;;;;x
+b_stoneford;Stoneford;;;;;;;;;;;x
+b_springfield_cottage;Springfield Cottage;;;;;;;;;;;x
+b_highfield_house;Highfield House;;;;;;;;;;;x
+b_boundstone;Boundstone;;;;;;;;;;;x
+b_broad_hapenny;Broad Hapenny;;;;;;;;;;;x
+b_badger_circuit;Badger Circuit;;;;;;;;;;;x
+b_boundstone_corner;Boundstone Corner;;;;;;;;;;;x
+b_scottbrown;Scottbrown;;;;;;;;;;;x
+b_redbox_wood;Redbox Wood;;;;;;;;;;;x
+b_sand_rock_house;Sand Rock House;;;;;;;;;;;x
+d_browns_walk;Browns Walk;;;;;;;;;;;x
+b_browns_walk;Browns Walk;;;;;;;;;;;x
+b_dirtgutter;Dirtgutter;;;;;;;;;;;x
+b_leafstream;Leafstream;;;;;;;;;;;x
+b_brownshill;Brownshill;;;;;;;;;;;x
+b_cycleslope;Cycleslope;;;;;;;;;;;x
+b_laurelford;Laurelford;;;;;;;;;;;x
+b_hollyditch;Hollyditch;;;;;;;;;;;x
+b_lavender;Lavender;;;;;;;;;;;x
+b_veale;Veale;;;;;;;;;;;x
+b_thorne_cottage;Thorne Cottage;;;;;;;;;;;x
+b_firstdance;Firstdance;;;;;;;;;;;x
+b_the_paddock;The Paddock;;;;;;;;;;;x
+b_katkins;Katkins;;;;;;;;;;;x
+b_brackley;Brackley;;;;;;;;;;;x
+b_broomfield_house;Broomfield House;;;;;;;;;;;x
+b_broomfield;Broomfield;;;;;;;;;;;x
+b_rowledge_vale;Rowledge Vale;;;;;;;;;;;x
+b_oaks;Oaks;;;;;;;;;;;x
+b_tenacre;Tenacre;;;;;;;;;;;x
+b_whithouse;Whithouse;;;;;;;;;;;x
+b_ofs_software;Ofs Software;;;;;;;;;;;x
+d_rivendell;Rivendell;;;;;;;;;;;x
+b_2_applelands_close;2 Applelands Close;;;;;;;;;;;x
+b_applelands;Applelands;;;;;;;;;;;x
+b_windormere;Windormere;;;;;;;;;;;x
+b_birch_close;Birch Close;;;;;;;;;;;x
+b_RDS_financial_consultants;RDS Financial Consultants;;;;;;;;;;;x
+b_burntway;Burntway;;;;;;;;;;;x
+b_crosshouse;Crosshouse;;;;;;;;;;;x
+b_glynswood;Glynswood;;;;;;;;;;;x
+b_clifton;Clifton;;;;;;;;;;;x
+b_hollytree_surgery;Hollytree Surgery;;;;;;;;;;;x
+b_edgewood;Edgewood;;;;;;;;;;;x
+b_swiss_close;Swiss Close;;;;;;;;;;;x
+b_spring_cottage;Spring Cottage;;;;;;;;;;;x
+b_bryony_house;Bryony House;;;;;;;;;;;x
+b_riverdell;Riverdell;;;;;;;;;;;x
+b_rivendell_lodge;Rivendell Lodge;;;;;;;;;;;x
+b_orpus;Orpus;;;;;;;;;;;x
+b_bowood;Bowood;;;;;;;;;;;x
+b_southapple;Southapple;;;;;;;;;;;x
+b_thinveil;Thinveil;;;;;;;;;;;x
+b_inglefield;Inglefield;;;;;;;;;;;x
+k_wrecclesham;Wrecclesham;;;;;;;;;;;x
+d_wrecclesham;Wrecclesham;;;;;;;;;;;x
+b_wrecclesham_community_centre;Wrecclesham Community Centre;;;;;;;;;;;x
+b_beldham;Beldham;;;;;;;;;;;x
+b_northpool;Northpool;;;;;;;;;;;x
+b_birchley;Birchley;;;;;;;;;;;x
+b_loxmouth_house;Loxmouth House;;;;;;;;;;;x
+b_beechford;Beechford;;;;;;;;;;;x
+b_espace;Espace;;;;;;;;;;;x
+b_chartwell;Chartwell;;;;;;;;;;;x
+b_pooles_pooches;Pooles Pooches;;;;;;;;;;;x
+b_spruce_fencing;Spruce Fencing;;;;;;;;;;;x
+b_outback;Outback;;;;;;;;;;;x
+b_heather;Heather;;;;;;;;;;;x
+b_fabia;Fabia;;;;;;;;;;;x
+b_mito;Mito;;;;;;;;;;;x
+b_bengal_lounge;Bengal Lounge;;;;;;;;;;;x
+b_jade_garden;Jade Garden;;;;;;;;;;;x
+b_school_hill_post_office;School Hill Post Office;;;;;;;;;;;x
+b_mccolls;Mccolls;;;;;;;;;;;x
+b_t_baker_jr;T Baker Jr;;;;;;;;;;;x
+b_st_peters_church;St Peters Church;;;;;;;;;;;x
+b_gideons_intl;Gideons Intl;;;;;;;;;;;x
+b_riverdale;Riverdale;;;;;;;;;;;x
+b_jagos_house;Jagos House;;;;;;;;;;;x
+b_river_lane;River Lane;;;;;;;;;;;x
+b_dxs_systems;Dxs Systems;;;;;;;;;;;x
+b_ais_co;Ais Co;;;;;;;;;;;x
+b_dale_close;Dale Close;;;;;;;;;;;x
+b_thorne_leggett;Thorne Leggett;;;;;;;;;;;x
+b_football_club;Football Club;;;;;;;;;;;x
+b_tennis_club;Tennis Club;;;;;;;;;;;x
+b_empty_field;Empty Field;;;;;;;;;;;x
+b_asholm;Asholm;;;;;;;;;;;x
+b_cricket_pitch;Cricket Pitch;;;;;;;;;;;x
+b_rugby_pitch;Rugby Pitch;;;;;;;;;;;x
+b_millborough;Millborough;;;;;;;;;;;x
+d_weydonia;Weydonia;;;;;;;;;;;x
+b_winters_office;Winters Office;;;;;;;;;;;x
+b_weydon_hall;Weydon Hall;;;;;;;;;;;x
+b_globe;Globe;;;;;;;;;;;x
+b_keller;Keller;;;;;;;;;;;x
+b_padua;Padua;;;;;;;;;;;x
+b_ada;Ada;;;;;;;;;;;x
+b_medici;Medici;;;;;;;;;;;x
+b_venton_fort;Venton Fort;;;;;;;;;;;x
+b_main_reception;Main Reception;;;;;;;;;;;x
+b_staffroom;Staffroom;;;;;;;;;;;x
+b_canteen;Canteen;;;;;;;;;;;x
+b_nurses_office;Nurses Office;;;;;;;;;;;x
+b_meeting_office;Meeting Office;;;;;;;;;;;x
+b_isolation_room;Isolation Room;;;;;;;;;;;x
+b_siding;Siding;;;;;;;;;;;x
+b_power_junction;Power Junction;;;;;;;;;;;x
+b_wey_house;Wey House;;;;;;;;;;;x
+b_willowbank;Willowbank;;;;;;;;;;;x
+b_highbanks;Highbanks;;;;;;;;;;;x
+b_floodplains;Floodplains;;;;;;;;;;;x
+b_train_wash;Train Wash;;;;;;;;;;;x
+b_kingfisher;Kingfisher;;;;;;;;;;;x
+b_heron;Heron;;;;;;;;;;;x
+b_flood_school;Flood School;;;;;;;;;;;x
+b_yatesbury;Yatesbury;;;;;;;;;;;x
+b_wey_meadow_close;Wey Meadow Close;;;;;;;;;;;x
+b_small_bridge;Small Bridge;;;;;;;;;;;x
+b_surrey_loams;Surrey Loams;;;;;;;;;;;x
+d_beamriver;Beamriver;;;;;;;;;;;x
+b_holtwood;Holtwood;;;;;;;;;;;x
+b_blackguard;Blackguard;;;;;;;;;;;x
+b_dyemaker;Dyemaker;;;;;;;;;;;x
+b_stoneway;Stoneway;;;;;;;;;;;x
+b_hawkriddle;Hawkriddle;;;;;;;;;;;x
+b_galloham;Galloham;;;;;;;;;;;x
+b_foxport;Foxport;;;;;;;;;;;x
+b_willey_mill;Willey Mill;;;;;;;;;;;x
+b_cheery_woods;Cheery Woods;;;;;;;;;;;x
+b_restful_forest;Restful Forest;;;;;;;;;;;x
+b_sylvan_vale;Sylvan Vale;;;;;;;;;;;x
+b_heavenly_oak;Heavenly Oak;;;;;;;;;;;x
+b_blue_squirrel;Blue Squirrel;;;;;;;;;;;x
+b_old_cedar;Old Cedar;;;;;;;;;;;x
+b_weybank_farm;Weybank Farm;;;;;;;;;;;x
+b_morelow;Morelow;;;;;;;;;;;x
+b_newriddle;Newriddle;;;;;;;;;;;x
+b_blanclair;Blanclair;;;;;;;;;;;x
+b_harsey;Harsey;;;;;;;;;;;x
+b_gregter;Gregter;;;;;;;;;;;x
+b_webbow;Webbow;;;;;;;;;;;x
+b_homeleigh;Homeleigh;;;;;;;;;;;x
+b_wheat_field;Wheat Field;;;;;;;;;;;x
+b_hopherd;Hopherd;;;;;;;;;;;x
+b_applewater;Applewater;;;;;;;;;;;x
+b_augustward;Augustward;;;;;;;;;;;x
+b_richfield;Richfield;;;;;;;;;;;x
+b_pittwell;Pittwell;;;;;;;;;;;x
+d_wrecclesham_hill;Wrecclesham Hill;;;;;;;;;;;x
+b_sand_pit;Sand Pit;;;;;;;;;;;x
+b_horse_therapy;Horse Therapy;;;;;;;;;;;x
+b_freestar;Freestar;;;;;;;;;;;x
+b_harringmont;Harringmont;;;;;;;;;;;x
+b_rosentine;Rosentine;;;;;;;;;;;x
+b_raventon;Raventon;;;;;;;;;;;x
+b_merryham;Merryham;;;;;;;;;;;x
+b_cobden_farm;Cobden Farm;;;;;;;;;;;x
+b_deerpass;Deerpass;;;;;;;;;;;x
+b_palmald;Palmald;;;;;;;;;;;x
+b_barwater;Barwater;;;;;;;;;;;x
+b_eaglebard;Eaglebard;;;;;;;;;;;x
+b_mill_ledge;Mill Ledge;;;;;;;;;;;x
+b_tayton;Tayton;;;;;;;;;;;x
+b_the_granary;The Granary;;;;;;;;;;;x
+b_brabner_developments;Brabner Developments;;;;;;;;;;;x
+b_bikefixplus;Bikefixplus;;;;;;;;;;;x
+b_comley_reclaim;Comley Reclaim;;;;;;;;;;;x
+b_self_storage;Self Storage;;;;;;;;;;;x
+b_quinten_woods;Quinten Woods;;;;;;;;;;;x
+b_gatfield_systems;Gatfield Systems;;;;;;;;;;;x
+b_farnham_eyelashes;Farnham Eyelashes;;;;;;;;;;;x
+b_318_ceramics;318 Ceramics;;;;;;;;;;;x
+b_hollis_wood;Hollis Wood;;;;;;;;;;;x
+b_greystead;Greystead;;;;;;;;;;;x
+b_keldton;Keldton;;;;;;;;;;;x
+b_the_grove;The Grove;;;;;;;;;;;x
+b_werrant;Werrant;;;;;;;;;;;x
+d_school_hill;School Hill;;;;;;;;;;;x
+b_quennels;Quennels;;;;;;;;;;;x
+b_royal_oak;Royal Oak;;;;;;;;;;;x
+b_business_car_finance;Business Car Finance;;;;;;;;;;;x
+b_farnham_pottery;Farnham Pottery;;;;;;;;;;;x
+b_cokenor;Cokenor;;;;;;;;;;;x
+b_thistledown;Thistledown;;;;;;;;;;;x
+b_grantham_tools;Grantham Tools;;;;;;;;;;;x
+b_broadwell_house;Broadwell House;;;;;;;;;;;x
+b_broadwell_road;Broadwell Road;;;;;;;;;;;x
+b_woodcut;Woodcut;;;;;;;;;;;x
+b_skincare_studio;Skincare Studio;;;;;;;;;;;x
+b_marshton;Marshton;;;;;;;;;;;x
+b_talhall;Talhall;;;;;;;;;;;x
+b_bridesmith;Bridesmith;;;;;;;;;;;x
+b_acacia_gardens;Acacia Gardens;;;;;;;;;;;x
+b_bucksend;Bucksend;;;;;;;;;;;x
+b_pittherd;Pittherd;;;;;;;;;;;x
+b_raincox;Raincox;;;;;;;;;;;x
+b_amberstrong;Amberstrong;;;;;;;;;;;x
+b_featherbard;Featherbard;;;;;;;;;;;x
+b_colemere;Colemere;;;;;;;;;;;x
+d_echo_barn;Echo Barn;;;;;;;;;;;x
+b_echo_barn_lane;Echo Barn Lane;;;;;;;;;;;x
+b_wrecclesham_farm;Wrecclesham Farm;;;;;;;;;;;x
+b_granite_view;Granite View;;;;;;;;;;;x
+b_croft;Croft;;;;;;;;;;;x
+b_sunnyside;Sunnyside;;;;;;;;;;;x
+b_springfield;Springfield;;;;;;;;;;;x
+b_whitecottage;Whitecottage;;;;;;;;;;;x
+b_the_chine;The Chine;;;;;;;;;;;x
+b_civic;Civic;;;;;;;;;;;x
+b_cooper_house;Cooper House;;;;;;;;;;;x
+b_cornerhouse;Cornerhouse;;;;;;;;;;;x
+b_fox_hollow;Fox Hollow;;;;;;;;;;;x
+b_kestrels;Kestrels;;;;;;;;;;;x
+b_fair_view;Fair View;;;;;;;;;;;x
+b_tremarga;Tremarga;;;;;;;;;;;x
+b_mobile_tuning;Mobile Tuning;;;;;;;;;;;x
+b_primrose_cottage;Primrose Cottage;;;;;;;;;;;x
+b_the_jays;The Jays;;;;;;;;;;;x
+b_the_haven;The Haven;;;;;;;;;;;x
+b_weyside;Weyside;;;;;;;;;;;x
+b_reddon;Reddon;;;;;;;;;;;x
+d_manleybridge;Manleybridge;;;;;;;;;;;x
+b_manleybridge;Manleybridge;;;;;;;;;;;x
+b_manley_farmhouse;Manley Farmhouse;;;;;;;;;;;x
+b_the_gables;The Gables;;;;;;;;;;;x
+b_holly_cottage;Holly Cottage;;;;;;;;;;;x
+b_hill_crest;Hill Crest;;;;;;;;;;;x
+b_bungalow;Bungalow;;;;;;;;;;;x
+b_honeysuckle_cottage;Honeysuckle Cottage;;;;;;;;;;;x
+b_old_kiln;Old Kiln;;;;;;;;;;;x
+b_old_vicarage;Old Vicarage;;;;;;;;;;;x
+b_meadow_view;Meadow View;;;;;;;;;;;x
+b_highfield_lodge;Highfield Lodge;;;;;;;;;;;x
+b_the_rook;The Rook;;;;;;;;;;;x
+b_krimere;Krimere;;;;;;;;;;;x
+b_norhalgh;Norhalgh;;;;;;;;;;;x
+b_holt_pound_farm;Holt Pound Farm;;;;;;;;;;;x
+b_magpies;Magpies;;;;;;;;;;;x
+b_mole_end;Mole End;;;;;;;;;;;x
+b_rookery;Rookery;;;;;;;;;;;x
+b_curlew_cottage;Curlew Cottage;;;;;;;;;;;x
+b_two_hoots;Two Hoots;;;;;;;;;;;x
+b_swallow_barn;Swallow Barn;;;;;;;;;;;x
+k_rowledge;Rowledge;;;;;;;;;;;x
+d_fairvalley;Fairvalley;;;;;;;;;;;x
+b_rockford_lodge;Rockford Lodge;;;;;;;;;;;x
+b_cherryfields_cottage;Cherryfields Cottage;;;;;;;;;;;x
+b_rosemary_cottage;Rosemary Cottage;;;;;;;;;;;x
+b_brambles;Brambles;;;;;;;;;;;x
+b_vintersgate;Vintersgate;;;;;;;;;;;x
+b_verosa;Verosa;;;;;;;;;;;x
+b_fairvalley_farm_house;Fairvalley Farm House;;;;;;;;;;;x
+b_fairvalley_farm;Fairvalley Farm;;;;;;;;;;;x
+b_manley;Manley;;;;;;;;;;;x
+b_meadowside;Meadowside;;;;;;;;;;;x
+b_beech_lodge;Beech Lodge;;;;;;;;;;;x
+b_sandford_roost;Sandford Roost;;;;;;;;;;;x
+b_treeview;Treeview;;;;;;;;;;;x
+b_green_end_cottage;Green End Cottage;;;;;;;;;;;x
+b_beechview;Beechview;;;;;;;;;;;x
+b_willowlands;Willowlands;;;;;;;;;;;x
+b_hilland;Hilland;;;;;;;;;;;x
+b_brown_lodge;Brown Lodge;;;;;;;;;;;x
+b_blackfield;Blackfield;;;;;;;;;;;x
+b_peters_farm;Peters Farm;;;;;;;;;;;x
+b_spring_cottage_bnB;Spring Cottage Bnb;;;;;;;;;;;x
+b_the_cookhouse;The Cookhouse;;;;;;;;;;;x
+b_rowledge_methodist_church;Rowledge Methodist Church;;;;;;;;;;;x
+b_the_stable_house;The Stable House;;;;;;;;;;;x
+b_cross_roads;Cross Roads;;;;;;;;;;;x
+b_blyth;Blyth;;;;;;;;;;;x
+b_the_white_cottage;The White Cottage;;;;;;;;;;;x
+d_clare_mead_and_the_copse;Clare Mead And The Copse;;;;;;;;;;;x
+b_the_goodearl_residence;The Goodearl Residence;;;;;;;;;;;x
+b_magnolia;Magnolia;;;;;;;;;;;x
+b_synagogue_of_the_avenue;Synagogue Of The Avenue;;;;;;;;;;;x
+b_mayfield_lodge;Mayfield Lodge;;;;;;;;;;;x
+b_meadley;Meadley;;;;;;;;;;;x
+b_newfield;Newfield;;;;;;;;;;;x
+b_pear_lodge;Pear Lodge;;;;;;;;;;;x
+b_benz_of_farnham;Benz Of Farnham;;;;;;;;;;;x
+b_orchard_end;Orchard End;;;;;;;;;;;x
+b_grassroots;Grassroots;;;;;;;;;;;x
+b_saker_house;Saker House;;;;;;;;;;;x
+b_meadoway;Meadoway;;;;;;;;;;;x
+b_lynchwood;Lynchwood;;;;;;;;;;;x
+b_hindfield;Hindfield;;;;;;;;;;;x
+b_mayfield_house;Mayfield House;;;;;;;;;;;x
+b_switchback;Switchback;;;;;;;;;;;x
+b_roadsend;Roadsend;;;;;;;;;;;x
+b_maywest;Maywest;;;;;;;;;;;x
+b_grey_bank;Grey Bank;;;;;;;;;;;x
+b_old_school;Old School;;;;;;;;;;;x
+b_shrubbs;Shrubbs;;;;;;;;;;;x
+b_ten_acre;Ten Acre;;;;;;;;;;;x
+b_broom_patch;Broom Patch;;;;;;;;;;;x
+b_primrose;Primrose;;;;;;;;;;;x
+b_greenlands;Greenlands;;;;;;;;;;;x
+b_murton_farm;Murton Farm;;;;;;;;;;;x
+b_riverview;Riverview;;;;;;;;;;;x
+b_37_clare_mead;37 Clare Mead;;;;;;;;;;;x
+b_clare_mead;Clare Mead;;;;;;;;;;;x
+b_rowledge_taxis;Rowledge Taxis;;;;;;;;;;;x
+b_the_copse;The Copse;;;;;;;;;;;x
+b_brambling;Brambling;;;;;;;;;;;x
+b_mantard;Mantard;;;;;;;;;;;x
+b_wayey;Wayey;;;;;;;;;;;x
+d_rowlegia;Rowlegia;;;;;;;;;;;x
+b_the_co-op;The Co-Op;;;;;;;;;;;x
+b_hare_and_hounds;Hare And Hounds;;;;;;;;;;;x
+b_rowledge_garage;Rowledge Garage;;;;;;;;;;;x
+b_bell;Bell;;;;;;;;;;;x
+b_rowledge_pre_school;Rowledge Pre School;;;;;;;;;;;x
+b_rowledge_post_office;Rowledge Post Office;;;;;;;;;;;x
+b_priory_cottage;Priory Cottage;;;;;;;;;;;x
+b_cherry_cottage;Cherry Cottage;;;;;;;;;;;x
+b_the_cherry_tree;The Cherry Tree;;;;;;;;;;;x
+b_the_nook;The Nook;;;;;;;;;;;x
+b_sanders;Sanders;;;;;;;;;;;x
+b_firlands;Firlands;;;;;;;;;;;x
+b_ash_farm;Ash Farm;;;;;;;;;;;x
+b_sunny_cottage;Sunny Cottage;;;;;;;;;;;x
+b_rowledge_recreation_ground;Rowledge Recreation Ground;;;;;;;;;;;x
+b_rowledge_cricket_club;Rowledge Cricket Club;;;;;;;;;;;x
+b_the_playpark;The Playpark;;;;;;;;;;;x
+b_pitchwood;Pitchwood;;;;;;;;;;;x
+b_oldstump;Oldstump;;;;;;;;;;;x
+b_firefair;Firefair;;;;;;;;;;;x
+b_bowlclub;Bowlclub;;;;;;;;;;;x
+b_lickfolds;Lickfolds;;;;;;;;;;;x
+b_hadley;Hadley;;;;;;;;;;;x
+b_prospect;Prospect;;;;;;;;;;;x
+b_keel;Keel;;;;;;;;;;;x
+b_boundary;Boundary;;;;;;;;;;;x
+b_eastchurch;Eastchurch;;;;;;;;;;;x
+b_lickfold_house;Lickfold House;;;;;;;;;;;x
+d_borderfield;Borderfield;;;;;;;;;;;x
+b_lickfolds_farm;Lickfolds Farm;;;;;;;;;;;x
+b_whitewick;Whitewick;;;;;;;;;;;x
+b_middeley;Middeley;;;;;;;;;;;x
+b_keldham;Keldham;;;;;;;;;;;x
+b_kirdom_house;Kirdom House;;;;;;;;;;;x
+b_fairvale;Fairvale;;;;;;;;;;;x
+b_hortonfield;Hortonfield;;;;;;;;;;;x
+b_hawthorn_farm;Hawthorn Farm;;;;;;;;;;;x
+b_christina;Christina;;;;;;;;;;;x
+b_southfarm;Southfarm;;;;;;;;;;;x
+b_honeysuckles;Honeysuckles;;;;;;;;;;;x
+b_browning;Browning;;;;;;;;;;;x
+b_koalas_lodge;Koalas Lodge;;;;;;;;;;;x
+b_breakwood;Breakwood;;;;;;;;;;;x
+b_vanners;Vanners;;;;;;;;;;;x
+b_kirhalgh;Kirhalgh;;;;;;;;;;;x
+b_marswick;Marswick;;;;;;;;;;;x
+b_hindpool;Hindpool;;;;;;;;;;;x
+b_hopburgh;Hopburgh;;;;;;;;;;;x
+b_oxden;Oxden;;;;;;;;;;;x
+b_ashworth;Ashworth;;;;;;;;;;;x
+b_middle_park_lodge;Middle Park Lodge;;;;;;;;;;;x
+b_middlepark;Middlepark;;;;;;;;;;;x
+b_the_ivies;The Ivies;;;;;;;;;;;x
+b_ilwich;Ilwich;;;;;;;;;;;x
+b_goodleigh;Goodleigh;;;;;;;;;;;x
+b_oulfield_lodge;Oulfield Lodge;;;;;;;;;;;x
+b_woolholm;Woolholm;;;;;;;;;;;x
+b_rowledge_village_hall;Rowledge Village Hall;;;;;;;;;;;x
+b_michael_humphries;Michael Humphries;;;;;;;;;;;x
+b_cumpsteys;Cumpsteys;;;;;;;;;;;x
+b_hands_of_rowledge;Hands Of Rowledge;;;;;;;;;;;x
+b_northwaite;Northwaite;;;;;;;;;;;x
+b_fulmarsh;Fulmarsh;;;;;;;;;;;x
+b_oulley_farm;Oulley Farm;;;;;;;;;;;x
+d_gorsedene;Gorsedene;;;;;;;;;;;x
+b_gorsedene;Gorsedene;;;;;;;;;;;x
+b_long_road;Long Road;;;;;;;;;;;x
+b_moorwell;Moorwell;;;;;;;;;;;x
+b_kirhall;Kirhall;;;;;;;;;;;x
+b_redley;Redley;;;;;;;;;;;x
+b_ashwich;Ashwich;;;;;;;;;;;x
+b_overbury;Overbury;;;;;;;;;;;x
+b_pear_tree;Pear Tree;;;;;;;;;;;x
+b_forest_house;Forest House;;;;;;;;;;;x
+b_switch_back;Switch Back;;;;;;;;;;;x
+b_presbeck_green;Presbeck Green;;;;;;;;;;;x
+b_blackfold;Blackfold;;;;;;;;;;;x
+b_moormouth;Moormouth;;;;;;;;;;;x
+b_presby;Presby;;;;;;;;;;;x
+b_broompatch;Broompatch;;;;;;;;;;;x
+b_mayfield_farm;Mayfield Farm;;;;;;;;;;;x
+b_ildon;Ildon;;;;;;;;;;;x
+b_hopham;Hopham;;;;;;;;;;;x
+b_ottermouth;Ottermouth;;;;;;;;;;;x
+b_presmoor;Presmoor;;;;;;;;;;;x
+b_southdon_heath;Southdon Heath;;;;;;;;;;;x
+d_east_rowledge;East Rowledge;;;;;;;;;;;x
+b_frensham_vale_house;Frensham Vale House;;;;;;;;;;;x
+b_hindley;Hindley;;;;;;;;;;;x
+b_millthorpe;Millthorpe;;;;;;;;;;;x
+b_harhurst;Harhurst;;;;;;;;;;;x
+b_overburn;Overburn;;;;;;;;;;;x
+b_oakington;Oakington;;;;;;;;;;;x
+b_newden;Newden;;;;;;;;;;;x
+b_frensham_vale_farm;Frensham Vale Farm;;;;;;;;;;;x
+b_aqua_maintain;Aqua Maintain;;;;;;;;;;;x
+b_interscape;Interscape;;;;;;;;;;;x
+b_blackaster;Blackaster;;;;;;;;;;;x
+b_whiteham;Whiteham;;;;;;;;;;;x
+b_upper_harmoor;Upper Harmoor;;;;;;;;;;;x
+b_preswike;Preswike;;;;;;;;;;;x
+b_kennels_and_cattery;Kennels And Cattery;;;;;;;;;;;x
+b_cherry_tree_charms;Cherry Tree Charms;;;;;;;;;;;x
+b_fernbrae;Fernbrae;;;;;;;;;;;x
+b_birchlea;Birchlea;;;;;;;;;;;x
+b_northley;Northley;;;;;;;;;;;x
+b_potsfold;Potsfold;;;;;;;;;;;x
+b_henburgh;Henburgh;;;;;;;;;;;x
+b_baker_oats_house;Baker Oats House;;;;;;;;;;;x
+b_bakeroats;Bakeroats;;;;;;;;;;;x
+b_frosties;Frosties;;;;;;;;;;;x
+b_cornflakes;Cornflakes;;;;;;;;;;;x
+b_shreddie;Shreddie;;;;;;;;;;;x
+b_cruchy_nut;Cruchy Nut;;;;;;;;;;;x
+b_lucky_charms;Lucky Charms;;;;;;;;;;;x
+d_frensham_heights;Frensham Heights;;;;;;;;;;;x
+b_frensham_heights;Frensham Heights;;;;;;;;;;;x
+b_heights_enterprises;Heights Enterprises;;;;;;;;;;;x
+b_big_tennis_court;Big Tennis Court;;;;;;;;;;;x
+b_hoplea_cross;Hoplea Cross;;;;;;;;;;;x
+b_woolpool;Woolpool;;;;;;;;;;;x
+b_guildthorpe;Guildthorpe;;;;;;;;;;;x
+b_hindburgh;Hindburgh;;;;;;;;;;;x
+b_aldridge_theatre;Aldridge Theatre;;;;;;;;;;;x
+b_frensham_heights_school;Frensham Heights School;;;;;;;;;;;x
+b_norrick_house;Norrick House;;;;;;;;;;;x
+b_whitemarsh;Whitemarsh;;;;;;;;;;;x
+b_kirmere;Kirmere;;;;;;;;;;;x
+b_middleholm;Middleholm;;;;;;;;;;;x
+b_dundon_green;Dundon Green;;;;;;;;;;;x
+b_hamilton_house;Hamilton House;;;;;;;;;;;x
+b_thornley_cottage;Thornley Cottage;;;;;;;;;;;x
+b_langden;Langden;;;;;;;;;;;x
+b_foxwich;Foxwich;;;;;;;;;;;x
+b_ottermere;Ottermere;;;;;;;;;;;x
+b_woolton;Woolton;;;;;;;;;;;x
+b_portsburgh;Portsburgh;;;;;;;;;;;x
+b_summerfield;Summerfield;;;;;;;;;;;x
+b_more_house_school;More House School;;;;;;;;;;;x
+b_moonshill;Moonshill;;;;;;;;;;;x
+b_blackford;Blackford;;;;;;;;;;;x
+b_woolbrook;Woolbrook;;;;;;;;;;;x
+b_keldchester_house;Keldchester House;;;;;;;;;;;x
+b_harmouth;Harmouth;;;;;;;;;;;x

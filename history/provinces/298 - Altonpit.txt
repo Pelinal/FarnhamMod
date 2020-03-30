@@ -1,0 +1,21 @@
+# 298 - Altonpit
+
+#County title
+title = c_altonpit
+
+#Settlements
+max_settlements = 1
+b_sand_pit = tribal
+#b_horse_therapy = {}
+#b_freestar = {}
+#b_harringmont = {}
+#b_rosentine = {}
+#b_raventon = {}
+#b_merryham = {}
+
+#Misc
+culture = holtish
+religion = zun_pagan
+terrain = plains
+
+# History

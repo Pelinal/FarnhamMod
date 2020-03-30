@@ -15,7 +15,7 @@ b_the_anders = temple
 
 #Misc
 culture = leeman
-religion = lollard
+religion = wilkinsonian
 terrain = plains
 
 # History

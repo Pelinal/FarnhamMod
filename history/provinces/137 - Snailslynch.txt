@@ -15,7 +15,7 @@ b_oakgate = temple
 
 #Misc
 culture = comptonic
-religion = lollard
+religion = monetic
 terrain = plains
 
 # History

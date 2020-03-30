@@ -1,0 +1,21 @@
+# 213 - Abbeyhouse
+
+#County title
+title = c_abbeyhouse
+
+#Settlements
+max_settlements = 4
+b_waverley_abbey_house = castle
+b_southlodge = city
+#b_the_stables = {}
+#b_camp_hill = {}
+#b_abbotside = {}
+#b_greenwood_cottage = {}
+#b_guesthall = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

@@ -1,0 +1,21 @@
+# 306 - Quennels
+
+#County title
+title = c_quennels
+
+#Settlements
+max_settlements = 5
+b_quennels = castle
+b_royal_oak = city
+b_business_car_finance = city
+#b_farnham_pottery = {}
+#b_cokenor = {}
+#b_thistledown = {}
+#b_grantham_tools = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

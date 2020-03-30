@@ -1,0 +1,21 @@
+# 338 - Frensham Vale Farm
+
+#County title
+title = c_frensham_vale_farm
+
+#Settlements
+max_settlements = 4
+b_frensham_vale_farm = castle
+b_aqua_maintain = city
+b_interscape = city
+#b_blackaster = {}
+#b_whiteham = {}
+#b_upper_harmoor = {}
+#b_preswike = {}
+
+#Misc
+culture = rowlegian
+religion = lollard
+terrain = farmlands
+
+# History

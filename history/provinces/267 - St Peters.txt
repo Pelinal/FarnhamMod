@@ -1,0 +1,21 @@
+# 267 - St Peters
+
+#County title
+title = c_st_peters
+
+#Settlements
+max_settlements = 5
+b_st_peters_school = castle
+b_tae_kwon_do_dojo = city
+b_st_joan = temple
+#b_the_verges = {}
+#b_tallfield = {}
+#b_kozikot = {}
+#b_flat_2 = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = hills
+
+# History

@@ -1,0 +1,21 @@
+# 259 - Edgeborough
+
+#County title
+title = c_edgeborough
+
+#Settlements
+max_settlements = 6
+b_edgeborough_school = castle
+b_barracudas = temple
+b_moorhills = city
+b_hillside_house = castle
+#b_the_canopies = {}
+#b_winston_house = {}
+#b_fulfair = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

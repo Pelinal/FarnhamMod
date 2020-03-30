@@ -1,0 +1,21 @@
+# 291 - Wey Meadow
+
+#County title
+title = c_wey_meadow
+
+#Settlements
+max_settlements = 4
+b_kingfisher = castle
+b_heron = city
+#b_flood_school = {}
+#b_yatesbury = {}
+#b_wey_meadow_close = {}			
+#b_small_bridge = {}
+#b_surrey_loams = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

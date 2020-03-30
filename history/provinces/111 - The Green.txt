@@ -15,7 +15,7 @@ b_beech_tree = city
 
 #Misc
 culture = leeman
-religion = lollard
+religion = wilkinsonian
 terrain = plains
 
 # History

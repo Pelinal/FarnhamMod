@@ -15,7 +15,7 @@ b_windermere = temple
 
 #Misc
 culture = haleian
-religion = lollard
+religion = anglican
 terrain = hills
 
 # History

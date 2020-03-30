@@ -1,0 +1,21 @@
+# 215 - Waverley Abbey
+
+#County title
+title = c_waverley_abbey
+
+#Settlements
+max_settlements = 6
+b_waverley_abbey = temple
+b_the_cloister = city
+b_chapter_house = temple
+b_monks_refectory = castle
+#b_the_ranges = {}
+#b_brewhouse = {}
+#b_dragons_teeth = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

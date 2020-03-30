@@ -15,7 +15,7 @@ b_jascapes = temple
 
 #Misc
 culture = haleian
-religion = lollard
+religion = scat
 terrain = plains
 
 # History

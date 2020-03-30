@@ -1,0 +1,21 @@
+# 278 - Browns Walk
+
+#County title
+title = c_browns_walk
+
+#Settlements
+max_settlements = 2
+b_browns_walk = tribal
+#b_dirtgutter = {}
+#b_leafstream = {}
+#b_brownshill = {}
+#b_cycleslope = {}
+#b_laurelford = {}
+#b_hollyditch = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = woods
+
+# History

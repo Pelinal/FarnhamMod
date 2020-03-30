@@ -1,0 +1,21 @@
+# 271 - Gorse
+
+#County title
+title = c_gorse
+
+#Settlements
+max_settlements = 4
+b_gorse = castle
+b_farnham_cloisters = city
+b_skyscape = city
+#b_vine_cottage = {}
+#b_mulberry_house = {}
+#b_firfield = {}
+#b_oakhanger = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

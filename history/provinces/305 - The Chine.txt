@@ -1,0 +1,21 @@
+# 305 - The Chine
+
+#County title
+title = c_the_chine
+
+#Settlements
+max_settlements = 3
+b_the_chine = castle
+b_civic = temple
+#b_cooper_house = {}
+#b_cornerhouse = {}
+#b_fox_hollow = {}
+#b_kestrels = {}
+#b_fair_view = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = farmlands
+
+# History

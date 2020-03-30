@@ -1,0 +1,21 @@
+# 234 - South Farnham Infants
+
+#County title
+title = c_south_farnham_infants
+
+#Settlements
+max_settlements = 6
+b_south_farnham_infant_school = castle
+b_the_fox = city
+b_bourne_vets = temple
+b_deep_dene = temple
+#b_taylor_hall = {}
+#b_southstream = {}
+#b_school_house = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

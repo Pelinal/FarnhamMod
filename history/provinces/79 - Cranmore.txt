@@ -15,7 +15,7 @@ b_hallimore = temple
 
 #Misc
 culture = haleian
-religion = lollard
+religion = militarist
 terrain = woods
 
 # History

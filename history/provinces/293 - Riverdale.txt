@@ -1,0 +1,21 @@
+# 293 - Riverdale
+
+#County title
+title = c_riverdale
+
+#Settlements
+max_settlements = 5
+b_riverdale = castle
+b_jagos_house = city
+b_river_lane = temple
+#b_dxs_systems = {}
+#b_ais_co = {}
+#b_dale_close = {}
+#b_thorne_leggett = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

@@ -1,0 +1,21 @@
+# 295 - Westfield
+
+#County title
+title = c_westfield
+
+#Settlements
+max_settlements = 2
+b_football_club = city
+b_tennis_club = city
+#b_empty_field = {}
+#b_asholm = {}
+#b_cricket_pitch = {}
+#b_rugby_pitch = {}
+#b_millborough = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

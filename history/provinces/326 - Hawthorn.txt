@@ -1,0 +1,21 @@
+# 326 - Hawthorn
+
+#County title
+title = c_hawthorn
+
+#Settlements
+max_settlements = 3
+b_hawthorn_farm = castle
+b_christina = city
+#b_southfarm = {}
+#b_honeysuckles = {}
+#b_browning = {}
+#b_koalas_lodge = {}
+#b_breakwood = {}
+
+#Misc
+culture = farmer
+religion = lollard
+terrain = farmlands
+
+# History

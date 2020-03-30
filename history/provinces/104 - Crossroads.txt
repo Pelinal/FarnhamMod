@@ -15,7 +15,7 @@ b_militaria = castle
 
 #Misc
 culture = leeman
-religion = lollard
+religion = wilkinsonian
 terrain = plains
 
 # History

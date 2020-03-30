@@ -1,0 +1,21 @@
+# 268 - Greenhill Way
+
+#County title
+title = c_greenhill_way
+
+#Settlements
+max_settlements = 5
+b_tims_house = castle
+b_greenhill_way = castle
+#b_elmwood = {}
+b_the_sheds = temple
+#b_circlefield = {}
+#b_hollowich = {}
+#b_gregory = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = hills
+
+# History

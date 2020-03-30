@@ -1,0 +1,21 @@
+# 214 - Priory
+
+#County title
+title = c_priory
+
+#Settlements
+max_settlements = 4
+b_priory_farm = castle
+b_long_barn = city
+b_the_priory = temple
+#b_abbey_mill = {}
+#b_mother_ludlams = {}
+#b_okland = {}
+#b_quernel = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = farmlands
+
+# History

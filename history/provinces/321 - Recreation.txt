@@ -1,0 +1,21 @@
+# 321 - Recreation
+
+#County title
+title = c_recreation
+
+#Settlements
+max_settlements = 4
+b_rowledge_recreation_ground = castle
+b_rowledge_cricket_club = city
+b_the_playpark = temple
+#b_pitchwood = {}
+#b_oldstump = {}
+#b_firefair = {}
+#b_bowlclub = {}
+
+#Misc
+culture = rowlegian
+religion = lollard
+terrain = plains
+
+# History

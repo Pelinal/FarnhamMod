@@ -1,0 +1,21 @@
+# 228 - Little Austins
+
+#County title
+title = c_little_austins
+
+#Settlements
+max_settlements = 6
+b_little_austins = castle
+b_the_gateway = city
+b_foxwood = temple
+b_lindens = city
+#b_orchard_house = {}
+#b_the_glen = {}
+#b_jasmine_lodge = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

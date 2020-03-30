@@ -1,0 +1,21 @@
+# 216 - Monkswalk
+
+#County title
+title = c_monkswalk
+
+#Settlements
+max_settlements = 2
+b_ancora_farm_house = castle
+#b_starlane = {}
+#b_monks_walk = {}
+#b_brocas_dene = {}
+#b_sutley = {}
+#b_monksbrook = {}
+#b_bourne_stream_house = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = woods
+
+# History

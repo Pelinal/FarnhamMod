@@ -15,7 +15,7 @@ b_high_way = temple
 
 #Misc
 culture = comptonic
-religion = lollard
+religion = monetic
 terrain = woods
 
 # History

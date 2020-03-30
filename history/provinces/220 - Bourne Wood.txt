@@ -1,0 +1,21 @@
+# 220 - Bourne Wood
+
+#County title
+title = c_bourne_wood
+
+#Settlements
+max_settlements = 4
+b_bourne_wood = tribal
+b_film_set = tribal
+b_gods_hill = temple
+#b_central_track = {}
+#b_cyclewood = {}
+#b_straightrees = {}
+#b_oakmans_house = {}
+
+#Misc
+culture = huntsman
+religion = lollard
+terrain = forest
+
+# History

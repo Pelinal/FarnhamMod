@@ -1,21 +1,21 @@
-# 136 - Shepherd and Flock
+# 145 - Tuckwell
 
 #County title
-title = c_shepherdandflock
+title = c_tuckwell
 
 #Settlements
 max_settlements = 5
-b_shepard_and_flock = castle
-b_shepard_and_flock_pub = city
-b_high_way = temple
-#b_sheepfield = {}
-#b_flockhouses = {}
-#b_yellowbrick = {}
-#b_freehouse = {}
+b_tuckwell = castle
+b_giffard = city
+b_the_hospice = temple
+#b_yewhouse = {}
+#b_ansey = {}
+#b_waverley_house = {}
+#b_meninside = {}
 
 #Misc
 culture = comptonic
 religion = lollard
-terrain = woods
+terrain = plains
 
 # History

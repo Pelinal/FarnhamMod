@@ -15,7 +15,7 @@ b_rock_house = city
 
 #Misc
 culture = comptonic
-religion = lollard
+religion = monetic
 terrain = farmlands
 
 # History

@@ -1,0 +1,21 @@
+# 272 - Shortheath
+
+#County title
+title = c_shortheath
+
+#Settlements
+max_settlements = 7
+b_shortheath_hall = castle
+b_shortheath_vetinary_surgery = temple
+b_little_thurbans = castle
+b_sunnydell = city
+#b_longhope = {}
+#b_sycamore = {}
+#b_farnham_funeralcare = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

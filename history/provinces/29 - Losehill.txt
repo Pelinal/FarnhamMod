@@ -15,7 +15,7 @@ b_greenpole = temple
 
 #Misc
 culture = townie
-religion = lollard
+religion = waitrosian
 terrain = hills
 
 # History

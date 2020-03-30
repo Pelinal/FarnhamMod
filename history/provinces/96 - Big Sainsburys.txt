@@ -15,7 +15,7 @@ b_explore_learning = temple
 
 #Misc
 culture = leeman
-religion = lollard
+religion = monetic
 terrain = plains
 
 # History

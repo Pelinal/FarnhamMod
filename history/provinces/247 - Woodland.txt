@@ -1,0 +1,21 @@
+# 247 - Woodland
+
+#County title
+title = c_woodland
+
+#Settlements
+max_settlements = 4
+b_woodland = castle
+b_wayside = temple
+#b_latimer = {}
+#b_drovers_holt = {}
+#b_follikella = {}
+#b_guildpool = {}
+#b_westhey = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = woods
+
+# History

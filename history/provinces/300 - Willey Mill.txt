@@ -1,0 +1,21 @@
+# 300 - Willey Mill
+
+#County title
+title = c_willey_mill
+
+#Settlements
+max_settlements = 3
+b_willey_mill = castle
+b_cheery_woods = city
+#b_restful_forest = {}
+#b_sylvan_vale = {}
+#b_heavenly_oak = {}
+#b_blue_squirrel = {}
+#b_old_cedar = {}	
+
+#Misc
+culture = farmer
+religion = zun_pagan
+terrain = farmlands
+
+# History

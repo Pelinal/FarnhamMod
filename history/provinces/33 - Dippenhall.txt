@@ -15,7 +15,7 @@ b_the_factory = city
 
 #Misc
 culture = townie
-religion = lollard
+religion = waitrosian
 terrain = farmlands
 
 # History

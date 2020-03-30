@@ -1,0 +1,21 @@
+# 324 - Lickfolds
+
+#County title
+title = c_lickfolds
+
+#Settlements
+max_settlements = 4
+b_lickfolds = castle
+b_hadley = castle
+b_prospect = temple
+#b_keel = {}
+#b_boundary = {}
+#b_eastchurch = {}
+#b_lickfold_house = {}
+
+#Misc
+culture = farmer
+religion = lollard
+terrain = plains
+
+# History

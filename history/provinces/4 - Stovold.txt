@@ -15,7 +15,7 @@ b_st_peters = temple
 
 #Misc
 culture = haleian
-religion = lollard
+religion = militarist
 terrain = forest
 
 # History

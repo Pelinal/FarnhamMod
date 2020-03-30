@@ -15,7 +15,7 @@ b_swift = castle
 
 #Misc
 culture = haleian
-religion = lollard
+religion = scat
 terrain = plains
 
 # History

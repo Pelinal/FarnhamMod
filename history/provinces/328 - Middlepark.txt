@@ -1,0 +1,21 @@
+# 328 - Middlepark
+
+#County title
+title = c_middlepark
+
+#Settlements
+max_settlements = 2
+b_middle_park_lodge = castle
+b_middlepark = city
+#b_the_ivies = {}
+#b_ilwich = {}
+#b_goodleigh = {}
+#b_oulfield_lodge = {}
+#b_woolholm = {}
+
+#Misc
+culture = farmer
+religion = lollard
+terrain = plains
+
+# History

@@ -1,0 +1,21 @@
+# 289 - Ventonia
+
+#County title
+title = c_ventonia
+
+#Settlements
+max_settlements = 6
+b_venton_fort = castle
+#b_main_reception = castle
+b_staffroom = city
+b_canteen = city
+b_nurses_office = temple
+#b_meeting_office = {}
+#b_isolation_room = {}
+	
+#Misc
+culture = wreccleshese
+religion = weydonian
+terrain = plains
+
+# History

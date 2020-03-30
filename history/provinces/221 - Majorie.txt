@@ -1,0 +1,21 @@
+# 221 - Majorie
+
+#County title
+title = c_majorie
+
+#Settlements
+max_settlements = 2
+b_majorie = tribal
+#b_majorie_lodge = {}
+#b_lumber = {}
+#b_oakenoar = {}
+#b_darkwood = {}
+#b_timbers = {}
+#b_larksend = {}
+
+#Misc
+culture = huntsman
+religion = lollard
+terrain = forest
+
+# History

@@ -15,7 +15,7 @@ b_st_james = temple
 
 #Misc
 culture = huntsman
-religion = lollard
+religion = roeist
 terrain = plains
 
 # History

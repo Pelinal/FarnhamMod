@@ -1,0 +1,21 @@
+# 245 - Stream Valley
+
+#County title
+title = c_stream_valley
+
+#Settlements
+max_settlements = 5
+b_stream_valley = castle
+b_lower_bourne_social_club = city
+b_st_edmunds = temple
+b_underwillows = city
+#b_craven_house = {}
+#b_foxorme = {}
+#b_sprinkle_cottage = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

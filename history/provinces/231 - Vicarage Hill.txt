@@ -1,0 +1,21 @@
+# 231 - Vicarage Hill
+
+#County title
+title = c_vicarage_hill
+
+#Settlements
+max_settlements = 5
+b_vicarage_hill = castle
+b_packway = city
+b_grovelands = temple
+#b_the_peloton = {}
+#b_lake_cottage = {}
+#b_corner_cottage = {}
+#b_oakridge = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = hills
+
+# History

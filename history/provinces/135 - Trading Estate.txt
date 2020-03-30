@@ -15,7 +15,7 @@ b_pets_at_home = city
 
 #Misc
 culture = townie
-religion = lollard
+religion = monetic
 terrain = plains
 
 # History

@@ -1,0 +1,21 @@
+# 220 - Greenhill
+
+#County title
+title = c_greenhill
+
+#Settlements
+max_settlements = 5
+b_greenhill = castle
+b_mavins = city
+b_fastnet = temple
+#b_fairwinds = {}
+#b_cobbett = {}
+#b_fordwyeh = {}
+#b_nuesend = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = hills
+
+# History

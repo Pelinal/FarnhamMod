@@ -153,7 +153,7 @@ christian = {
 		intermarry = paulician
 		intermarry = messalian
 	}
-	cathar = {
+	quaker = {
 		graphical_culture = westerngfx
 		alternate_start = { has_alternate_start_parameter = { key = religion value = full_random } }
 
@@ -1343,6 +1343,61 @@ pagan_group = {
 		can_demand_religious_conversion = no
 	}
 	
+	
+	roeist = { # This tag is used in code to override Nomad religions for purposes of Coats of Arms, etc
+	
+		graphical_culture = mongolgfx
+
+		icon = 28
+		heresy_icon = 30
+		
+		color = { 0.0 0.2 0.8 }
+		
+		high_god_name = GOD_TENGRI
+		
+		god_names = {
+			GOD_TENGRI GOD_ERLIK_KHAN GOD_TUNG-AK
+		}
+		evil_god_names = {
+			ERLIK KOMUR_HAN
+		}
+		
+		unit_modifier = {
+			levy_size = 0.3
+			
+			light_cavalry_offensive = 0.3
+			light_cavalry_defensive = 0.3
+			
+			key = "tengri_pagan"
+		}
+	
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		priest_title = SHAMAN
+		
+		priests_can_marry = yes
+		allow_looting = yes
+		peace_prestige_loss = yes # Lose Prestige while at peace
+		raised_vassal_opinion_loss = no
+		max_consorts = 3
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		reformed = tengri_pagan_reformed
+		ignores_defensive_attrition = yes
+		
+		short_reign_opinion_year_mult = 1.5
+		
+		aggression = 2.0 # AI aggression factor
+		
+		religious_clothing_head = 13
+		religious_clothing_priest = 4
+		
+		dislike_tribal_organization = yes
+		
+		intermarry = buddhist
+		intermarry = zoroastrian_group
+		can_demand_religious_conversion = no
+	}
+	
 	baltic_pagan_reformed = {
 		graphical_culture = pagangfx
 		alternate_start = { always = no }
@@ -1409,6 +1464,73 @@ pagan_group = {
 	}		
 	
 	baltic_pagan = {
+		graphical_culture = pagangfx
+
+		icon = 31
+		heresy_icon = 33
+		
+		color = { 0.6 0.4 0.3 }
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		priest_title = VOLHV
+		
+		high_god_name = GOD_DIEVAS
+		
+		god_names = {
+			GOD_DIEVAS GOD_GABIJA GOD_PERKUNAS GOD_LAIMA
+		}
+		evil_god_names = {
+			VELNIAS
+		}
+		
+		unit_modifier = {		
+			garrison_size = 0.3
+			levy_size = 0.1
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			camel_cavalry_defensive = 0.8
+			war_elephants_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		defensive_attrition = yes
+		allow_looting = yes
+		max_consorts = 3
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		reformed = baltic_pagan_reformed
+		
+		short_reign_opinion_year_mult = 2
+		
+		religious_clothing_head = 14
+		religious_clothing_priest = 6
+		
+		hard_to_convert = yes
+		
+		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
+		intermarry = norse_pagan
+		intermarry = slavic_pagan
+		intermarry = baltic_pagan_reformed
+		intermarry = finnish_pagan
+
+	}	
+	
+	scorchist = {
 		graphical_culture = pagangfx
 
 		icon = 31
@@ -2021,7 +2143,113 @@ pagan_group = {
 		allow_in_ruler_designer = no
 	}
 	
+	tractorist_reformed = {
+		parent = zun_pagan_reformed
+		graphical_culture = muslimgfx
+		alternate_start = {
+			OR = {
+				year < 1100
+				has_alternate_start_parameter = { key = religion value = full_random }
+			}
+		}
+		interface_skin = { zun_interface zoroastrian_interface muslim_interface }
+
+		icon = 48
+		heresy_icon = 50
+		
+		color = { 0.9 1.0 0.0 }
+		
+		high_god_name = GOD_ZUN
+		
+		god_names = {
+			GOD_ZUN GOD_THE_SUN GOD_THE_GIVER_OF_JUSTICE
+		}
+		evil_god_names = {
+			THE_DARKNESS
+		}
+
+		unit_modifier = {
+			levy_size = 0.3
+			
+			heavy_infantry_offensive = 0.2
+			heavy_infantry_defensive = 0.2
+			
+			key = "OFF_RELIGION"
+		}
+
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		priest_title = PRIEST
+
+		priests_can_marry = yes
+		defensive_attrition = yes
+		max_consorts = 3
+		reformed = zun_pagan_reformed
+		
+		religious_clothing_head = 5
+		religious_clothing_priest = 4
+
+		intermarry = indian_group
+		intermarry = zoroastrian_group
+		
+		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
+	}
+	
 	zun_pagan = {
+		graphical_culture = muslimgfx
+		alternate_start = {
+			OR = {
+				year < 1100
+				has_alternate_start_parameter = { key = religion value = full_random }
+			}
+		}
+		interface_skin = { zun_interface zoroastrian_interface muslim_interface }
+
+		icon = 48
+		heresy_icon = 50
+		
+		color = { 0.9 1.0 0.0 }
+		
+		high_god_name = GOD_ZUN
+		
+		god_names = {
+			GOD_ZUN GOD_THE_SUN GOD_THE_GIVER_OF_JUSTICE
+		}
+		evil_god_names = {
+			THE_DARKNESS
+		}
+
+		unit_modifier = {
+			levy_size = 0.3
+			
+			heavy_infantry_offensive = 0.2
+			heavy_infantry_defensive = 0.2
+			
+			key = "OFF_RELIGION"
+		}
+
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		priest_title = PRIEST
+
+		priests_can_marry = yes
+		defensive_attrition = yes
+		max_consorts = 3
+		reformed = zun_pagan_reformed
+		
+		religious_clothing_head = 5
+		religious_clothing_priest = 4
+
+		intermarry = indian_group
+		intermarry = zoroastrian_group
+		
+		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
+	}
+	
+	tractorist = {
+		parent = zun_pagan
 		graphical_culture = muslimgfx
 		alternate_start = {
 			OR = {

@@ -15,7 +15,7 @@ b_farnham_supermarket = city
 
 #Misc
 culture = townie
-religion = lollard
+religion = kevite
 terrain = plains
 
 # History

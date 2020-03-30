@@ -5,7 +5,7 @@ title = c_longley
 
 #Settlements
 max_settlements = 5
-b_longley = castle
+b_longley_house = castle
 b_highbank = city
 b_the_bays = temple
 #b_laurels = { }

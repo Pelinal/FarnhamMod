@@ -1,0 +1,21 @@
+# 277 - Beacon Close
+
+#County title
+title = c_beacon_close
+
+#Settlements
+max_settlements = 6
+b_gillans_house = castle
+b_the_burgervan_cocoon = city
+b_coop_walk = temple
+b_murphys = city
+#b_beacon_house = {}
+#b_the_terraces = {}
+#b_hotbox_cabin = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = hills
+
+# History

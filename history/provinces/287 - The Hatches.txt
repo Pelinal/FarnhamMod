@@ -1,0 +1,21 @@
+# 287 - The Hatches
+
+#County title
+title = c_the_hatches
+
+#Settlements
+max_settlements = 3
+b_siding = castle
+b_power_junction = temple	
+#b_wey_house = {}
+#b_willowbank = {}
+#b_highbanks ={}
+#b_floodplains = {}
+#b_train_wash = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = farmlands
+
+# History

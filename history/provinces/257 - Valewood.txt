@@ -1,0 +1,21 @@
+# 257 - Valewood
+
+#County title
+title = c_valewood
+
+#Settlements
+max_settlements = 2
+b_vale_wood = castle
+#b_oakby = {}
+#b_forrest = {}
+#b_comrie_house = {}
+#b_westfold_farm = {}
+#b_delta = {}
+#b_little_craig = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = woods
+
+# History

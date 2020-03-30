@@ -1,0 +1,21 @@
+# 275 - Laurel
+
+#County title
+title = c_laurel
+
+#Settlements
+max_settlements = 5
+b_jakes_house = castle
+b_foxwood_house = city
+b_laurel_grove = temple
+#b_beaconsend = {}
+#b_mt_sesh = {}
+#b_lane_of_tears = {}
+#b_darkpuddle = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = hills
+
+# History

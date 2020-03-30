@@ -1,0 +1,21 @@
+# 299 - Cobden
+
+#County title
+title = c_cobden
+
+#Settlements
+max_settlements = 2
+b_cobden_farm = castle
+#b_deerpass = {}
+#b_palmald = {}
+#b_barwater = {}
+#b_eaglebard = {}
+#b_mill_ledge = {}
+#b_tayton = {}
+
+#Misc
+culture = holtish
+religion = zun_pagan
+terrain = farmlands
+
+# History

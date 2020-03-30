@@ -15,7 +15,7 @@ b_park_farm = city
 
 #Misc
 culture = leeman
-religion = lollard
+religion = wilkinsonian
 terrain = plains
 
 # History

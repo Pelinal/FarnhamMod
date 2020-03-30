@@ -15,7 +15,7 @@ b_roman_way = temple
 
 #Misc
 culture = townie
-religion = lollard
+religion = kevite
 terrain = plains
 
 # History

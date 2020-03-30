@@ -1,0 +1,22 @@
+# 316 - Clare Mead
+
+#County title
+title = c_clare_mead
+
+#Settlements
+max_settlements = 6
+b_37_clare_mead = castle
+b_clare_mead = city
+b_rowledge_taxis = city
+b_the_copse = temple
+#b_brambling = {}
+#b_mantard = {}
+#b_wayey = {}
+
+
+#Misc
+culture = rowlegian
+religion = lollard
+terrain = plains
+
+# History

@@ -1,0 +1,21 @@
+# 319 - Mayfield
+
+#County title
+title = c_mayfield
+
+#Settlements
+max_settlements = 5
+b_mayfield_mayfield = castle
+b_benz_of_farnham = city
+b_orchard_end = temple
+#b_grassroots = {}
+#b_saker_house = {}
+#b_meadoway = {}
+#b_lynchwood = {}
+
+#Misc
+culture = rowlegian
+religion = lollard
+terrain = plains
+
+# History

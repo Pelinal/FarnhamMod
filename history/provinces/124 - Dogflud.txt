@@ -15,7 +15,7 @@ b_patronus = temple
 
 #Misc
 culture = townie
-religion = lollard
+religion = pupalitarian
 terrain = plains
 
 # History

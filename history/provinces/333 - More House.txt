@@ -1,0 +1,21 @@
+# 333 - More House
+
+#County title
+title = c_more_house
+
+#Settlements
+max_settlements = 3
+b_summerfield = castle
+b_more_house_school = temple
+#b_moonshill = {}
+#b_blackford = {}
+#b_woolbrook = {}
+#b_keldchester_house = {}
+#b_harmouth = {}
+
+#Misc
+culture = spreaker
+religion = lollard
+terrain = plains
+
+# History

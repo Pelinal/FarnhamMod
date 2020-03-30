@@ -1,0 +1,21 @@
+# 285 - Glynswood
+
+#County title
+title = c_glynswood
+
+#Settlements
+max_settlements = 5
+b_glynswood = castle
+b_clifton = city
+b_hollytree_surgery = temple
+#b_edgewood = {}
+#b_swiss_close = {}
+#b_spring_cottage = {}
+#b_bryony_house = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

@@ -1,0 +1,21 @@
+# 322 - Cherry Tree
+
+#County title
+title = c_cherry_tree
+
+#Settlements
+max_settlements = 5
+b_cherry_cottage = castle
+b_the_cherry_tree = city
+b_the_nook = temple
+#b_sanders = {}
+#b_firlands = {}
+#b_ash_farm = {}
+#b_sunny_cottage = {}
+
+#Misc
+culture = rowlegian
+religion = lollard
+terrain = plains
+
+# History

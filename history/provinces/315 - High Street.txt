@@ -1,0 +1,21 @@
+# 315 - High Street
+
+#County title
+title = c_high_street
+
+#Settlements
+max_settlements = 6
+b_spring_cottage_bnB = castle
+b_the_cookhouse = city
+b_rowledge_methodist_church = temple
+b_the_stable_house = city
+#b_cross_roads = {}
+#b_blyth = {}
+#b_the_white_cottage = {}
+
+#Misc
+culture = rowlegian
+religion = lollard
+terrain = plains
+
+# History

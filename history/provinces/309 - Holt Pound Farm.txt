@@ -1,0 +1,21 @@
+# 309 - Holt Pound Farm
+
+#County title
+title = c_holt_pound_farm
+
+#Settlements
+max_settlements = 5
+b_holt_pound_farm = castle
+b_magpies = city
+b_mole_end = temple
+#b_rookery = {}
+#b_curlew_cottage = {}
+#b_two_hoots = {}
+#b_swallow_barn = {}
+
+#Misc
+culture = holtish
+religion = lollard # Boreal - When Added
+terrain = farmlands
+
+# History

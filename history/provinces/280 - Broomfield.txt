@@ -1,0 +1,21 @@
+# 280 - Broomfield
+
+#County title
+title = c_broomfield
+
+#Settlements
+max_settlements = 3
+b_broomfield_house = castle
+b_broomfield = city
+#b_rowledge_vale = temple
+#b_oaks = {}
+#b_tenacre = {}
+#b_whithouse = {}
+#b_ofs_software = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = woods
+
+# History

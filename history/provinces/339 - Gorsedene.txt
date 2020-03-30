@@ -1,0 +1,21 @@
+# 339 - Gorsedene
+
+#County title
+title = c_gorsedene
+
+#Settlements
+max_settlements = 4
+b_gorsedene = castle
+b_long_road = city
+#b_moorwell = {}
+#b_kirhall = {}
+#b_redley = {}
+#b_ashwich = {}
+#b_overbury = {}
+
+#Misc
+culture = rowlegian
+religion = lollard
+terrain = woods
+
+# History

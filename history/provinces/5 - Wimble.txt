@@ -14,7 +14,7 @@ b_dippenpit = temple
 
 #Misc
 culture = farmer
-religion = lollard
+religion = waitrosian
 terrain = farmlands
 
 # History

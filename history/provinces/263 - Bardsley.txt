@@ -1,0 +1,21 @@
+# 263 - Bardsley
+
+#County title
+title = c_bardsley
+
+#Settlements
+max_settlements = 5
+b_83_bardsley = castle
+b_bardsley = city
+b_farnham_cabs = city
+#b_lynton = {}
+#b_selbourne_gardens = {}
+#b_the_old_orchard = {}
+#b_cornerwalk = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

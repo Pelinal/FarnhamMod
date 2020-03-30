@@ -1,0 +1,21 @@
+# 282 - Whitepost
+
+#County title
+title = c_whitepost
+
+#Settlements
+max_settlements = 4
+b_white_post = castle
+b_magerrling = city
+b_pelham = temple
+#b_grosver_house = {}
+#b_stoneford = {}
+#b_springfield_cottage = {}
+#b_highfield_house = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

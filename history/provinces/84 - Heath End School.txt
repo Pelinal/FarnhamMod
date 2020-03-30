@@ -15,7 +15,7 @@ b_hawthorne_house = city
 
 #Misc
 culture = haleian
-religion = lollard
+religion = weydonian
 terrain = plains
 
 # History

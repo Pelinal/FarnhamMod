@@ -15,7 +15,7 @@ b_st_rhadegund = temple
 
 #Misc
 culture = townie
-religion = lollard
+religion = waitrosian
 terrain = farmlands
 
 # History

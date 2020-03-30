@@ -1,0 +1,21 @@
+# 260 - Hillside
+
+#County title
+title = c_hillside
+
+#Settlements
+max_settlements = 3
+b_hillside_lodge = castle
+b_old_farm = city
+#b_cotswold_house = {}
+#b_langwood = {}
+#b_hindmarsh = {}
+#b_oulwell = {}
+#b_northbeck = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = farmlands
+
+# History

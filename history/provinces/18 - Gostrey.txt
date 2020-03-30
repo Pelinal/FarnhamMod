@@ -15,7 +15,7 @@ b_emmanuel_church = temple
 
 #Misc
 culture = townie
-religion = lollard
+religion = anglican
 terrain = plains
 
 # History

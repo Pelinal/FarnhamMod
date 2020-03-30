@@ -1,0 +1,21 @@
+# 239 - Latchwood
+
+#County title
+title = c_latchwood
+
+#Settlements
+max_settlements = 4
+b_latchwood = castle
+#b_sandrock_cottage = {}
+b_comberise = temple
+#b_beech_corner = {}
+#b_septembers = {}
+##b_pine_view_lodge = {}
+#b_latchets = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

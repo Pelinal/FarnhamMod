@@ -15,7 +15,7 @@ b_bells_piece = city
 
 #Misc
 culture = townie
-religion = lollard
+religion = kevite
 terrain = plains
 
 # History

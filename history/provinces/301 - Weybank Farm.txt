@@ -1,0 +1,21 @@
+# 301 - Weybank Farm
+
+#County title
+title = c_weybank_farm
+
+#Settlements
+max_settlements = 3
+b_weybank_farm = castle
+b_morelow = city
+#b_newriddle = {}
+#b_blanclair = {}
+#b_harsey = {}
+#b_gregter = {}
+#b_webbow = {}
+
+#Misc
+culture = farmer
+religion = zun_pagan
+terrain = farmlands
+
+# History

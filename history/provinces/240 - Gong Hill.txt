@@ -1,0 +1,21 @@
+# 209 - Sandiway
+
+#County title
+title = c_gonghill
+
+#Settlements
+max_settlements = 5
+b_gong_hill = castle
+b_woodwise = city
+b_scotsgrove = temple
+#b_white_croft = {}
+#b_ridgehouse = {}
+#b_gong_house = {}
+#b_westwinds = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = hills
+
+# History

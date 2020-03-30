@@ -1,0 +1,21 @@
+# 313 - Green End
+
+#County title
+title = c_green_end
+
+#Settlements
+max_settlements = 4
+b_green_end_cottage = castle
+b_beechview = city
+#b_willowlands = {}
+#b_hilland = {}
+#b_brown_lodge = {}
+#b_blackfield = {}
+#b_peters_farm = {}
+
+#Misc
+culture = rowlegian
+religion = lollard
+terrain = farmlands
+
+# History

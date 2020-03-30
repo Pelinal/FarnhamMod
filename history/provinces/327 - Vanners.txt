@@ -1,0 +1,21 @@
+# 327 - Vanners
+
+#County title
+title = c_vanners
+
+#Settlements
+max_settlements = 2
+b_vanners = castle
+#b_kirhalgh = {}
+#b_marswick = {}
+#b_hindpool = {}
+#b_hopburgh = {}
+#b_oxden = {}
+#b_ashworth = {}
+
+#Misc
+culture = farmer
+religion = lollard
+terrain = plains
+
+# History

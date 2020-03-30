@@ -1,0 +1,21 @@
+# 284 - Appleands
+
+#County title
+title = c_applelands
+
+#Settlements
+max_settlements = 5
+b_2_applelands_close = castle
+b_applelands = city
+b_windormere = temple
+#b_birch_close = {}
+#b_RDS_financial_consultants = {}
+#b_burntway = {}
+#b_crosshouse = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

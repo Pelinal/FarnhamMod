@@ -1,0 +1,21 @@
+# 337 - Baker Oats
+
+#County title
+title = c_bakeroats
+
+#Settlements
+max_settlements = 2
+b_baker_oats_house = castle
+b_bakeroats = city
+#b_frosties = {}
+#b_cornflakes = {}
+#b_shreddie = {}
+#b_cruchy_nut = {}
+#b_lucky_charms = {}
+
+#Misc
+culture = rowlegian
+religion = lollard
+terrain = plains
+
+# History

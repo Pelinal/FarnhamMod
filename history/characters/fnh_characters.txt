@@ -6,9 +6,11 @@
 	culture = "german"
 	religion = "pupalitarian"
 	
+	mother = 1014
+	
 	diplomacy = 3
 	martial = 4
-	stewardship = 12
+	stewardship = 8
 	intrigue = 1
 	learning = 8
 	
@@ -47,6 +49,9 @@
 	religion = "wiccan"
 	female = yes
 	
+	father = 1012
+	mother = 1013
+	
 	random_traits = no
 	
 	add_trait = elusive_shadow
@@ -80,7 +85,7 @@
 
 1002 = { # Callum Allgar-Jepson
 	name = "Callum"
-	dynasty = 1001
+	dynasty = 1009
 	culture = "wreccleshese"
 	religion = "pupalitarian"
 	
@@ -88,7 +93,7 @@
 	martial = 2
 	stewardship = 5
 	intrigue = 0
-	learning = 14
+	learning = 9
 	
 	random_traits = no
 	
@@ -127,6 +132,8 @@
 	add_trait = envious
 	add_trait = arbitrary
 	add_trait = flanker
+	add_trait = lefthanded
+	add_trait = temperate
 	add_trait = uncouth
 	
 	dna = "ciheh00chc0"
@@ -146,10 +153,14 @@
 	culture = "haleian"
 	religion = "weydonian"
 	
+	intrigue = 8
+	
 	add_trait = scholarly_theologian
+	add_trait = genius
 	add_trait = groomed
 	add_trait = temperate
 	add_trait = wroth
+	add_trait = hunchback
 	add_trait = proud
 	add_trait = paranoid
 	add_trait = zealous
@@ -202,7 +213,7 @@
 	name = "Kial"
 	dynasty = 1005
 	culture = "haleian"
-	religion = "lollard"
+	religion = "vocatine"
 	father = 1007
 	
 	random_traits = no
@@ -235,10 +246,9 @@
 1007 = {
 	name = "Stuart"
 	dynasty = 1005
-	culture = "leeman"
-	religion = "lollard"
+	culture = "haleian"
+	religion = "wilkinsonian"
 	
-	add_trait = groomed
 	add_trait = groomed
 	add_trait = deceitful
 	add_trait = ugly
@@ -264,7 +274,7 @@
 	name = "Ben"
 	dynasty = 1001
 	culture = "townie"
-	religion = "lollard"
+	religion = "waitrosian"
 	
 	random_traits = no
 	
@@ -287,7 +297,7 @@
 	}
 }
 	
-1009 = {
+1009 = { # Tom Cassali
 	name = "Tom"
 	dynasty = 1006
 	culture = "rowlegian"
@@ -316,7 +326,7 @@
 	}
 }
 
-1010 = {
+1010 = { # Gillan Westley
 	name = "Gillan"
 	dynasty = 1007
 	culture = "indian"
@@ -347,4 +357,592 @@
 	2080.1.1 = {
 		death = yes
 	}
+}
+
+1011 = { # Darren Tabner, c_talbot
+	name = "Darren"
+	dynasty = 1000
+	culture = "german"
+	religion = "vocatine"
+	
+	father = 1012
+	mother = 1013
+	
+	diplomacy = 8
+	martial = 3
+	stewardship = 3
+	intrigue = 1
+	learning = 2
+	
+	random_traits = no
+	
+	add_trait = "drunkard"
+	add_trait = "charismatic_negotiator"
+	add_trait = "scarred"
+	add_trait = "uncouth"
+	add_trait = "gardener"
+	add_trait = "humble"
+	add_trait = "diligent"
+	add_trait = "content"
+	add_trait = "gregarious"
+	add_trait = "honest"
+	add_trait = "narrow_flank_leader"
+	add_trait = "rough_terrain_leader"
+	add_trait = "adventurer"
+	
+	#race = "german"
+	dna="aecif0bbbd0"
+    properties="am0jgk000000000000"
+	
+	1966.6.8 = {
+		birth = yes
+	}
+	1967.1.1 = {
+		culture = wreccleshese
+	}
+	2066.6.9 = {
+		death = yes
+	}
+}
+
+1012 = { # Raymond Tabner, former 'King' of Badshot Lea
+	name = "Raymond"
+	dynasty = 1000
+	culture = "german"
+	religion = "anglican"
+	
+	diplomacy = 6
+	martial = 2
+	stewardship = 6
+	intrigue = 4
+	learning = 8
+	
+	random_traits = no
+	
+	add_trait = "drunkard"
+	add_trait = "mastermind_theologian"
+	add_trait = "genius"
+	add_trait = "feeble"
+	add_trait = "shrewd"
+	add_trait = "scholar"
+	add_trait = "charitable"
+	add_trait = "diligent"
+	add_trait = "patient"
+	add_trait = "kind"
+	add_trait = "erudite"
+	add_trait = "gregarious"
+	add_trait = "sympathy_christendom"
+	
+	#race = "german"
+	dna="bhihf0aa0b0"
+    properties="cg0e0k000000000000"
+	
+	1927.10.1 = {
+		birth = yes
+	}
+	1957.1.1 = {
+		culture = leeman
+		add_spouse = 1013
+	}
+	1986.5.1 = {
+		death = { death_reason = death_trait }
+	}
+}
+
+1013 = { # Marjorie Higgs
+	name = "Marjorie"
+	dynasty = 1008
+	culture = "german"
+	religion = "wiccan"
+	female = yes
+	
+	diplomacy = 6
+	martial = 2
+	stewardship = 6
+	intrigue = 4
+	learning = 8
+	
+	random_traits = no
+	
+	add_trait = "drunkard"
+	add_trait = "underhanded_rogue"
+	add_trait = "robust"
+	add_trait = "groomed"
+	add_trait = "charitable"
+	add_trait = "wroth"
+	add_trait = "envious"
+	add_trait = "arbitrary"
+	add_trait = "cynical"
+	add_trait = "gregarious"
+	add_trait = "stubborn"
+	add_trait = "sympathy_pagans"
+	
+	#race = "german"
+	dna="cfddg0icdd0"
+    properties="lf0h0k000000000000"
+	
+	1940.12.1 = {
+		birth = yes
+	}
+	2004.12.23 = {
+		death = { death_reason = death_accident }
+	}
+}
+
+1014 = { # Samantha Tabner
+	name = "Samantha"
+	dynasty = 1000
+	culture = "german"
+	religion = "pupalitarian"
+	female = yes
+	
+	diplomacy = 6
+	martial = 2
+	stewardship = 6
+	intrigue = 4
+	learning = 8
+	
+	random_traits = no
+	
+	add_trait = "drunkard"
+	add_trait = "mastermind_theologian"
+	add_trait = "genius"
+	add_trait = "feeble"
+	add_trait = "shrewd"
+	add_trait = "scholar"
+	add_trait = "charitable"
+	add_trait = "diligent"
+	add_trait = "patient"
+	add_trait = "kind"
+	add_trait = "erudite"
+	add_trait = "gregarious"
+	add_trait = "sympathy_christendom"
+	
+	#race = "german"
+	dna="cfbia0bbde0"
+    properties="kc0g0k000000000000"
+	
+	1972.1.27 = {
+		birth = yes
+	}
+	1973.1.1 = {
+		culture = townie
+	}
+	2059.1.1 = {
+		death = yes
+	}
+}
+
+1015 = { # Harry 'Dunners' Dunwoodie
+	name = "Harry"
+	dynasty = 1011
+	culture = "german"
+	religion = "pupalitarian"
+	
+	father = 1016
+	
+	diplomacy = 5
+	martial = 2
+	stewardship = 7
+	intrigue = 3
+	learning = 1
+	
+	random_traits = no
+	
+	add_trait = "fortune_builder"
+	add_trait = "defensive_leader"
+	add_trait = "shrewd"
+	add_trait = "socializer"
+	add_trait = "diligent"
+	add_trait = "gluttonous"
+	add_trait = "ambitious"
+	add_trait = "robust"
+	add_trait = "trusting"
+	
+	dna="a0aae0eba00"
+    properties="dh0e0k000000000000"
+
+	
+	2002.1.3 = {
+		birth = yes
+		give_nickname = nick_dunners
+	}
+	2003.1.1 = { culture = rowlegian }
+	2088.1.1 = { death = yes }
+}
+
+1016 = { # Stephen Pratt
+	name = "Stephen"
+	dynasty = 1012
+	culture = "german"
+	religion = "pupalitarian"
+	
+	diplomacy = 3
+	martial = 5
+	stewardship = 9
+	intrigue = 1
+	learning = 5
+	
+	random_traits = no
+	
+	add_trait = "midas_touched"
+	add_trait = "organizer"
+	add_trait = "quick"
+	add_trait = "temperate"
+	add_trait = "greedy"
+	add_trait = "proud"
+	add_trait = "robust"
+	
+	dna="a0aah0cbc00"
+    properties="dm0ejk000000000000"
+	
+	1963.1.1 = { birth = yes }
+	1964.1.1 = { culture = rowlegian }
+	2043.1.1 = { death = yes }
+}
+
+1017 = { # Jake Bailey
+	name = "Jake"
+	dynasty = 1013
+	culture = "wreccleshese"
+	religion = "pupalitarian"
+	
+	diplomacy = 3
+	martial = 4
+	stewardship = 2
+	intrigue = 1
+	learning = 8
+	
+	random_traits = no
+	
+	add_trait = "scholarly_theologian"
+	add_trait = "narrow_flank_leader"
+	add_trait = "shrewd"
+	add_trait = "patient"
+	add_trait = "robust"
+	add_trait = "sturdy"
+	
+	dna="aeiie0fadd0"
+	properties="qe0afk000000000000"
+	
+	#dna = "0agfe0aabe0"
+	#properties="se0d0k000000000000"
+	
+	2002.1.1 = { birth = yes }
+	2090.1.1 = { death = yes }
+}
+
+1018 = { # Jake 'the Long' Thomas
+	name = "Jake"
+	dynasty = 1014
+	culture = "wreccleshese"
+	religion = "pupalitarian"
+	
+	diplomacy = 8
+	martial = 6
+	stewardship = 2
+	intrigue = 0
+	learning = 3
+	
+	random_traits = no
+	
+	add_trait = "charismatic_negotiator"
+	add_trait = "inspiring_leader"
+	add_trait = "giant"
+	add_trait = "wroth"
+	add_trait = "strong"
+	add_trait = "robust"
+	add_trait = "sturdy"
+	add_trait = "proud"
+
+	dna = "0agfe0aabe0"
+	properties = "se0d0k000000000000"
+	
+	2002.1.1 = { birth = yes }
+	2080.1.1 = { death = yes }
+}
+
+1019 = { # Ieuan Davey
+	name = "Ieuan"
+	dynasty = 1015
+	culture = "wreccleshese"
+	religion = "pupalitarian"
+	
+	diplomacy = 3
+	martial = 0
+	stewardship = 3
+	intrigue = 9
+	learning = 5
+	
+	random_traits = no
+	
+	add_trait = "elusive_shadow"
+	add_trait = "shrewd"
+	add_trait = "schemer"
+	add_trait = "drunkard"
+	add_trait = "kind"
+	add_trait = "patient"
+	add_trait = "shy"
+	add_trait = "feeble"
+	
+	dna = "aae0h0daa00"
+    properties = "pi0ifk0c0000000000"
+	
+	2001.10.19 = { birth = yes }
+	2078.1.1 = { death = yes }
+}
+
+1019 = { # Bertie 'the Jew' Goodearl
+	name = "Bertie"
+	dynasty = 1015
+	culture = "german"
+	religion = "jewish"
+	
+	father = 1020
+	mother = 1021
+	
+	diplomacy = 3
+	martial = 0
+	stewardship = 3
+	intrigue = 9
+	learning = 5
+	
+	random_traits = no
+	
+	add_trait = "midas_touched"
+	add_trait = "shrewd"
+	add_trait = "administrator"
+	add_trait = "deceitful"
+	add_trait = "schemer"
+	add_trait = "ugly"
+	add_trait = "harelip"
+	add_trait = "greedy"
+	add_trait = "feeble"
+	add_trait = "cruel"
+	add_trait = "craven"
+	add_trait = "holy_warrior"
+	add_trait = "baptized_by_satan"
+	add_trait = "shaddai"
+	
+	dna = "bdfgc0cbbb0"
+    properties = "rl0j0k000000000000"
+	
+	2002.8.2 = {
+		birth = yes
+		give_nickname = nick_the_jew
+	}
+	2003.1.1 = { culture = rowlegian }
+	2078.1.1 = { death = yes }
+}
+
+1019 = { # Tony Goodearl
+	name = "Tony"
+	dynasty = 1015
+	culture = "german"
+	religion = "jewish"
+	
+	stewardship = 9
+	add_trait = fortune_builder
+	add_trait = architect
+
+	#dna = "bdfgc0cbbb0"
+    #properties = "rl0j0k000000000000"
+	
+	1948.1.1 = { birth = yes }
+	1949.1.1 = { culture = rowlegian }
+	1952.1.1 = { add_spouse = 1020 }
+	2033.1.1 = { death = yes }
+}
+
+1020 = { # Mimi Goodearl --- need to find out maiden name
+	name = "Mimi"
+	dynasty = 1015
+	culture = "german"
+	religion = "jewish"
+	female = yes
+	
+	diplomacy = 8
+	add_trait = naive_appeaser
+	add_trait = gamer
+
+	#dna = "bdfgc0cbbb0"
+    #properties = "rl0j0k000000000000"
+	
+	1949.1.1 = { birth = yes }
+	1950.1.1 = { culture = rowlegian }
+	2033.1.1 = { death = yes }
+}
+
+1021 = { # Jonny Walters
+	name = "Jonny"
+	dynasty = 1016
+	culture = "german"
+	religion = "pupalitarian"
+	
+	diplomacy = 4
+	martial = 1
+	stewardship = 7
+	intrigue = 4
+	learning = 5
+	
+	add_trait = "midas_touched"
+	add_trait = "shrewd"
+	add_trait = "fair"
+	add_trait = "groomed"
+	
+	dna="aidhb0hbdd0"
+    properties="pd0b0k000000000000"
+	
+	2002.1.1 = { birth = yes }
+	2003.1.1 = { culture = wreccleshese }
+	2092.1.1 = { death = yes }
+}
+1021 = { # Jessica Vaux
+	name = "Jessica"
+	dynasty = 1017
+	culture = "bournean"
+	religion = "pupalitarian"
+	female = yes
+	
+	dna="aidhb0hbbd0"
+	properties="pf0b0k000000000000"
+	
+	2002.1.1 = { birth = yes }
+	2003.1.1 = { culture = wreccleshese }
+	2092.1.1 = { death = yes }
+}
+1021 = { # Siobhan Tabner
+	name = "Siobhan"
+	dynasty = 1000
+	culture = "wreccleshese"
+	religion = "vocatine"
+	female = yes
+	
+	father = 1011
+	mother = 1022
+	
+	dna="bcecg0c0ba0"
+    properties="0c0a0k000000000000"
+	
+	1988.9.16 = { birth = yes }
+	1989.1.1 = { culture = hampshire_hog }
+	2092.1.1 = { death = yes }
+}
+1022 = { # Kim Clarke
+	name = "Kim"
+	dynasty = 1018
+	culture = "londoner"
+	religion = "brexiteer"
+	female = yes
+	
+	add_trait = wroth
+	add_trait = deceitful
+	add_trait = strong
+	
+	1968.1.1 = { birth = yes }
+	2053.1.1 = { death = yes }
+}
+
+1023 = { # Shane Tabner
+	name = "Shane"
+	dynasty = 1000
+	culture = "leeman"
+	religion = "vocatine"
+	
+	father = 1011
+	mother = 1022
+	
+	dna="00000000ca0"
+    properties="c0000k000000000000"
+	
+	1991.1.1 = { birth = yes }
+	1989.1.1 = { culture = hampshire_hog }
+	2092.1.1 = { death = yes }
+}
+
+1024 = { # Karen Barclay
+	name = "Karen"
+	dynasty = 1019
+	culture = "glaswegian"
+	religion = "eurocentrist"
+	female = yes
+
+	dna="caa0e0000a0"
+    properties="cl000k000000000000"
+	
+	1963.1.1 = { birth = yes }
+	2050.1.1 = { death = yes }
+}
+
+1025 = { # Alastair Aiken - Ali A - Leader of the "Ali-A Army"
+	name = "Alistair"
+	dynasty = 1020
+	culture = "bournean"
+	religion = "tuberist"
+	
+	diplomacy = 8
+	martial = 4
+	stewardship = 5
+	intrigue = 0
+	learning = 4
+	
+	random_traits = no
+	
+	add_trait = "midas_touched"
+	add_trait = "kind"
+	add_trait = "shrewd"
+	add_trait = "groomed"
+	add_trait = "honest"
+	add_trait = "administrator"
+	add_trait = "gamer"
+	add_trait = "greedy"
+	add_trait = "inspiring_leader"
+	
+	dna="aadfb0ead00"
+    properties="hh0afk000000000000"
+	
+	1993.11.6 = { birth = yes }
+	2019.1.1 = { 
+		add_spouse = 1026
+	}
+	2077.1.1 = { death = yes }
+}
+1026 = { # Clare Siobhan
+	name = "Clare"
+	dynasty = 1021
+	culture = "bournean"
+	religion = "tuberist"
+	female = yes
+	
+	diplomacy = 10
+	
+	add_trait = "underhanded_rogue"
+	add_trait = "kind"
+	add_trait = "fair"
+	add_trait = "groomed"
+	add_trait = "dull"
+	
+ 	dna="0diaf0fbbc0"
+    properties="ea0g0k000000000000"
+	
+	1995.1.1 = { birth = yes }
+	2078.1.1 = { death = yes }
+}
+
+1027 = { # Patrick Brogan of Brogan's Barbers
+	name = "Alistair"
+	dynasty = 1022
+	culture = "leeman"
+	religion = "wilkinsonian"
+	
+	stewardship = 7
+	add_trait = kind
+	add_trait = honest
+	add_trait = trusting
+	
+	dna="cfeba0fcjd0"
+    properties="s00ikk000000000000"
+	
+	1967.1.1 = { birth = yes }
+	2077.1.1 = { death = yes }
 }

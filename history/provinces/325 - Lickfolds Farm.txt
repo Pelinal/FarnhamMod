@@ -1,0 +1,21 @@
+# 325 - Lickfolds Farm
+
+#County title
+title = c_lickfolds_farm
+
+#Settlements
+max_settlements = 3
+b_lickfolds_farm = castle
+b_whitewick = temple
+#b_middeley = {}
+#b_keldham = {}
+#b_kirdom_house = {}
+#b_fairvale = {}
+#b_hortonfield = {}
+
+#Misc
+culture = farmer
+religion = lollard
+terrain = farmlands
+
+# History

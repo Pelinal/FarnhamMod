@@ -15,7 +15,7 @@ b_knightsdale = city
 
 #Misc
 culture = haleian
-religion = lollard
+religion = vocatine
 terrain = plains
 
 # History

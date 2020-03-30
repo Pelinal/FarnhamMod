@@ -1,0 +1,21 @@
+# 246 - Blackpond
+
+#County title
+title = c_blackpond
+
+#Settlements
+max_settlements = 5
+b_blackpond = castle
+b_mulberry_ridge = city
+b_pinewood = temple
+#b_the_studio_house = {}
+##b_garden_house = {}
+#b_blackthorn = {}
+#b_orchard_mews = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

@@ -1,0 +1,21 @@
+# 224 - Lower Bourne
+
+#County title
+title = c_lower_bourne
+
+#Settlements
+max_settlements = 7
+b_st_marks_hall = castle
+b_bourne_shops = city
+b_st_martin_by_the_green = temple
+b_bourne_rec = castle
+b_dene = temple
+#b_woodland_nursery = {}
+#b_the_bourne_house = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

@@ -15,7 +15,7 @@ b_jewson = temple
 
 #Misc
 culture = leeman
-religion = lollard
+religion = monetic
 terrain = plains
 
 # History

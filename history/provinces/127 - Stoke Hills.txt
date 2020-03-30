@@ -15,7 +15,7 @@ b_st_james_terrace = temple
 
 #Misc
 culture = townie
-religion = lollard
+religion = pupalitarian
 terrain = hills
 
 # History

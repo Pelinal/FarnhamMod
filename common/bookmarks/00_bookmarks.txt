@@ -1,7 +1,7 @@
-bm_gcses2018 = { 
-	name = "BM_GCSES2018"
-    desc = "BM_GCSES2018_DESC"
-    date = 2018.5.14
+bm_winter2019 = { 
+	name = "BM_WINTER2019"
+    desc = "BM_WINTER2019_DESC"
+    date = 2019.9.10
     era = yes ## Will be shown on Era screen.
     picture = GFX_pick_era_image_1
 }

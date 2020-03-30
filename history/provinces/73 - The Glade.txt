@@ -15,7 +15,7 @@ b_queen_annes = temple
 
 #Misc
 culture = haleian
-religion = lollard
+religion = anglican
 terrain = plains
 
 # History

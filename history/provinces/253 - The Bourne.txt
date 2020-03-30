@@ -1,0 +1,21 @@
+# 253 - The Bourne
+
+#County title
+title = c_the_bourne
+
+#Settlements
+max_settlements = 5
+b_bourne_house = castle
+b_tattington = city
+b_beechgrove = city
+#b_oakdean = {}
+#b_bradley = {}
+#b_kingsley = {}
+#b_cricketview = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

@@ -1,0 +1,21 @@
+# 223 - Woodlarks
+
+#County title
+title = c_woodlarks
+
+#Settlements
+max_settlements = 5
+b_woodlarks = castle
+b_woodlarks_centre = city
+b_farnham_dene_medical_practice = temple
+#b_westbrook_stables = {}
+#b_cornish_coastal_hotel = { short_name = yes }
+#b_woodlarks_camp = {}
+#b_helen_james_reflexory = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = woods
+
+# History

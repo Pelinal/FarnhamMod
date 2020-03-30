@@ -1,0 +1,21 @@
+# 276 - Rock Lane
+
+#County title
+title = c_rock_lane
+
+#Settlements
+max_settlements = 5
+b_ieuans_house = castle
+b_sandrock_barbers = city
+b_the_streamhouse = temple
+#b_sycamore_cottage = {}
+#b_farend = {}
+#b_granell = {}
+#b_allington_studio = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = hills
+
+# History

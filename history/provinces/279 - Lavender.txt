@@ -1,0 +1,21 @@
+# 279 - Lavender
+
+#County title
+title = c_lavender
+
+#Settlements
+max_settlements = 3
+b_lavender = castle
+b_veale = temple
+#b_thorne_cottage = {}
+#b_firstdance = {}
+#b_the_paddock = {}
+#b_katkins = {}
+#b_brackley = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = woods
+
+# History

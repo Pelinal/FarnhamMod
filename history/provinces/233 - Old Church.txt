@@ -1,0 +1,21 @@
+# 233 - Old Church 
+
+#County title
+title = c_oldchurch
+
+#Settlements
+max_settlements = 4
+b_old_church = temple
+b_stream_farm = city
+#b_vicarage = temple
+#b_sturts_house = {}
+#b_tree_cottage = {}
+#b_highways = {}
+#b_church_cottage = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

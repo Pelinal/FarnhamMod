@@ -15,7 +15,7 @@ b_the_spire = temple
 
 #Misc
 culture = townie
-religion = lollard
+religion = anglican
 terrain = plains
 
 # History

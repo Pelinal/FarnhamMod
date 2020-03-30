@@ -15,7 +15,7 @@ b_lampost = temple
 
 #Misc
 culture = haleian
-religion = lollard
+religion = catholic
 terrain = plains
 
 # History

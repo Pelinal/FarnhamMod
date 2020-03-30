@@ -1,0 +1,21 @@
+# 230 Swingate
+
+#County title
+title = c_swingate
+
+#Settlements
+max_settlements = 5
+b_swingate = castle
+b_great_austins = city
+#b_perlriver = temple
+#b_margot = {}
+#b_middling = {}
+#b_north_green = {}
+#b_pighouse = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = plains
+
+# History

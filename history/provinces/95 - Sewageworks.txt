@@ -15,7 +15,7 @@ b_the_vats = castle
 
 #Misc
 culture = leeman
-religion = lollard
+religion = kevite
 terrain = farmlands
 
 # History

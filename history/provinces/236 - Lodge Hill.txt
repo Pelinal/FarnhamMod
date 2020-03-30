@@ -1,0 +1,21 @@
+# 236 - Lodge Hill
+
+#County title
+title = c_lodgehill
+
+#Settlements
+max_settlements = 4
+b_lodge_hill = castle
+b_vita_active = city
+#b_sapphire = {}
+b_longbourn = temple
+#b_with_a_little_bit_of_love = {}
+#b_denewalk = {}
+#b_pine_grove = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = hills
+
+# History

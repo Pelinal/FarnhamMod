@@ -1,0 +1,21 @@
+# 317 - Shrubbs
+
+#County title
+title = c_shrubbs
+
+#Settlements
+max_settlements = 5
+b_shrubbs = castle
+b_ten_acre = city
+b_broom_patch = temple
+#b_primrose = {}
+#b_greenlands = {}
+#b_murton_farm = {}
+#b_riverview = {}
+
+#Misc
+culture = rowlegian
+religion = lollard
+terrain = plains
+
+# History

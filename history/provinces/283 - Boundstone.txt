@@ -1,0 +1,21 @@
+# 283 - Boundstone
+
+#County title
+title = c_boundstone
+
+#Settlements
+max_settlements = 6
+b_boundstone = castle
+b_broad_hapenny = city
+b_badger_circuit = city
+b_boundstone_corner = temple
+#b_scottbrown = {}
+#b_redbox_wood = {}
+#b_sand_rock_house = {}
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

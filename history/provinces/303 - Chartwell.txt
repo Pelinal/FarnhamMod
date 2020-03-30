@@ -1,0 +1,21 @@
+# 303 - Chartwell
+
+#County title
+title = c_chartwell
+
+#Settlements
+max_settlements = 5
+b_chartwell = castle
+b_pooles_pooches = city
+b_spruce_fencing = city
+#b_outback = {}
+#b_heather = {}
+#b_fabia = {}
+#b_mito = {}	
+
+#Misc
+culture = wreccleshese
+religion = lollard
+terrain = plains
+
+# History

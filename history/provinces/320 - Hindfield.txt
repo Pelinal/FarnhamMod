@@ -1,0 +1,21 @@
+# 320 - Hindfield
+
+#County title
+title = c_hindfield
+
+#Settlements
+max_settlements = 3
+b_hindfield = castle
+#b_mayfield_house = {}
+b_switchback = temple
+#b_roadsend = {}
+#b_maywest = {}
+#b_grey_bank = {}
+#b_old_school = {}
+
+#Misc
+culture = rowlegian
+religion = lollard
+terrain = woods
+
+# History

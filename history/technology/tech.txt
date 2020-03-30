@@ -9,7 +9,19 @@ technology = {
 		d_dippenhall
 		d_st_rhadegund
 		d_the_triangle
-		d_shepherd_and_flock
+		d_north_downs
+		d_hogs_back
+		d_sandyacres
+		d_underpass
+		d_waverley_abbey
+		d_frensham_vale
+		d_east_rowledge
+		d_edgeborough
+		d_gong_hill
+		d_frensham_heights
+		d_manleybridge
+		d_echo_barn
+		d_pilgrims_way
 	}
 	
 	2018 = {
@@ -29,6 +41,17 @@ technology = {
 		d_farmlands
 		d_alton_road
 		d_crondall_vale
+		d_the_works
+		d_winding_wood
+		d_homefield
+		d_tongham_vale
+		d_bourne_wood
+		d_monks_walk
+		d_gorsedene
+		d_borderfield
+		d_beamriver
+		d_wrecclesham_hill
+		d_browns_walk
 	}
 	
 	2018 = {
@@ -58,6 +81,36 @@ technology = {
 		d_southview
 		d_weybank
 		d_borelli
+		d_shepard_and_flock
+		d_moor_park
+		d_ludewell
+		d_fairfield
+		d_station_hill
+		d_morley
+		d_broomleaf
+		d_compton
+		d_south_farnham
+		d_firgrove
+		d_weydon_hill
+		d_ridgeway
+		d_weydonia
+		d_weydon_lane
+		d_greenhill
+		d_shortheath
+		d_sandrock
+		d_boundstone
+		d_rivendell
+		d_wrecclesham
+		d_school_hill
+		d_fairvalley
+		d_clare_mead_and_the_copse
+		d_rowlegia
+		d_burnt_hill
+		d_middle_bourne
+		d_the_bourne
+		d_lower_bourne
+		d_vicarage_hill
+		d_great_austins
 	}
 
 	2018 = {

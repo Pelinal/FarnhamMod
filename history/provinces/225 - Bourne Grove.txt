@@ -1,0 +1,21 @@
+# 225 - Bourne Grove 
+
+#County title
+title = c_bourne_grove
+
+#Settlements
+max_settlements = 6
+b_ali-as_house = castle
+b_the_spotted_cow = city
+b_brownstone = city
+#b_grace_house = castle
+b_high_wray = temple
+#b_robins_wood = {}
+#b_little_bradford = {}
+
+#Misc
+culture = bournean
+religion = lollard
+terrain = woods
+
+# History

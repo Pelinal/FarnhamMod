@@ -15,7 +15,7 @@ b_the_parish = temple
 
 #Misc
 culture = haleian
-religion = lollard
+religion = anglican
 terrain = plains
 
 # History
