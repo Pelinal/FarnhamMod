@@ -466,65 +466,6 @@ political = {
 		intermarry = weydonian
 		intermarry = pupalitarian
 	}
-	corbynist = {
-		graphical_culture = westerngfx
-		alternate_start = { always = no }
-		allow_in_ruler_designer = yes
-		
-		icon = 3
-		heresy_icon = 4
-
-		color = { 92 128 24 }
-		feminist = yes
-
-		ai_convert_other_group = 2 # always try to convert
-		ai_convert_same_group = 2 # always try to convert
-		
-		high_god_name = GOD_WAITROSE
-		
-		god_names = {
-			GOD_WAITROSE THE_RICH
-		}
-		evil_god_names = {
-			EVIL_SAINSBURYS EVIL_TESCO THE_WORKING_CLASS
-		}
-		
-		#unit_modifier = {
-		#	land_morale = 0.05
-		#	key = "HERO_RELIGION"
-		#}
-		#character_modifier = {
-		#	monthly_character_wealth = -0.5
-		#	#key = "WAITROSE_MONTHLY_SHOP"
-		#}
-
-		crusade_name = SHOPPING_SPREE
-		crusade_cb = new_crusade
-		scripture_name = THE_TENETS
-		priest_title = SHOPPER
-		
-		can_excommunicate = yes
-		can_grant_divorce = no
-		can_grant_invasion_cb = invasion
-		can_grant_claim = yes
-		can_call_crusade = yes
-		can_retire_to_monastery = no
-		priests_can_marry = yes
-		allow_looting = no
-		use_new_crusade = yes
-		join_crusade_if_bordering_hostile = yes
-		
-		cousin_marriage = no
-		rel_head_defense = yes
-		
-		#religious_clothing_head = 0
-		#religious_clothing_priest = 1
-		
-		dislike_tribal_organization = no
-		can_demand_religious_conversion = yes
-		
-		intermarry = weydonian
-		intermarry = pupalitarian
 	}
 	borisite = {
 		graphical_culture = westerngfx
@@ -582,9 +523,6 @@ political = {
 		
 		dislike_tribal_organization = no
 		can_demand_religious_conversion = yes
-		
-		intermarry = weydonian
-		intermarry = pupalitarian
 	}
 }
 
