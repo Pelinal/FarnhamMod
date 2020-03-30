@@ -15,7 +15,7 @@ b_the_ferns = city
 
 #Misc
 culture = haleian
-religion = vocatine
+religion = corbynist
 terrain = hills
 
 # History

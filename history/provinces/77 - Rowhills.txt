@@ -15,7 +15,7 @@ b_rowhill = city
 
 #Misc
 culture = haleian
-religion = militarist
+religion = corbynist
 terrain = hills
 
 # History

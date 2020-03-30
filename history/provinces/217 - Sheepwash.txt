@@ -15,7 +15,7 @@ b_bourne_therapist = temple
 
 #Misc
 culture = bournean
-religion = lollard
+religion = catholic
 terrain = plains
 
 # History

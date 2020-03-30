@@ -15,7 +15,7 @@ b_morland = temple
 
 #Misc
 culture = hampshire_hog
-religion = lollard
+religion = corbynist
 terrain = plains
 
 # History

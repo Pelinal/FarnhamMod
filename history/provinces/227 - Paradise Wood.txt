@@ -15,7 +15,7 @@ b_leigh = city
 
 #Misc
 culture = bournean
-religion = lollard
+religion = carterian
 terrain = woods
 
 # History

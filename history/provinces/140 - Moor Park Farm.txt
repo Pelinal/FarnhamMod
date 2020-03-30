@@ -15,7 +15,7 @@ b_the_kilns = city
 
 #Misc
 culture = comptonic
-religion = lollard
+religion = swinsonian
 terrain = farmlands
 
 # History

@@ -15,7 +15,7 @@ b_moorsway = temple
 
 #Misc
 culture = comptonic
-religion = lollard
+religion = swinsonian
 terrain = woods
 
 # History

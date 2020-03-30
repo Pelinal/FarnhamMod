@@ -15,7 +15,7 @@ b_rhoander = castle
 
 #Misc
 culture = comptonic
-religion = lollard
+religion = catholic
 terrain = plains
 
 # History

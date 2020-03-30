@@ -15,7 +15,7 @@ b_deep_dene = temple
 
 #Misc
 culture = bournean
-religion = lollard
+religion = carterian
 terrain = plains
 
 # History

@@ -15,7 +15,7 @@ b_friars_keep = temple
 
 #Misc
 culture = sandsman
-religion = lollard
+religion = swinsonian
 terrain = plains
 
 # History

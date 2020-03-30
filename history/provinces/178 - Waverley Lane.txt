@@ -15,7 +15,7 @@ b_waverley_lane_house = castle
 
 #Misc
 culture = sandsman
-religion = lollard
+religion = catholic
 terrain = plains
 
 # History

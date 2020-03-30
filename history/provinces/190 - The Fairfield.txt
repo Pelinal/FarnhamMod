@@ -15,7 +15,7 @@ b_lacey = temple
 
 #Misc
 culture = comptonic
-religion = lollard
+religion = scat
 terrain = plains
 
 # History

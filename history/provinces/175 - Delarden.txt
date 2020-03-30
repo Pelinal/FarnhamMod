@@ -15,7 +15,7 @@ b_the_outhouse = city
 
 #Misc
 culture = sandsman
-religion = lollard
+religion = swinsonian
 terrain = woods
 
 # History

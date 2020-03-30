@@ -15,7 +15,7 @@ b_northbranch = castle
 
 #Misc
 culture = sandsman
-religion = lollard
+religion = catholic
 terrain = woods
 
 # History

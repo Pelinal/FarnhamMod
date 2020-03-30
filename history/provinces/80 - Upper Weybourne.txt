@@ -15,7 +15,7 @@ b_woodside = temple
 
 #Misc
 culture = haleian
-religion = vocatine
+religion = wiccan
 terrain = hills
 
 # History

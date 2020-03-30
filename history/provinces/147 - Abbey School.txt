@@ -15,7 +15,7 @@ b_southmenin = temple
 
 #Misc
 culture = bournean
-religion = lollard
+religion = carterian
 terrain = plains
 
 # History

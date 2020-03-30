@@ -15,7 +15,7 @@ b_suez_recycling = city
 
 #Misc
 culture = runfolder
-religion = lollard
+religion = swinsonian
 terrain = plains
 
 # History

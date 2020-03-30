@@ -15,7 +15,7 @@ b_merityre = city
 
 #Misc
 culture = townie
-religion = lollard
+religion = scat
 terrain = hills
 
 # History

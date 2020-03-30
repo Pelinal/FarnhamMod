@@ -15,7 +15,7 @@ b_grovelands = temple
 
 #Misc
 culture = bournean
-religion = lollard
+religion = carterian
 terrain = hills
 
 # History

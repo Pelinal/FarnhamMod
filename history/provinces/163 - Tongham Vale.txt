@@ -15,7 +15,7 @@ b_hewitts_farm = temple
 
 #Misc
 culture = runfolder
-religion = lollard
+religion = motorist
 terrain = farmlands
 
 # History

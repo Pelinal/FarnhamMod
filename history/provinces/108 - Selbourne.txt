@@ -15,7 +15,7 @@ b_romsey = temple
 
 #Misc
 culture = leeman
-religion = lollard
+religion = wilkinsonian
 terrain = plains
 
 # History

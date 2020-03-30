@@ -14,8 +14,8 @@ b_marks_and_spencers = city
 #b_bypass_entrance = {}
 
 #Misc
-culture = comptonic
-religion = lollard
+culture = roadman
+religion = scat
 terrain = woods
 
 # History

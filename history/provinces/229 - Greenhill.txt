@@ -15,7 +15,7 @@ b_fastnet = temple
 
 #Misc
 culture = bournean
-religion = lollard
+religion = carterian
 terrain = hills
 
 # History

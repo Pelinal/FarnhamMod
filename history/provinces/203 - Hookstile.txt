@@ -15,7 +15,7 @@ b_sun_and_moon = city
 
 #Misc
 culture = townie
-religion = lollard
+religion = carterian
 terrain = hills
 
 # History

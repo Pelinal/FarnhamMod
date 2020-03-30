@@ -15,7 +15,7 @@ b_hurland_lodge = city
 
 #Misc
 culture = leeman
-religion = lollard
+religion = motorist
 terrain = farmlands
 
 # History

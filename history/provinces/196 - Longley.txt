@@ -15,7 +15,7 @@ b_the_bays = temple
 
 #Misc
 culture = comptonic
-religion = lollard
+religion = carterian
 terrain = plains
 
 # History

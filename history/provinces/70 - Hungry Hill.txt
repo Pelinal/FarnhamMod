@@ -15,7 +15,7 @@ b_hungrychurch = temple
 
 #Misc
 culture = haleian
-religion = weydonian
+religion = corbynist
 terrain = hills
 
 # History

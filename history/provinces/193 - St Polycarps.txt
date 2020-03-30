@@ -15,7 +15,7 @@ b_st_joan_of_arcs = temple
 
 #Misc
 culture = comptonic
-religion = lollard
+religion = catholic
 terrain = plains
 
 # History

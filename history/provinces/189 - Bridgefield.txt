@@ -15,7 +15,7 @@ b_dorrington = temple
 
 #Misc
 culture = comptonic
-religion = lollard
+religion = scat
 terrain = woods
 
 # History

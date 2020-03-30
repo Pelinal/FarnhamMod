@@ -15,7 +15,7 @@ b_anchorstone = temple
 
 #Misc
 culture = wreccleshese
-religion = lollard
+religion = carterian
 terrain = plains
 
 # History

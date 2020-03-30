@@ -15,7 +15,7 @@ b_trevose = city
 
 #Misc
 culture = haleian
-religion = vocatine
+religion = corbynist
 terrain = hills
 
 # History

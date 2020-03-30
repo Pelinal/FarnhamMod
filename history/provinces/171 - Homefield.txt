@@ -15,7 +15,7 @@ b_pightle_house = city
 
 #Misc
 culture = runfolder
-religion = lollard
+religion = motorist
 terrain = plains
 
 # History

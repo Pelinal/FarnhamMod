@@ -15,7 +15,7 @@ b_templeclose = temple
 
 #Misc
 culture = sandsman
-religion = lollard
+religion = jewish
 terrain = plains
 
 # History

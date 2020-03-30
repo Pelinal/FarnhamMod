@@ -15,7 +15,7 @@ b_crownfield = temple
 
 #Misc
 culture = haleian
-religion = vocatine
+religion = corbynist
 terrain = woods
 
 # History

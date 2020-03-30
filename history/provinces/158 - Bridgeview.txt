@@ -15,7 +15,7 @@ b_st_george = temple
 
 #Misc
 culture = runfolder
-religion = lollard
+religion = motorist
 terrain = plains
 
 # History

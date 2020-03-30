@@ -15,7 +15,7 @@ b_ticehurst_care_home = temple
 
 #Misc
 culture = leeman
-religion = lollard
+religion = motorist
 terrain = plains
 
 # History

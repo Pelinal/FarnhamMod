@@ -15,7 +15,7 @@ b_fordbend = temple
 
 #Misc
 culture = leeman
-religion = lollard
+religion = motorist
 terrain = plains
 
 # History

@@ -15,7 +15,7 @@ b_monks_refectory = castle
 
 #Misc
 culture = bournean
-religion = lollard
+religion = catholic
 terrain = plains
 
 # History

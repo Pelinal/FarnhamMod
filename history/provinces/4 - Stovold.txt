@@ -15,7 +15,7 @@ b_st_peters = temple
 
 #Misc
 culture = haleian
-religion = militarist
+religion = corbynist
 terrain = forest
 
 # History

@@ -15,7 +15,7 @@ b_titwood = castle
 
 #Misc
 culture = comptonic
-religion = lollard
+religion = swinsonian
 terrain = woods
 
 # History

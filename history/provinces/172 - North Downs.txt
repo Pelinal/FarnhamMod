@@ -15,7 +15,7 @@ b_little_crooksbury = city
 
 #Misc
 culture = runfolder
-religion = lollard
+religion = swinsonian
 terrain = plains
 
 # History

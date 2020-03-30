@@ -15,7 +15,7 @@ b_lindens = city
 
 #Misc
 culture = bournean
-religion = lollard
+religion = carterian
 terrain = plains
 
 # History

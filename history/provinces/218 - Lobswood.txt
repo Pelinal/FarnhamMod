@@ -15,7 +15,7 @@ b_lobswood = city
 
 #Misc
 culture = bournean
-religion = lollard
+religion = catholic
 terrain = woods
 
 # History

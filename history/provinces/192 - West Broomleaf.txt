@@ -15,7 +15,7 @@ b_hone = city
 
 #Misc
 culture = comptonic
-religion = lollard
+religion = catholic
 terrain = plains
 
 # History

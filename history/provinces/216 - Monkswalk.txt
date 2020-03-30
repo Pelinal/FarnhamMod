@@ -15,7 +15,7 @@ b_ancora_farm_house = castle
 
 #Misc
 culture = bournean
-religion = lollard
+religion = catholic
 terrain = woods
 
 # History

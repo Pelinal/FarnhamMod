@@ -15,7 +15,7 @@ b_the_laurels = city
 
 #Misc
 culture = comptonic
-religion = lollard
+religion = catholic
 terrain = woods
 
 # History

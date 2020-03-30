@@ -15,7 +15,7 @@ b_folly = city
 
 #Misc
 culture = comptonic
-religion = lollard
+religion = swinsonian
 terrain = farmlands
 
 # History

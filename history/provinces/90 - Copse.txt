@@ -15,7 +15,7 @@ b_woodbourne = castle
 
 #Misc
 culture = haleian
-religion = vocatine
+religion = corbynist
 terrain = hills
 
 # History

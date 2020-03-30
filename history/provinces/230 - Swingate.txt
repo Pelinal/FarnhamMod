@@ -15,7 +15,7 @@ b_great_austins = city
 
 #Misc
 culture = bournean
-religion = lollard
+religion = carterian
 terrain = plains
 
 # History

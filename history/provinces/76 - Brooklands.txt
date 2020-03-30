@@ -15,7 +15,7 @@ b_spokehome = temple
 
 #Misc
 culture = haleian
-religion = vocatine
+religion = anglican
 terrain = hills
 
 # History

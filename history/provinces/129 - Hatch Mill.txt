@@ -14,8 +14,8 @@ b_weychurch = temple
 #b_bypass_way = {}
 
 #Misc
-culture = townie
-religion = lollard
+culture = roadman
+religion = scat
 terrain = woods
 
 # History

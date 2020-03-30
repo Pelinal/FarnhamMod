@@ -15,7 +15,7 @@ b_hallimore = temple
 
 #Misc
 culture = haleian
-religion = militarist
+religion = corbynist
 terrain = woods
 
 # History

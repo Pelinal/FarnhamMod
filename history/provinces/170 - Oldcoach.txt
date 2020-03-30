@@ -15,7 +15,7 @@ b_sandsoak = city
 
 #Misc
 culture = runfolder
-religion = lollard
+religion = motorist
 terrain = plains
 
 # History
