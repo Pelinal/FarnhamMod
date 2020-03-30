@@ -63,19 +63,9 @@ weydon_group = {
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
 		
-		intermarry = orthodox
-		intermarry = miaphysite
-		intermarry = nestorian
-
-		intermarry = cathar
-		intermarry = fraticelli
-		intermarry = waldensian
-		intermarry = lollard
-		intermarry = monophysite
-		intermarry = bogomilist
-		intermarry = monothelite
-		intermarry = iconoclast
-		intermarry = paulician
+		intermarry = catholic
+		intermarry = quaker
+		intermarry = anglican
 		intermarry = waitrosian
 		
 		dislike_tribal_organization = no
@@ -141,19 +131,9 @@ weydon_group = {
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
 		
-		intermarry = orthodox
-		intermarry = miaphysite
-		intermarry = nestorian
-
-		intermarry = cathar
-		intermarry = fraticelli
-		intermarry = waldensian
-		intermarry = lollard
-		intermarry = monophysite
-		intermarry = bogomilist
-		intermarry = monothelite
-		intermarry = iconoclast
-		intermarry = paulician
+		intermarry = catholic
+		intermarry = quaker
+		intermarry = anglican
 		intermarry = waitrosian
 		
 		dislike_tribal_organization = no
@@ -168,30 +148,30 @@ weydon_group = {
 		icon = 5
 		heresy_icon = 6
 
-		color = { 0 0 255 }
+		color = { 40 57 166 }
 		feminist = yes
 
 		ai_convert_other_group = 2 # always try to convert
 		ai_convert_same_group = 2 # always try to convert
 		
-		high_god_name = GOD_WINTER
+		high_god_name = GOD_SIR_ANDREW
 		
 		god_names = {
-			GOD_WINTER GOD_VENTON GOD_SHAMAN COAD GOD_MCGUINESS
+			GOD_SIR_ANDREW GOD_LORD_CARTER GOD_THE_KNIGHT GOD_MR_AUSTEN_JONES
 		}
 		evil_god_names = {
-			FREEBOROUGH WISH COAD DUNCALFE 
+			GOD_MR_COLLINS GOD_MISS_KITCHEN MRS_EDWARDS MR_JONES
 		}
 		
 		unit_modifier = {
-			levy_reinforce_rate = -0.5
-			levy_size = -0.25
-			key = "weydonian_key"
+			levy_reinforce_rate = -0.2
+			levy_size = 0.1
+			key = "carterian_key"
 		}
 
 		crusade_name = CONFISCATION
 		crusade_cb = crusade
-		scripture_name = THE_WEYDONIAN
+		scripture_name = THE_PROSPECTUS
 		priest_title = PREFECT
 		
 		can_excommunicate = yes
@@ -217,19 +197,9 @@ weydon_group = {
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
 		
-		intermarry = orthodox
-		intermarry = miaphysite
-		intermarry = nestorian
-
-		intermarry = cathar
-		intermarry = fraticelli
-		intermarry = waldensian
-		intermarry = lollard
-		intermarry = monophysite
-		intermarry = bogomilist
-		intermarry = monothelite
-		intermarry = iconoclast
-		intermarry = paulician
+		intermarry = catholic
+		intermarry = quaker
+		intermarry = anglican
 		intermarry = waitrosian
 		
 		dislike_tribal_organization = no

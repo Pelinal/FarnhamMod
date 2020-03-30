@@ -111,7 +111,7 @@ assimilated_desc;This character is an assimilated drone, serving under the comma
 weydon_hivemind;Hivemind;;;;;;;;;;;;x
 weydon_hivemind_desc;The Hiveminds of the Weydonian church are those with the ability to assimilate others into the fold, they thus hold sway over a blindly loyal force of former Weydon Students.;;;;;;;;;;;;x
 
-weydon_group;Surreyan;;;;;;;;;;;;x
+weydon_group;Educational;;;;;;;;;;;;x
 
 CHILDRENS_SOULS;Childrens' Souls;;;;;;;;;;;;x
 LUNCH_PASSES;Lunch Passes;;;;;;;;;;;;x
@@ -169,3 +169,15 @@ city_barony_of_weydonian;Small Office of;;;;;;;;;;;;x
 baron_weydonian;Student;;;;;;;;;;;;;x
 baron_female_weydonian;Student;;;;;;;;;;;;;x
 barony_of_weydonian;Desk of;;;;;;;;;;;;;x
+
+carterian;Carterian;;;;;;;;;;;;x
+GOD_SIR_ANDREW;Sir Andrew;;;;;;;;;;;;x
+GOD_LORD_CARTER;Lord Carter;;;;;;;;;;;;x
+GOD_THE_KNIGHT;The Knight;;;;;;;;;;;;x
+GOD_MR_AUSTEN_JONES;Mr Austen-Jones;;;;;;;;;;;;x
+GOD_MR_COLLINS;Mr Collins;;;;;;;;;;;;x
+GOD_MISS_KITCHEN;Miss Kitchen;;;;;;;;;;;;x
+MRS_EDWARDS;Mrs Edwards;;;;;;;;;;;;x
+MR_JONES;Mr Jones;;;;;;;;;;;;x
+THE_PROSPECTUS;The Prospectus;;;;;;;;;;;;x
+carterian_key;Using the Soviet tactic of mass mobilisation, the Carterians are adept at raising more levies, at the cost of lower reinforcement.;;;;;;;;;;;;x
