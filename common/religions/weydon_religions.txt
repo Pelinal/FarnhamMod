@@ -145,8 +145,8 @@ weydon_group = {
 		alternate_start = { always = no }
 		allow_in_ruler_designer = yes
 		
-		icon = 5
-		heresy_icon = 6
+		icon = 9
+		heresy_icon = 10
 
 		color = { 40 57 166 }
 		feminist = yes
