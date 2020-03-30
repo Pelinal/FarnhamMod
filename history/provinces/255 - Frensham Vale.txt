@@ -15,7 +15,7 @@ b_vaceconce = temple
 
 #Misc
 culture = bournean
-religion = lollard
+religion = monetic
 terrain = woods
 
 # History

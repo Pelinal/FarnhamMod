@@ -14,7 +14,7 @@ b_axwood = temple
 
 #Misc
 culture = bournean
-religion = lollard
+religion = scorchist
 terrain = plains
 
 # History

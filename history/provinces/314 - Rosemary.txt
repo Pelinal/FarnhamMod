@@ -15,7 +15,7 @@ b_rosemary_cottage = castle
 
 #Misc
 culture = rowlegian
-religion = lollard
+religion = pupalitarian
 terrain = plains
 
 # History

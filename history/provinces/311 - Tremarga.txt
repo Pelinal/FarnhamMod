@@ -15,7 +15,7 @@ b_primrose_cottage = city
 
 #Misc
 culture = wreccleshese
-religion = lollard
+religion = anglican
 terrain = farmlands
 
 # History

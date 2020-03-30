@@ -15,7 +15,7 @@ b_wine_rack = city
 
 #Misc
 culture = bournean
-religion = lollard
+religion = anglican
 terrain = plains
 
 # History

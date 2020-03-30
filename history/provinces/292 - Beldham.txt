@@ -15,7 +15,7 @@ b_loxmouth_house = castle
 
 #Misc
 culture = wreccleshese
-religion = lollard
+religion = anglican
 terrain = plains
 
 # History

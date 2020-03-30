@@ -15,7 +15,7 @@ b_dene = temple
 
 #Misc
 culture = bournean
-religion = lollard
+religion = tuberist
 terrain = plains
 
 # History

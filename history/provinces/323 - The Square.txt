@@ -15,7 +15,7 @@ b_rowledge_post_office = city
 
 #Misc
 culture = rowlegian
-religion = lollard
+religion = monetic
 terrain = plains
 
 # History

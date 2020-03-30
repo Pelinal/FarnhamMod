@@ -15,7 +15,7 @@ b_hopherd = temple
 
 #Misc
 culture = farmer
-religion = zun_pagan
+religion = weydonian
 terrain = farmlands
 
 # History

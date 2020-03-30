@@ -15,7 +15,7 @@ b_prospect = temple
 
 #Misc
 culture = farmer
-religion = lollard
+religion = tractorist
 terrain = plains
 
 # History

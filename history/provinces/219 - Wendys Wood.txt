@@ -15,7 +15,7 @@ b_eastbourn = temple
 
 #Misc
 culture = bournean
-religion = lollard
+religion = roeist
 terrain = woods
 
 # History

@@ -15,7 +15,7 @@ b_rivendell_lodge = city
 
 #Misc
 culture = rowlegian
-religion = lollard
+religion = pupalitarian
 terrain = plains
 
 # History

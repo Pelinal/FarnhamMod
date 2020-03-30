@@ -15,7 +15,7 @@ b_sunnydell = city
 
 #Misc
 culture = wreccleshese
-religion = lollard
+religion = weydonian
 terrain = plains
 
 # History

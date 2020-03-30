@@ -15,7 +15,7 @@ b_mole_end = temple
 
 #Misc
 culture = holtish
-religion = lollard # Boreal - When Added
+religion = anglican # Boreal - When Added
 terrain = farmlands
 
 # History

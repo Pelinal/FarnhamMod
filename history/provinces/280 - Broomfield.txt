@@ -15,7 +15,7 @@ b_broomfield = city
 
 #Misc
 culture = wreccleshese
-religion = lollard
+religion = pupalitarian
 terrain = woods
 
 # History

@@ -15,7 +15,7 @@ b_holly_cottage = castle
 
 #Misc
 culture = wreccleshese
-religion = lollard
+religion = anglican
 terrain = farmlands
 
 # History

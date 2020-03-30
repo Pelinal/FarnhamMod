@@ -15,7 +15,7 @@ b_kakkar = city
 
 #Misc
 culture = bournean
-religion = lollard
+religion = monetic
 terrain = plains
 
 # History

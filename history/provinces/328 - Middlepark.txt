@@ -15,7 +15,7 @@ b_middlepark = city
 
 #Misc
 culture = farmer
-religion = lollard
+religion = tractorist
 terrain = plains
 
 # History

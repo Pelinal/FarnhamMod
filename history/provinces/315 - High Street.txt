@@ -15,7 +15,7 @@ b_the_stable_house = city
 
 #Misc
 culture = rowlegian
-religion = lollard
+religion = pupalitarian
 terrain = plains
 
 # History

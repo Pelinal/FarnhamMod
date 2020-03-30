@@ -15,7 +15,7 @@ b_highland_church = temple
 
 #Misc
 culture = wreccleshese
-religion = lollard
+religion = scorchist
 terrain = woods
 
 # History

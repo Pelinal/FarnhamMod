@@ -15,7 +15,7 @@ b_business_car_finance = city
 
 #Misc
 culture = wreccleshese
-religion = lollard
+religion = anglican
 terrain = plains
 
 # History

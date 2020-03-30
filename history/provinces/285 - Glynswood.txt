@@ -15,7 +15,7 @@ b_hollytree_surgery = temple
 
 #Misc
 culture = wreccleshese
-religion = lollard
+religion = pupalitarian
 terrain = plains
 
 # History

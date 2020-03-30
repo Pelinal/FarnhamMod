@@ -15,7 +15,7 @@ b_veale = temple
 
 #Misc
 culture = wreccleshese
-religion = lollard
+religion = pupalitarian
 terrain = woods
 
 # History

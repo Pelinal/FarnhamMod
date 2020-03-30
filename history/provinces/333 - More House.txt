@@ -15,7 +15,7 @@ b_more_house_school = temple
 
 #Misc
 culture = spreaker
-religion = lollard
+religion = quaker
 terrain = plains
 
 # History

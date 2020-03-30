@@ -15,7 +15,7 @@ b_vanners = castle
 
 #Misc
 culture = farmer
-religion = lollard
+religion = tractorist
 terrain = plains
 
 # History

@@ -15,7 +15,7 @@ b_the_sheds = temple
 
 #Misc
 culture = wreccleshese
-religion = lollard
+religion = anglican
 terrain = hills
 
 # History

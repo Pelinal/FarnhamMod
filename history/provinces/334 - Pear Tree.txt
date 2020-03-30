@@ -15,7 +15,7 @@ b_switch_back = city
 
 #Misc
 culture = rowlegian
-religion = lollard
+religion = monetic
 terrain = plains
 
 # History
