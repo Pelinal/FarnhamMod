@@ -43,8 +43,8 @@ christian = {
 		alternate_start = { always = no }
 		allow_in_ruler_designer = yes
 		
-		icon = 11
-		heresy_icon = 12
+		icon = 27
+		heresy_icon = 28
 
 		color = { 205 152 205 }
 		feminist = yes
@@ -102,8 +102,8 @@ christian = {
 	catholic = {
 		graphical_culture = westerngfx
 
-		icon = 1
-		heresy_icon = 6
+		icon = 23
+		heresy_icon = 24
 		
 		color = { 0.9 0.9 0.8 }
 		
@@ -157,8 +157,8 @@ christian = {
 		graphical_culture = westerngfx
 		alternate_start = { has_alternate_start_parameter = { key = religion value = full_random } }
 
-		icon = 1
-		heresy_icon = 6
+		icon = 25
+		heresy_icon = 26
 		
 		color = { 0.5 0.5 0.9 }
 		parent = catholic
@@ -1534,20 +1534,20 @@ pagan_group = {
 		graphical_culture = pagangfx
 
 		icon = 31
-		heresy_icon = 33
+		heresy_icon = 32
 		
 		color = { 255 140 26 }
-		crusade_name = GREAT_HOLY_WAR
-		scripture_name = THE_LEGENDS
-		priest_title = VOLHV
+		crusade_name = THE_GREAT_ARSON
+		scripture_name = THE_PYROTECHNICIANS_MANUAL
+		priest_title = PYROMANCER
 		
-		high_god_name = GOD_DIEVAS
+		high_god_name = GOD_THE_ETERNAL_FLAME
 		
 		god_names = {
-			GOD_DIEVAS GOD_GABIJA GOD_PERKUNAS GOD_LAIMA
+			GOD_THE_ETERNAL_FLAME GOD_FIRE GOD_GUNPOWDER GOD_SALTPETER GOD_FLINT_AND_STEEL
 		}
 		evil_god_names = {
-			VELNIAS
+			EVIL_FIRE_EXTINGUISHER EVIL_FIRE_BRIGADE EVIL_THE_POLICE EVIL_RAIN
 		}
 		
 		unit_modifier = {		
@@ -2100,8 +2100,8 @@ pagan_group = {
 		alternate_start = { always = no }
 		interface_skin = { zun_interface zoroastrian_interface muslim_interface }
 
-		icon = 49
-		heresy_icon = 50
+		icon = 21
+		heresy_icon = 22
 
 		ai_convert_other_group = 2 # always try to convert
 		
@@ -2154,18 +2154,18 @@ pagan_group = {
 		}
 		interface_skin = { zun_interface zoroastrian_interface muslim_interface }
 
-		icon = 48
-		heresy_icon = 50
+		icon = 13
+		heresy_icon = 14
 		
 		color = { 230 126 0 }
 		
-		high_god_name = GOD_ZUN
+		high_god_name = GOD_JOHN_DEERE
 		
 		god_names = {
-			GOD_ZUN GOD_THE_SUN GOD_THE_GIVER_OF_JUSTICE
+			GOD_JOHN_DEERE GOD_MASSEY_FERGUSON GOD_NEW_HOLLAND GOD_CASE_IH GOD_CLAAS
 		}
 		evil_god_names = {
-			THE_DARKNESS
+			GOD_FENDT GOD_KUBOTA GOD_VALTRA GOD_SAME_DEUTZ_FAHR
 		}
 
 		unit_modifier = {
@@ -2177,14 +2177,14 @@ pagan_group = {
 			key = "OFF_RELIGION"
 		}
 
-		crusade_name = GREAT_HOLY_WAR
-		scripture_name = THE_LEGENDS
-		priest_title = PRIEST
-
+		crusade_name = HARVESTING_SEASON
+		scripture_name = MASSEY_FERGUSON_CATALOGUE
+		priest_title = FARMER
+		
+		allow_looting = yes
 		priests_can_marry = yes
 		defensive_attrition = yes
 		max_consorts = 3
-		reformed = zun_pagan_reformed
 		
 		religious_clothing_head = 5
 		religious_clothing_priest = 4
@@ -2193,7 +2193,7 @@ pagan_group = {
 		intermarry = zoroastrian_group
 		
 		dislike_tribal_organization = yes
-		can_demand_religious_conversion = no
+		can_demand_religious_conversion = yes
 	}
 	
 	zun_pagan = {
@@ -2206,8 +2206,8 @@ pagan_group = {
 		}
 		interface_skin = { zun_interface zoroastrian_interface muslim_interface }
 
-		icon = 48
-		heresy_icon = 50
+		icon = 21
+		heresy_icon = 22
 		
 		color = { 0.9 1.0 0.0 }
 		
@@ -2259,18 +2259,18 @@ pagan_group = {
 		}
 		interface_skin = { zun_interface zoroastrian_interface muslim_interface }
 
-		icon = 48
-		heresy_icon = 50
+		icon = 11
+		heresy_icon = 12
 		
 		color = { 187 102 0 }
 		
-		high_god_name = GOD_ZUN
+		high_god_name = GOD_JOHN_DEERE
 		
 		god_names = {
-			GOD_ZUN GOD_THE_SUN GOD_THE_GIVER_OF_JUSTICE
+			GOD_JOHN_DEERE GOD_MASSEY_FERGUSON GOD_NEW_HOLLAND GOD_CLAAS GOD_FENDT GOD_CASE_IH
 		}
 		evil_god_names = {
-			THE_DARKNESS
+			GOD_KUBOTA GOD_VALTRA GOD_SAME_DEUTZ_FAHR 
 		}
 
 		unit_modifier = {
@@ -2282,14 +2282,15 @@ pagan_group = {
 			key = "OFF_RELIGION"
 		}
 
-		crusade_name = GREAT_HOLY_WAR
-		scripture_name = THE_LEGENDS
-		priest_title = PRIEST
+		crusade_name = HARVESTING_SEASON
+		scripture_name = MASSEY_FERGUSON_CATALOGUE
+		priest_title = FARMER
 
+		allow_looting = yes
 		priests_can_marry = yes
 		defensive_attrition = yes
 		max_consorts = 3
-		reformed = zun_pagan_reformed
+		reformed = tractorist_reformed
 		
 		religious_clothing_head = 5
 		religious_clothing_priest = 4
@@ -2298,7 +2299,7 @@ pagan_group = {
 		intermarry = zoroastrian_group
 		
 		dislike_tribal_organization = yes
-		can_demand_religious_conversion = no
+		can_demand_religious_conversion = yes
 	}
 	
 	hellenic_pagan_reformed = {

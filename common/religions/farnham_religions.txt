@@ -89,8 +89,8 @@ hobbyist = {
 		alternate_start = { always = no }
 		allow_in_ruler_designer = yes
 		
-		icon = 3
-		heresy_icon = 4
+		icon = 17
+		heresy_icon = 18
 
 		color = { 245 211 117 }
 		feminist = no
@@ -101,7 +101,7 @@ hobbyist = {
 		high_god_name = GOD_JONNY_WILKINSON
 		
 		god_names = {
-			GOD_JONNY_WILKINSON GOD_RUGBY
+			GOD_JONNY_WILKINSON GOD_ITOJE GOD_MARLER GOD_VUNIPOLA GOD_RUSSELL GOD_SEXTON GOD_FARRELL GOD_RUGBY
 		}
 		evil_god_names = {
 			EVIL_FOOTBALL EVIL_POOR_PLAYS
@@ -162,8 +162,8 @@ hobbyist = {
 		alternate_start = { always = no }
 		allow_in_ruler_designer = yes
 		
-		icon = 7
-		heresy_icon = 8
+		icon = 15
+		heresy_icon = 16
 
 		color = { 109 144 161 }
 		feminist = yes
@@ -171,13 +171,13 @@ hobbyist = {
 		ai_convert_other_group = 2 # always try to convert
 		ai_convert_same_group = 2 # always try to convert
 		
-		high_god_name = GOD_HOLY_COD
+		high_god_name = GOD_HAMILTON
 		
 		god_names = {
-			GOD_HOLY_COD COD_ART_OF_FISHING
+			GOD_HAMILTON GOD_SCHUMACHER GOD_LAUDA GOD_SENNA GOD_PROST GOD_FANGIO GOD_HAWTHORN GOD_CLARK GOD_STEWART
 		}
 		evil_god_names = {
-			EVIL_YUPPIES EVIL_INCIDENTAL_CATCHES
+			GOD_INOUE GOD_CESARIS GOD_MALDONADO GOD_HEYER
 		}
 		
 		#unit_modifier = {
@@ -188,17 +188,16 @@ hobbyist = {
 		#	#key = "MARITIME_RELIGION"
 		#}
 		
-		scripture_name = THE_FISHERMANS_CODE
-		priest_title = FISHERMAN
+		scripture_name = THE_REGULATIONS
+		priest_title = MECHANIC
+		piety_name = CHAMPIONSHIP_POINTS
 		
-		autocephaly = yes
 		can_retire_to_monastery = no
 		priests_can_marry = yes
 		allow_looting = no
 		can_call_crusade = no
 		join_crusade_if_bordering_hostile = yes
 
-		cousin_marriage = yes
 		rel_head_defense = yes
 		
 		aggression = 0 # We just fishin' dont need no war
@@ -296,13 +295,13 @@ oniomanic = {
 		ai_convert_other_group = 2 # always try to convert
 		ai_convert_same_group = 2 # always try to convert
 		
-		high_god_name = GOD_HOLY_COD
+		high_god_name = GOD_STOCK_MARKET
 		
 		god_names = {
-			GOD_HOLY_COD COD_ART_OF_FISHING
+			GOD_STOCK_MARKET GOD_US_DOLLAR GOD_GB_POUND GOD_BULL_MARKET
 		}
 		evil_god_names = {
-			EVIL_YUPPIES EVIL_INCIDENTAL_CATCHES
+			EVIL_INFLATION EVIL_BEAR_MARKET EVIL_VZ_BOLIVAR EVIL_ZM_DOLLAR
 		}
 		
 		#unit_modifier = {
@@ -313,8 +312,8 @@ oniomanic = {
 		#	#key = "MARITIME_RELIGION"
 		#}
 		
-		scripture_name = THE_FISHERMANS_CODE
-		priest_title = FISHERMAN
+		scripture_name = THE_WEALTH_OF_NATIONS
+		priest_title = TRADER
 		
 		autocephaly = yes
 		can_retire_to_monastery = no
@@ -326,7 +325,7 @@ oniomanic = {
 		cousin_marriage = yes
 		rel_head_defense = yes
 		
-		aggression = 0 # We just fishin' dont need no war
+		aggression = 0
 		short_reign_opinion_year_mult = 0 # No short reign penalty
 		
 		#religious_clothing_head = 0
@@ -466,7 +465,7 @@ political = {
 		intermarry = weydonian
 		intermarry = pupalitarian
 	}
-	}
+	
 	borisite = {
 		graphical_culture = westerngfx
 		alternate_start = { always = no }
@@ -603,8 +602,8 @@ idolist = {
 		alternate_start = { always = no }
 		allow_in_ruler_designer = yes
 		
-		icon = 3
-		heresy_icon = 4
+		icon = 29
+		heresy_icon = 30
 
 		color = { 255 51 51 }
 		feminist = yes
@@ -612,13 +611,13 @@ idolist = {
 		ai_convert_other_group = 2 # always try to convert
 		ai_convert_same_group = 2 # always try to convert
 		
-		high_god_name = GOD_SUPREME_BEING
+		high_god_name = GOD_SUSAN
 		
 		god_names = {
-			GOD_SUPREME_BEING GOD_THE_EIGHT_DYNAMICS
+			GOD_SUSAN GOD_THE_ALGORITHM GOD_ADSENSE
 		}
 		evil_god_names = {
-			EVIL_XENU EVIL_THETANS
+			EVIL_DEMONETISATION EVIL_NON_SUBSCRIBERS
 		}
 		character_modifier = {
 			intrigue = 3
@@ -626,10 +625,11 @@ idolist = {
 			fertility = -0.5
 		}
 
-		crusade_name = THETAN_WAR
+		crusade_name = COPYRIGHT_TAKEDOWN
 		crusade_cb = new_crusade
-		scripture_name = DIANETICS
-		priest_title = PRIEST
+		scripture_name = THE_COMMUNITY_GUIDELINES
+		priest_title = YOUTUBER
+		piety_name = SUBSCRIBERS
 		
 		can_excommunicate = yes
 		can_grant_divorce = no
@@ -656,8 +656,8 @@ idolist = {
 		alternate_start = { always = no }
 		allow_in_ruler_designer = yes
 		
-		icon = 3
-		heresy_icon = 4
+		icon = 19
+		heresy_icon = 20
 
 		color = { 255 189 169 }
 		feminist = yes
@@ -665,13 +665,13 @@ idolist = {
 		ai_convert_other_group = 2 # always try to convert
 		ai_convert_same_group = 2 # always try to convert
 		
-		high_god_name = GOD_SUPREME_BEING
+		high_god_name = GOD_KEV
 		
 		god_names = {
-			GOD_SUPREME_BEING GOD_THE_EIGHT_DYNAMICS
+			GOD_KEV
 		}
 		evil_god_names = {
-			EVIL_XENU EVIL_THETANS
+			EVIL_KEVS_WIFE
 		}
 		character_modifier = {
 			intrigue = 3
@@ -679,10 +679,10 @@ idolist = {
 			fertility = -0.5
 		}
 
-		crusade_name = THETAN_WAR
+		crusade_name = BINBAG_WAR
 		crusade_cb = new_crusade
-		scripture_name = DIANETICS
-		priest_title = PRIEST
+		scripture_name = THE_MOULDY_BUS_TICKET
+		priest_title = TRAMP
 		
 		can_excommunicate = yes
 		can_grant_divorce = no
